@@ -12,8 +12,8 @@ Along with question we are also serving the predcted tags along withh there acur
 
 ## Getting Started
 1.) Starting the Ai Model
-	## Please Extract the glove.6B.100d.txt folder from asked question before running the below codes.
-	## Extract the folder in the asked questions only.
+	 Please Extract the glove.6B.100d.txt folder from asked question before running the below codes.
+	 Extract the folder in the asked questions only.
 	To run the complete project you need to have the following packages imported correctly:
 		1: Python Version >= 3.x
 		2: install pickle-(Any version)
