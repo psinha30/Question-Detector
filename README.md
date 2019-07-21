@@ -12,6 +12,7 @@ Along with question we are also serving the predcted tags along withh there acur
 
 ## Getting Started
 1.) Starting the Ai Model
+
 	To run the complete project you need to have the following packages imported correctly:
 		1: Python Version >= 3.x
 		2: install pickle-(Any version)
@@ -27,6 +28,7 @@ Along with question we are also serving the predcted tags along withh there acur
 		otherwise try importing files correctly.
 
 2.)  Starting the Website 
+
 	To run the complete project you need to have nodejs configured on your system.
 		1: Open CMD in Root Project.
 		2: installing packages write npm install.
