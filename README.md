@@ -44,6 +44,9 @@ Along with question we are also serving the predcted tags along withh there acur
 2.) Nodejs installed and configured with the system.
 
 
+### Preview And Idea
+The Idea and Vedio is saved in documents and video folder.
+
 ## Authors
 
 * **Priyanshu Sinha** 
