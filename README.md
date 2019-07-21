@@ -12,7 +12,8 @@ Along with question we are also serving the predcted tags along withh there acur
 
 ## Getting Started
 1.) Starting the Ai Model
-
+Before performing the below tasks please extract the "glove.6b.100d.rar" present in the "asked question" folder.
+This file should be extracted in the "asked question" folder only by clicking "extract here" option.
 	To run the complete project you need to have the following packages imported correctly:
 		1: Python Version >= 3.x
 		2: install pickle-(Any version)
