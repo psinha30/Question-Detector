@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Question Detector</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  
+
+  <!-- Favicon -->
+  <link href="img/favicon.ico" rel="icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700|Roboto:400,900" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <!-- <link href="/javascripts/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <!-- Libraries CSS Files -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+  <link href="/stylesheets/css/mainstyle.css" rel="stylesheet">
+  <style type="text/css">
+    .float {
+      position: fixed;
+      width: 60px;
+      height: 60px;
+      bottom: 40px;
+      right: 40px;
+      background-color: green;
+      color: white;
+      border-radius: 50px;
+      text-align: center;
+      box-shadow: 2px 2px 3px #999;
+    }
+
+    .my-float {
+      margin-top: 5px;
+    }
+  </style>
+
+  <script type="text/javascript">
+        setTimeout(function () {
+        if(window.location.hash != '#r') {
+            window.location.hash = 'r';
+            window.location.reload(1);
+        }
+    }, 500);
+  </script>
+
+</head>
+
+<body>
+  <a href="#" class="float">
+    <i class="fa fa-thumbs-up fa-3x my-float"></i>
+  </a>
+
+
+    <!-- Header -->
+  <header id="header">
+    <div class="container">
+
+    </div>
+  </header>
+  <!-- #header -->
+
+
+
+  <!-- showing the generated question and tags from ai model   -->
+
+
+  <!-- form field -->
+  <section id="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-13 text-center">
+          <h2 class="section-title">The Most colsest question searched according to your asked question is as follows...!</h2>
+          <!-- <h5 style="color: red">Please Do Not Spam Us We Are Under Developement</h5> -->
+        </div>
+      </div>
+
+
+      <div class="row">
+        <div class="col-md-10 text-center">
+          <h2 class="section-title"><%= question %></h2>
+          <!-- <h5 style="color: red">Please Do Not Spam Us We Are Under Developement</h5> -->
+        </div>
+      </div>
+
+      <div class="row justify-content-center">
+
+        <div class="col-lg-8 col-md-10">
+
+            <ul class="list-group">
+                <%for (var result in results){%>
+                  <li class="list-group-item list-group-item-primary"><%=results[result]%></li>
+                  
+                  <%}%>
+            </ul>
+
+        </div>
+
+      </div>
+      	<div style="margin-top: 5%" class="col-md-13 text-center">
+      			 <h2 class="section-title">Detected tags are as follows...</h2>
+      	</div>
+
+      	<div style="margin-top: 5%" class="col-md-13 text-center">
+      		<div class="btn-group" role="group" aria-label="Basic example">
+                  <%for (var tag in tags){%>
+                    <button type="button" class="btn btn-secondary"><%=tags[tag]%></button>
+                  <%}%>
+    			</div>
+    		</div>
+
+    </div>
+    <div style="margin-top: 5%" class="col-md-13 text-center">
+         <a class="btn btn-full" href="/#contact">Ask Another Question...?</a>
+        </div>
+  </section>
+
+
+
+  <div style="margin-left: 50%, margin-top:5%; ">
+            
+          </div>
+
+  <!-- Header -->
+<!--   <header style="margin-bottom: 1.5%" id="header">
+    <div class="container">
+
+    </div>
+  </header> -->
+  <!-- #header -->
+
+
+<footer class="site-footer">
+    <div class="bottom">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-6 col-xs-12 text-lg-left text-center">
+            <p class="copyright-text">
+              © Question Detector
+            </p>
+            <div class="credits">
+              
+             Designed by <a href="https://bootstrapmade.com/">Question Detector</a>
+            </div>
+          </div>
+
+          <div class="col-lg-5 col-xs-15 text-lg-right text-center">
+            <div style="color: red">
+              Please Do Not Spam Us We Are Under Developement...! <br>
+              The Question Predicted By Our May Vary Due To Insufficient "DATASET"
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </footer>
+  <a class="scrolltop" href="#"><span class="fa fa-angle-up"></span></a>
+
+
+  <!-- Required JavaScript Libraries -->
+  <script href="/javascripts/lib/jquery/jquery.min.js"></script>
+  <script href="/javascripts/lib/jquery/jquery-migrate.min.js"></script>
+  <script href="/javascripts/lib/superfish/hoverIntent.js"></script>
+  <script href="/javascripts/lib/superfish/superfish.min.js"></script>
+  <script href="/javascripts/lib/tether/js/tether.min.js"></script>
+  <script href="/javascripts/lib/stellar/stellar.min.js"></script>
+  <script href="/javascripts/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script href="/javascripts/lib/counterup/counterup.min.js"></script>
+  <script href="/javascripts/lib/waypoints/waypoints.min.js"></script>
+  <script href="/javascripts/lib/easing/easing.js"></script>
+  <script href="/javascripts/lib/stickyjs/sticky.js"></script>
+  <script href="/javascripts/lib/parallax/parallax.js"></script>
+  <script href="/javascripts/lib/lockfixed/lockfixed.min.js"></script>
+
+  <!-- Template Specisifc Custom Javascript File -->
+  <script href="/javascripts/js/custom.js"></script>
+
+  <script href="/javascripts/contactform/contactform.js"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,2761 @@
+
+{
+  "items": [
+    {
+      "tags": [
+        "html",
+        "css",
+        "background-color"
+      ],
+      "owner": {
+        "reputation": 36719,
+        "user_id": 456584,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://i.stack.imgur.com/uoYDJ.png?s=128&g=1",
+        "display_name": "user456584",
+        "link": "https://stackoverflow.com/users/456584/user456584"
+      },
+      "is_answered": true,
+      "view_count": 486382,
+      "protected_date": 1360160534,
+      "accepted_answer_id": 8333464,
+      "answer_count": 9,
+      "score": 7083,
+      "last_activity_date": 1562891224,
+      "creation_date": 1322607262,
+      "last_edit_date": 1552203267,
+      "question_id": 8318911,
+      "link": "https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color",
+      "title": "Why does HTML think “chucknorris” is a color?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "dom",
+        "checkbox"
+      ],
+      "owner": {
+        "reputation": 27135,
+        "user_id": 111435,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/3d7de11fb1c0a98dc2aee865c558f7cc?s=128&d=identicon&r=PG",
+        "display_name": "Prasad",
+        "link": "https://stackoverflow.com/users/111435/prasad"
+      },
+      "is_answered": true,
+      "view_count": 3915389,
+      "protected_date": 1369154844,
+      "accepted_answer_id": 903152,
+      "answer_count": 61,
+      "community_owned_date": 1380469505,
+      "score": 4268,
+      "last_activity_date": 1563432625,
+      "creation_date": 1243091799,
+      "last_edit_date": 1562674852,
+      "question_id": 901712,
+      "link": "https://stackoverflow.com/questions/901712/how-to-check-whether-a-checkbox-is-checked-in-jquery",
+      "title": "How to check whether a checkbox is checked in jQuery?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "alignment",
+        "centering"
+      ],
+      "owner": {
+        "reputation": 4756,
+        "user_id": 20403,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/c7836fa67f3b48bba7f075cb8e12c7d7?s=128&d=identicon&r=PG",
+        "display_name": "Lukas",
+        "link": "https://stackoverflow.com/users/20403/lukas"
+      },
+      "is_answered": true,
+      "view_count": 3774708,
+      "protected_date": 1278979421,
+      "accepted_answer_id": 114549,
+      "answer_count": 100,
+      "community_owned_date": 1389982706,
+      "score": 4018,
+      "last_activity_date": 1563473205,
+      "creation_date": 1222086477,
+      "last_edit_date": 1540902062,
+      "question_id": 114543,
+      "link": "https://stackoverflow.com/questions/114543/how-to-horizontally-center-a-div",
+      "title": "How to horizontally center a &lt;div&gt;?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "performance",
+        "optimization",
+        "href"
+      ],
+      "owner": {
+        "reputation": 1372,
+        "user_id": 8018,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/?s=128&d=identicon&r=PG",
+        "display_name": "2cBGj7vsfp",
+        "link": "https://stackoverflow.com/users/8018/2cbgj7vsfp"
+      },
+      "is_answered": true,
+      "view_count": 2212723,
+      "protected_date": 1320853767,
+      "answer_count": 54,
+      "community_owned_date": 1323940895,
+      "score": 3899,
+      "last_activity_date": 1560512251,
+      "creation_date": 1222365267,
+      "last_edit_date": 1487494697,
+      "question_id": 134845,
+      "link": "https://stackoverflow.com/questions/134845/which-href-value-should-i-use-for-javascript-links-or-javascriptvoid0",
+      "title": "Which &quot;href&quot; value should I use for JavaScript links, &quot;#&quot; or &quot;javascript:void(0)&quot;?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "html5",
+        "placeholder",
+        "html-input"
+      ],
+      "owner": {
+        "reputation": 59410,
+        "user_id": 160173,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/bcf9850250d6a24e379401d22d530a09?s=128&d=identicon&r=PG",
+        "display_name": "David Murdoch",
+        "link": "https://stackoverflow.com/users/160173/david-murdoch"
+      },
+      "is_answered": true,
+      "view_count": 1689453,
+      "protected_date": 1341492987,
+      "accepted_answer_id": 2610741,
+      "answer_count": 34,
+      "community_owned_date": 1383067100,
+      "score": 3817,
+      "last_activity_date": 1563420934,
+      "creation_date": 1270842893,
+      "last_edit_date": 1517394610,
+      "question_id": 2610497,
+      "link": "https://stackoverflow.com/questions/2610497/change-an-html5-inputs-placeholder-color-with-css",
+      "title": "Change an HTML5 input&#39;s placeholder color with CSS"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "html-table",
+        "alignment"
+      ],
+      "owner": {
+        "reputation": 20784,
+        "user_id": 1065,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/f46f31394a3dc3b841fdd0b1bb268701?s=128&d=identicon&r=PG",
+        "display_name": "kokos",
+        "link": "https://stackoverflow.com/users/1065/kokos"
+      },
+      "is_answered": true,
+      "view_count": 2197115,
+      "protected_date": 1367995390,
+      "accepted_answer_id": 3209434,
+      "answer_count": 26,
+      "score": 3147,
+      "last_activity_date": 1554631791,
+      "creation_date": 1228380347,
+      "last_edit_date": 1528314048,
+      "question_id": 339923,
+      "link": "https://stackoverflow.com/questions/339923/set-cellpadding-and-cellspacing-in-css",
+      "title": "Set cellpadding and cellspacing in CSS?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "css3"
+      ],
+      "owner": {
+        "reputation": 11326,
+        "user_id": 3009513,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/480ff02965c8d38dbfd8c903bb662efe?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Mathew MacLean",
+        "link": "https://stackoverflow.com/users/3009513/mathew-maclean"
+      },
+      "is_answered": true,
+      "view_count": 229621,
+      "protected_date": 1399997122,
+      "accepted_answer_id": 23569891,
+      "answer_count": 19,
+      "score": 2642,
+      "last_activity_date": 1548992949,
+      "creation_date": 1399652217,
+      "last_edit_date": 1544937073,
+      "question_id": 23569441,
+      "link": "https://stackoverflow.com/questions/23569441/is-it-possible-to-apply-css-to-half-of-a-character",
+      "title": "Is it possible to apply CSS to half of a character?"
+    },
+    {
+      "tags": [
+        "html",
+        "browser",
+        "autocomplete"
+      ],
+      "owner": {
+        "reputation": 22264,
+        "user_id": 307,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/b9bf1d1fcbc9433e7f14a865514bcc1a?s=128&d=identicon&r=PG",
+        "display_name": "Brett Veenstra",
+        "link": "https://stackoverflow.com/users/307/brett-veenstra"
+      },
+      "is_answered": true,
+      "view_count": 1061107,
+      "protected_date": 1366058112,
+      "accepted_answer_id": 2531,
+      "answer_count": 67,
+      "score": 2588,
+      "last_activity_date": 1563537380,
+      "creation_date": 1217953352,
+      "last_edit_date": 1527059193,
+      "question_id": 2530,
+      "link": "https://stackoverflow.com/questions/2530/how-do-you-disable-browser-autocomplete-on-web-form-field-input-tag",
+      "title": "How do you disable browser Autocomplete on web form field / input tag?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "dom"
+      ],
+      "owner": {
+        "reputation": 14451,
+        "user_id": 4998,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/9e7ab793d69214c204058d3788e2f97d?s=128&d=identicon&r=PG",
+        "display_name": "Nathan Smith",
+        "link": "https://stackoverflow.com/users/4998/nathan-smith"
+      },
+      "is_answered": true,
+      "view_count": 2382917,
+      "protected_date": 1319644295,
+      "accepted_answer_id": 196038,
+      "answer_count": 28,
+      "score": 2554,
+      "last_activity_date": 1555239545,
+      "creation_date": 1223842003,
+      "last_edit_date": 1555239545,
+      "question_id": 195951,
+      "link": "https://stackoverflow.com/questions/195951/how-to-change-an-elements-class-with-javascript",
+      "title": "How to change an element&#39;s class with JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "jquery-selectors",
+        "radio-button"
+      ],
+      "owner": {
+        "reputation": 40169,
+        "user_id": 1782,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/4dfc8f56817006ef21327d5ff19ce04f?s=128&d=identicon&r=PG",
+        "display_name": "juan",
+        "link": "https://stackoverflow.com/users/1782/juan"
+      },
+      "is_answered": true,
+      "view_count": 2024916,
+      "protected_date": 1395775523,
+      "accepted_answer_id": 596369,
+      "answer_count": 34,
+      "score": 2516,
+      "last_activity_date": 1559105949,
+      "creation_date": 1235764407,
+      "last_edit_date": 1502458294,
+      "question_id": 596351,
+      "link": "https://stackoverflow.com/questions/596351/how-can-i-know-which-radio-button-is-selected-via-jquery",
+      "title": "How can I know which radio button is selected via jQuery?"
+    },
+    {
+      "tags": [
+        "html",
+        "css"
+      ],
+      "owner": {
+        "reputation": 12373,
+        "user_id": 549757,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/0cb2d62765e616ce3385c2b8b480a898?s=128&d=identicon&r=PG",
+        "display_name": "user549757",
+        "link": "https://stackoverflow.com/users/549757/user549757"
+      },
+      "is_answered": true,
+      "view_count": 1213697,
+      "protected_date": 1399820619,
+      "accepted_answer_id": 5235160,
+      "answer_count": 17,
+      "score": 2422,
+      "last_activity_date": 1561969857,
+      "creation_date": 1299600940,
+      "last_edit_date": 1552628581,
+      "question_id": 5235142,
+      "link": "https://stackoverflow.com/questions/5235142/how-to-disable-resizable-property-of-textarea",
+      "title": "How to disable resizable property of textarea?"
+    },
+    {
+      "tags": [
+        "html",
+        "css"
+      ],
+      "owner": {
+        "reputation": 15177,
+        "user_id": 38172,
+        "user_type": "registered",
+        "accept_rate": 44,
+        "profile_image": "https://www.gravatar.com/avatar/5b5506e29d988e9b4f3408d50d8bc9c9?s=128&d=identicon&r=PG",
+        "display_name": "praveenjayapal",
+        "link": "https://stackoverflow.com/users/38172/praveenjayapal"
+      },
+      "is_answered": true,
+      "view_count": 1951626,
+      "protected_date": 1363345420,
+      "accepted_answer_id": 1027367,
+      "answer_count": 27,
+      "score": 2337,
+      "last_activity_date": 1560579048,
+      "creation_date": 1245679073,
+      "last_edit_date": 1555874428,
+      "question_id": 1027354,
+      "link": "https://stackoverflow.com/questions/1027354/i-need-an-unordered-list-without-any-bullets",
+      "title": "I need an unordered list without any bullets"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html5",
+        "local-storage"
+      ],
+      "owner": {
+        "reputation": 51727,
+        "user_id": 1175,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/48c5dc5d3596150c1d9d906a687cf458?s=128&d=identicon&r=PG",
+        "display_name": "Kristopher Johnson",
+        "link": "https://stackoverflow.com/users/1175/kristopher-johnson"
+      },
+      "is_answered": true,
+      "view_count": 971156,
+      "protected_date": 1371982237,
+      "accepted_answer_id": 2010948,
+      "answer_count": 27,
+      "score": 2310,
+      "last_activity_date": 1561625753,
+      "creation_date": 1262750751,
+      "last_edit_date": 1495023607,
+      "question_id": 2010892,
+      "link": "https://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage",
+      "title": "Storing Objects in HTML5 localStorage"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "opacity"
+      ],
+      "owner": {
+        "reputation": 18789,
+        "user_id": 87971,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/6f91de7e39682ff22a1398d52236fba4?s=128&d=identicon&r=PG",
+        "display_name": "Stijn Sanders",
+        "link": "https://stackoverflow.com/users/87971/stijn-sanders"
+      },
+      "is_answered": true,
+      "view_count": 1506967,
+      "protected_date": 1320767798,
+      "accepted_answer_id": 806189,
+      "answer_count": 28,
+      "score": 2157,
+      "last_activity_date": 1560176994,
+      "creation_date": 1241082002,
+      "last_edit_date": 1460981347,
+      "question_id": 806000,
+      "link": "https://stackoverflow.com/questions/806000/how-do-i-give-text-or-an-image-a-transparent-background-using-css",
+      "title": "How do I give text or an image a transparent background using CSS?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "vertical-alignment"
+      ],
+      "owner": {
+        "reputation": 13685,
+        "user_id": 508284,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/d80523737c4cbc9b6d937b74e531206e?s=128&d=identicon&r=PG",
+        "display_name": "Irakli Lekishvili",
+        "link": "https://stackoverflow.com/users/508284/irakli-lekishvili"
+      },
+      "is_answered": true,
+      "view_count": 3032382,
+      "protected_date": 1411242615,
+      "closed_date": 1546546653,
+      "accepted_answer_id": 8865463,
+      "answer_count": 38,
+      "score": 2119,
+      "last_activity_date": 1560175750,
+      "creation_date": 1326576310,
+      "last_edit_date": 1551220728,
+      "question_id": 8865458,
+      "link": "https://stackoverflow.com/questions/8865458/how-do-i-vertically-center-text-with-css",
+      "closed_reason": "duplicate",
+      "title": "How do I vertically center text with CSS?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "url",
+        "url-rewriting",
+        "friendly-url"
+      ],
+      "owner": {
+        "reputation": 45353,
+        "user_id": 41021,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/1b91ea7970ba26630adec64ef683c474?s=128&d=identicon&r=PG",
+        "display_name": "Robinicks",
+        "link": "https://stackoverflow.com/users/41021/robinicks"
+      },
+      "is_answered": true,
+      "view_count": 1216763,
+      "protected_date": 1394654677,
+      "accepted_answer_id": 3354511,
+      "answer_count": 18,
+      "score": 2107,
+      "last_activity_date": 1552815021,
+      "creation_date": 1241520845,
+      "last_edit_date": 1552813516,
+      "question_id": 824349,
+      "link": "https://stackoverflow.com/questions/824349/how-do-i-modify-the-url-without-reloading-the-page",
+      "title": "How do I modify the URL without reloading the page?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "height"
+      ],
+      "owner": {
+        "reputation": 9714,
+        "user_id": 190874,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/4b57d3cae7e0033819c3ed85d1b1c865?s=128&d=identicon&r=PG",
+        "display_name": "mike",
+        "link": "https://stackoverflow.com/users/190874/mike"
+      },
+      "is_answered": true,
+      "view_count": 1773708,
+      "protected_date": 1413069187,
+      "answer_count": 31,
+      "score": 1939,
+      "last_activity_date": 1562630031,
+      "creation_date": 1255641523,
+      "last_edit_date": 1562628729,
+      "question_id": 1575141,
+      "link": "https://stackoverflow.com/questions/1575141/how-to-make-a-div-100-height-of-the-browser-window",
+      "title": "How to make a div 100% height of the browser window"
+    },
+    {
+      "tags": [
+        "html",
+        "html5"
+      ],
+      "owner": {
+        "reputation": 10553,
+        "user_id": 15214,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/fdea70f27f3c829b546b06f327447b91?s=128&d=identicon&r=PG",
+        "display_name": "Eikern",
+        "link": "https://stackoverflow.com/users/15214/eikern"
+      },
+      "is_answered": true,
+      "view_count": 1275440,
+      "protected_date": 1371982254,
+      "accepted_answer_id": 1946446,
+      "answer_count": 24,
+      "score": 1901,
+      "last_activity_date": 1561051375,
+      "creation_date": 1261489148,
+      "last_edit_date": 1497630200,
+      "question_id": 1946426,
+      "link": "https://stackoverflow.com/questions/1946426/html-5-is-it-br-br-or-br",
+      "title": "HTML 5: Is it &lt;br&gt;, &lt;br/&gt;, or &lt;br /&gt;?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "width"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "George Snider"
+      },
+      "is_answered": true,
+      "view_count": 1285627,
+      "protected_date": 1314346727,
+      "answer_count": 37,
+      "score": 1893,
+      "last_activity_date": 1562815145,
+      "creation_date": 1232121787,
+      "last_edit_date": 1442752061,
+      "question_id": 450903,
+      "link": "https://stackoverflow.com/questions/450903/how-to-make-div-not-larger-than-its-contents",
+      "title": "How to make div not larger than its contents?"
+    },
+    {
+      "tags": [
+        "html"
+      ],
+      "owner": {
+        "reputation": 12068,
+        "user_id": 6093,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/c6a9aff21003f4e342aa421b658e1853?s=128&d=identicon&r=PG",
+        "display_name": "Mr Shark",
+        "link": "https://stackoverflow.com/users/6093/mr-shark"
+      },
+      "is_answered": true,
+      "view_count": 412005,
+      "protected_date": 1347453805,
+      "accepted_answer_id": 79022,
+      "answer_count": 23,
+      "score": 1884,
+      "last_activity_date": 1562487701,
+      "creation_date": 1221556132,
+      "last_edit_date": 1490199268,
+      "question_id": 70579,
+      "link": "https://stackoverflow.com/questions/70579/what-are-valid-values-for-the-id-attribute-in-html",
+      "title": "What are valid values for the id attribute in HTML?"
+    },
+    {
+      "tags": [
+        "html",
+        "button",
+        "hyperlink",
+        "anchor",
+        "htmlbutton"
+      ],
+      "owner": {
+        "reputation": 104192,
+        "user_id": 48523,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/1c787bc735dbe80ec2f88824e1d10c6c?s=128&d=identicon&r=PG",
+        "display_name": "Andrew",
+        "link": "https://stackoverflow.com/users/48523/andrew"
+      },
+      "is_answered": true,
+      "view_count": 5425977,
+      "protected_date": 1382999135,
+      "accepted_answer_id": 2906586,
+      "answer_count": 30,
+      "score": 1673,
+      "last_activity_date": 1562058690,
+      "creation_date": 1274805587,
+      "last_edit_date": 1495540989,
+      "question_id": 2906582,
+      "link": "https://stackoverflow.com/questions/2906582/how-to-create-an-html-button-that-acts-like-a-link",
+      "title": "How to create an HTML button that acts like a link?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "html-table"
+      ],
+      "owner": {
+        "reputation": 13467,
+        "user_id": 16299,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/390ab1e7dbf0170c6de4726269a12c08?s=128&d=identicon&r=PG",
+        "display_name": "Vincent McNabb",
+        "link": "https://stackoverflow.com/users/16299/vincent-mcnabb"
+      },
+      "is_answered": true,
+      "view_count": 847702,
+      "protected_date": 1398599751,
+      "accepted_answer_id": 24979148,
+      "answer_count": 31,
+      "score": 1630,
+      "last_activity_date": 1554736121,
+      "creation_date": 1221714377,
+      "last_edit_date": 1549647546,
+      "question_id": 90178,
+      "link": "https://stackoverflow.com/questions/90178/make-a-div-fill-the-height-of-the-remaining-screen-space",
+      "title": "Make a div fill the height of the remaining screen space"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "cross-browser",
+        "alignment",
+        "forms"
+      ],
+      "owner": {
+        "reputation": 12217,
+        "user_id": 38666,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/3f1d70b71eacbf4de203d76e364bdd79?s=128&d=identicon&r=PG",
+        "display_name": "One Crayon",
+        "link": "https://stackoverflow.com/users/38666/one-crayon"
+      },
+      "is_answered": true,
+      "view_count": 919574,
+      "protected_date": 1342043095,
+      "accepted_answer_id": 306593,
+      "answer_count": 39,
+      "community_owned_date": 1385026301,
+      "score": 1630,
+      "last_activity_date": 1561718774,
+      "creation_date": 1227204121,
+      "last_edit_date": 1519359851,
+      "question_id": 306252,
+      "link": "https://stackoverflow.com/questions/306252/how-to-align-checkboxes-and-their-labels-consistently-cross-browsers",
+      "title": "How to align checkboxes and their labels consistently cross-browsers"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html"
+      ],
+      "owner": {
+        "reputation": 12590,
+        "user_id": 134484,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/a7263d0aad8f750b83d52b6a58a44b4b?s=128&d=identicon&r=PG",
+        "display_name": "Mark Richman",
+        "link": "https://stackoverflow.com/users/134484/mark-richman"
+      },
+      "is_answered": true,
+      "view_count": 1013042,
+      "protected_date": 1394958428,
+      "accepted_answer_id": 1279963,
+      "answer_count": 14,
+      "score": 1568,
+      "last_activity_date": 1547859714,
+      "creation_date": 1250280885,
+      "last_edit_date": 1410925522,
+      "question_id": 1279957,
+      "link": "https://stackoverflow.com/questions/1279957/how-to-move-an-element-into-another-element",
+      "title": "How to move an element into another element?"
+    },
+    {
+      "tags": [
+        "html",
+        "button",
+        "compatibility",
+        "html-input"
+      ],
+      "owner": {
+        "reputation": 53671,
+        "user_id": 11568,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://i.stack.imgur.com/FnQUs.jpg?s=128&g=1",
+        "display_name": "Aron Rotteveel",
+        "link": "https://stackoverflow.com/users/11568/aron-rotteveel"
+      },
+      "is_answered": true,
+      "view_count": 579380,
+      "protected_date": 1444036712,
+      "accepted_answer_id": 469084,
+      "answer_count": 14,
+      "score": 1551,
+      "last_activity_date": 1545574022,
+      "creation_date": 1232630051,
+      "last_edit_date": 1410818702,
+      "question_id": 469059,
+      "link": "https://stackoverflow.com/questions/469059/button-vs-input-type-button-which-to-use",
+      "title": "&lt;button&gt; vs. &lt;input type=&quot;button&quot; /&gt;. Which to use?"
+    },
+    {
+      "tags": [
+        "php",
+        "html",
+        "css",
+        "pdf",
+        "pdf-generation"
+      ],
+      "owner": {
+        "reputation": 520888,
+        "user_id": 18393,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/2f364c2e36b52bc80296cbf23da8b231?s=128&d=identicon&r=PG",
+        "display_name": "cletus",
+        "link": "https://stackoverflow.com/users/18393/cletus"
+      },
+      "is_answered": true,
+      "view_count": 828315,
+      "protected_date": 1306029549,
+      "closed_date": 1476901512,
+      "accepted_answer_id": 434827,
+      "answer_count": 30,
+      "community_owned_date": 1386500962,
+      "score": 1546,
+      "last_activity_date": 1556092713,
+      "creation_date": 1230106460,
+      "last_edit_date": 1525297582,
+      "question_id": 391005,
+      "link": "https://stackoverflow.com/questions/391005/convert-html-css-to-pdf-with-php",
+      "closed_reason": "off-topic",
+      "title": "Convert HTML + CSS to PDF with PHP?"
+    },
+    {
+      "tags": [
+        "html",
+        "xhtml",
+        "meta",
+        "html-head"
+      ],
+      "owner": {
+        "reputation": 13679,
+        "user_id": 173432,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/31591f6978407f1129c26311cf8849a9?s=128&d=identicon&r=PG",
+        "display_name": "chobo",
+        "link": "https://stackoverflow.com/users/173432/chobo"
+      },
+      "is_answered": true,
+      "view_count": 3109384,
+      "protected_date": 1389223457,
+      "accepted_answer_id": 5411567,
+      "answer_count": 26,
+      "score": 1484,
+      "last_activity_date": 1555330968,
+      "creation_date": 1300913909,
+      "last_edit_date": 1534396441,
+      "question_id": 5411538,
+      "link": "https://stackoverflow.com/questions/5411538/redirect-from-an-html-page",
+      "title": "Redirect from an HTML page"
+    },
+    {
+      "tags": [
+        "html5",
+        "meta-tags",
+        "doctype"
+      ],
+      "owner": {
+        "reputation": 16871,
+        "user_id": 367985,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/761edb9c3cf7a0a643e73ef40666a1f7?s=128&d=identicon&r=PG",
+        "display_name": "CuriousMind",
+        "link": "https://stackoverflow.com/users/367985/curiousmind"
+      },
+      "is_answered": true,
+      "view_count": 1052283,
+      "protected_date": 1371922180,
+      "accepted_answer_id": 4696517,
+      "answer_count": 7,
+      "score": 1471,
+      "last_activity_date": 1557564697,
+      "creation_date": 1295042807,
+      "last_edit_date": 1446196219,
+      "question_id": 4696499,
+      "link": "https://stackoverflow.com/questions/4696499/meta-charset-utf-8-vs-meta-http-equiv-content-type",
+      "title": "&lt;meta charset=&quot;utf-8&quot;&gt; vs &lt;meta http-equiv=&quot;Content-Type&quot;&gt;"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "append",
+        "jquery-append"
+      ],
+      "owner": {
+        "reputation": 12992,
+        "user_id": 79980,
+        "user_type": "registered",
+        "accept_rate": 43,
+        "profile_image": "https://www.gravatar.com/avatar/09bbc36d6eb2bfdc5b54cf56f73e88f2?s=128&d=identicon&r=PG",
+        "display_name": "useranon",
+        "link": "https://stackoverflow.com/users/79980/useranon"
+      },
+      "is_answered": true,
+      "view_count": 1631217,
+      "protected_date": 1393890937,
+      "closed_date": 1512600481,
+      "accepted_answer_id": 867981,
+      "answer_count": 24,
+      "score": 1462,
+      "last_activity_date": 1559855732,
+      "creation_date": 1242383424,
+      "last_edit_date": 1453493943,
+      "question_id": 867916,
+      "link": "https://stackoverflow.com/questions/867916/creating-a-div-element-in-jquery",
+      "closed_reason": "duplicate",
+      "title": "Creating a div element in jQuery"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "html5",
+        "html-select",
+        "placeholder"
+      ],
+      "owner": {
+        "reputation": 7173,
+        "user_id": 632844,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/c6a8b88d6e5320f00be1d4504d096afd?s=128&d=identicon&r=PG",
+        "display_name": "Thomas",
+        "link": "https://stackoverflow.com/users/632844/thomas"
+      },
+      "is_answered": true,
+      "view_count": 1306714,
+      "protected_date": 1409435428,
+      "accepted_answer_id": 5859221,
+      "answer_count": 28,
+      "score": 1343,
+      "last_activity_date": 1556775753,
+      "creation_date": 1303911555,
+      "last_edit_date": 1471977992,
+      "question_id": 5805059,
+      "link": "https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box",
+      "title": "How do I make a placeholder for a &#39;select&#39; box?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html"
+      ],
+      "owner": {
+        "reputation": 301369,
+        "user_id": 28804,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://www.gravatar.com/avatar/015c999a9db79ffb3030b3cc207d0be8?s=128&d=identicon&r=PG",
+        "display_name": "mipadi",
+        "link": "https://stackoverflow.com/users/28804/mipadi"
+      },
+      "is_answered": true,
+      "view_count": 511891,
+      "protected_date": 1409851127,
+      "accepted_answer_id": 24070373,
+      "answer_count": 21,
+      "score": 1343,
+      "last_activity_date": 1562667963,
+      "creation_date": 1231784154,
+      "last_edit_date": 1495535498,
+      "question_id": 436411,
+      "link": "https://stackoverflow.com/questions/436411/where-should-i-put-script-tags-in-html-markup",
+      "title": "Where should I put &lt;script&gt; tags in HTML markup?"
+    },
+    {
+      "tags": [
+        "html",
+        "regex",
+        "xhtml"
+      ],
+      "owner": {
+        "reputation": 2755,
+        "user_id": 142233,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/3h2RG.png?s=128&g=1",
+        "display_name": "Jeff",
+        "link": "https://stackoverflow.com/users/142233/jeff"
+      },
+      "is_answered": true,
+      "view_count": 2591386,
+      "protected_date": 1291642187,
+      "accepted_answer_id": 1732454,
+      "answer_count": 34,
+      "community_owned_date": 1258593236,
+      "score": 1324,
+      "locked_date": 1339098076,
+      "last_activity_date": 1556037876,
+      "creation_date": 1258151906,
+      "last_edit_date": 1338064625,
+      "question_id": 1732348,
+      "link": "https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags",
+      "title": "RegEx match open tags except XHTML self-contained tags"
+    },
+    {
+      "tags": [
+        "html5",
+        "internet-explorer",
+        "browser",
+        "x-ua-compatible"
+      ],
+      "owner": {
+        "reputation": 29355,
+        "user_id": 26349,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/0f47e514351f802b3c70eaacfe6ff492?s=128&d=identicon&r=PG",
+        "display_name": "Morgan Cheng",
+        "link": "https://stackoverflow.com/users/26349/morgan-cheng"
+      },
+      "is_answered": true,
+      "view_count": 1027322,
+      "protected_date": 1389729978,
+      "accepted_answer_id": 6771584,
+      "answer_count": 12,
+      "score": 1320,
+      "last_activity_date": 1552300127,
+      "creation_date": 1311222583,
+      "last_edit_date": 1552300127,
+      "question_id": 6771258,
+      "link": "https://stackoverflow.com/questions/6771258/what-does-meta-http-equiv-x-ua-compatible-content-ie-edge-do",
+      "title": "What does &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt; do?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "dom",
+        "position"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "monaung"
+      },
+      "is_answered": true,
+      "view_count": 1199131,
+      "protected_date": 1284467580,
+      "answer_count": 25,
+      "score": 1315,
+      "last_activity_date": 1556253936,
+      "creation_date": 1231925703,
+      "last_edit_date": 1376130603,
+      "question_id": 442404,
+      "link": "https://stackoverflow.com/questions/442404/retrieve-the-position-x-y-of-an-html-element",
+      "title": "Retrieve the position (X,Y) of an HTML element"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "image",
+        "autoresize"
+      ],
+      "owner": {
+        "reputation": 22272,
+        "user_id": 103264,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/82e758ccce74a8723ebba3d12c1a59da?s=128&d=identicon&r=PG&f=1",
+        "display_name": "001",
+        "link": "https://stackoverflow.com/users/103264/001"
+      },
+      "is_answered": true,
+      "view_count": 2166467,
+      "protected_date": 1404751900,
+      "accepted_answer_id": 3029434,
+      "answer_count": 31,
+      "score": 1306,
+      "last_activity_date": 1556608221,
+      "creation_date": 1276362037,
+      "last_edit_date": 1553682858,
+      "question_id": 3029422,
+      "link": "https://stackoverflow.com/questions/3029422/how-do-i-auto-resize-an-image-to-fit-a-div-container",
+      "title": "How do I auto-resize an image to fit a &#39;div&#39; container?"
+    },
+    {
+      "tags": [
+        "html",
+        "html-select"
+      ],
+      "owner": {
+        "reputation": 15786,
+        "user_id": 193251,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/86b0f1f58edb6b31bcb975c1114d1438?s=128&d=identicon&r=PG",
+        "display_name": "Jichao",
+        "link": "https://stackoverflow.com/users/193251/jichao"
+      },
+      "is_answered": true,
+      "view_count": 2218302,
+      "protected_date": 1398119852,
+      "accepted_answer_id": 3518011,
+      "answer_count": 22,
+      "score": 1262,
+      "last_activity_date": 1559341723,
+      "creation_date": 1282180251,
+      "last_edit_date": 1548355803,
+      "question_id": 3518002,
+      "link": "https://stackoverflow.com/questions/3518002/how-can-i-set-the-default-value-for-an-html-select-element",
+      "title": "How can I set the default value for an HTML &lt;select&gt; element?"
+    },
+    {
+      "tags": [
+        "html",
+        "sublimetext2",
+        "sublimetext",
+        "indentation",
+        "reformat"
+      ],
+      "owner": {
+        "reputation": 12815,
+        "user_id": 665387,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://i.stack.imgur.com/o9Mbl.png?s=128&g=1",
+        "display_name": "Ravi Ram",
+        "link": "https://stackoverflow.com/users/665387/ravi-ram"
+      },
+      "is_answered": true,
+      "view_count": 944319,
+      "protected_date": 1444036812,
+      "accepted_answer_id": 10888837,
+      "answer_count": 15,
+      "score": 1258,
+      "last_activity_date": 1510697814,
+      "creation_date": 1326390570,
+      "last_edit_date": 1450726143,
+      "question_id": 8839753,
+      "link": "https://stackoverflow.com/questions/8839753/how-do-i-reformat-html-code-using-sublime-text-2",
+      "title": "How do I reformat HTML code using Sublime Text 2?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "internet-explorer",
+        "xhtml"
+      ],
+      "owner": {
+        "reputation": 9389,
+        "user_id": 10778,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/be637555e0c0f493c6c9ec14b62c7c2c?s=128&d=identicon&r=PG",
+        "display_name": "dimarzionist",
+        "link": "https://stackoverflow.com/users/10778/dimarzionist"
+      },
+      "is_answered": true,
+      "view_count": 118309,
+      "protected_date": 1444036811,
+      "accepted_answer_id": 69984,
+      "answer_count": 11,
+      "score": 1255,
+      "last_activity_date": 1557153073,
+      "creation_date": 1221547958,
+      "last_edit_date": 1554782322,
+      "question_id": 69913,
+      "link": "https://stackoverflow.com/questions/69913/why-dont-self-closing-script-elements-work",
+      "title": "Why don&#39;t self-closing script elements work?"
+    },
+    {
+      "tags": [
+        "html",
+        "http-headers",
+        "multipartform-data"
+      ],
+      "owner": {
+        "reputation": 7544,
+        "user_id": 127193,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/ab6d11683b785377cbe109b754980174?s=128&d=identicon&r=PG",
+        "display_name": "EBAG",
+        "link": "https://stackoverflow.com/users/127193/ebag"
+      },
+      "is_answered": true,
+      "view_count": 876810,
+      "protected_date": 1383549442,
+      "accepted_answer_id": 4526286,
+      "answer_count": 9,
+      "score": 1214,
+      "last_activity_date": 1555056277,
+      "creation_date": 1293193167,
+      "last_edit_date": 1549117281,
+      "question_id": 4526273,
+      "link": "https://stackoverflow.com/questions/4526273/what-does-enctype-multipart-form-data-mean",
+      "title": "What does enctype=&#39;multipart/form-data&#39; mean?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "combobox",
+        "cross-browser",
+        "skinning"
+      ],
+      "owner": {
+        "reputation": 60977,
+        "user_id": 84201,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://www.gravatar.com/avatar/5cce99e9bf6154703d8ecdf474a750bd?s=128&d=identicon&r=PG",
+        "display_name": "Jitendra Vyas",
+        "link": "https://stackoverflow.com/users/84201/jitendra-vyas"
+      },
+      "is_answered": true,
+      "view_count": 1474425,
+      "protected_date": 1357149943,
+      "accepted_answer_id": 13968900,
+      "answer_count": 24,
+      "score": 1202,
+      "last_activity_date": 1562777108,
+      "creation_date": 1260675236,
+      "last_edit_date": 1534731898,
+      "question_id": 1895476,
+      "link": "https://stackoverflow.com/questions/1895476/how-to-style-a-select-dropdown-with-only-css",
+      "title": "How to style a &lt;select&gt; dropdown with only CSS?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "dom",
+        "dhtml"
+      ],
+      "owner": {
+        "reputation": 22337,
+        "user_id": 4950,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/7c8d3597d1f7f599ef0134ee79c73b98?s=128&d=identicon&r=PG",
+        "display_name": "Rob Stevenson-Leggett",
+        "link": "https://stackoverflow.com/users/4950/rob-stevenson-leggett"
+      },
+      "is_answered": true,
+      "view_count": 851897,
+      "protected_date": 1394227891,
+      "accepted_answer_id": 268520,
+      "answer_count": 13,
+      "score": 1200,
+      "last_activity_date": 1558720053,
+      "creation_date": 1225974391,
+      "last_edit_date": 1453493934,
+      "question_id": 268490,
+      "link": "https://stackoverflow.com/questions/268490/jquery-document-createelement-equivalent",
+      "title": "jQuery document.createElement equivalent?"
+    },
+    {
+      "tags": [
+        "html",
+        "unicode",
+        "icons",
+        "ascii",
+        "symbols"
+      ],
+      "owner": {
+        "reputation": 6057,
+        "user_id": 323920,
+        "user_type": "unregistered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/3f2d589ac604f8af80811d2925e4ffab?s=128&d=identicon&r=PG",
+        "display_name": "Timj",
+        "link": "https://stackoverflow.com/users/323920/timj"
+      },
+      "is_answered": true,
+      "view_count": 1184119,
+      "protected_date": 1375290937,
+      "accepted_answer_id": 2701226,
+      "answer_count": 16,
+      "score": 1197,
+      "last_activity_date": 1562615430,
+      "creation_date": 1272048714,
+      "last_edit_date": 1466175194,
+      "question_id": 2701192,
+      "link": "https://stackoverflow.com/questions/2701192/what-characters-can-be-used-for-up-down-triangle-arrow-without-stem-for-displa",
+      "title": "What characters can be used for up/down triangle (arrow without stem) for display in HTML?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html"
+      ],
+      "owner": {
+        "reputation": 15276,
+        "user_id": 768392,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/b43bbab9d16d030a8744f17ca9c1da8d?s=128&d=identicon&r=PG",
+        "display_name": "chris",
+        "link": "https://stackoverflow.com/users/768392/chris"
+      },
+      "is_answered": true,
+      "view_count": 1183189,
+      "closed_date": 1479306797,
+      "accepted_answer_id": 9899701,
+      "answer_count": 10,
+      "score": 1144,
+      "last_activity_date": 1549650680,
+      "creation_date": 1332892641,
+      "last_edit_date": 1507903586,
+      "question_id": 9899372,
+      "link": "https://stackoverflow.com/questions/9899372/pure-javascript-equivalent-of-jquerys-ready-how-to-call-a-function-when-t",
+      "closed_reason": "duplicate",
+      "title": "Pure JavaScript equivalent of jQuery&#39;s $.ready() - how to call a function when the page/DOM is ready for it"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "dom",
+        "jquery-selectors"
+      ],
+      "owner": {
+        "reputation": 12771,
+        "user_id": 52256,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/a65e01a757d285d68888a3388d44c33c?s=128&d=identicon&r=PG",
+        "display_name": "T.T.T.",
+        "link": "https://stackoverflow.com/users/52256/t-t-t"
+      },
+      "is_answered": true,
+      "view_count": 1315616,
+      "accepted_answer_id": 1107264,
+      "answer_count": 14,
+      "score": 1097,
+      "last_activity_date": 1560930240,
+      "creation_date": 1247187938,
+      "last_edit_date": 1524905193,
+      "question_id": 1107220,
+      "link": "https://stackoverflow.com/questions/1107220/how-can-i-select-an-element-by-name-with-jquery",
+      "title": "How can I select an element by name with jQuery?"
+    },
+    {
+      "tags": [
+        "html",
+        "pdf"
+      ],
+      "owner": {
+        "reputation": 17377,
+        "user_id": 1100,
+        "user_type": "registered",
+        "accept_rate": 49,
+        "profile_image": "https://www.gravatar.com/avatar/134545a5736a5e267e90f4e6bc8ca304?s=128&d=identicon&r=PG",
+        "display_name": "Daniel Silveira",
+        "link": "https://stackoverflow.com/users/1100/daniel-silveira"
+      },
+      "is_answered": true,
+      "view_count": 1303989,
+      "protected_date": 1304703975,
+      "accepted_answer_id": 291823,
+      "answer_count": 20,
+      "score": 1091,
+      "last_activity_date": 1560722197,
+      "creation_date": 1226706913,
+      "last_edit_date": 1349526508,
+      "question_id": 291813,
+      "link": "https://stackoverflow.com/questions/291813/recommended-way-to-embed-pdf-in-html",
+      "title": "Recommended way to embed PDF in HTML?"
+    },
+    {
+      "tags": [
+        "html"
+      ],
+      "migrated_from": {
+        "other_site": {
+          "styling": {
+            "tag_background_color": "#FFF",
+            "tag_foreground_color": "#000",
+            "link_color": "#0077CC"
+          },
+          "related_sites": [
+            {
+              "relation": "meta",
+              "api_site_parameter": "codereview.meta",
+              "site_url": "https://codereview.meta.stackexchange.com",
+              "name": "Code Review Meta Stack Exchange"
+            },
+            {
+              "relation": "chat",
+              "site_url": "https://chat.stackexchange.com?tab=site&host=codereview.stackexchange.com",
+              "name": "Chat Stack Exchange"
+            }
+          ],
+          "markdown_extensions": [
+            "MathJax",
+            "Prettify"
+          ],
+          "launch_date": 1436881020,
+          "open_beta_date": 1296068400,
+          "closed_beta_date": 1295463600,
+          "site_state": "normal",
+          "high_resolution_icon_url": "https://cdn.sstatic.net/Sites/codereview/img/apple-touch-icon@2.png",
+          "twitter_account": "StackCodeReview",
+          "favicon_url": "https://cdn.sstatic.net/Sites/codereview/img/favicon.ico",
+          "icon_url": "https://cdn.sstatic.net/Sites/codereview/img/apple-touch-icon.png",
+          "audience": "peer programmer code reviews",
+          "site_url": "https://codereview.stackexchange.com",
+          "api_site_parameter": "codereview",
+          "logo_url": "https://cdn.sstatic.net/Sites/codereview/img/logo.png",
+          "name": "Code Review",
+          "site_type": "main_site"
+        },
+        "on_date": 1335900680,
+        "question_id": 11368
+      },
+      "owner": {
+        "reputation": 5465,
+        "user_id": 707544,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ed3f6a05c4093de098a39e510df448b1?s=128&d=identicon&r=PG",
+        "display_name": "jeroen",
+        "link": "https://stackoverflow.com/users/707544/jeroen"
+      },
+      "is_answered": true,
+      "view_count": 527740,
+      "protected_date": 1428647594,
+      "accepted_answer_id": 18664038,
+      "answer_count": 4,
+      "score": 1072,
+      "last_activity_date": 1545295845,
+      "creation_date": 1335867105,
+      "last_edit_date": 1533834254,
+      "question_id": 10403138,
+      "link": "https://stackoverflow.com/questions/10403138/what-is-the-purpose-of-the-role-attribute-in-html",
+      "title": "What is the purpose of the &quot;role&quot; attribute in HTML?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "vertical-alignment"
+      ],
+      "owner": {
+        "reputation": 35408,
+        "user_id": 3241,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/d813e1a6fa1430f89c6508ab51743854?s=128&d=identicon&r=PG",
+        "display_name": "kristof",
+        "link": "https://stackoverflow.com/users/3241/kristof"
+      },
+      "is_answered": true,
+      "view_count": 1790492,
+      "protected_date": 1385907635,
+      "accepted_answer_id": 585965,
+      "answer_count": 25,
+      "score": 1054,
+      "last_activity_date": 1563571334,
+      "creation_date": 1235567709,
+      "last_edit_date": 1563569794,
+      "question_id": 585945,
+      "link": "https://stackoverflow.com/questions/585945/how-to-align-content-of-a-div-to-the-bottom",
+      "title": "How to align content of a div to the bottom"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "vertical-alignment"
+      ],
+      "owner": {
+        "reputation": 7340,
+        "user_id": 271534,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/fac6045bcf0ee87737f3e63909b99890?s=128&d=identicon&r=PG",
+        "display_name": "shinjuo",
+        "link": "https://stackoverflow.com/users/271534/shinjuo"
+      },
+      "is_answered": true,
+      "view_count": 1496842,
+      "protected_date": 1411457893,
+      "accepted_answer_id": 2939979,
+      "answer_count": 28,
+      "score": 1036,
+      "last_activity_date": 1560868861,
+      "creation_date": 1275246133,
+      "last_edit_date": 1529769846,
+      "question_id": 2939914,
+      "link": "https://stackoverflow.com/questions/2939914/how-do-i-vertically-align-text-in-a-div",
+      "title": "How do I vertically align text in a div?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html"
+      ],
+      "owner": {
+        "reputation": 15001,
+        "user_id": 1378388,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.stack.imgur.com/txELp.jpg?s=128&g=1",
+        "display_name": "William Kinaan",
+        "link": "https://stackoverflow.com/users/1378388/william-kinaan"
+      },
+      "is_answered": true,
+      "view_count": 1301456,
+      "accepted_answer_id": 10659117,
+      "answer_count": 28,
+      "score": 1026,
+      "last_activity_date": 1560161609,
+      "creation_date": 1337371914,
+      "last_edit_date": 1484282026,
+      "question_id": 10659097,
+      "link": "https://stackoverflow.com/questions/10659097/jquery-get-selected-option-from-dropdown",
+      "title": "jQuery Get Selected Option From Dropdown"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "anchor",
+        "offset"
+      ],
+      "owner": {
+        "reputation": 4900,
+        "user_id": 1245870,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/8d2cac7eecef9a2d55a8b8f69d08c95d?s=128&d=identicon&r=PG",
+        "display_name": "Matt Dryden",
+        "link": "https://stackoverflow.com/users/1245870/matt-dryden"
+      },
+      "is_answered": true,
+      "view_count": 478871,
+      "protected_date": 1423197172,
+      "closed_date": 1436781127,
+      "answer_count": 28,
+      "score": 995,
+      "last_activity_date": 1552370537,
+      "creation_date": 1337843052,
+      "last_edit_date": 1440843590,
+      "question_id": 10732690,
+      "link": "https://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header",
+      "closed_reason": "duplicate",
+      "title": "offsetting an html anchor to adjust for fixed header"
+    },
+    {
+      "tags": [
+        "html",
+        "css"
+      ],
+      "owner": {
+        "reputation": 124025,
+        "user_id": 425275,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/a9db2cbc6d4e589aec2d25f67771b85e?s=128&d=identicon&r=PG",
+        "display_name": "Šime Vidas",
+        "link": "https://stackoverflow.com/users/425275/%c5%a0ime-vidas"
+      },
+      "is_answered": true,
+      "view_count": 241173,
+      "protected_date": 1403021271,
+      "accepted_answer_id": 5078297,
+      "answer_count": 37,
+      "score": 977,
+      "last_activity_date": 1556655853,
+      "creation_date": 1298378474,
+      "last_edit_date": 1515455467,
+      "question_id": 5078239,
+      "link": "https://stackoverflow.com/questions/5078239/how-do-i-remove-the-space-between-inline-block-elements",
+      "title": "How do I remove the space between inline-block elements?"
+    },
+    {
+      "tags": [
+        "html",
+        "tabs",
+        "hyperlink",
+        "window",
+        "href"
+      ],
+      "owner": {
+        "reputation": 5013,
+        "user_id": 2190971,
+        "user_type": "registered",
+        "accept_rate": 51,
+        "profile_image": "https://www.gravatar.com/avatar/3d8c43ef42ec7f3b93fe615750364028?s=128&d=identicon&r=PG",
+        "display_name": "Rene",
+        "link": "https://stackoverflow.com/users/2190971/rene"
+      },
+      "is_answered": true,
+      "view_count": 1318406,
+      "closed_date": 1363901696,
+      "accepted_answer_id": 15551842,
+      "answer_count": 4,
+      "score": 973,
+      "last_activity_date": 1556739515,
+      "creation_date": 1363880020,
+      "last_edit_date": 1473938080,
+      "question_id": 15551779,
+      "link": "https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window",
+      "closed_reason": "exact duplicate",
+      "title": "Open link in new tab or window"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "layout",
+        "css-float",
+        "clearfix"
+      ],
+      "owner": {
+        "reputation": 75769,
+        "user_id": 4376,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://www.gravatar.com/avatar/b9c927e051202fc198e70659d9827d2f?s=128&d=identicon&r=PG",
+        "display_name": "Nathan Long",
+        "link": "https://stackoverflow.com/users/4376/nathan-long"
+      },
+      "is_answered": true,
+      "view_count": 280582,
+      "protected_date": 1394843216,
+      "closed_date": 1419093844,
+      "answer_count": 15,
+      "community_owned_date": 1350675348,
+      "score": 966,
+      "last_activity_date": 1556177168,
+      "creation_date": 1224515425,
+      "last_edit_date": 1556177168,
+      "question_id": 218760,
+      "link": "https://stackoverflow.com/questions/218760/how-do-you-keep-parents-of-floated-elements-from-collapsing",
+      "closed_reason": "duplicate",
+      "title": "How do you keep parents of floated elements from collapsing?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "innerhtml"
+      ],
+      "owner": {
+        "reputation": 13253,
+        "user_id": 111479,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://i.stack.imgur.com/MOwCL.png?s=128&g=1",
+        "display_name": "tonyf",
+        "link": "https://stackoverflow.com/users/111479/tonyf"
+      },
+      "is_answered": true,
+      "view_count": 1390822,
+      "protected_date": 1306318469,
+      "accepted_answer_id": 1309454,
+      "answer_count": 12,
+      "score": 962,
+      "last_activity_date": 1551250955,
+      "creation_date": 1250812296,
+      "last_edit_date": 1473266802,
+      "question_id": 1309452,
+      "link": "https://stackoverflow.com/questions/1309452/how-to-replace-innerhtml-of-a-div-using-jquery",
+      "title": "How to replace innerHTML of a div using jQuery?"
+    },
+    {
+      "tags": [
+        "html",
+        "checkbox",
+        "click",
+        "label"
+      ],
+      "owner": {
+        "reputation": 54825,
+        "user_id": 561309,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://i.stack.imgur.com/4PPsT.png?s=128&g=1",
+        "display_name": "laurent",
+        "link": "https://stackoverflow.com/users/561309/laurent"
+      },
+      "is_answered": true,
+      "view_count": 745374,
+      "protected_date": 1419887042,
+      "accepted_answer_id": 6293626,
+      "answer_count": 10,
+      "score": 947,
+      "last_activity_date": 1560263136,
+      "creation_date": 1307626426,
+      "last_edit_date": 1560263136,
+      "question_id": 6293588,
+      "link": "https://stackoverflow.com/questions/6293588/how-to-create-a-checkbox-with-a-clickable-label",
+      "title": "How to create a checkbox with a clickable label?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "iframe"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "John"
+      },
+      "is_answered": true,
+      "view_count": 1070436,
+      "protected_date": 1306682585,
+      "answer_count": 26,
+      "score": 947,
+      "last_activity_date": 1543302704,
+      "creation_date": 1224491234,
+      "last_edit_date": 1409577150,
+      "question_id": 217776,
+      "link": "https://stackoverflow.com/questions/217776/how-to-apply-css-to-iframe",
+      "title": "How to apply CSS to iframe?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "css3",
+        "responsive-design",
+        "aspect-ratio"
+      ],
+      "owner": {
+        "reputation": 4739,
+        "user_id": 77821,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/08158755b525dacbeca81891769a2094?s=128&d=identicon&r=PG",
+        "display_name": "jackb",
+        "link": "https://stackoverflow.com/users/77821/jackb"
+      },
+      "is_answered": true,
+      "view_count": 414485,
+      "protected_date": 1431671577,
+      "accepted_answer_id": 10441480,
+      "answer_count": 22,
+      "score": 945,
+      "last_activity_date": 1559504665,
+      "creation_date": 1254265865,
+      "last_edit_date": 1543892358,
+      "question_id": 1495407,
+      "link": "https://stackoverflow.com/questions/1495407/maintain-the-aspect-ratio-of-a-div-with-css",
+      "title": "Maintain the aspect ratio of a div with CSS"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "layout",
+        "cross-browser",
+        "clearfix"
+      ],
+      "owner": {
+        "reputation": 9679,
+        "user_id": 1020773,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/22784328a011350c18cbfcc27d28fb76?s=128&d=identicon&r=PG",
+        "display_name": "H Bellamy",
+        "link": "https://stackoverflow.com/users/1020773/h-bellamy"
+      },
+      "is_answered": true,
+      "view_count": 624643,
+      "protected_date": 1378803924,
+      "accepted_answer_id": 8554054,
+      "answer_count": 10,
+      "score": 943,
+      "last_activity_date": 1556902507,
+      "creation_date": 1324234964,
+      "last_edit_date": 1473699828,
+      "question_id": 8554043,
+      "link": "https://stackoverflow.com/questions/8554043/what-is-a-clearfix",
+      "title": "What is a clearfix?"
+    },
+    {
+      "tags": [
+        "jquery",
+        "html",
+        "jquery-selectors",
+        "textinput"
+      ],
+      "owner": {
+        "reputation": 11174,
+        "user_id": 246963,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/a32cf2a5eb8f326b14d44eb3bcc979bf?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Bharanikumar",
+        "link": "https://stackoverflow.com/users/246963/bharanikumar"
+      },
+      "is_answered": true,
+      "view_count": 2164027,
+      "protected_date": 1446571126,
+      "accepted_answer_id": 15903284,
+      "answer_count": 11,
+      "score": 942,
+      "last_activity_date": 1546242720,
+      "creation_date": 1288796837,
+      "last_edit_date": 1418496186,
+      "question_id": 4088467,
+      "link": "https://stackoverflow.com/questions/4088467/get-the-value-in-an-input-text-box",
+      "title": "Get the value in an input text box"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "html-entities",
+        "css-content"
+      ],
+      "owner": {
+        "reputation": 385436,
+        "user_id": 9021,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/f092dfd45793e9483281d4205b674823?s=128&d=identicon&r=PG",
+        "display_name": "nickf",
+        "link": "https://stackoverflow.com/users/9021/nickf"
+      },
+      "is_answered": true,
+      "view_count": 412960,
+      "protected_date": 1370003936,
+      "accepted_answer_id": 190412,
+      "answer_count": 9,
+      "score": 942,
+      "last_activity_date": 1524937712,
+      "creation_date": 1223623165,
+      "last_edit_date": 1524460465,
+      "question_id": 190396,
+      "link": "https://stackoverflow.com/questions/190396/adding-html-entities-using-css-content",
+      "title": "Adding HTML entities using CSS content"
+    },
+    {
+      "tags": [
+        "jquery",
+        "html5",
+        "custom-data-attribute"
+      ],
+      "owner": {
+        "reputation": 7356,
+        "user_id": 279482,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://i.stack.imgur.com/Mei94.jpg?s=128&g=1",
+        "display_name": "Hazem Salama",
+        "link": "https://stackoverflow.com/users/279482/hazem-salama"
+      },
+      "is_answered": true,
+      "view_count": 860386,
+      "protected_date": 1454311568,
+      "accepted_answer_id": 2487751,
+      "answer_count": 11,
+      "score": 936,
+      "last_activity_date": 1537430163,
+      "creation_date": 1269187995,
+      "last_edit_date": 1454590034,
+      "question_id": 2487747,
+      "link": "https://stackoverflow.com/questions/2487747/selecting-element-by-data-attribute",
+      "title": "Selecting element by data attribute"
+    },
+    {
+      "tags": [
+        "html",
+        "cookies",
+        "httprequest",
+        "local-storage"
+      ],
+      "owner": {
+        "reputation": 7465,
+        "user_id": 259311,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/d8f3335589c9d454e1216d38b4f4ddc1?s=128&d=identicon&r=PG",
+        "display_name": "Gio Borje",
+        "link": "https://stackoverflow.com/users/259311/gio-borje"
+      },
+      "is_answered": true,
+      "view_count": 301070,
+      "protected_date": 1491760484,
+      "accepted_answer_id": 3220802,
+      "answer_count": 6,
+      "score": 932,
+      "last_activity_date": 1547912878,
+      "creation_date": 1278792130,
+      "last_edit_date": 1412805912,
+      "question_id": 3220660,
+      "link": "https://stackoverflow.com/questions/3220660/local-storage-vs-cookies",
+      "title": "Local Storage vs Cookies"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "inline-styles"
+      ],
+      "owner": {
+        "reputation": 29688,
+        "user_id": 20126,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/22fc146c1512cdb4d381222dcbc8b9f8?s=128&d=identicon&r=PG",
+        "display_name": "Amr Elgarhy",
+        "link": "https://stackoverflow.com/users/20126/amr-elgarhy"
+      },
+      "is_answered": true,
+      "view_count": 925954,
+      "protected_date": 1391366293,
+      "accepted_answer_id": 1033166,
+      "answer_count": 21,
+      "score": 925,
+      "last_activity_date": 1550677249,
+      "creation_date": 1245769648,
+      "last_edit_date": 1486259842,
+      "question_id": 1033156,
+      "link": "https://stackoverflow.com/questions/1033156/how-to-write-ahover-in-inline-css",
+      "title": "How to write a:hover in inline CSS?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "google-chrome",
+        "internet-explorer",
+        "firefox"
+      ],
+      "owner": {
+        "reputation": 4800,
+        "user_id": 2215528,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/isJYW.jpg?s=128&g=1",
+        "display_name": "Oussama Dooby",
+        "link": "https://stackoverflow.com/users/2215528/oussama-dooby"
+      },
+      "is_answered": true,
+      "view_count": 1366474,
+      "protected_date": 1455269038,
+      "accepted_answer_id": 16671476,
+      "answer_count": 29,
+      "score": 923,
+      "last_activity_date": 1562539695,
+      "creation_date": 1369141897,
+      "last_edit_date": 1534447788,
+      "question_id": 16670931,
+      "link": "https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll",
+      "title": "Hide scroll bar, but while still being able to scroll"
+    },
+    {
+      "tags": [
+        "jquery",
+        "html",
+        "hide",
+        "styling"
+      ],
+      "owner": {
+        "reputation": 5195,
+        "user_id": 157173,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/62816b4123724fa233262d0263c786d9?s=128&d=identicon&r=PG",
+        "display_name": "Scott Yu - Front-End UX",
+        "link": "https://stackoverflow.com/users/157173/scott-yu-front-end-ux"
+      },
+      "is_answered": true,
+      "view_count": 666500,
+      "protected_date": 1411749234,
+      "accepted_answer_id": 7385673,
+      "answer_count": 36,
+      "score": 921,
+      "last_activity_date": 1562409774,
+      "creation_date": 1252563087,
+      "last_edit_date": 1374219856,
+      "question_id": 1403615,
+      "link": "https://stackoverflow.com/questions/1403615/use-jquery-to-hide-a-div-when-the-user-clicks-outside-of-it",
+      "title": "Use jQuery to hide a DIV when the user clicks outside of it"
+    },
+    {
+      "tags": [
+        "html"
+      ],
+      "owner": {
+        "reputation": 10010,
+        "user_id": 83475,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/f62f9fa404ff35e3c57f20cc16441c7b?s=128&d=identicon&r=PG",
+        "display_name": "Roch",
+        "link": "https://stackoverflow.com/users/83475/roch"
+      },
+      "is_answered": true,
+      "view_count": 2870181,
+      "protected_date": 1405790600,
+      "accepted_answer_id": 1571662,
+      "answer_count": 34,
+      "score": 915,
+      "last_activity_date": 1553668139,
+      "creation_date": 1255604619,
+      "last_edit_date": 1502951464,
+      "question_id": 1571648,
+      "link": "https://stackoverflow.com/questions/1571648/tab-space-instead-of-multiple-non-breaking-spaces-nbsp",
+      "title": "Tab space instead of multiple non-breaking spaces (&quot;nbsp&quot;)?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html5",
+        "canvas",
+        "html5-canvas",
+        "composite"
+      ],
+      "owner": {
+        "reputation": 5250,
+        "user_id": 123048,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/5c82e898061afc2931fc6284f2f323af?s=128&d=identicon&r=PG",
+        "display_name": "richard",
+        "link": "https://stackoverflow.com/users/123048/richard"
+      },
+      "is_answered": true,
+      "view_count": 782691,
+      "protected_date": 1371982328,
+      "accepted_answer_id": 2142549,
+      "answer_count": 21,
+      "score": 904,
+      "last_activity_date": 1558712854,
+      "creation_date": 1264539042,
+      "last_edit_date": 1474076147,
+      "question_id": 2142535,
+      "link": "https://stackoverflow.com/questions/2142535/how-to-clear-the-canvas-for-redrawing",
+      "title": "How to clear the canvas for redrawing"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "xhtml",
+        "cdata"
+      ],
+      "owner": {
+        "reputation": 30848,
+        "user_id": 208,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/0168f51cd822a820c606c259b80e253f?s=128&d=identicon&r=PG",
+        "display_name": "brad",
+        "link": "https://stackoverflow.com/users/208/brad"
+      },
+      "is_answered": true,
+      "view_count": 335317,
+      "protected_date": 1453404917,
+      "accepted_answer_id": 66865,
+      "answer_count": 15,
+      "score": 878,
+      "last_activity_date": 1554389994,
+      "creation_date": 1221511934,
+      "last_edit_date": 1258917947,
+      "question_id": 66837,
+      "link": "https://stackoverflow.com/questions/66837/when-is-a-cdata-section-necessary-within-a-script-tag",
+      "title": "When is a CDATA section necessary within a script tag?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "css",
+        "html5",
+        "input",
+        "numbers"
+      ],
+      "owner": {
+        "reputation": 4524,
+        "user_id": 345164,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e934c9e532c150f9aa5349e442be2aee?s=128&d=identicon&r=PG",
+        "display_name": "Alan",
+        "link": "https://stackoverflow.com/users/345164/alan"
+      },
+      "is_answered": true,
+      "view_count": 510177,
+      "accepted_answer_id": 4298216,
+      "answer_count": 14,
+      "score": 872,
+      "last_activity_date": 1549884817,
+      "creation_date": 1285361902,
+      "last_edit_date": 1479658036,
+      "question_id": 3790935,
+      "link": "https://stackoverflow.com/questions/3790935/can-i-hide-the-html5-number-input-s-spin-box",
+      "title": "Can I hide the HTML5 number input’s spin box?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html5",
+        "canvas",
+        "screenshot"
+      ],
+      "owner": {
+        "reputation": 8393,
+        "user_id": 105565,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d7ac5071cf9a5bb6a7c57b4a5de50057?s=128&d=identicon&r=PG",
+        "display_name": "joelvh",
+        "link": "https://stackoverflow.com/users/105565/joelvh"
+      },
+      "is_answered": true,
+      "view_count": 427823,
+      "protected_date": 1371982280,
+      "accepted_answer_id": 6678156,
+      "answer_count": 3,
+      "score": 862,
+      "last_activity_date": 1552330292,
+      "creation_date": 1296975533,
+      "last_edit_date": 1505252506,
+      "question_id": 4912092,
+      "link": "https://stackoverflow.com/questions/4912092/using-html5-canvas-javascript-to-take-in-browser-screenshots",
+      "title": "Using HTML5/Canvas/JavaScript to take in-browser screenshots"
+    },
+    {
+      "tags": [
+        "jquery",
+        "html",
+        "validation",
+        "numeric"
+      ],
+      "owner": {
+        "reputation": 12301,
+        "user_id": 45261,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/80580a16e84d6095d55ca83e0743b90c?s=128&d=identicon&r=PG",
+        "display_name": "Prashant",
+        "link": "https://stackoverflow.com/users/45261/prashant"
+      },
+      "is_answered": true,
+      "view_count": 1440221,
+      "protected_date": 1329325247,
+      "accepted_answer_id": 995193,
+      "answer_count": 64,
+      "community_owned_date": 1326932238,
+      "score": 854,
+      "last_activity_date": 1563470805,
+      "creation_date": 1245057727,
+      "last_edit_date": 1315088025,
+      "question_id": 995183,
+      "link": "https://stackoverflow.com/questions/995183/how-to-allow-only-numeric-0-9-in-html-inputbox-using-jquery",
+      "title": "How to allow only numeric (0-9) in HTML  inputbox using jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "firefox",
+        "dom",
+        "browser"
+      ],
+      "owner": {
+        "reputation": 4517,
+        "user_id": 21290,
+        "user_type": "registered",
+        "accept_rate": 43,
+        "profile_image": "https://www.gravatar.com/avatar/c6ab4816b95d9c41d8e4a86f08ad1c48?s=128&d=identicon&r=PG",
+        "display_name": "benzaita",
+        "link": "https://stackoverflow.com/users/21290/benzaita"
+      },
+      "is_answered": true,
+      "view_count": 433294,
+      "protected_date": 1423107793,
+      "accepted_answer_id": 125106,
+      "answer_count": 23,
+      "score": 848,
+      "last_activity_date": 1552658804,
+      "creation_date": 1222205096,
+      "last_edit_date": 1552311365,
+      "question_id": 123999,
+      "link": "https://stackoverflow.com/questions/123999/how-to-tell-if-a-dom-element-is-visible-in-the-current-viewport",
+      "title": "How to tell if a DOM element is visible in the current viewport?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "css3",
+        "twitter-bootstrap",
+        "twitter-bootstrap-3"
+      ],
+      "owner": {
+        "reputation": 4360,
+        "user_id": 2892056,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ba668d9b7ef63c17d62cd16ce2fc717f?s=128&d=identicon&r=PG&f=1",
+        "display_name": "corinem",
+        "link": "https://stackoverflow.com/users/2892056/corinem"
+      },
+      "is_answered": true,
+      "view_count": 1361730,
+      "protected_date": 1410719743,
+      "accepted_answer_id": 20548578,
+      "answer_count": 23,
+      "score": 846,
+      "last_activity_date": 1563416397,
+      "creation_date": 1386863003,
+      "last_edit_date": 1448513703,
+      "question_id": 20547819,
+      "link": "https://stackoverflow.com/questions/20547819/vertical-align-with-bootstrap-3",
+      "title": "vertical-align with Bootstrap 3"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "position",
+        "overlay"
+      ],
+      "owner": {
+        "reputation": 13253,
+        "user_id": 111479,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://i.stack.imgur.com/MOwCL.png?s=128&g=1",
+        "display_name": "tonyf",
+        "link": "https://stackoverflow.com/users/111479/tonyf"
+      },
+      "is_answered": true,
+      "view_count": 1604554,
+      "protected_date": 1367823016,
+      "accepted_answer_id": 2941203,
+      "answer_count": 8,
+      "score": 839,
+      "last_activity_date": 1563234248,
+      "creation_date": 1275275723,
+      "last_edit_date": 1563233700,
+      "question_id": 2941189,
+      "link": "https://stackoverflow.com/questions/2941189/how-to-overlay-one-div-over-another-div",
+      "title": "How to overlay one div over another div"
+    },
+    {
+      "tags": [
+        "html",
+        "email",
+        "mailto"
+      ],
+      "owner": {
+        "reputation": 20938,
+        "user_id": 292291,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/e31d9d39e9fb0ec4cc5573a5e5b01ce7?s=128&d=identicon&r=PG",
+        "display_name": "Jiew Meng",
+        "link": "https://stackoverflow.com/users/292291/jiew-meng"
+      },
+      "is_answered": true,
+      "view_count": 813257,
+      "protected_date": 1470863614,
+      "accepted_answer_id": 4782084,
+      "answer_count": 13,
+      "score": 833,
+      "last_activity_date": 1555829623,
+      "creation_date": 1295872868,
+      "last_edit_date": 1512767046,
+      "question_id": 4782068,
+      "link": "https://stackoverflow.com/questions/4782068/can-i-set-subject-content-of-email-using-mailto",
+      "title": "Can I set subject/content of email using mailto:?"
+    },
+    {
+      "tags": [
+        "html5",
+        "html"
+      ],
+      "owner": {
+        "reputation": 16619,
+        "user_id": 588855,
+        "user_type": "registered",
+        "accept_rate": 43,
+        "profile_image": "https://www.gravatar.com/avatar/5f6a798479cf28587a0fe18224d2a94a?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Simplicity",
+        "link": "https://stackoverflow.com/users/588855/simplicity"
+      },
+      "is_answered": true,
+      "view_count": 478123,
+      "protected_date": 1536754247,
+      "answer_count": 12,
+      "score": 812,
+      "last_activity_date": 1537293795,
+      "creation_date": 1312453993,
+      "last_edit_date": 1389496060,
+      "question_id": 6939864,
+      "link": "https://stackoverflow.com/questions/6939864/what-is-the-difference-between-section-and-div",
+      "title": "What is the difference between &lt;section&gt; and &lt;div&gt;?"
+    },
+    {
+      "tags": [
+        "html",
+        "css"
+      ],
+      "owner": {
+        "reputation": 11125,
+        "user_id": 250470,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/2e844d88873b759f691242276c7b58d7?s=128&d=identicon&r=PG",
+        "display_name": "RSK",
+        "link": "https://stackoverflow.com/users/250470/rsk"
+      },
+      "is_answered": true,
+      "view_count": 1123370,
+      "protected_date": 1316604055,
+      "accepted_answer_id": 4416239,
+      "answer_count": 20,
+      "score": 808,
+      "last_activity_date": 1561959522,
+      "creation_date": 1263876903,
+      "last_edit_date": 1506650798,
+      "question_id": 2091168,
+      "link": "https://stackoverflow.com/questions/2091168/how-to-disable-a-link-using-only-css",
+      "title": "How to disable a link using only CSS?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "forms",
+        "button",
+        "submit"
+      ],
+      "owner": {
+        "reputation": 4009,
+        "user_id": 115183,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/8b20e926a69dc565eded12131c00b8c3?s=128&d=identicon&r=PG",
+        "display_name": "Khanpo",
+        "link": "https://stackoverflow.com/users/115183/khanpo"
+      },
+      "is_answered": true,
+      "view_count": 591210,
+      "protected_date": 1406077833,
+      "answer_count": 16,
+      "score": 800,
+      "last_activity_date": 1555330414,
+      "creation_date": 1243797396,
+      "last_edit_date": 1243797591,
+      "question_id": 932653,
+      "link": "https://stackoverflow.com/questions/932653/how-to-prevent-buttons-from-submitting-forms",
+      "title": "How to prevent buttons from submitting forms"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "xhtml",
+        "dhtml"
+      ],
+      "owner": {
+        "reputation": 4078,
+        "user_id": 184350,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/89ce453db36512657409aa8cb0651748?s=128&d=identicon&r=PG",
+        "display_name": "snortasprocket",
+        "link": "https://stackoverflow.com/users/184350/snortasprocket"
+      },
+      "is_answered": true,
+      "view_count": 899640,
+      "protected_date": 1395850413,
+      "accepted_answer_id": 294273,
+      "answer_count": 13,
+      "score": 790,
+      "last_activity_date": 1555973275,
+      "creation_date": 1226862924,
+      "last_edit_date": 1466185978,
+      "question_id": 294250,
+      "link": "https://stackoverflow.com/questions/294250/how-do-i-retrieve-an-html-elements-actual-width-and-height",
+      "title": "How do I retrieve an HTML element&#39;s actual width and height?"
+    },
+    {
+      "tags": [
+        "css",
+        "html",
+        "alignment",
+        "center"
+      ],
+      "owner": {
+        "reputation": 52541,
+        "user_id": 75500,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/8ac32db29e5bc37f2baef574334d79c8?s=128&d=identicon&r=PG",
+        "display_name": "Shimmy",
+        "link": "https://stackoverflow.com/users/75500/shimmy"
+      },
+      "is_answered": true,
+      "view_count": 2371425,
+      "protected_date": 1363341482,
+      "closed_date": 1538096189,
+      "accepted_answer_id": 953934,
+      "answer_count": 27,
+      "score": 785,
+      "last_activity_date": 1561469662,
+      "creation_date": 1244166278,
+      "last_edit_date": 1553424688,
+      "question_id": 953918,
+      "link": "https://stackoverflow.com/questions/953918/how-to-align-a-div-to-the-middle-horizontally-width-of-the-page",
+      "closed_reason": "duplicate",
+      "title": "How to align a &lt;div&gt; to the middle (horizontally/width) of the page"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "image",
+        "background-image"
+      ],
+      "owner": {
+        "reputation": 25690,
+        "user_id": 52963,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/f979d6d83d40b10d9ad43bdfc51cb1de?s=128&d=identicon&r=PG",
+        "display_name": "system PAUSE",
+        "link": "https://stackoverflow.com/users/52963/system-pause"
+      },
+      "is_answered": true,
+      "view_count": 346854,
+      "protected_date": 1392855802,
+      "accepted_answer_id": 1469139,
+      "answer_count": 31,
+      "community_owned_date": 1253750725,
+      "score": 779,
+      "locked_date": 1400857723,
+      "last_activity_date": 1522245678,
+      "creation_date": 1233253506,
+      "last_edit_date": 1400857683,
+      "question_id": 492809,
+      "link": "https://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image",
+      "title": "When to use IMG vs. CSS background-image?"
+    },
+    {
+      "tags": [
+        "html",
+        "checkbox"
+      ],
+      "owner": {
+        "reputation": 13737,
+        "user_id": 19074,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/4bbea9d281d6498362ea5af296c9bb75?s=128&d=identicon&r=PG",
+        "display_name": "Electrons_Ahoy",
+        "link": "https://stackoverflow.com/users/19074/electrons-ahoy"
+      },
+      "is_answered": true,
+      "view_count": 835243,
+      "protected_date": 1350868802,
+      "answer_count": 44,
+      "community_owned_date": 1359481156,
+      "score": 767,
+      "last_activity_date": 1559399681,
+      "creation_date": 1222811938,
+      "question_id": 155291,
+      "link": "https://stackoverflow.com/questions/155291/can-html-checkboxes-be-set-to-readonly",
+      "title": "Can HTML checkboxes be set to readonly?"
+    },
+    {
+      "tags": [
+        "jquery",
+        "html",
+        "css",
+        "jquery-ui",
+        "jquery-ui-dialog"
+      ],
+      "owner": {
+        "reputation": 28445,
+        "user_id": 53236,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/bf2af16812228b5a54daeb30c96efaf2?s=128&d=identicon&r=PG",
+        "display_name": "Robert MacLean",
+        "link": "https://stackoverflow.com/users/53236/robert-maclean"
+      },
+      "is_answered": true,
+      "view_count": 393850,
+      "protected_date": 1303277339,
+      "accepted_answer_id": 897393,
+      "answer_count": 23,
+      "score": 761,
+      "last_activity_date": 1555058350,
+      "creation_date": 1242978941,
+      "last_edit_date": 1408437914,
+      "question_id": 896777,
+      "link": "https://stackoverflow.com/questions/896777/how-to-remove-close-button-on-the-jquery-ui-dialog",
+      "title": "How to remove close button on the jQuery UI dialog?"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "checkbox"
+      ],
+      "owner": {
+        "reputation": 4530,
+        "user_id": 395881,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/6ddc2c2f5a9f76e041151340a5dd773e?s=128&d=identicon&r=PG",
+        "display_name": "svirk",
+        "link": "https://stackoverflow.com/users/395881/svirk"
+      },
+      "is_answered": true,
+      "view_count": 1501395,
+      "protected_date": 1401156320,
+      "accepted_answer_id": 4148544,
+      "answer_count": 28,
+      "score": 761,
+      "last_activity_date": 1563442109,
+      "creation_date": 1289419021,
+      "last_edit_date": 1563377722,
+      "question_id": 4148499,
+      "link": "https://stackoverflow.com/questions/4148499/how-to-style-a-checkbox-using-css",
+      "title": "How to style a checkbox using CSS"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "forms"
+      ],
+      "owner": {
+        "reputation": 6480,
+        "user_id": 185555,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/22283616a59d8d38d789da6e60f9e836?s=128&d=identicon&r=PG",
+        "display_name": "kmunky",
+        "link": "https://stackoverflow.com/users/185555/kmunky"
+      },
+      "is_answered": true,
+      "view_count": 1420892,
+      "accepted_answer_id": 1594992,
+      "answer_count": 20,
+      "score": 757,
+      "last_activity_date": 1562331698,
+      "creation_date": 1256048472,
+      "last_edit_date": 1552317735,
+      "question_id": 1594952,
+      "link": "https://stackoverflow.com/questions/1594952/jquery-disable-enable-submit-button",
+      "title": "jQuery disable/enable submit button"
+    },
+    {
+      "tags": [
+        "html",
+        "html5",
+        "hyperlink",
+        "fragment-identifier"
+      ],
+      "owner": {
+        "reputation": 44227,
+        "user_id": 2238,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/33f7b52ddceb5ed2ffb12400a4cbceb8?s=128&d=identicon&r=PG",
+        "display_name": "Henrik Paul",
+        "link": "https://stackoverflow.com/users/2238/henrik-paul"
+      },
+      "is_answered": true,
+      "view_count": 586901,
+      "protected_date": 1371982302,
+      "accepted_answer_id": 484781,
+      "answer_count": 14,
+      "score": 754,
+      "last_activity_date": 1544000049,
+      "creation_date": 1233082638,
+      "last_edit_date": 1533220692,
+      "question_id": 484719,
+      "link": "https://stackoverflow.com/questions/484719/should-i-make-html-anchors-with-name-or-id",
+      "title": "Should I make HTML Anchors with &#39;name&#39; or &#39;id&#39;?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "css",
+        "layout"
+      ],
+      "owner": {
+        "reputation": 23310,
+        "user_id": 27294,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://i.stack.imgur.com/I41P3.jpg?s=128&g=1",
+        "display_name": "Craig",
+        "link": "https://stackoverflow.com/users/27294/craig"
+      },
+      "is_answered": true,
+      "view_count": 496024,
+      "protected_date": 1311233540,
+      "accepted_answer_id": 210733,
+      "answer_count": 26,
+      "score": 742,
+      "last_activity_date": 1556731543,
+      "creation_date": 1224202308,
+      "last_edit_date": 1458145746,
+      "question_id": 210717,
+      "link": "https://stackoverflow.com/questions/210717/using-jquery-to-center-a-div-on-the-screen",
+      "title": "Using jQuery to center a DIV on the screen"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "height"
+      ],
+      "owner": {
+        "reputation": 3703,
+        "user_id": 839463,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/4aa47c8f0c83466b400267e653183022?s=128&d=identicon&r=PG",
+        "display_name": "bodyofheat",
+        "link": "https://stackoverflow.com/users/839463/bodyofheat"
+      },
+      "is_answered": true,
+      "view_count": 780581,
+      "protected_date": 1399934190,
+      "accepted_answer_id": 6654996,
+      "answer_count": 22,
+      "score": 740,
+      "last_activity_date": 1554902416,
+      "creation_date": 1310410256,
+      "last_edit_date": 1410657732,
+      "question_id": 6654958,
+      "link": "https://stackoverflow.com/questions/6654958/make-body-have-100-of-the-browser-height",
+      "title": "Make body have 100% of the browser height"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "html5"
+      ],
+      "owner": {
+        "reputation": 14272,
+        "user_id": 13370,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://i.stack.imgur.com/zdSpR.jpg?s=128&g=1",
+        "display_name": "Julius A",
+        "link": "https://stackoverflow.com/users/13370/julius-a"
+      },
+      "is_answered": true,
+      "view_count": 1673337,
+      "protected_date": 1403019891,
+      "accepted_answer_id": 469362,
+      "answer_count": 60,
+      "community_owned_date": 1355287648,
+      "score": 738,
+      "last_activity_date": 1563430391,
+      "creation_date": 1232634977,
+      "last_edit_date": 1548518944,
+      "question_id": 469357,
+      "link": "https://stackoverflow.com/questions/469357/html-text-input-allow-only-numeric-input",
+      "title": "HTML text input allow only numeric input"
+    },
+    {
+      "tags": [
+        "html",
+        "css"
+      ],
+      "owner": {
+        "reputation": 16738,
+        "user_id": 683553,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/9d848d8392fc5291a0c77f4064b7e67a?s=128&d=identicon&r=PG",
+        "display_name": "Satch3000",
+        "link": "https://stackoverflow.com/users/683553/satch3000"
+      },
+      "is_answered": true,
+      "view_count": 1565832,
+      "protected_date": 1530972751,
+      "accepted_answer_id": 5703632,
+      "answer_count": 22,
+      "score": 727,
+      "last_activity_date": 1562020812,
+      "creation_date": 1303132967,
+      "last_edit_date": 1562019433,
+      "question_id": 5703552,
+      "link": "https://stackoverflow.com/questions/5703552/css-center-text-horizontally-and-vertically-inside-a-div-block",
+      "title": "CSS center text (horizontally and vertically) inside a div block"
+    },
+    {
+      "tags": [
+        "html",
+        "css"
+      ],
+      "owner": {
+        "reputation": 6501,
+        "user_id": 726212,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/36bdb50c126d027ca26b5de3149b95c3?s=128&d=identicon&r=PG",
+        "display_name": "koool",
+        "link": "https://stackoverflow.com/users/726212/koool"
+      },
+      "is_answered": true,
+      "view_count": 1068710,
+      "protected_date": 1459389859,
+      "accepted_answer_id": 6382036,
+      "answer_count": 26,
+      "score": 724,
+      "last_activity_date": 1555151535,
+      "creation_date": 1308291350,
+      "last_edit_date": 1546003340,
+      "question_id": 6382023,
+      "link": "https://stackoverflow.com/questions/6382023/changing-the-color-of-an-hr-element",
+      "title": "Changing the color of an hr element"
+    },
+    {
+      "tags": [
+        "html5",
+        "websocket",
+        "server-sent-events"
+      ],
+      "owner": {
+        "reputation": 19159,
+        "user_id": 76799,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/cdf9880343f58061b22555db35fe95ec?s=128&d=identicon&r=PG",
+        "display_name": "Mads Mob&#230;k",
+        "link": "https://stackoverflow.com/users/76799/mads-mob%c3%a6k"
+      },
+      "is_answered": true,
+      "view_count": 177244,
+      "accepted_answer_id": 5326159,
+      "answer_count": 7,
+      "score": 723,
+      "last_activity_date": 1541821553,
+      "creation_date": 1299251252,
+      "last_edit_date": 1541821553,
+      "question_id": 5195452,
+      "link": "https://stackoverflow.com/questions/5195452/websockets-vs-server-sent-events-eventsource",
+      "title": "WebSockets vs. Server-Sent events/EventSource"
+    },
+    {
+      "tags": [
+        "html",
+        "css"
+      ],
+      "owner": {
+        "reputation": 4920,
+        "user_id": 419730,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://i.stack.imgur.com/UwQpu.png?s=128&g=1",
+        "display_name": "Marin",
+        "link": "https://stackoverflow.com/users/419730/marin"
+      },
+      "is_answered": true,
+      "view_count": 1077249,
+      "protected_date": 1413373711,
+      "answer_count": 25,
+      "score": 720,
+      "last_activity_date": 1561961259,
+      "creation_date": 1228772999,
+      "last_edit_date": 1481163835,
+      "question_id": 351058,
+      "link": "https://stackoverflow.com/questions/351058/space-between-two-rows-in-a-table",
+      "title": "Space between two rows in a table?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "escaping",
+        "html-escape-characters"
+      ],
+      "owner": {
+        "reputation": 14881,
+        "user_id": 64226,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://www.gravatar.com/avatar/17b3b902ae6b76be20307b6f52c3ba90?s=128&d=identicon&r=PG",
+        "display_name": "AJM",
+        "link": "https://stackoverflow.com/users/64226/ajm"
+      },
+      "is_answered": true,
+      "view_count": 615751,
+      "protected_date": 1313407553,
+      "accepted_answer_id": 1219983,
+      "answer_count": 25,
+      "score": 718,
+      "last_activity_date": 1560692851,
+      "creation_date": 1249247309,
+      "last_edit_date": 1554761283,
+      "question_id": 1219860,
+      "link": "https://stackoverflow.com/questions/1219860/html-encoding-lost-when-attribute-read-from-input-field",
+      "title": "HTML-encoding lost when attribute read from input field"
+    },
+    {
+      "tags": [
+        "html",
+        "xhtml"
+      ],
+      "owner": {
+        "reputation": 57518,
+        "user_id": 21709,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/3ea9c684a2db319df788cecc6c98f9cd?s=128&d=identicon&r=PG",
+        "display_name": "Philip Morton",
+        "link": "https://stackoverflow.com/users/21709/philip-morton"
+      },
+      "is_answered": true,
+      "view_count": 384747,
+      "protected_date": 1452933993,
+      "accepted_answer_id": 271776,
+      "answer_count": 19,
+      "score": 717,
+      "last_activity_date": 1562605260,
+      "creation_date": 1226055368,
+      "question_id": 271743,
+      "link": "https://stackoverflow.com/questions/271743/whats-the-difference-between-b-and-strong-i-and-em",
+      "title": "What&#39;s the difference between &lt;b&gt; and &lt;strong&gt;, &lt;i&gt; and &lt;em&gt;?"
+    }
+  ],
+  "has_more": false,
+  "quota_max": 300,
+  "quota_remaining": 275
+}

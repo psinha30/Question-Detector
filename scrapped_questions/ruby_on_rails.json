@@ -1,0 +1,2744 @@
+
+{
+  "items": [
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby-on-rails-3",
+        "migration"
+      ],
+      "owner": {
+        "reputation": 7044,
+        "user_id": 1994764,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/ef3e8d908b1bb307680960719856260e?s=128&d=identicon&r=PG",
+        "display_name": "user1994764",
+        "link": "https://stackoverflow.com/users/1994764/user1994764"
+      },
+      "is_answered": true,
+      "view_count": 456950,
+      "protected_date": 1409727910,
+      "accepted_answer_id": 1992045,
+      "answer_count": 26,
+      "score": 1389,
+      "last_activity_date": 1548137522,
+      "creation_date": 1262449122,
+      "last_edit_date": 1457041830,
+      "question_id": 1992019,
+      "link": "https://stackoverflow.com/questions/1992019/how-can-i-rename-a-database-column-in-a-ruby-on-rails-migration",
+      "title": "How can I rename a database column in a Ruby on Rails migration?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby"
+      ],
+      "owner": {
+        "reputation": 6312,
+        "user_id": 61371,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://www.gravatar.com/avatar/60a2a5c2d72511e27e102c5ca7a29296?s=128&d=identicon&r=PG",
+        "display_name": "Arrel",
+        "link": "https://stackoverflow.com/users/61371/arrel"
+      },
+      "is_answered": true,
+      "view_count": 294960,
+      "accepted_answer_id": 888877,
+      "answer_count": 14,
+      "score": 1069,
+      "last_activity_date": 1534090757,
+      "creation_date": 1242773496,
+      "last_edit_date": 1378595214,
+      "question_id": 885414,
+      "link": "https://stackoverflow.com/questions/885414/a-concise-explanation-of-nil-v-empty-v-blank-in-ruby-on-rails",
+      "title": "A concise explanation of nil v. empty v. blank in Ruby on Rails"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "heroku",
+        "amazon-web-services"
+      ],
+      "owner": {
+        "reputation": 5433,
+        "user_id": 1227079,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/nI6mi.jpg?s=128&g=1",
+        "display_name": "Bryan",
+        "link": "https://stackoverflow.com/users/1227079/bryan"
+      },
+      "is_answered": true,
+      "view_count": 213734,
+      "closed_date": 1552620062,
+      "accepted_answer_id": 32944469,
+      "answer_count": 16,
+      "score": 1059,
+      "last_activity_date": 1550336591,
+      "creation_date": 1332324053,
+      "last_edit_date": 1487471673,
+      "question_id": 9802259,
+      "link": "https://stackoverflow.com/questions/9802259/why-do-people-use-heroku-when-aws-is-present-what-distinguishes-heroku-from-aws",
+      "closed_reason": "primarily opinion-based",
+      "title": "Why do people use Heroku when AWS is present? What distinguishes Heroku from AWS?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "url"
+      ],
+      "owner": {
+        "reputation": 40382,
+        "user_id": 72583,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/16a5eec5eca4550033c0e19dba3b32b8?s=128&d=identicon&r=PG",
+        "display_name": "Jakub Arnold",
+        "link": "https://stackoverflow.com/users/72583/jakub-arnold"
+      },
+      "is_answered": true,
+      "view_count": 457050,
+      "protected_date": 1551213852,
+      "accepted_answer_id": 2165727,
+      "answer_count": 33,
+      "score": 1008,
+      "last_activity_date": 1529916673,
+      "creation_date": 1264804364,
+      "last_edit_date": 1491424954,
+      "question_id": 2165665,
+      "link": "https://stackoverflow.com/questions/2165665/how-do-i-get-the-current-absolute-url-in-ruby-on-rails",
+      "title": "How do I get the current absolute URL in Ruby on Rails?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "authenticity-token"
+      ],
+      "owner": {
+        "reputation": 21021,
+        "user_id": 19224,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/39b1a174518e200696acd7249daa0bf6?s=128&d=identicon&r=PG",
+        "display_name": "Ricardo Acras",
+        "link": "https://stackoverflow.com/users/19224/ricardo-acras"
+      },
+      "is_answered": true,
+      "view_count": 175889,
+      "accepted_answer_id": 1571900,
+      "answer_count": 10,
+      "score": 941,
+      "last_activity_date": 1532381868,
+      "creation_date": 1243972898,
+      "last_edit_date": 1491429320,
+      "question_id": 941594,
+      "link": "https://stackoverflow.com/questions/941594/understanding-the-rails-authenticity-token",
+      "title": "Understanding the Rails Authenticity Token"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "random",
+        "secure-random"
+      ],
+      "owner": {
+        "reputation": 33836,
+        "user_id": 1103052,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/393d9d6acd3ba4ed8ea921dd997d9144?s=128&d=identicon&r=PG",
+        "display_name": "Mark A. Nicolosi",
+        "link": "https://stackoverflow.com/users/1103052/mark-a-nicolosi"
+      },
+      "is_answered": true,
+      "view_count": 510130,
+      "accepted_answer_id": 198470,
+      "answer_count": 18,
+      "score": 765,
+      "last_activity_date": 1543570569,
+      "creation_date": 1223921244,
+      "last_edit_date": 1537262075,
+      "question_id": 198460,
+      "link": "https://stackoverflow.com/questions/198460/how-to-get-a-random-number-in-ruby",
+      "title": "How to get a random number in Ruby"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "schema",
+        "database-schema",
+        "rollback"
+      ],
+      "owner": {
+        "reputation": 40091,
+        "user_id": 149080,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/685eca46bfebf9233cc276b415a74ddb?s=128&d=identicon&r=PG",
+        "display_name": "AnApprentice",
+        "link": "https://stackoverflow.com/users/149080/anapprentice"
+      },
+      "is_answered": true,
+      "view_count": 363964,
+      "accepted_answer_id": 3647820,
+      "answer_count": 13,
+      "score": 729,
+      "last_activity_date": 1554729810,
+      "creation_date": 1283718617,
+      "last_edit_date": 1554729810,
+      "question_id": 3647685,
+      "link": "https://stackoverflow.com/questions/3647685/how-to-rollback-a-specific-migration",
+      "title": "How to rollback a specific migration?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby-on-rails-3",
+        "postgresql",
+        "rails-postgresql",
+        "pg"
+      ],
+      "owner": {
+        "reputation": 4196,
+        "user_id": 240759,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/e5567e252d8520da0cfedcf58ef3ae1a?s=128&d=identicon&r=PG",
+        "display_name": "demonchand",
+        "link": "https://stackoverflow.com/users/240759/demonchand"
+      },
+      "is_answered": true,
+      "view_count": 254502,
+      "protected_date": 1467707583,
+      "accepted_answer_id": 6040822,
+      "answer_count": 39,
+      "score": 715,
+      "last_activity_date": 1560979574,
+      "creation_date": 1305699069,
+      "last_edit_date": 1521802029,
+      "question_id": 6040583,
+      "link": "https://stackoverflow.com/questions/6040583/cant-find-the-libpq-fe-h-header-when-trying-to-install-pg-gem",
+      "title": "Can&#39;t find the &#39;libpq-fe.h header when trying to install pg gem"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "postgresql"
+      ],
+      "owner": {
+        "reputation": 3309,
+        "user_id": 1108510,
+        "user_type": "registered",
+        "accept_rate": 55,
+        "profile_image": "https://www.gravatar.com/avatar/e3fc7d388b554a30a4c40d5b3feb64e7?s=128&d=identicon&r=PG",
+        "display_name": "orderof1",
+        "link": "https://stackoverflow.com/users/1108510/orderof1"
+      },
+      "is_answered": true,
+      "view_count": 524952,
+      "protected_date": 1553504863,
+      "accepted_answer_id": 18664239,
+      "answer_count": 19,
+      "score": 627,
+      "last_activity_date": 1560420115,
+      "creation_date": 1378491306,
+      "last_edit_date": 1544413439,
+      "question_id": 18664074,
+      "link": "https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge",
+      "title": "Getting error: Peer authentication failed for user &quot;postgres&quot;, when trying to get pgsql working with rails"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby-on-rails-4",
+        "dci"
+      ],
+      "owner": {
+        "reputation": 12268,
+        "user_id": 784270,
+        "user_type": "registered",
+        "accept_rate": 25,
+        "profile_image": "https://www.gravatar.com/avatar/b31ac8c443757ac579ef883f1ae9e7fa?s=128&d=identicon&r=PG",
+        "display_name": "yagooar",
+        "link": "https://stackoverflow.com/users/784270/yagooar"
+      },
+      "is_answered": true,
+      "view_count": 217145,
+      "accepted_answer_id": 15078070,
+      "answer_count": 6,
+      "score": 612,
+      "last_activity_date": 1548096755,
+      "creation_date": 1359236187,
+      "last_edit_date": 1450087477,
+      "question_id": 14541823,
+      "link": "https://stackoverflow.com/questions/14541823/how-to-use-concerns-in-rails-4",
+      "title": "How to use concerns in Rails 4"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "database",
+        "rake"
+      ],
+      "owner": {
+        "reputation": 9512,
+        "user_id": 1268651,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://i.stack.imgur.com/38hHV.png?s=128&g=1",
+        "display_name": "Gaurav Agarwal",
+        "link": "https://stackoverflow.com/users/1268651/gaurav-agarwal"
+      },
+      "is_answered": true,
+      "view_count": 320848,
+      "accepted_answer_id": 10302357,
+      "answer_count": 4,
+      "score": 581,
+      "last_activity_date": 1480890249,
+      "creation_date": 1335283892,
+      "last_edit_date": 1402991892,
+      "question_id": 10301794,
+      "link": "https://stackoverflow.com/questions/10301794/difference-between-rake-dbmigrate-dbreset-and-dbschemaload",
+      "title": "Difference between rake db:migrate db:reset and db:schema:load"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "json",
+        "pretty-print"
+      ],
+      "owner": {
+        "reputation": 23129,
+        "user_id": 10333,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/0f56a5e429de009a27b0ae8f796ef2df?s=128&d=identicon&r=PG",
+        "display_name": "JP Richardson",
+        "link": "https://stackoverflow.com/users/10333/jp-richardson"
+      },
+      "is_answered": true,
+      "view_count": 262627,
+      "accepted_answer_id": 1823885,
+      "answer_count": 17,
+      "score": 580,
+      "last_activity_date": 1559153691,
+      "creation_date": 1221679517,
+      "last_edit_date": 1461192298,
+      "question_id": 86653,
+      "link": "https://stackoverflow.com/questions/86653/how-can-i-pretty-format-my-json-output-in-ruby-on-rails",
+      "title": "How can I &quot;pretty&quot; format my JSON output in Ruby on Rails?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "database",
+        "activerecord",
+        "rails-migrations"
+      ],
+      "owner": {
+        "reputation": 3769,
+        "user_id": 336019,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://i.stack.imgur.com/evr7Y.jpg?s=128&g=1",
+        "display_name": "Ethan",
+        "link": "https://stackoverflow.com/users/336019/ethan"
+      },
+      "is_answered": true,
+      "view_count": 328818,
+      "accepted_answer_id": 2963582,
+      "answer_count": 18,
+      "score": 578,
+      "last_activity_date": 1562215830,
+      "creation_date": 1273795374,
+      "last_edit_date": 1558582322,
+      "question_id": 2831059,
+      "link": "https://stackoverflow.com/questions/2831059/how-to-drop-columns-using-rails-migration",
+      "title": "How to drop columns using Rails migration"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "data-structures",
+        "associative-array"
+      ],
+      "owner": {
+        "reputation": 22334,
+        "user_id": 179855,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/eedd5a37effb5bdd4bbd71ea86aef617?s=128&d=identicon&r=PG",
+        "display_name": "Mohit Jain",
+        "link": "https://stackoverflow.com/users/179855/mohit-jain"
+      },
+      "is_answered": true,
+      "view_count": 362788,
+      "accepted_answer_id": 4528522,
+      "answer_count": 6,
+      "score": 577,
+      "last_activity_date": 1549538692,
+      "creation_date": 1293228133,
+      "last_edit_date": 1463935540,
+      "question_id": 4528506,
+      "link": "https://stackoverflow.com/questions/4528506/how-to-check-if-a-specific-key-is-present-in-a-hash-or-not",
+      "title": "How to check if a specific key is present in a hash or not?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "apache",
+        "passenger",
+        "mongrel"
+      ],
+      "owner": {
+        "reputation": 3411,
+        "user_id": 341878,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/7a666449acc7e18a7002bc88798a44d3?s=128&d=identicon&r=PG",
+        "display_name": "pingu",
+        "link": "https://stackoverflow.com/users/341878/pingu"
+      },
+      "is_answered": true,
+      "view_count": 87792,
+      "closed_date": 1363697045,
+      "accepted_answer_id": 4113570,
+      "answer_count": 1,
+      "score": 569,
+      "last_activity_date": 1474281578,
+      "creation_date": 1289050672,
+      "last_edit_date": 1474281578,
+      "question_id": 4113299,
+      "link": "https://stackoverflow.com/questions/4113299/ruby-on-rails-server-options",
+      "closed_reason": "not constructive",
+      "title": "Ruby on Rails Server options"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ubuntu"
+      ],
+      "owner": {
+        "reputation": 4071,
+        "user_id": 449193,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://www.gravatar.com/avatar/7db07351d8545ce4f6f2fa840952f11f?s=128&d=identicon&r=PG",
+        "display_name": "Omar S.",
+        "link": "https://stackoverflow.com/users/449193/omar-s"
+      },
+      "is_answered": true,
+      "view_count": 169135,
+      "accepted_answer_id": 8113213,
+      "answer_count": 9,
+      "score": 559,
+      "last_activity_date": 1470594161,
+      "creation_date": 1317721149,
+      "last_edit_date": 1390436152,
+      "question_id": 7645918,
+      "link": "https://stackoverflow.com/questions/7645918/require-no-such-file-to-load-mkmf-loaderror",
+      "title": "`require&#39;: no such file to load -- mkmf (LoadError)"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby-on-rails-3",
+        "rake"
+      ],
+      "owner": {
+        "reputation": 40091,
+        "user_id": 149080,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/685eca46bfebf9233cc276b415a74ddb?s=128&d=identicon&r=PG",
+        "display_name": "AnApprentice",
+        "link": "https://stackoverflow.com/users/149080/anapprentice"
+      },
+      "is_answered": true,
+      "view_count": 318810,
+      "accepted_answer_id": 4116124,
+      "answer_count": 19,
+      "score": 553,
+      "last_activity_date": 1561063403,
+      "creation_date": 1289092980,
+      "last_edit_date": 1347836451,
+      "question_id": 4116067,
+      "link": "https://stackoverflow.com/questions/4116067/purge-or-recreate-a-ruby-on-rails-database",
+      "title": "Purge or recreate a Ruby on Rails database"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "ruby-on-rails-3",
+        "hashmap",
+        "ruby-hash"
+      ],
+      "owner": {
+        "reputation": 65034,
+        "user_id": 247243,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/7ee5d55919c272eddef98dbe16f5cb09?s=128&d=identicon&r=PG",
+        "display_name": "Misha Moroshko",
+        "link": "https://stackoverflow.com/users/247243/misha-moroshko"
+      },
+      "is_answered": true,
+      "view_count": 352174,
+      "accepted_answer_id": 11105831,
+      "answer_count": 14,
+      "score": 512,
+      "last_activity_date": 1562828145,
+      "creation_date": 1307107163,
+      "last_edit_date": 1511932085,
+      "question_id": 6227600,
+      "link": "https://stackoverflow.com/questions/6227600/how-to-remove-a-key-from-hash-and-get-the-remaining-hash-in-ruby-rails",
+      "title": "How to remove a key from Hash and get the remaining hash in Ruby/Rails?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "exception",
+        "exception-handling",
+        "error-handling"
+      ],
+      "owner": {
+        "reputation": 11534,
+        "user_id": 67258,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://i.stack.imgur.com/wE1Fz.jpg?s=128&g=1",
+        "display_name": "Lloyd Powell",
+        "link": "https://stackoverflow.com/users/67258/lloyd-powell"
+      },
+      "is_answered": true,
+      "view_count": 383244,
+      "accepted_answer_id": 2192010,
+      "answer_count": 7,
+      "score": 512,
+      "last_activity_date": 1528023460,
+      "creation_date": 1265198055,
+      "last_edit_date": 1390481822,
+      "question_id": 2191632,
+      "link": "https://stackoverflow.com/questions/2191632/begin-rescue-and-ensure-in-ruby",
+      "title": "Begin, Rescue and Ensure in Ruby?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "scaffolding"
+      ],
+      "owner": {
+        "reputation": 7547,
+        "user_id": 111674,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/2a90bb73a06e2dc88a2294a049d5b91d?s=128&d=identicon&r=PG",
+        "display_name": "Daniel",
+        "link": "https://stackoverflow.com/users/111674/daniel"
+      },
+      "is_answered": true,
+      "view_count": 130105,
+      "protected_date": 1424557225,
+      "accepted_answer_id": 963485,
+      "answer_count": 24,
+      "score": 483,
+      "last_activity_date": 1542191768,
+      "creation_date": 1244435622,
+      "last_edit_date": 1491426657,
+      "question_id": 963420,
+      "link": "https://stackoverflow.com/questions/963420/undo-scaffolding-in-rails",
+      "title": "Undo scaffolding in Rails"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "database",
+        "ruby-on-rails-3",
+        "migration",
+        "rake"
+      ],
+      "owner": {
+        "reputation": 8449,
+        "user_id": 27860,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/SZrVG.png?s=128&g=1",
+        "display_name": "Jason Whitehorn",
+        "link": "https://stackoverflow.com/users/27860/jason-whitehorn"
+      },
+      "is_answered": true,
+      "view_count": 328085,
+      "accepted_answer_id": 4020139,
+      "answer_count": 22,
+      "score": 470,
+      "last_activity_date": 1563433085,
+      "creation_date": 1288057952,
+      "last_edit_date": 1541719525,
+      "question_id": 4020131,
+      "link": "https://stackoverflow.com/questions/4020131/rails-db-migration-how-to-drop-a-table",
+      "title": "Rails DB Migration - How To Drop a Table?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "http",
+        "http-status-code-404"
+      ],
+      "owner": {
+        "reputation": 12452,
+        "user_id": 118175,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://i.stack.imgur.com/gTGvW.jpg?s=128&g=1",
+        "display_name": "Yuval Karmi",
+        "link": "https://stackoverflow.com/users/118175/yuval-karmi"
+      },
+      "is_answered": true,
+      "view_count": 213451,
+      "accepted_answer_id": 4983354,
+      "answer_count": 10,
+      "score": 468,
+      "last_activity_date": 1541361919,
+      "creation_date": 1267782775,
+      "last_edit_date": 1491482819,
+      "question_id": 2385799,
+      "link": "https://stackoverflow.com/questions/2385799/how-to-redirect-to-a-404-in-rails",
+      "title": "How to redirect to a 404 in Rails?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "ruby-on-rails",
+        "ruby",
+        "rubygems",
+        "mysql2"
+      ],
+      "owner": {
+        "reputation": 13380,
+        "user_id": 278984,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/29a6c77c187f2a5d02d2b79df4b31223?s=128&d=identicon&r=PG",
+        "display_name": "spacemonkey",
+        "link": "https://stackoverflow.com/users/278984/spacemonkey"
+      },
+      "is_answered": true,
+      "view_count": 244845,
+      "protected_date": 1298210578,
+      "accepted_answer_id": 3608756,
+      "answer_count": 26,
+      "score": 463,
+      "last_activity_date": 1558614263,
+      "creation_date": 1283252098,
+      "last_edit_date": 1513928838,
+      "question_id": 3608287,
+      "link": "https://stackoverflow.com/questions/3608287/error-installing-mysql2-failed-to-build-gem-native-extension",
+      "title": "Error installing mysql2: Failed to build gem native extension"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "console"
+      ],
+      "owner": {
+        "reputation": 47381,
+        "user_id": 13989,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/3b2b4aa0cbbb6bf3e3abc51becd918d6?s=128&d=identicon&r=PG",
+        "display_name": "kch",
+        "link": "https://stackoverflow.com/users/13989/kch"
+      },
+      "is_answered": true,
+      "view_count": 169332,
+      "accepted_answer_id": 1161163,
+      "answer_count": 14,
+      "score": 423,
+      "last_activity_date": 1550567483,
+      "creation_date": 1222727781,
+      "last_edit_date": 1222729613,
+      "question_id": 151030,
+      "link": "https://stackoverflow.com/questions/151030/how-do-i-call-controller-view-methods-from-the-console-in-rails",
+      "title": "How do I call controller/view methods from the console in Rails?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails"
+      ],
+      "owner": {
+        "reputation": 13331,
+        "user_id": 218183,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/1c1f0c4c5223ae5c74436b77f96706d5?s=128&d=identicon&r=PG",
+        "display_name": "Mo.",
+        "link": "https://stackoverflow.com/users/218183/mo"
+      },
+      "is_answered": true,
+      "view_count": 171019,
+      "accepted_answer_id": 3354452,
+      "answer_count": 9,
+      "score": 418,
+      "last_activity_date": 1562701951,
+      "creation_date": 1280330133,
+      "last_edit_date": 1326495977,
+      "question_id": 3354330,
+      "link": "https://stackoverflow.com/questions/3354330/difference-between-string-and-text-in-rails",
+      "title": "Difference between string and text in rails?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "rails-activerecord"
+      ],
+      "owner": {
+        "reputation": 5429,
+        "user_id": 2477,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/33623f0f57aa8861408800f4f52bd830?s=128&d=identicon&r=PG",
+        "display_name": "ryw",
+        "link": "https://stackoverflow.com/users/2477/ryw"
+      },
+      "is_answered": true,
+      "view_count": 175307,
+      "accepted_answer_id": 5127684,
+      "answer_count": 26,
+      "score": 403,
+      "last_activity_date": 1556752666,
+      "creation_date": 1228026449,
+      "last_edit_date": 1380120383,
+      "question_id": 328525,
+      "link": "https://stackoverflow.com/questions/328525/how-can-i-set-default-values-in-activerecord",
+      "title": "How can I set default values in ActiveRecord?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "datetime",
+        "date",
+        "time",
+        "timestamp"
+      ],
+      "owner": {
+        "reputation": 2106,
+        "user_id": 231022,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/f18970c581ccecc4ec64d6dc69919841?s=128&d=identicon&r=PG",
+        "display_name": "Nick May",
+        "link": "https://stackoverflow.com/users/231022/nick-may"
+      },
+      "is_answered": true,
+      "view_count": 104649,
+      "accepted_answer_id": 3929047,
+      "answer_count": 2,
+      "score": 395,
+      "last_activity_date": 1531506813,
+      "creation_date": 1287006041,
+      "last_edit_date": 1439800287,
+      "question_id": 3928275,
+      "link": "https://stackoverflow.com/questions/3928275/in-ruby-on-rails-whats-the-difference-between-datetime-timestamp-time-and-da",
+      "title": "In Ruby on Rails, what&#39;s the difference between DateTime, Timestamp, Time and Date?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "rails-activerecord"
+      ],
+      "owner": {
+        "reputation": 6018,
+        "user_id": 3764,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/489990d9c4bc268df74b72aecc72a6e8?s=128&d=identicon&r=PG",
+        "display_name": "Brent ",
+        "link": "https://stackoverflow.com/users/3764/brent"
+      },
+      "is_answered": true,
+      "view_count": 166914,
+      "accepted_answer_id": 60053,
+      "answer_count": 11,
+      "score": 394,
+      "last_activity_date": 1546592188,
+      "creation_date": 1221256084,
+      "last_edit_date": 1358756863,
+      "question_id": 60033,
+      "link": "https://stackoverflow.com/questions/60033/what-is-the-easiest-way-to-duplicate-an-activerecord-record",
+      "title": "What is the easiest way to duplicate an activerecord record?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "migration",
+        "rails-activerecord"
+      ],
+      "owner": {
+        "reputation": 136143,
+        "user_id": 4883,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/a92525f049e20db8f4ce3d62f3f0bb2b?s=128&d=identicon&r=PG",
+        "display_name": "Readonly",
+        "link": "https://stackoverflow.com/users/4883/readonly"
+      },
+      "is_answered": true,
+      "view_count": 124437,
+      "accepted_answer_id": 471425,
+      "answer_count": 4,
+      "score": 393,
+      "last_activity_date": 1535436790,
+      "creation_date": 1232670342,
+      "last_edit_date": 1535436790,
+      "question_id": 471416,
+      "link": "https://stackoverflow.com/questions/471416/how-do-you-write-a-migration-to-rename-an-activerecord-model-and-its-table-in-ra",
+      "title": "How do you write a migration to rename an ActiveRecord model and its table in Rails?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "ruby-on-rails-4",
+        "deprecated",
+        "rails-i18n"
+      ],
+      "owner": {
+        "reputation": 4002,
+        "user_id": 2643172,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://i.stack.imgur.com/VMWUe.jpg?s=128&g=1",
+        "display_name": "Mauricio Moraes",
+        "link": "https://stackoverflow.com/users/2643172/mauricio-moraes"
+      },
+      "is_answered": true,
+      "view_count": 62008,
+      "protected_date": 1399068847,
+      "accepted_answer_id": 20381730,
+      "answer_count": 5,
+      "score": 386,
+      "last_activity_date": 1548928352,
+      "creation_date": 1386103945,
+      "last_edit_date": 1387236163,
+      "question_id": 20361428,
+      "link": "https://stackoverflow.com/questions/20361428/rails-i18n-validation-deprecation-warning",
+      "title": "Rails I18n validation deprecation warning"
+    },
+    {
+      "tags": [
+        "javascript",
+        "ruby-on-rails",
+        "ruby-on-rails-3.1",
+        "asset-pipeline",
+        "sprockets"
+      ],
+      "owner": {
+        "reputation": 3386,
+        "user_id": 484615,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/23c3b131272b00ed9efababfbc51c7ad?s=128&d=identicon&r=PG",
+        "display_name": "Fire Emblem",
+        "link": "https://stackoverflow.com/users/484615/fire-emblem"
+      },
+      "is_answered": true,
+      "view_count": 79055,
+      "accepted_answer_id": 6171275,
+      "answer_count": 29,
+      "score": 386,
+      "last_activity_date": 1527977592,
+      "creation_date": 1306673213,
+      "last_edit_date": 1521310827,
+      "question_id": 6167805,
+      "link": "https://stackoverflow.com/questions/6167805/using-rails-3-1-where-do-you-put-your-page-specific-javascript-code",
+      "title": "Using Rails 3.1, where do you put your &quot;page specific&quot; JavaScript code?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby-on-rails-3",
+        "devise",
+        "routes"
+      ],
+      "owner": {
+        "reputation": 6602,
+        "user_id": 461294,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://i.stack.imgur.com/EQqHn.jpg?s=128&g=1",
+        "display_name": "vich",
+        "link": "https://stackoverflow.com/users/461294/vich"
+      },
+      "is_answered": true,
+      "view_count": 120930,
+      "protected_date": 1447341814,
+      "accepted_answer_id": 6557627,
+      "answer_count": 29,
+      "score": 383,
+      "last_activity_date": 1523438405,
+      "creation_date": 1309613475,
+      "last_edit_date": 1407271360,
+      "question_id": 6557311,
+      "link": "https://stackoverflow.com/questions/6557311/no-route-matches-users-sign-out-devise-rails-3",
+      "title": "No route matches &quot;/users/sign_out&quot; devise rails 3"
+    },
+    {
+      "tags": [
+        "ruby-on-rails"
+      ],
+      "owner": {
+        "reputation": 5850,
+        "user_id": 99694,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/a50dc54f6dacdbf5dd77cba0b6070738?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Tam",
+        "link": "https://stackoverflow.com/users/99694/tam"
+      },
+      "is_answered": true,
+      "view_count": 180523,
+      "accepted_answer_id": 1449466,
+      "answer_count": 8,
+      "score": 380,
+      "last_activity_date": 1549388781,
+      "creation_date": 1253392494,
+      "last_edit_date": 1482859542,
+      "question_id": 1449459,
+      "link": "https://stackoverflow.com/questions/1449459/how-do-i-make-a-column-unique-and-index-it-in-a-ruby-on-rails-migration",
+      "title": "How do I make a column unique and index it in a Ruby on Rails migration?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby-on-rails-3",
+        "asset-pipeline",
+        "sprockets",
+        "rails-sprockets"
+      ],
+      "owner": {
+        "reputation": 2393,
+        "user_id": 218413,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/f41e8b466bde7be410c149bf238c90dd?s=128&d=identicon&r=PG",
+        "display_name": "istvanp",
+        "link": "https://stackoverflow.com/users/218413/istvanp"
+      },
+      "is_answered": true,
+      "view_count": 53507,
+      "accepted_answer_id": 7508407,
+      "answer_count": 14,
+      "score": 377,
+      "last_activity_date": 1487263025,
+      "creation_date": 1307742718,
+      "last_edit_date": 1481653642,
+      "question_id": 6312448,
+      "link": "https://stackoverflow.com/questions/6312448/how-to-disable-logging-of-asset-pipeline-sprockets-messages-in-rails-3-1",
+      "title": "How to disable logging of asset pipeline (sprockets) messages in Rails 3.1?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "ruby-on-rails-4",
+        "rails-activerecord"
+      ],
+      "owner": {
+        "reputation": 35013,
+        "user_id": 226958,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://i.stack.imgur.com/F5gLZ.png?s=128&g=1",
+        "display_name": "Nicolas Raoul",
+        "link": "https://stackoverflow.com/users/226958/nicolas-raoul"
+      },
+      "is_answered": true,
+      "view_count": 271324,
+      "accepted_answer_id": 17918118,
+      "answer_count": 5,
+      "score": 375,
+      "last_activity_date": 1494673640,
+      "creation_date": 1375082386,
+      "last_edit_date": 1456303699,
+      "question_id": 17918117,
+      "link": "https://stackoverflow.com/questions/17918117/rails-4-list-of-available-datatypes",
+      "title": "Rails 4: List of available datatypes"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "rails-activerecord"
+      ],
+      "owner": {
+        "reputation": 9007,
+        "user_id": 58289,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/2fbfe5938c2b81ee35a3ee25ca758bcb?s=128&d=identicon&r=PG",
+        "display_name": "andi",
+        "link": "https://stackoverflow.com/users/58289/andi"
+      },
+      "is_answered": true,
+      "view_count": 228623,
+      "accepted_answer_id": 826227,
+      "answer_count": 5,
+      "score": 369,
+      "last_activity_date": 1546602693,
+      "creation_date": 1241547215,
+      "last_edit_date": 1416608765,
+      "question_id": 826210,
+      "link": "https://stackoverflow.com/questions/826210/how-do-i-get-the-name-of-a-ruby-class",
+      "title": "How do I get the name of a Ruby class?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "database",
+        "postgresql",
+        "macos",
+        "homebrew"
+      ],
+      "owner": {
+        "reputation": 1949,
+        "user_id": 1278390,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://www.gravatar.com/avatar/4269a808b424dcd3b740d08428e1127e?s=128&d=identicon&r=PG",
+        "display_name": "Gary Lai",
+        "link": "https://stackoverflow.com/users/1278390/gary-lai"
+      },
+      "is_answered": true,
+      "view_count": 257584,
+      "accepted_answer_id": 18832331,
+      "answer_count": 40,
+      "score": 363,
+      "last_activity_date": 1562931834,
+      "creation_date": 1353041619,
+      "last_edit_date": 1559234255,
+      "question_id": 13410686,
+      "link": "https://stackoverflow.com/questions/13410686/postgres-could-not-connect-to-server",
+      "title": "Postgres could not connect to server"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "ruby-on-rails-3",
+        "ruby-on-rails-4",
+        "rails-activerecord"
+      ],
+      "owner": {
+        "reputation": 27476,
+        "user_id": 202875,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://i.stack.imgur.com/iYxp4.jpg?s=128&g=1",
+        "display_name": "tybro0103",
+        "link": "https://stackoverflow.com/users/202875/tybro0103"
+      },
+      "is_answered": true,
+      "view_count": 126803,
+      "accepted_answer_id": 11783090,
+      "answer_count": 4,
+      "score": 361,
+      "last_activity_date": 1535436814,
+      "creation_date": 1311211326,
+      "last_edit_date": 1535436814,
+      "question_id": 6770350,
+      "link": "https://stackoverflow.com/questions/6770350/rails-update-attributes-without-save",
+      "title": "Rails update_attributes without save?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "rails-routing",
+        "helpermethods"
+      ],
+      "owner": {
+        "reputation": 5738,
+        "user_id": 32137,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/b09452aabca55d572032465b81b8a4e3?s=128&d=identicon&r=PG",
+        "display_name": "Aaron Longwell",
+        "link": "https://stackoverflow.com/users/32137/aaron-longwell"
+      },
+      "is_answered": true,
+      "view_count": 147118,
+      "answer_count": 7,
+      "score": 350,
+      "last_activity_date": 1555515323,
+      "creation_date": 1228406879,
+      "last_edit_date": 1248467788,
+      "question_id": 341143,
+      "link": "https://stackoverflow.com/questions/341143/can-rails-routing-helpers-i-e-mymodel-pathmodel-be-used-in-models",
+      "title": "Can Rails Routing Helpers (i.e. mymodel_path(model)) be Used in Models?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "rails-activerecord",
+        "arel"
+      ],
+      "owner": {
+        "reputation": 5799,
+        "user_id": 64709,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/a16831359b7305213021bbe90b7d5101?s=128&d=identicon&r=PG",
+        "display_name": "SooDesuNe",
+        "link": "https://stackoverflow.com/users/64709/soodesune"
+      },
+      "is_answered": true,
+      "view_count": 230151,
+      "accepted_answer_id": 4252615,
+      "answer_count": 5,
+      "score": 349,
+      "last_activity_date": 1557736881,
+      "creation_date": 1290480961,
+      "last_edit_date": 1557736881,
+      "question_id": 4252349,
+      "link": "https://stackoverflow.com/questions/4252349/rails-where-condition-using-not-nil",
+      "title": "Rails where condition using NOT NIL"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "migration"
+      ],
+      "owner": {
+        "reputation": 26448,
+        "user_id": 356895,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/022ac4ee5fc9f2474d60c9a1a6dd16f5?s=128&d=identicon&r=PG",
+        "display_name": "JJD",
+        "link": "https://stackoverflow.com/users/356895/jjd"
+      },
+      "is_answered": true,
+      "view_count": 75060,
+      "accepted_answer_id": 5443750,
+      "answer_count": 5,
+      "score": 347,
+      "last_activity_date": 1543401589,
+      "creation_date": 1301158026,
+      "last_edit_date": 1535050200,
+      "question_id": 5443740,
+      "link": "https://stackoverflow.com/questions/5443740/how-do-i-handle-too-long-index-names-in-a-ruby-on-rails-activerecord-migration",
+      "title": "How do I handle too long index names in a Ruby on Rails ActiveRecord migration?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "rake",
+        "bundler"
+      ],
+      "owner": {
+        "reputation": 12405,
+        "user_id": 348056,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/577bbd898a44a99ec8cca0b76df6407a?s=128&d=identicon&r=PG",
+        "display_name": "JnBrymn",
+        "link": "https://stackoverflow.com/users/348056/jnbrymn"
+      },
+      "is_answered": true,
+      "view_count": 120633,
+      "accepted_answer_id": 6588708,
+      "answer_count": 7,
+      "score": 336,
+      "last_activity_date": 1526814598,
+      "creation_date": 1309898794,
+      "last_edit_date": 1356386371,
+      "question_id": 6588674,
+      "link": "https://stackoverflow.com/questions/6588674/what-does-bundle-exec-rake-mean",
+      "title": "What does bundle exec rake mean?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "templates",
+        "erb"
+      ],
+      "owner": {
+        "reputation": 8561,
+        "user_id": 396681,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://i.stack.imgur.com/nACwy.jpg?s=128&g=1",
+        "display_name": "simo",
+        "link": "https://stackoverflow.com/users/396681/simo"
+      },
+      "is_answered": true,
+      "view_count": 91042,
+      "accepted_answer_id": 7996827,
+      "answer_count": 7,
+      "score": 336,
+      "last_activity_date": 1556543304,
+      "creation_date": 1320330968,
+      "last_edit_date": 1467518980,
+      "question_id": 7996695,
+      "link": "https://stackoverflow.com/questions/7996695/what-is-the-difference-between-and-in-erb-in-rails",
+      "title": "What is the difference between &lt;%, &lt;%=, &lt;%# and -%&gt; in ERB in Rails?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "database",
+        "join",
+        "rails-activerecord"
+      ],
+      "owner": {
+        "reputation": 6336,
+        "user_id": 113347,
+        "user_type": "registered",
+        "accept_rate": 56,
+        "profile_image": "https://www.gravatar.com/avatar/3c7d9579ac2e39a95c48de84ad44581c?s=128&d=identicon&r=PG",
+        "display_name": "Rob Cameron",
+        "link": "https://stackoverflow.com/users/113347/rob-cameron"
+      },
+      "is_answered": true,
+      "view_count": 130464,
+      "protected_date": 1369131053,
+      "accepted_answer_id": 1208723,
+      "answer_count": 8,
+      "score": 336,
+      "last_activity_date": 1550862164,
+      "creation_date": 1248980451,
+      "last_edit_date": 1416665835,
+      "question_id": 1208636,
+      "link": "https://stackoverflow.com/questions/1208636/rails-include-vs-joins",
+      "title": "Rails :include vs. :joins"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "ruby-on-rails-3",
+        "rubygems",
+        "bundler"
+      ],
+      "owner": {
+        "reputation": 11145,
+        "user_id": 32816,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/8ae4eb3e04545fecdb52919b2d6a273b?s=128&d=identicon&r=PG",
+        "display_name": "picardo",
+        "link": "https://stackoverflow.com/users/32816/picardo"
+      },
+      "is_answered": true,
+      "view_count": 113746,
+      "accepted_answer_id": 4488110,
+      "answer_count": 6,
+      "score": 332,
+      "last_activity_date": 1520609639,
+      "creation_date": 1292833460,
+      "last_edit_date": 1509994002,
+      "question_id": 4487948,
+      "link": "https://stackoverflow.com/questions/4487948/how-can-i-specify-a-local-gem-in-my-gemfile",
+      "title": "How can I specify a local gem in my Gemfile?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "configuration"
+      ],
+      "owner": {
+        "reputation": 5941,
+        "user_id": 97378,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/41db09452befe95cf6610f65b9cdfb3b?s=128&d=identicon&r=PG",
+        "display_name": "Shiv",
+        "link": "https://stackoverflow.com/users/97378/shiv"
+      },
+      "is_answered": true,
+      "view_count": 159758,
+      "accepted_answer_id": 1450345,
+      "answer_count": 14,
+      "score": 331,
+      "last_activity_date": 1524833251,
+      "creation_date": 1253420230,
+      "last_edit_date": 1296235318,
+      "question_id": 1450285,
+      "link": "https://stackoverflow.com/questions/1450285/how-to-define-custom-configuration-variables-in-rails",
+      "title": "How to define custom configuration variables in rails"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "sass",
+        "asset-pipeline",
+        "font-face",
+        "assets"
+      ],
+      "owner": {
+        "reputation": 2686,
+        "user_id": 1125496,
+        "user_type": "registered",
+        "accept_rate": 53,
+        "profile_image": "https://www.gravatar.com/avatar/080961fa29948468f345ff94344c4b3c?s=128&d=identicon&r=PG",
+        "display_name": "rctneil",
+        "link": "https://stackoverflow.com/users/1125496/rctneil"
+      },
+      "is_answered": true,
+      "view_count": 163351,
+      "accepted_answer_id": 10907276,
+      "answer_count": 12,
+      "score": 330,
+      "last_activity_date": 1545864162,
+      "creation_date": 1338935362,
+      "last_edit_date": 1481653543,
+      "question_id": 10905905,
+      "link": "https://stackoverflow.com/questions/10905905/using-fonts-with-rails-asset-pipeline",
+      "title": "Using fonts with Rails asset pipeline"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "ruby-on-rails-4",
+        "crud"
+      ],
+      "owner": {
+        "reputation": 9872,
+        "user_id": 1644531,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/0eb5bf6995005de4e15ed6c0042f7f0b?s=128&d=identicon&r=PG",
+        "display_name": "freemanoid",
+        "link": "https://stackoverflow.com/users/1644531/freemanoid"
+      },
+      "is_answered": true,
+      "view_count": 146563,
+      "accepted_answer_id": 16519841,
+      "answer_count": 5,
+      "score": 326,
+      "last_activity_date": 1525085543,
+      "creation_date": 1368440786,
+      "last_edit_date": 1491472253,
+      "question_id": 16519828,
+      "link": "https://stackoverflow.com/questions/16519828/rails-4-before-filter-vs-before-action",
+      "title": "Rails 4: before_filter vs. before_action"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "runtime",
+        "methods",
+        "definition"
+      ],
+      "owner": {
+        "reputation": 18852,
+        "user_id": 2590,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/7ada38e9a6ef3216363a7e17880d0137?s=128&d=identicon&r=PG",
+        "display_name": "Matt Rogish",
+        "link": "https://stackoverflow.com/users/2590/matt-rogish"
+      },
+      "is_answered": true,
+      "view_count": 80303,
+      "accepted_answer_id": 660129,
+      "answer_count": 10,
+      "score": 324,
+      "last_activity_date": 1531712076,
+      "creation_date": 1223318664,
+      "last_edit_date": 1438385480,
+      "question_id": 175655,
+      "link": "https://stackoverflow.com/questions/175655/how-to-find-where-a-method-is-defined-at-runtime",
+      "title": "How to find where a method is defined at runtime?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby-on-rails-3"
+      ],
+      "owner": {
+        "reputation": 2774,
+        "user_id": 527727,
+        "user_type": "unregistered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/b94cb4c59a0c5034107e3031ee171f54?s=128&d=identicon&r=PG",
+        "display_name": "Lan",
+        "link": "https://stackoverflow.com/users/527727/lan"
+      },
+      "is_answered": true,
+      "view_count": 126447,
+      "protected_date": 1455092353,
+      "accepted_answer_id": 4333530,
+      "answer_count": 6,
+      "score": 321,
+      "last_activity_date": 1519296912,
+      "creation_date": 1291281701,
+      "last_edit_date": 1455094132,
+      "question_id": 4333393,
+      "link": "https://stackoverflow.com/questions/4333393/how-to-run-rails-generate-scaffold-when-the-model-already-exists",
+      "title": "How to run `rails generate scaffold` when the model already exists?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "webrick"
+      ],
+      "owner": {
+        "reputation": 2952,
+        "user_id": 195543,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/a66b560a1dc1f0386002e465629ce6ba?s=128&d=identicon&r=PG",
+        "display_name": "Nate Bird",
+        "link": "https://stackoverflow.com/users/195543/nate-bird"
+      },
+      "is_answered": true,
+      "view_count": 70038,
+      "accepted_answer_id": 7262974,
+      "answer_count": 9,
+      "score": 320,
+      "last_activity_date": 1530011237,
+      "creation_date": 1313515724,
+      "last_edit_date": 1357796619,
+      "question_id": 7082364,
+      "link": "https://stackoverflow.com/questions/7082364/what-does-warn-could-not-determine-content-length-of-response-body-mean-and-h",
+      "title": "What does &quot;WARN Could not determine content-length of response body.&quot; mean and how to I get rid of it?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "currency"
+      ],
+      "owner": {
+        "reputation": 3764,
+        "user_id": 57014,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://i.stack.imgur.com/jf8ju.jpg?s=128&g=1",
+        "display_name": "Barry Gallagher",
+        "link": "https://stackoverflow.com/users/57014/barry-gallagher"
+      },
+      "is_answered": true,
+      "view_count": 173224,
+      "accepted_answer_id": 1019972,
+      "answer_count": 13,
+      "score": 315,
+      "last_activity_date": 1537970953,
+      "creation_date": 1245443778,
+      "last_edit_date": 1454347173,
+      "question_id": 1019939,
+      "link": "https://stackoverflow.com/questions/1019939/what-is-the-best-method-of-handling-currency-money",
+      "title": "What is the best method of handling currency/money?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "erb"
+      ],
+      "owner": {
+        "reputation": 12539,
+        "user_id": 231588,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://i.stack.imgur.com/k2iEi.png?s=128&g=1",
+        "display_name": "grautur",
+        "link": "https://stackoverflow.com/users/231588/grautur"
+      },
+      "is_answered": true,
+      "view_count": 247951,
+      "accepted_answer_id": 4252113,
+      "answer_count": 6,
+      "score": 315,
+      "last_activity_date": 1531439622,
+      "creation_date": 1290468446,
+      "last_edit_date": 1290469134,
+      "question_id": 4251284,
+      "link": "https://stackoverflow.com/questions/4251284/raw-vs-html-safe-vs-h-to-unescape-html",
+      "title": "raw vs. html_safe vs. h to unescape html"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "migration"
+      ],
+      "owner": {
+        "reputation": 3156,
+        "user_id": 328333,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/2df3b0653e68b9449f3b78e33e5b7ede?s=128&d=identicon&r=PG",
+        "display_name": "papdel",
+        "link": "https://stackoverflow.com/users/328333/papdel"
+      },
+      "is_answered": true,
+      "view_count": 238610,
+      "protected_date": 1460127504,
+      "accepted_answer_id": 2799787,
+      "answer_count": 9,
+      "score": 313,
+      "last_activity_date": 1548177323,
+      "creation_date": 1273452293,
+      "last_edit_date": 1414477617,
+      "question_id": 2799774,
+      "link": "https://stackoverflow.com/questions/2799774/rails-migration-for-change-column",
+      "title": "Rails migration for change column"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "json",
+        "ruby",
+        "hashmap"
+      ],
+      "owner": {
+        "reputation": 5231,
+        "user_id": 310525,
+        "user_type": "registered",
+        "accept_rate": 45,
+        "profile_image": "https://i.stack.imgur.com/RXDvt.png?s=128&g=1",
+        "display_name": "kapso",
+        "link": "https://stackoverflow.com/users/310525/kapso"
+      },
+      "is_answered": true,
+      "view_count": 255724,
+      "accepted_answer_id": 3184039,
+      "answer_count": 4,
+      "score": 311,
+      "last_activity_date": 1558128223,
+      "creation_date": 1278395221,
+      "last_edit_date": 1470913336,
+      "question_id": 3183786,
+      "link": "https://stackoverflow.com/questions/3183786/how-to-convert-a-ruby-hash-object-to-json",
+      "title": "How to convert a ruby hash object to JSON?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "json"
+      ],
+      "owner": {
+        "reputation": 1746,
+        "user_id": 219083,
+        "user_type": "registered",
+        "accept_rate": 42,
+        "profile_image": "https://www.gravatar.com/avatar/48246961ca5fd79a0aec4ff1f71b39f3?s=128&d=identicon&r=PG",
+        "display_name": "Dan Sinker",
+        "link": "https://stackoverflow.com/users/219083/dan-sinker"
+      },
+      "is_answered": true,
+      "view_count": 266964,
+      "closed_date": 1538538357,
+      "answer_count": 12,
+      "score": 306,
+      "last_activity_date": 1518972157,
+      "creation_date": 1259679481,
+      "last_edit_date": 1446021230,
+      "question_id": 1826727,
+      "link": "https://stackoverflow.com/questions/1826727/how-do-i-parse-json-with-ruby-on-rails",
+      "closed_reason": "duplicate",
+      "title": "How do I parse JSON with Ruby on Rails?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "generator",
+        "rails-activerecord"
+      ],
+      "owner": {
+        "reputation": 21476,
+        "user_id": 63761,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/b9a099f02437916c0a76f8326966be17?s=128&d=identicon&r=PG",
+        "display_name": "Meltemi",
+        "link": "https://stackoverflow.com/users/63761/meltemi"
+      },
+      "is_answered": true,
+      "view_count": 188569,
+      "accepted_answer_id": 4384340,
+      "answer_count": 6,
+      "score": 306,
+      "last_activity_date": 1559041663,
+      "creation_date": 1291783823,
+      "last_edit_date": 1535436866,
+      "question_id": 4384284,
+      "link": "https://stackoverflow.com/questions/4384284/ruby-on-rails-generates-model-fieldtype-what-are-the-options-for-fieldtype",
+      "title": "Ruby on Rails generates model field:type - what are the options for field:type?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "rails-activerecord"
+      ],
+      "owner": {
+        "reputation": 101857,
+        "user_id": 39677,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://www.gravatar.com/avatar/77aa7bc1ace6e4b0b49a2102e4fa4059?s=128&d=identicon&r=PG",
+        "display_name": "Blankman",
+        "link": "https://stackoverflow.com/users/39677/blankman"
+      },
+      "is_answered": true,
+      "view_count": 273516,
+      "accepted_answer_id": 4177714,
+      "answer_count": 3,
+      "score": 302,
+      "last_activity_date": 1549362593,
+      "creation_date": 1289741666,
+      "last_edit_date": 1535436890,
+      "question_id": 4177686,
+      "link": "https://stackoverflow.com/questions/4177686/how-do-you-delete-an-activerecord-object",
+      "title": "How do you delete an ActiveRecord object?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "arrays",
+        "ruby",
+        "duplicates"
+      ],
+      "owner": {
+        "reputation": 13565,
+        "user_id": 1008222,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/281d6e83d7b8a7b1f46da66594a37c0b?s=128&d=identicon&r=PG",
+        "display_name": "Mithun Sasidharan",
+        "link": "https://stackoverflow.com/users/1008222/mithun-sasidharan"
+      },
+      "is_answered": true,
+      "view_count": 190229,
+      "accepted_answer_id": 8365726,
+      "answer_count": 6,
+      "score": 298,
+      "last_activity_date": 1506449626,
+      "creation_date": 1322889786,
+      "last_edit_date": 1506449626,
+      "question_id": 8365721,
+      "link": "https://stackoverflow.com/questions/8365721/remove-duplicate-elements-from-array-in-ruby",
+      "title": "Remove duplicate elements from array in Ruby"
+    },
+    {
+      "tags": [
+        "ruby-on-rails"
+      ],
+      "owner": {
+        "reputation": 3560,
+        "user_id": 75173,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/5c7a6674ccf5d34d4d43be0349394cde?s=128&d=identicon&r=PG",
+        "display_name": "fivetwentysix",
+        "link": "https://stackoverflow.com/users/75173/fivetwentysix"
+      },
+      "is_answered": true,
+      "view_count": 244603,
+      "accepted_answer_id": 3724527,
+      "answer_count": 8,
+      "score": 295,
+      "last_activity_date": 1499695960,
+      "creation_date": 1284621529,
+      "last_edit_date": 1316420364,
+      "question_id": 3724487,
+      "link": "https://stackoverflow.com/questions/3724487/rails-root-directory-path",
+      "title": "Rails Root directory path?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "rake",
+        "daemon",
+        "cron",
+        "runner"
+      ],
+      "owner": {
+        "reputation": 7391,
+        "user_id": 13195,
+        "user_type": "registered",
+        "accept_rate": 39,
+        "profile_image": "https://www.gravatar.com/avatar/0f8ba0cdebc6938f4cd0601aeef21621?s=128&d=identicon&r=PG",
+        "display_name": "jes5199",
+        "link": "https://stackoverflow.com/users/13195/jes5199"
+      },
+      "is_answered": true,
+      "view_count": 100181,
+      "accepted_answer_id": 995643,
+      "answer_count": 20,
+      "score": 294,
+      "last_activity_date": 1528790496,
+      "creation_date": 1226530790,
+      "last_edit_date": 1238427224,
+      "question_id": 285717,
+      "link": "https://stackoverflow.com/questions/285717/a-cron-job-for-rails-best-practices",
+      "title": "A cron job for rails: best practices?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby-on-rails-4",
+        "rails-activerecord",
+        "rails-migrations"
+      ],
+      "owner": {
+        "reputation": 20042,
+        "user_id": 1001938,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.stack.imgur.com/ufPVV.jpg?s=128&g=1",
+        "display_name": "Don P",
+        "link": "https://stackoverflow.com/users/1001938/don-p"
+      },
+      "is_answered": true,
+      "view_count": 217983,
+      "accepted_answer_id": 22815259,
+      "answer_count": 6,
+      "score": 285,
+      "last_activity_date": 1542222952,
+      "creation_date": 1396449815,
+      "last_edit_date": 1495535498,
+      "question_id": 22815009,
+      "link": "https://stackoverflow.com/questions/22815009/add-a-reference-column-migration-in-rails-4",
+      "title": "Add a reference column migration in Rails 4"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "syntax",
+        "switch-statement"
+      ],
+      "owner": {
+        "reputation": 5591,
+        "user_id": 337903,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/7df5a0c6b776d2ac8743b6d48738ed01?s=128&d=identicon&r=PG",
+        "display_name": "Nick",
+        "link": "https://stackoverflow.com/users/337903/nick"
+      },
+      "is_answered": true,
+      "view_count": 104384,
+      "accepted_answer_id": 10197397,
+      "answer_count": 3,
+      "score": 285,
+      "last_activity_date": 1558637987,
+      "creation_date": 1334688702,
+      "last_edit_date": 1465591150,
+      "question_id": 10197254,
+      "link": "https://stackoverflow.com/questions/10197254/case-statement-with-multiple-values-in-each-when-block",
+      "title": "Case statement with multiple values in each &#39;when&#39; block"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "ruby-on-rails-3",
+        "rspec"
+      ],
+      "owner": {
+        "reputation": 40091,
+        "user_id": 149080,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/685eca46bfebf9233cc276b415a74ddb?s=128&d=identicon&r=PG",
+        "display_name": "AnApprentice",
+        "link": "https://stackoverflow.com/users/149080/anapprentice"
+      },
+      "is_answered": true,
+      "view_count": 143466,
+      "accepted_answer_id": 54616209,
+      "answer_count": 13,
+      "score": 280,
+      "last_activity_date": 1549800530,
+      "creation_date": 1306269947,
+      "last_edit_date": 1535452452,
+      "question_id": 6116668,
+      "link": "https://stackoverflow.com/questions/6116668/how-to-run-a-single-rspec-test",
+      "title": "How to run a single RSpec test?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "asset-pipeline"
+      ],
+      "owner": {
+        "reputation": 5499,
+        "user_id": 627473,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://www.gravatar.com/avatar/3b39a1b0893869eaa4751f77f5999d5a?s=128&d=identicon&r=PG",
+        "display_name": "Chris Muench",
+        "link": "https://stackoverflow.com/users/627473/chris-muench"
+      },
+      "is_answered": true,
+      "view_count": 105084,
+      "accepted_answer_id": 7278355,
+      "answer_count": 14,
+      "score": 280,
+      "last_activity_date": 1476786061,
+      "creation_date": 1314906215,
+      "last_edit_date": 1371817387,
+      "question_id": 7275636,
+      "link": "https://stackoverflow.com/questions/7275636/rails-3-1-0-actionviewtemplateerror-application-css-isnt-precompiled",
+      "title": "rails 3.1.0 ActionView::Template::Error (application.css isn&#39;t precompiled)"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "ssl",
+        "authlogic",
+        "facebook-graph-api"
+      ],
+      "owner": {
+        "reputation": 1399,
+        "user_id": 327035,
+        "user_type": "registered",
+        "accept_rate": 0,
+        "profile_image": "https://www.gravatar.com/avatar/fc316ec5eba1ca7985a29f3d512cc12d?s=128&d=identicon&r=PG",
+        "display_name": "Vikash",
+        "link": "https://stackoverflow.com/users/327035/vikash"
+      },
+      "is_answered": true,
+      "view_count": 245592,
+      "answer_count": 37,
+      "score": 278,
+      "last_activity_date": 1519319229,
+      "creation_date": 1293220171,
+      "question_id": 4528101,
+      "link": "https://stackoverflow.com/questions/4528101/ssl-connect-returned-1-errno-0-state-sslv3-read-server-certificate-b-certificat",
+      "title": "SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "class",
+        "module",
+        "autoload",
+        "ruby-on-rails-3"
+      ],
+      "owner": {
+        "reputation": 9325,
+        "user_id": 270663,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/77da12d1c7ac96d8bc59b2bf2ff190d3?s=128&d=identicon&r=PG",
+        "display_name": "Vincent",
+        "link": "https://stackoverflow.com/users/270663/vincent"
+      },
+      "is_answered": true,
+      "view_count": 132266,
+      "accepted_answer_id": 3356843,
+      "answer_count": 12,
+      "score": 270,
+      "last_activity_date": 1519989920,
+      "creation_date": 1280345765,
+      "question_id": 3356742,
+      "link": "https://stackoverflow.com/questions/3356742/best-way-to-load-module-class-from-lib-folder-in-rails-3",
+      "title": "Best way to load module/class from lib folder in Rails 3?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby"
+      ],
+      "owner": {
+        "reputation": 34091,
+        "user_id": 224922,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/0cd3969d4631c7ef1da736d816f1af72?s=128&d=identicon&r=PG",
+        "display_name": "never_had_a_name",
+        "link": "https://stackoverflow.com/users/224922/never-had-a-name"
+      },
+      "is_answered": true,
+      "view_count": 74211,
+      "accepted_answer_id": 3028670,
+      "answer_count": 4,
+      "score": 269,
+      "last_activity_date": 1468498108,
+      "creation_date": 1276345680,
+      "last_edit_date": 1372849679,
+      "question_id": 3028653,
+      "link": "https://stackoverflow.com/questions/3028653/difference-between-collection-route-and-member-route-in-ruby-on-rails",
+      "title": "difference between collection route and member route in ruby on rails?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails"
+      ],
+      "owner": {
+        "reputation": 6530,
+        "user_id": 298036,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/b13bd434508326b99170047c67991444?s=128&d=identicon&r=PG",
+        "display_name": "Derek Thurn",
+        "link": "https://stackoverflow.com/users/298036/derek-thurn"
+      },
+      "is_answered": true,
+      "view_count": 91025,
+      "accepted_answer_id": 2846272,
+      "answer_count": 5,
+      "score": 267,
+      "last_activity_date": 1474376037,
+      "creation_date": 1274060699,
+      "question_id": 2846247,
+      "link": "https://stackoverflow.com/questions/2846247/rails-check-output-of-path-helper-from-console",
+      "title": "Rails: Check output of path helper from console"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "types",
+        "floating-point",
+        "decimal",
+        "rails-activerecord"
+      ],
+      "owner": {
+        "reputation": 8837,
+        "user_id": 720164,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/654c5b015c1aa595fe534b2f217590cb?s=128&d=identicon&r=PG",
+        "display_name": "Jonathan Allard",
+        "link": "https://stackoverflow.com/users/720164/jonathan-allard"
+      },
+      "is_answered": true,
+      "view_count": 117776,
+      "accepted_answer_id": 8523253,
+      "answer_count": 3,
+      "score": 266,
+      "last_activity_date": 1535436936,
+      "creation_date": 1323913792,
+      "last_edit_date": 1535436936,
+      "question_id": 8514167,
+      "link": "https://stackoverflow.com/questions/8514167/float-vs-decimal-in-activerecord",
+      "title": "Float vs Decimal in ActiveRecord"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "ssl",
+        "rvm"
+      ],
+      "owner": {
+        "reputation": 1354,
+        "user_id": 2535515,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/17c630dc8eb5f07c4908787336acf104?s=128&d=identicon&r=PG",
+        "display_name": "Terin Patel-Wilson",
+        "link": "https://stackoverflow.com/users/2535515/terin-patel-wilson"
+      },
+      "is_answered": true,
+      "view_count": 134771,
+      "protected_date": 1478522516,
+      "accepted_answer_id": 19151697,
+      "answer_count": 23,
+      "score": 264,
+      "last_activity_date": 1562860338,
+      "creation_date": 1380769011,
+      "last_edit_date": 1475873171,
+      "question_id": 19150017,
+      "link": "https://stackoverflow.com/questions/19150017/ssl-error-when-installing-rubygems-unable-to-pull-data-from-https-rubygems-o",
+      "title": "SSL Error When installing rubygems, Unable to pull data from &#39;https://rubygems.org/"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "android-activity",
+        "social-networking"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "mort"
+      },
+      "is_answered": true,
+      "view_count": 50502,
+      "closed_date": 1399397885,
+      "answer_count": 13,
+      "score": 264,
+      "last_activity_date": 1494796458,
+      "creation_date": 1224007657,
+      "last_edit_date": 1267983838,
+      "question_id": 202198,
+      "link": "https://stackoverflow.com/questions/202198/whats-the-best-manner-of-implementing-a-social-activity-stream",
+      "closed_reason": "primarily opinion-based",
+      "title": "What&#39;s the best manner of implementing a social activity stream?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "ssl",
+        "rubygems",
+        "bundler"
+      ],
+      "owner": {
+        "reputation": 12008,
+        "user_id": 580346,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/ba17945a06aac247b06548d5afe341e8?s=128&d=identicon&r=PG",
+        "display_name": "mrzasa",
+        "link": "https://stackoverflow.com/users/580346/mrzasa"
+      },
+      "is_answered": true,
+      "view_count": 171817,
+      "accepted_answer_id": 10264497,
+      "answer_count": 28,
+      "score": 261,
+      "last_activity_date": 1519415677,
+      "creation_date": 1334923986,
+      "last_edit_date": 1519415677,
+      "question_id": 10246023,
+      "link": "https://stackoverflow.com/questions/10246023/bundle-install-fails-with-ssl-certificate-verification-error",
+      "title": "bundle install fails with SSL certificate verification error"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "http",
+        "web-applications",
+        "rack"
+      ],
+      "owner": {
+        "reputation": 1912,
+        "user_id": 264843,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/450fc056807323cbf3381059ff1278f1?s=128&d=identicon&r=PG",
+        "display_name": "chrisgoyal",
+        "link": "https://stackoverflow.com/users/264843/chrisgoyal"
+      },
+      "is_answered": true,
+      "view_count": 58589,
+      "accepted_answer_id": 2257031,
+      "answer_count": 8,
+      "score": 257,
+      "last_activity_date": 1554898944,
+      "creation_date": 1266038216,
+      "last_edit_date": 1394148905,
+      "question_id": 2256569,
+      "link": "https://stackoverflow.com/questions/2256569/what-is-rack-middleware",
+      "title": "What is Rack middleware?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby-on-rails-4"
+      ],
+      "owner": {
+        "reputation": 1392,
+        "user_id": 2532974,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/5d3105de97c091ac90f0d8d84a08038a?s=128&d=identicon&r=PG",
+        "display_name": "user2532974",
+        "link": "https://stackoverflow.com/users/2532974/user2532974"
+      },
+      "is_answered": true,
+      "view_count": 140642,
+      "accepted_answer_id": 17371364,
+      "answer_count": 5,
+      "score": 256,
+      "last_activity_date": 1534551383,
+      "creation_date": 1372444105,
+      "last_edit_date": 1447829681,
+      "question_id": 17371334,
+      "link": "https://stackoverflow.com/questions/17371334/how-is-attr-accessible-used-in-rails-4",
+      "title": "How is attr_accessible used in Rails 4?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "migration"
+      ],
+      "owner": {
+        "reputation": 1685,
+        "user_id": 464872,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/648ede7b70b92b1196e3698a4c9ef3f4?s=128&d=identicon&r=PG",
+        "display_name": "Jon",
+        "link": "https://stackoverflow.com/users/464872/jon"
+      },
+      "is_answered": true,
+      "view_count": 138115,
+      "answer_count": 7,
+      "score": 253,
+      "last_activity_date": 1549390388,
+      "creation_date": 1313610788,
+      "question_id": 7098602,
+      "link": "https://stackoverflow.com/questions/7098602/add-a-default-value-to-a-column-through-a-migration",
+      "title": "Add a default value to a column through a migration"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "variables"
+      ],
+      "owner": {
+        "reputation": 4505,
+        "user_id": 1229490,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/3f4726cc8870b935fb15a85fa87022fe?s=128&d=identicon&r=PG",
+        "display_name": "OneZero",
+        "link": "https://stackoverflow.com/users/1229490/onezero"
+      },
+      "is_answered": true,
+      "view_count": 137859,
+      "accepted_answer_id": 14319518,
+      "answer_count": 7,
+      "score": 253,
+      "last_activity_date": 1553673698,
+      "creation_date": 1358170199,
+      "last_edit_date": 1424313209,
+      "question_id": 14319347,
+      "link": "https://stackoverflow.com/questions/14319347/variables-in-ruby-on-rails",
+      "title": "@ variables in Ruby on Rails"
+    },
+    {
+      "tags": [
+        "ruby-on-rails"
+      ],
+      "owner": {
+        "reputation": 43694,
+        "user_id": 90691,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/fb042ce6a66cc962a00576632311c880?s=128&d=identicon&r=PG",
+        "display_name": "marcgg",
+        "link": "https://stackoverflow.com/users/90691/marcgg"
+      },
+      "is_answered": true,
+      "view_count": 190972,
+      "accepted_answer_id": 2859275,
+      "answer_count": 17,
+      "score": 250,
+      "last_activity_date": 1558016871,
+      "creation_date": 1241118329,
+      "last_edit_date": 1276510108,
+      "question_id": 808547,
+      "link": "https://stackoverflow.com/questions/808547/fully-custom-validation-error-message-with-rails",
+      "title": "Fully custom validation error message with Rails"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "arrays",
+        "strong-parameters"
+      ],
+      "owner": {
+        "reputation": 16891,
+        "user_id": 577455,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/2f5b02182d3fa5ca4afeb39c32f09953?s=128&d=identicon&r=PG",
+        "display_name": "Leahcim",
+        "link": "https://stackoverflow.com/users/577455/leahcim"
+      },
+      "is_answered": true,
+      "view_count": 133927,
+      "accepted_answer_id": 16555975,
+      "answer_count": 5,
+      "score": 250,
+      "last_activity_date": 1539361173,
+      "creation_date": 1368552818,
+      "last_edit_date": 1491419539,
+      "question_id": 16549382,
+      "link": "https://stackoverflow.com/questions/16549382/how-to-permit-an-array-with-strong-parameters",
+      "title": "how to permit an array with strong parameters"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "migration"
+      ],
+      "owner": {
+        "reputation": 2083,
+        "user_id": 75777,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/311119cba0dc9ab6309e334f53434145?s=128&d=identicon&r=PG",
+        "display_name": "nan",
+        "link": "https://stackoverflow.com/users/75777/nan"
+      },
+      "is_answered": true,
+      "view_count": 129959,
+      "accepted_answer_id": 754316,
+      "answer_count": 10,
+      "score": 248,
+      "last_activity_date": 1530372208,
+      "creation_date": 1239832984,
+      "question_id": 753919,
+      "link": "https://stackoverflow.com/questions/753919/run-a-single-migration-file",
+      "title": "Run a single migration file"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "openssl",
+        "homebrew",
+        "rbenv"
+      ],
+      "owner": {
+        "reputation": 1257,
+        "user_id": 3822144,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/frnAu.jpg?s=128&g=1",
+        "display_name": "Lenek",
+        "link": "https://stackoverflow.com/users/3822144/lenek"
+      },
+      "is_answered": true,
+      "view_count": 54873,
+      "protected_date": 1420670813,
+      "accepted_answer_id": 25493698,
+      "answer_count": 10,
+      "score": 248,
+      "last_activity_date": 1483543389,
+      "creation_date": 1408993703,
+      "last_edit_date": 1408995633,
+      "question_id": 25492787,
+      "link": "https://stackoverflow.com/questions/25492787/ruby-bundle-symbol-not-found-sslv2-client-method-loaderror",
+      "title": "Ruby Bundle Symbol not found: _SSLv2_client_method (LoadError)"
+    },
+    {
+      "tags": [
+        "ruby-on-rails"
+      ],
+      "owner": {
+        "reputation": 101857,
+        "user_id": 39677,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://www.gravatar.com/avatar/77aa7bc1ace6e4b0b49a2102e4fa4059?s=128&d=identicon&r=PG",
+        "display_name": "Blankman",
+        "link": "https://stackoverflow.com/users/39677/blankman"
+      },
+      "is_answered": true,
+      "view_count": 163471,
+      "accepted_answer_id": 4473322,
+      "answer_count": 11,
+      "score": 247,
+      "last_activity_date": 1560507108,
+      "creation_date": 1292607377,
+      "question_id": 4473229,
+      "link": "https://stackoverflow.com/questions/4473229/rails-server-says-port-already-used-how-to-kill-that-process",
+      "title": "Rails server says port already used, how to kill that process?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "callback",
+        "update-attributes"
+      ],
+      "owner": {
+        "reputation": 31849,
+        "user_id": 225727,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://lh6.googleusercontent.com/-ClhTuVExL4w/AAAAAAAAAAI/AAAAAAAAAAc/C6ZXYYMKPKs/photo.jpg?sz=128",
+        "display_name": "thenengah",
+        "link": "https://stackoverflow.com/users/225727/thenengah"
+      },
+      "is_answered": true,
+      "view_count": 260792,
+      "accepted_answer_id": 2778671,
+      "answer_count": 11,
+      "score": 247,
+      "last_activity_date": 1562904865,
+      "creation_date": 1273121378,
+      "question_id": 2778522,
+      "link": "https://stackoverflow.com/questions/2778522/rails-update-attribute-vs-update-attributes",
+      "title": "Rails: update_attribute vs update_attributes"
+    },
+    {
+      "tags": [
+        "javascript",
+        "ruby-on-rails",
+        "ruby-on-rails-3",
+        "node.js",
+        "ruby-on-rails-3.1"
+      ],
+      "owner": {
+        "reputation": 61070,
+        "user_id": 631619,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/b6f3159af5195eddff62a2dd4f9ad969?s=128&d=identicon&r=PG",
+        "display_name": "Michael Durrant",
+        "link": "https://stackoverflow.com/users/631619/michael-durrant"
+      },
+      "is_answered": true,
+      "view_count": 128359,
+      "accepted_answer_id": 7481391,
+      "answer_count": 11,
+      "score": 243,
+      "last_activity_date": 1509489180,
+      "creation_date": 1313580611,
+      "last_edit_date": 1366206344,
+      "question_id": 7092107,
+      "link": "https://stackoverflow.com/questions/7092107/rails-could-not-find-a-javascript-runtime",
+      "title": "Rails - Could not find a JavaScript runtime?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby"
+      ],
+      "owner": {
+        "reputation": 22362,
+        "user_id": 356849,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://i.stack.imgur.com/I2llF.jpg?s=128&g=1",
+        "display_name": "NullVoxPopuli",
+        "link": "https://stackoverflow.com/users/356849/nullvoxpopuli"
+      },
+      "is_answered": true,
+      "view_count": 159129,
+      "accepted_answer_id": 3615712,
+      "answer_count": 11,
+      "score": 242,
+      "last_activity_date": 1521011259,
+      "creation_date": 1283324599,
+      "last_edit_date": 1379786477,
+      "question_id": 3615700,
+      "link": "https://stackoverflow.com/questions/3615700/ruby-what-is-the-easiest-way-to-remove-the-first-element-from-an-array",
+      "title": "Ruby: What is the easiest way to remove the first element from an array?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "pass-by-reference"
+      ],
+      "owner": {
+        "reputation": 2807,
+        "user_id": 181052,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://www.gravatar.com/avatar/5b1eca209b1b486ff1732ffb7c745f0e?s=128&d=identicon&r=PG",
+        "display_name": "Sid",
+        "link": "https://stackoverflow.com/users/181052/sid"
+      },
+      "is_answered": true,
+      "view_count": 101415,
+      "protected_date": 1467518943,
+      "accepted_answer_id": 1872159,
+      "answer_count": 12,
+      "score": 241,
+      "last_activity_date": 1513800577,
+      "creation_date": 1260342305,
+      "last_edit_date": 1402039104,
+      "question_id": 1872110,
+      "link": "https://stackoverflow.com/questions/1872110/is-ruby-pass-by-reference-or-by-value",
+      "title": "Is Ruby pass by reference or by value?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "ide"
+      ],
+      "owner": {
+        "reputation": 4289,
+        "user_id": 2066,
+        "user_type": "registered",
+        "accept_rate": 55,
+        "profile_image": "https://www.gravatar.com/avatar/dfb050b61e79d1caf60d0dd0693eec50?s=128&d=identicon&r=PG",
+        "display_name": "Ethan Gunderson",
+        "link": "https://stackoverflow.com/users/2066/ethan-gunderson"
+      },
+      "is_answered": true,
+      "view_count": 189226,
+      "accepted_answer_id": 55610,
+      "answer_count": 56,
+      "community_owned_date": 1261113562,
+      "score": 241,
+      "locked_date": 1334668264,
+      "last_activity_date": 1332668294,
+      "creation_date": 1221094259,
+      "last_edit_date": 1307701291,
+      "question_id": 55574,
+      "link": "https://stackoverflow.com/questions/55574/learning-ruby-on-rails",
+      "title": "Learning Ruby on Rails"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "database-connection",
+        "rails-postgresql",
+        "pg"
+      ],
+      "owner": {
+        "reputation": 1443,
+        "user_id": 753786,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/2e76c5b7085a5061ddc32d4566f01219?s=128&d=identicon&r=PG",
+        "display_name": "fadelakin",
+        "link": "https://stackoverflow.com/users/753786/fadelakin"
+      },
+      "is_answered": true,
+      "view_count": 209911,
+      "protected_date": 1481797596,
+      "accepted_answer_id": 21420719,
+      "answer_count": 30,
+      "score": 240,
+      "last_activity_date": 1562758981,
+      "creation_date": 1383800777,
+      "last_edit_date": 1386314101,
+      "question_id": 19828385,
+      "link": "https://stackoverflow.com/questions/19828385/pgconnectionbad-could-not-connect-to-server-connection-refused",
+      "title": "PG::ConnectionBad - could not connect to server: Connection refused"
+    },
+    {
+      "tags": [
+        "ruby-on-rails"
+      ],
+      "owner": {
+        "reputation": 9588,
+        "user_id": 609,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://i.stack.imgur.com/P0Jex.jpg?s=128&g=1",
+        "display_name": "Justin Tanner",
+        "link": "https://stackoverflow.com/users/609/justin-tanner"
+      },
+      "is_answered": true,
+      "view_count": 131929,
+      "accepted_answer_id": 5609947,
+      "answer_count": 3,
+      "score": 240,
+      "last_activity_date": 1478101358,
+      "creation_date": 1280811664,
+      "last_edit_date": 1464987901,
+      "question_id": 3393687,
+      "link": "https://stackoverflow.com/questions/3393687/default-sort-order-for-a-rails-model",
+      "title": "Default sort order for a rails model?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "directory-structure"
+      ],
+      "owner": {
+        "reputation": 43042,
+        "user_id": 8047,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/771d6811baa1b117dd8a5ff0708fc66b?s=128&d=identicon&r=PG",
+        "display_name": "Dan Rosenstark",
+        "link": "https://stackoverflow.com/users/8047/dan-rosenstark"
+      },
+      "is_answered": true,
+      "view_count": 55941,
+      "accepted_answer_id": 1071510,
+      "answer_count": 4,
+      "score": 240,
+      "last_activity_date": 1505251008,
+      "creation_date": 1246447090,
+      "last_edit_date": 1267748425,
+      "question_id": 1068558,
+      "link": "https://stackoverflow.com/questions/1068558/oo-design-in-rails-where-to-put-stuff",
+      "title": "OO Design in Rails: Where to put stuff"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "rubygems",
+        "compatibility"
+      ],
+      "owner": {
+        "reputation": 1472,
+        "user_id": 1260905,
+        "user_type": "registered",
+        "accept_rate": 43,
+        "profile_image": "https://www.gravatar.com/avatar/17156d5c1f0e7833883a5faccc34b4ac?s=128&d=identicon&r=PG",
+        "display_name": "Sokmesa Khiev",
+        "link": "https://stackoverflow.com/users/1260905/sokmesa-khiev"
+      },
+      "is_answered": true,
+      "view_count": 113101,
+      "accepted_answer_id": 5176830,
+      "answer_count": 11,
+      "score": 237,
+      "last_activity_date": 1382131179,
+      "creation_date": 1299127805,
+      "last_edit_date": 1306091843,
+      "question_id": 5176782,
+      "link": "https://stackoverflow.com/questions/5176782/uninitialized-constant-activesupportdependenciesmutex-nameerror",
+      "title": "Uninitialized constant ActiveSupport::Dependencies::Mutex (NameError)"
+    },
+    {
+      "tags": [
+        "sql",
+        "ruby-on-rails",
+        "console"
+      ],
+      "owner": {
+        "reputation": 8374,
+        "user_id": 373522,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/c0235f7d6e9cef30c7337506e067ed35?s=128&d=identicon&r=PG",
+        "display_name": "gylaz",
+        "link": "https://stackoverflow.com/users/373522/gylaz"
+      },
+      "is_answered": true,
+      "view_count": 83320,
+      "accepted_answer_id": 7760140,
+      "answer_count": 8,
+      "score": 236,
+      "last_activity_date": 1558108794,
+      "creation_date": 1318533567,
+      "last_edit_date": 1450482178,
+      "question_id": 7759321,
+      "link": "https://stackoverflow.com/questions/7759321/disable-rails-sql-logging-in-console",
+      "title": "Disable Rails SQL logging in console"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "erb"
+      ],
+      "owner": {
+        "reputation": 2412,
+        "user_id": 278823,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://i.stack.imgur.com/WOF8F.png?s=128&g=1",
+        "display_name": "Kalyan Maddu",
+        "link": "https://stackoverflow.com/users/278823/kalyan-maddu"
+      },
+      "is_answered": true,
+      "view_count": 69560,
+      "accepted_answer_id": 2774858,
+      "answer_count": 7,
+      "score": 233,
+      "last_activity_date": 1559190743,
+      "creation_date": 1273075062,
+      "last_edit_date": 1531422597,
+      "question_id": 2774841,
+      "link": "https://stackoverflow.com/questions/2774841/best-way-to-add-comments-in-erb",
+      "title": "Best way to add comments in erb"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby"
+      ],
+      "owner": {
+        "reputation": 5954,
+        "user_id": 88898,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/b5d66532a7893e1cc81d4a0838d9c285?s=128&d=identicon&r=PG",
+        "display_name": "felix",
+        "link": "https://stackoverflow.com/users/88898/felix"
+      },
+      "is_answered": true,
+      "view_count": 118514,
+      "accepted_answer_id": 3136485,
+      "answer_count": 6,
+      "score": 232,
+      "last_activity_date": 1529105044,
+      "creation_date": 1277761949,
+      "last_edit_date": 1418676470,
+      "question_id": 3136420,
+      "link": "https://stackoverflow.com/questions/3136420/difference-between-attr-accessor-and-attr-accessible",
+      "title": "Difference between attr_accessor and attr_accessible"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "jquery",
+        "csrf"
+      ],
+      "owner": {
+        "reputation": 2219,
+        "user_id": 833351,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/a5668730d21f421f8e2be0d782cdc337?s=128&d=identicon&r=PG",
+        "display_name": "kbaccouche",
+        "link": "https://stackoverflow.com/users/833351/kbaccouche"
+      },
+      "is_answered": true,
+      "view_count": 149797,
+      "accepted_answer_id": 8175979,
+      "answer_count": 17,
+      "score": 230,
+      "last_activity_date": 1525275516,
+      "creation_date": 1314354238,
+      "last_edit_date": 1452212998,
+      "question_id": 7203304,
+      "link": "https://stackoverflow.com/questions/7203304/warning-cant-verify-csrf-token-authenticity-rails",
+      "title": "WARNING: Can&#39;t verify CSRF token authenticity rails"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "devise"
+      ],
+      "owner": {
+        "reputation": 2009,
+        "user_id": 92759,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/d63455dcde7171be95c6c272eab16ccb?s=128&d=identicon&r=PG",
+        "display_name": "Craig McGuff",
+        "link": "https://stackoverflow.com/users/92759/craig-mcguff"
+      },
+      "is_answered": true,
+      "view_count": 168751,
+      "accepted_answer_id": 3553561,
+      "answer_count": 6,
+      "score": 230,
+      "last_activity_date": 1469152132,
+      "creation_date": 1282555949,
+      "last_edit_date": 1495542395,
+      "question_id": 3546289,
+      "link": "https://stackoverflow.com/questions/3546289/override-devise-registrations-controller",
+      "title": "Override devise registrations controller"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby-on-rails-3",
+        "ruby-on-rails-3.2",
+        "rvm",
+        "rvmrc"
+      ],
+      "owner": {
+        "reputation": 7735,
+        "user_id": 225211,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/ffecbcf66a00399a03521069f61c2902?s=128&d=identicon&r=PG",
+        "display_name": "Daniel Kehoe",
+        "link": "https://stackoverflow.com/users/225211/daniel-kehoe"
+      },
+      "is_answered": true,
+      "view_count": 73547,
+      "protected_date": 1365822017,
+      "accepted_answer_id": 15709012,
+      "answer_count": 5,
+      "score": 227,
+      "last_activity_date": 1468532750,
+      "creation_date": 1364580548,
+      "last_edit_date": 1404136779,
+      "question_id": 15708916,
+      "link": "https://stackoverflow.com/questions/15708916/use-rvmrc-or-ruby-version-file-to-set-a-project-gemset-with-rvm",
+      "title": "Use rvmrc or ruby-version file to set a project gemset with RVM?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "activerecord",
+        "relation"
+      ],
+      "owner": {
+        "reputation": 1325,
+        "user_id": 551558,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/48fd05ba77d5a507e996b92e7c949d92?s=128&d=identicon&r=PG",
+        "display_name": "dzajic",
+        "link": "https://stackoverflow.com/users/551558/dzajic"
+      },
+      "is_answered": true,
+      "view_count": 64699,
+      "accepted_answer_id": 10001043,
+      "answer_count": 9,
+      "score": 226,
+      "last_activity_date": 1478658345,
+      "creation_date": 1296669030,
+      "question_id": 4877931,
+      "link": "https://stackoverflow.com/questions/4877931/how-to-return-an-empty-activerecord-relation",
+      "title": "How to return an empty ActiveRecord relation?"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby-on-rails-4"
+      ],
+      "owner": {
+        "reputation": 76486,
+        "user_id": 165673,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/e43e620f96a26bf6ee7fa70750c0302a?s=128&d=identicon&r=PG",
+        "display_name": "Yarin",
+        "link": "https://stackoverflow.com/users/165673/yarin"
+      },
+      "is_answered": true,
+      "view_count": 125035,
+      "accepted_answer_id": 19650564,
+      "answer_count": 4,
+      "score": 224,
+      "last_activity_date": 1560911495,
+      "creation_date": 1380556724,
+      "last_edit_date": 1560907347,
+      "question_id": 19098663,
+      "link": "https://stackoverflow.com/questions/19098663/auto-loading-lib-files-in-rails-4",
+      "title": "Auto-loading lib files in Rails 4"
+    },
+    {
+      "tags": [
+        "ruby-on-rails",
+        "ruby"
+      ],
+      "owner": {
+        "reputation": 1568,
+        "user_id": 217326,
+        "user_type": "unregistered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/12bc4c115636b11d5e0fbd38c6c61b01?s=128&d=identicon&r=PG",
+        "display_name": "Christopher",
+        "link": "https://stackoverflow.com/users/217326/christopher"
+      },
+      "is_answered": true,
+      "view_count": 161660,
+      "accepted_answer_id": 2004697,
+      "answer_count": 6,
+      "score": 223,
+      "last_activity_date": 1423044992,
+      "creation_date": 1262672213,
+      "last_edit_date": 1262684856,
+      "question_id": 2004491,
+      "link": "https://stackoverflow.com/questions/2004491/convert-string-to-symbol-able-in-ruby",
+      "title": "Convert string to symbol-able in ruby"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 255
+}

@@ -1,0 +1,2809 @@
+
+{
+  "items": [
+    {
+      "tags": [
+        "php",
+        "operators",
+        "symbols",
+        "php-5.3"
+      ],
+      "owner": {
+        "reputation": 270705,
+        "user_id": 208809,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/LXDBV.png?s=128&g=1",
+        "display_name": "Gordon",
+        "link": "https://stackoverflow.com/users/208809/gordon"
+      },
+      "is_answered": true,
+      "view_count": 605414,
+      "protected_date": 1368947826,
+      "accepted_answer_id": 3737177,
+      "answer_count": 18,
+      "community_owned_date": 1284740647,
+      "score": 4209,
+      "last_activity_date": 1556698661,
+      "creation_date": 1284740647,
+      "last_edit_date": 1550818951,
+      "question_id": 3737139,
+      "link": "https://stackoverflow.com/questions/3737139/reference-what-does-this-symbol-mean-in-php",
+      "title": "Reference — What does this symbol mean in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "mysql",
+        "sql",
+        "security",
+        "sql-injection"
+      ],
+      "owner": {
+        "reputation": 13847,
+        "user_id": 428190,
+        "user_type": "registered",
+        "accept_rate": 49,
+        "profile_image": "https://www.gravatar.com/avatar/980fe8340a6d455c77c13ed357851476?s=128&d=identicon&r=PG",
+        "display_name": "Andrew G. Johnson",
+        "link": "https://stackoverflow.com/users/428190/andrew-g-johnson"
+      },
+      "is_answered": true,
+      "view_count": 1604133,
+      "protected_date": 1338976740,
+      "accepted_answer_id": 60496,
+      "answer_count": 28,
+      "community_owned_date": 1352132329,
+      "score": 2776,
+      "locked_date": 1400621423,
+      "last_activity_date": 1563198545,
+      "creation_date": 1221263700,
+      "last_edit_date": 1475309307,
+      "question_id": 60174,
+      "link": "https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php",
+      "title": "How can I prevent SQL injection in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "string",
+        "substring",
+        "contains",
+        "string-matching"
+      ],
+      "owner": {
+        "reputation": 17791,
+        "user_id": 495452,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/2eba5889f7d62adf03cc2db276ba7b8e?s=128&d=identicon&r=PG",
+        "display_name": "Charles Yeung",
+        "link": "https://stackoverflow.com/users/495452/charles-yeung"
+      },
+      "is_answered": true,
+      "view_count": 4426896,
+      "protected_date": 1367185616,
+      "accepted_answer_id": 4366748,
+      "answer_count": 36,
+      "community_owned_date": 1525414404,
+      "score": 2664,
+      "locked_date": 1525414263,
+      "last_activity_date": 1562746890,
+      "creation_date": 1291641245,
+      "last_edit_date": 1525170652,
+      "question_id": 4366730,
+      "link": "https://stackoverflow.com/questions/4366730/how-do-i-check-if-a-string-contains-a-specific-word",
+      "title": "How do I check if a string contains a specific word?"
+    },
+    {
+      "tags": [
+        "php",
+        "mysql",
+        "database"
+      ],
+      "owner": {
+        "reputation": 122042,
+        "user_id": 871050,
+        "user_type": "moderator",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/a7a50a9492be737b0c012a839338272a?s=128&d=identicon&r=PG",
+        "display_name": "Madara Uchiha",
+        "link": "https://stackoverflow.com/users/871050/madara-uchiha"
+      },
+      "is_answered": true,
+      "view_count": 204914,
+      "protected_date": 1350250348,
+      "accepted_answer_id": 12860046,
+      "answer_count": 15,
+      "score": 2390,
+      "last_activity_date": 1547847467,
+      "creation_date": 1350047919,
+      "last_edit_date": 1513181492,
+      "question_id": 12859942,
+      "link": "https://stackoverflow.com/questions/12859942/why-shouldnt-i-use-mysql-functions-in-php",
+      "title": "Why shouldn&#39;t I use mysql_* functions in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays"
+      ],
+      "owner": {
+        "reputation": 26804,
+        "user_id": 11522,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/a0146d458e8d014cdfa38f832d91adbb?s=128&d=identicon&r=PG",
+        "display_name": "Ben",
+        "link": "https://stackoverflow.com/users/11522/ben"
+      },
+      "is_answered": true,
+      "view_count": 2315802,
+      "protected_date": 1328197589,
+      "accepted_answer_id": 369608,
+      "answer_count": 37,
+      "score": 2275,
+      "last_activity_date": 1560865078,
+      "creation_date": 1229372935,
+      "last_edit_date": 1556734233,
+      "question_id": 369602,
+      "link": "https://stackoverflow.com/questions/369602/deleting-an-element-from-an-array-in-php",
+      "title": "Deleting an element from an array in PHP"
+    },
+    {
+      "tags": [
+        "php",
+        "curl",
+        "youtube",
+        "youtube-api",
+        "youtube-data-api"
+      ],
+      "owner": {
+        "reputation": 16734,
+        "user_id": 241654,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://www.gravatar.com/avatar/23efd8fa757f521bb602c8fc1d47b176?s=128&d=identicon&r=PG",
+        "display_name": "Ryan",
+        "link": "https://stackoverflow.com/users/241654/ryan"
+      },
+      "is_answered": true,
+      "view_count": 1493570,
+      "protected_date": 1374426778,
+      "accepted_answer_id": 2068371,
+      "answer_count": 31,
+      "score": 2217,
+      "last_activity_date": 1562797078,
+      "creation_date": 1263512064,
+      "last_edit_date": 1430142425,
+      "question_id": 2068344,
+      "link": "https://stackoverflow.com/questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api",
+      "title": "How do I get a YouTube video thumbnail from the YouTube API?"
+    },
+    {
+      "tags": [
+        "php",
+        "xml",
+        "parsing",
+        "xml-parsing",
+        "html-parsing"
+      ],
+      "owner": {
+        "reputation": 46082,
+        "user_id": 353790,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/081db2e34f4bb15f7a390806fe939258?s=128&d=identicon&r=PG",
+        "display_name": "RobertPitt",
+        "link": "https://stackoverflow.com/users/353790/robertpitt"
+      },
+      "is_answered": true,
+      "view_count": 393388,
+      "protected_date": 1370841224,
+      "accepted_answer_id": 3577662,
+      "answer_count": 30,
+      "community_owned_date": 1365387712,
+      "score": 2037,
+      "last_activity_date": 1555331405,
+      "creation_date": 1282843039,
+      "last_edit_date": 1555331405,
+      "question_id": 3577641,
+      "link": "https://stackoverflow.com/questions/3577641/how-do-you-parse-and-process-html-xml-in-php",
+      "title": "How do you parse and process HTML/XML in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "class",
+        "oop",
+        "scope"
+      ],
+      "owner": {
+        "reputation": 30710,
+        "user_id": 4682,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/cbebdf1cdbb5aefd1a023f524d04364c?s=128&d=identicon&r=PG",
+        "display_name": "Casey Watson",
+        "link": "https://stackoverflow.com/users/4682/casey-watson"
+      },
+      "is_answered": true,
+      "view_count": 661133,
+      "protected_date": 1374678418,
+      "accepted_answer_id": 151976,
+      "answer_count": 22,
+      "score": 1907,
+      "last_activity_date": 1561402981,
+      "creation_date": 1222755786,
+      "last_edit_date": 1561402981,
+      "question_id": 151969,
+      "link": "https://stackoverflow.com/questions/151969/when-to-use-self-over-this",
+      "title": "When to use self over $this?"
+    },
+    {
+      "tags": [
+        "php",
+        "loops",
+        "foreach",
+        "iteration",
+        "php-internals"
+      ],
+      "owner": {
+        "reputation": 69211,
+        "user_id": 889949,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/8609c7056e725f9e8c03c594b831353e?s=128&d=identicon&r=PG",
+        "display_name": "DaveRandom",
+        "link": "https://stackoverflow.com/users/889949/daverandom"
+      },
+      "is_answered": true,
+      "view_count": 375571,
+      "protected_date": 1362042654,
+      "accepted_answer_id": 14854568,
+      "answer_count": 7,
+      "score": 1851,
+      "last_activity_date": 1557851341,
+      "creation_date": 1333827237,
+      "last_edit_date": 1482807131,
+      "question_id": 10057671,
+      "link": "https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work",
+      "title": "How does PHP &#39;foreach&#39; actually work?"
+    },
+    {
+      "tags": [
+        "php",
+        "error-reporting"
+      ],
+      "owner": {
+        "reputation": 21105,
+        "user_id": 51649,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://i.stack.imgur.com/ZPArK.jpg?s=128&g=1",
+        "display_name": "Abs",
+        "link": "https://stackoverflow.com/users/51649/abs"
+      },
+      "is_answered": true,
+      "view_count": 2769213,
+      "protected_date": 1465410158,
+      "accepted_answer_id": 21429652,
+      "answer_count": 26,
+      "score": 1582,
+      "last_activity_date": 1561710360,
+      "creation_date": 1246129799,
+      "last_edit_date": 1561638154,
+      "question_id": 1053424,
+      "link": "https://stackoverflow.com/questions/1053424/how-do-i-get-php-errors-to-display",
+      "title": "How do I get PHP errors to display?"
+    },
+    {
+      "tags": [
+        "php",
+        "html",
+        "css",
+        "pdf",
+        "pdf-generation"
+      ],
+      "owner": {
+        "reputation": 520898,
+        "user_id": 18393,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/2f364c2e36b52bc80296cbf23da8b231?s=128&d=identicon&r=PG",
+        "display_name": "cletus",
+        "link": "https://stackoverflow.com/users/18393/cletus"
+      },
+      "is_answered": true,
+      "view_count": 828315,
+      "protected_date": 1306029549,
+      "closed_date": 1476901512,
+      "accepted_answer_id": 434827,
+      "answer_count": 30,
+      "community_owned_date": 1386500962,
+      "score": 1546,
+      "last_activity_date": 1556092713,
+      "creation_date": 1230106460,
+      "last_edit_date": 1525297582,
+      "question_id": 391005,
+      "link": "https://stackoverflow.com/questions/391005/convert-html-css-to-pdf-with-php",
+      "closed_reason": "off-topic",
+      "title": "Convert HTML + CSS to PDF with PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "string"
+      ],
+      "owner": {
+        "reputation": 103582,
+        "user_id": 49153,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/833df8cee775eea743cb1172dfcd3809?s=128&d=identicon&r=PG",
+        "display_name": "Click Upvote",
+        "link": "https://stackoverflow.com/users/49153/click-upvote"
+      },
+      "is_answered": true,
+      "view_count": 778151,
+      "protected_date": 1362053845,
+      "accepted_answer_id": 834355,
+      "answer_count": 30,
+      "score": 1356,
+      "last_activity_date": 1556792869,
+      "creation_date": 1241698467,
+      "last_edit_date": 1517675497,
+      "question_id": 834303,
+      "link": "https://stackoverflow.com/questions/834303/startswith-and-endswith-functions-in-php",
+      "title": "startsWith() and endsWith() functions in PHP"
+    },
+    {
+      "tags": [
+        "php",
+        "passwords",
+        "cryptography",
+        "password-protection",
+        "bcrypt"
+      ],
+      "owner": {
+        "reputation": 63159,
+        "user_id": 41360,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/7bd2e50770e937761cfc3811a332bccc?s=128&d=identicon&r=PG",
+        "display_name": "Vilx-",
+        "link": "https://stackoverflow.com/users/41360/vilx"
+      },
+      "is_answered": true,
+      "view_count": 367316,
+      "protected_date": 1336063583,
+      "accepted_answer_id": 6337021,
+      "answer_count": 9,
+      "score": 1214,
+      "last_activity_date": 1524165000,
+      "creation_date": 1295969644,
+      "last_edit_date": 1397408510,
+      "question_id": 4795385,
+      "link": "https://stackoverflow.com/questions/4795385/how-do-you-use-bcrypt-for-hashing-passwords-in-php",
+      "title": "How do you use bcrypt for hashing passwords in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "redirect"
+      ],
+      "owner": {
+        "reputation": 6951,
+        "user_id": 93181,
+        "user_type": "registered",
+        "accept_rate": 11,
+        "profile_image": "https://www.gravatar.com/avatar/780d030718366775f205259d68aa012a?s=128&d=identicon&r=PG",
+        "display_name": "Sam",
+        "link": "https://stackoverflow.com/users/93181/sam"
+      },
+      "is_answered": true,
+      "view_count": 2584951,
+      "protected_date": 1300174842,
+      "answer_count": 31,
+      "score": 1157,
+      "last_activity_date": 1560322523,
+      "creation_date": 1240236802,
+      "last_edit_date": 1550473185,
+      "question_id": 768431,
+      "link": "https://stackoverflow.com/questions/768431/how-do-i-make-a-redirect-in-php",
+      "title": "How do I make a redirect in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "security",
+        "passwords",
+        "hash",
+        "protection"
+      ],
+      "owner": {
+        "reputation": 15264,
+        "user_id": 32775,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/853ea0ee58ffef56c0b32e34d0a935c2?s=128&d=identicon&r=PG",
+        "display_name": "luiscubal",
+        "link": "https://stackoverflow.com/users/32775/luiscubal"
+      },
+      "is_answered": true,
+      "view_count": 204987,
+      "protected_date": 1340666196,
+      "accepted_answer_id": 401684,
+      "answer_count": 14,
+      "score": 1124,
+      "last_activity_date": 1521539323,
+      "creation_date": 1230674565,
+      "last_edit_date": 1495541905,
+      "question_id": 401656,
+      "link": "https://stackoverflow.com/questions/401656/secure-hash-and-salt-for-php-passwords",
+      "title": "Secure hash and salt for PHP passwords"
+    },
+    {
+      "tags": [
+        "php",
+        "include",
+        "require",
+        "require-once"
+      ],
+      "owner": {
+        "reputation": 15587,
+        "user_id": 209102,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/82349e7bba6f517a2b50be2c38fd5d70?s=128&d=identicon&r=PG",
+        "display_name": "Scott B",
+        "link": "https://stackoverflow.com/users/209102/scott-b"
+      },
+      "is_answered": true,
+      "view_count": 542572,
+      "protected_date": 1514486635,
+      "accepted_answer_id": 2418514,
+      "answer_count": 24,
+      "score": 1123,
+      "last_activity_date": 1563213846,
+      "creation_date": 1268237605,
+      "last_edit_date": 1522150781,
+      "question_id": 2418473,
+      "link": "https://stackoverflow.com/questions/2418473/difference-between-require-include-require-once-and-include-once",
+      "title": "Difference between require, include, require_once and include_once?"
+    },
+    {
+      "tags": [
+        "php",
+        "mysql",
+        "linux",
+        "apache",
+        "utf-8"
+      ],
+      "owner": {
+        "reputation": 12411,
+        "user_id": 1951,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/e4eab71558df1d87fecfa2b64f6f709a?s=128&d=identicon&r=PG",
+        "display_name": "mercutio",
+        "link": "https://stackoverflow.com/users/1951/mercutio"
+      },
+      "is_answered": true,
+      "view_count": 142978,
+      "protected_date": 1389013050,
+      "accepted_answer_id": 279279,
+      "answer_count": 14,
+      "score": 1119,
+      "last_activity_date": 1562602739,
+      "creation_date": 1226351096,
+      "last_edit_date": 1547066880,
+      "question_id": 279170,
+      "link": "https://stackoverflow.com/questions/279170/utf-8-all-the-way-through",
+      "title": "UTF-8 all the way through"
+    },
+    {
+      "tags": [
+        "php",
+        "environment-variables",
+        "ip-address"
+      ],
+      "owner": {
+        "reputation": 5602,
+        "user_id": 356170,
+        "user_type": "registered",
+        "accept_rate": 36,
+        "profile_image": "https://i.stack.imgur.com/3abVx.jpg?s=128&g=1",
+        "display_name": "Anup Prakash",
+        "link": "https://stackoverflow.com/users/356170/anup-prakash"
+      },
+      "is_answered": true,
+      "view_count": 1447751,
+      "protected_date": 1396114579,
+      "closed_date": 1562235302,
+      "answer_count": 30,
+      "score": 1097,
+      "last_activity_date": 1561277058,
+      "creation_date": 1276059016,
+      "last_edit_date": 1550073414,
+      "question_id": 3003145,
+      "link": "https://stackoverflow.com/questions/3003145/how-to-get-the-client-ip-address-in-php",
+      "closed_reason": "duplicate",
+      "title": "How to get the client IP address in PHP"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays",
+        "variables",
+        "warnings",
+        "undefined-index"
+      ],
+      "owner": {
+        "reputation": 365835,
+        "user_id": 187606,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://i.stack.imgur.com/zzxoB.jpg?s=128&g=1",
+        "display_name": "Pekka 웃",
+        "link": "https://stackoverflow.com/users/187606/pekka-%ec%9b%83"
+      },
+      "is_answered": true,
+      "view_count": 1552344,
+      "protected_date": 1355054451,
+      "accepted_answer_id": 4261200,
+      "answer_count": 28,
+      "community_owned_date": 1290549165,
+      "score": 1096,
+      "last_activity_date": 1562526061,
+      "creation_date": 1290547614,
+      "last_edit_date": 1562526061,
+      "question_id": 4261133,
+      "link": "https://stackoverflow.com/questions/4261133/notice-undefined-variable-notice-undefined-index-and-notice-undefined",
+      "title": "&quot;Notice: Undefined variable&quot;, &quot;Notice: Undefined index&quot;, and &quot;Notice: Undefined offset&quot; using PHP"
+    },
+    {
+      "tags": [
+        "php",
+        "enumeration"
+      ],
+      "owner": {
+        "reputation": 44227,
+        "user_id": 2238,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/33f7b52ddceb5ed2ffb12400a4cbceb8?s=128&d=identicon&r=PG",
+        "display_name": "Henrik Paul",
+        "link": "https://stackoverflow.com/users/2238/henrik-paul"
+      },
+      "is_answered": true,
+      "view_count": 450119,
+      "protected_date": 1377231140,
+      "accepted_answer_id": 254543,
+      "answer_count": 37,
+      "score": 1087,
+      "last_activity_date": 1557279782,
+      "creation_date": 1225479074,
+      "last_edit_date": 1386296300,
+      "question_id": 254514,
+      "link": "https://stackoverflow.com/questions/254514/php-and-enumerations",
+      "title": "PHP and Enumerations"
+    },
+    {
+      "tags": [
+        "php",
+        "security",
+        "xss",
+        "sql-injection",
+        "user-input"
+      ],
+      "owner": {
+        "reputation": 11708,
+        "user_id": 10680,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/d0jeW.png?s=128&g=1",
+        "display_name": "Brent",
+        "link": "https://stackoverflow.com/users/10680/brent"
+      },
+      "is_answered": true,
+      "view_count": 480201,
+      "protected_date": 1389760080,
+      "accepted_answer_id": 130323,
+      "answer_count": 19,
+      "score": 1056,
+      "last_activity_date": 1563231525,
+      "creation_date": 1222287639,
+      "last_edit_date": 1561574043,
+      "question_id": 129677,
+      "link": "https://stackoverflow.com/questions/129677/how-can-i-sanitize-user-input-with-php",
+      "title": "How can I sanitize user input with PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "oop",
+        "debugging",
+        "warnings"
+      ],
+      "owner": {
+        "reputation": 162840,
+        "user_id": 367456,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://i.stack.imgur.com/MGhY2.png?s=128&g=1",
+        "display_name": "hakre",
+        "link": "https://stackoverflow.com/users/367456/hakre"
+      },
+      "is_answered": true,
+      "view_count": 179206,
+      "protected_date": 1444035548,
+      "answer_count": 34,
+      "community_owned_date": 1349631133,
+      "score": 1048,
+      "last_activity_date": 1562464938,
+      "creation_date": 1349622660,
+      "last_edit_date": 1561160067,
+      "question_id": 12769982,
+      "link": "https://stackoverflow.com/questions/12769982/reference-what-does-this-error-mean-in-php",
+      "title": "Reference - What does this error mean in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays",
+        "sorting",
+        "multidimensional-array"
+      ],
+      "owner": {
+        "reputation": 10430,
+        "user_id": 149664,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/1272b33501c452d53ef55c5113a51b80?s=128&d=identicon&r=PG",
+        "display_name": "stef",
+        "link": "https://stackoverflow.com/users/149664/stef"
+      },
+      "is_answered": true,
+      "view_count": 714229,
+      "protected_date": 1520933375,
+      "accepted_answer_id": 2699159,
+      "answer_count": 10,
+      "score": 1006,
+      "last_activity_date": 1561630046,
+      "creation_date": 1272030866,
+      "last_edit_date": 1545241602,
+      "question_id": 2699086,
+      "link": "https://stackoverflow.com/questions/2699086/how-to-sort-multi-dimensional-array-by-value",
+      "title": "How to Sort Multi-dimensional Array by Value?"
+    },
+    {
+      "tags": [
+        "php",
+        "session",
+        "cookies"
+      ],
+      "owner": {
+        "reputation": 13060,
+        "user_id": 45350,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://graph.facebook.com/653210314/picture?type=large",
+        "display_name": "Tom",
+        "link": "https://stackoverflow.com/users/45350/tom"
+      },
+      "is_answered": true,
+      "view_count": 898487,
+      "protected_date": 1515781647,
+      "accepted_answer_id": 1270960,
+      "answer_count": 13,
+      "score": 998,
+      "last_activity_date": 1553837962,
+      "creation_date": 1233926054,
+      "last_edit_date": 1318491525,
+      "question_id": 520237,
+      "link": "https://stackoverflow.com/questions/520237/how-do-i-expire-a-php-session-after-30-minutes",
+      "title": "How do I expire a PHP session after 30 minutes?"
+    },
+    {
+      "tags": [
+        "php",
+        "stdclass"
+      ],
+      "owner": {
+        "reputation": 6588,
+        "user_id": 95663,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/8e15c88a3b8c621821eb55a77f87e5bd?s=128&d=identicon&r=PG",
+        "display_name": "Keira Nighly",
+        "link": "https://stackoverflow.com/users/95663/keira-nighly"
+      },
+      "is_answered": true,
+      "view_count": 530183,
+      "protected_date": 1385873878,
+      "accepted_answer_id": 931419,
+      "answer_count": 16,
+      "score": 988,
+      "last_activity_date": 1520938101,
+      "creation_date": 1243748941,
+      "last_edit_date": 1423881773,
+      "question_id": 931407,
+      "link": "https://stackoverflow.com/questions/931407/what-is-stdclass-in-php",
+      "title": "What is stdClass in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "url"
+      ],
+      "owner": {
+        "reputation": 18889,
+        "user_id": 735997,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/71c31702ecc6822af890de6286f08a0c?s=128&d=identicon&r=PG",
+        "display_name": "DiegoP.",
+        "link": "https://stackoverflow.com/users/735997/diegop"
+      },
+      "is_answered": true,
+      "view_count": 2592673,
+      "protected_date": 1446791733,
+      "accepted_answer_id": 6768831,
+      "answer_count": 28,
+      "score": 978,
+      "locked_date": 1531701270,
+      "last_activity_date": 1560825646,
+      "creation_date": 1311197391,
+      "last_edit_date": 1391334505,
+      "question_id": 6768793,
+      "link": "https://stackoverflow.com/questions/6768793/get-the-full-url-in-php",
+      "title": "Get the full URL in PHP"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays"
+      ],
+      "owner": {
+        "reputation": 109663,
+        "user_id": 223386,
+        "user_type": "registered",
+        "accept_rate": 99,
+        "profile_image": "https://www.gravatar.com/avatar/36ee7470120462548bffafb876d4984a?s=128&d=identicon&r=PG",
+        "display_name": "hsz",
+        "link": "https://stackoverflow.com/users/223386/hsz"
+      },
+      "is_answered": true,
+      "view_count": 1249058,
+      "protected_date": 1344515573,
+      "accepted_answer_id": 3771228,
+      "answer_count": 37,
+      "score": 973,
+      "last_activity_date": 1563375282,
+      "creation_date": 1261052804,
+      "last_edit_date": 1397290263,
+      "question_id": 1921421,
+      "link": "https://stackoverflow.com/questions/1921421/get-the-first-element-of-an-array",
+      "title": "Get the first element of an array"
+    },
+    {
+      "tags": [
+        "php",
+        "websocket",
+        "comet",
+        "long-polling",
+        "server-sent-events"
+      ],
+      "owner": {
+        "reputation": 6530,
+        "user_id": 1437328,
+        "user_type": "registered",
+        "accept_rate": 55,
+        "profile_image": "https://www.gravatar.com/avatar/21f23c368cb3d4f3f6ad23fc1d96a7c5?s=128&d=identicon&r=PG",
+        "display_name": "user1437328",
+        "link": "https://stackoverflow.com/users/1437328/user1437328"
+      },
+      "is_answered": true,
+      "view_count": 167004,
+      "protected_date": 1404893507,
+      "accepted_answer_id": 12855533,
+      "answer_count": 4,
+      "score": 965,
+      "last_activity_date": 1555259896,
+      "creation_date": 1340000888,
+      "last_edit_date": 1478986029,
+      "question_id": 11077857,
+      "link": "https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet",
+      "title": "What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?"
+    },
+    {
+      "tags": [
+        "php",
+        "mysql"
+      ],
+      "owner": {
+        "reputation": 10641,
+        "user_id": 299871,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/867eaa9dd8d8c71f8182c78a701fbb68?s=128&d=identicon&r=PG",
+        "display_name": "iamjonesy",
+        "link": "https://stackoverflow.com/users/299871/iamjonesy"
+      },
+      "is_answered": true,
+      "view_count": 728150,
+      "protected_date": 1395525438,
+      "accepted_answer_id": 2973209,
+      "answer_count": 32,
+      "score": 928,
+      "last_activity_date": 1555430667,
+      "creation_date": 1275646688,
+      "last_edit_date": 1547755088,
+      "question_id": 2973202,
+      "link": "https://stackoverflow.com/questions/2973202/mysql-fetch-array-mysql-fetch-assoc-mysql-fetch-row-mysql-num-rows-etc",
+      "title": "mysql_fetch_array()/mysql_fetch_assoc()/mysql_fetch_row()/mysql_num_rows etc... expects parameter 1 to be resource or result"
+    },
+    {
+      "tags": [
+        "php",
+        "oop",
+        "private",
+        "public",
+        "protected"
+      ],
+      "owner": {
+        "reputation": 22334,
+        "user_id": 380562,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.stack.imgur.com/ShCrU.jpg?s=128&g=1",
+        "display_name": "Adam",
+        "link": "https://stackoverflow.com/users/380562/adam"
+      },
+      "is_answered": true,
+      "view_count": 451479,
+      "protected_date": 1348188082,
+      "accepted_answer_id": 4361582,
+      "answer_count": 16,
+      "score": 923,
+      "last_activity_date": 1561099501,
+      "creation_date": 1291587194,
+      "last_edit_date": 1483316200,
+      "question_id": 4361553,
+      "link": "https://stackoverflow.com/questions/4361553/what-is-the-difference-between-public-private-and-protected",
+      "title": "What is the difference between public, private, and protected?"
+    },
+    {
+      "tags": [
+        "php",
+        "http",
+        "request"
+      ],
+      "owner": {
+        "reputation": 44540,
+        "user_id": 115,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/198d6d4fed2012d939b47e63e561082f?s=128&d=identicon&r=PG",
+        "display_name": "UnkwnTech",
+        "link": "https://stackoverflow.com/users/115/unkwntech"
+      },
+      "is_answered": true,
+      "view_count": 397074,
+      "accepted_answer_id": 359050,
+      "answer_count": 12,
+      "score": 860,
+      "last_activity_date": 1561402852,
+      "creation_date": 1228995087,
+      "last_edit_date": 1561402852,
+      "question_id": 359047,
+      "link": "https://stackoverflow.com/questions/359047/detecting-request-type-in-php-get-post-put-or-delete",
+      "title": "Detecting request type in PHP (GET, POST, PUT or DELETE)"
+    },
+    {
+      "tags": [
+        "php",
+        "date"
+      ],
+      "owner": {
+        "reputation": 4260,
+        "user_id": 1661459,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/f3e769bcc8915c65776044248ff84beb?s=128&d=identicon&r=PG",
+        "display_name": "JD Graffam",
+        "link": "https://stackoverflow.com/users/1661459/jd-graffam"
+      },
+      "is_answered": true,
+      "view_count": 1002690,
+      "protected_date": 1425175329,
+      "accepted_answer_id": 64097,
+      "answer_count": 25,
+      "score": 842,
+      "last_activity_date": 1560292849,
+      "creation_date": 1221492894,
+      "last_edit_date": 1397563377,
+      "question_id": 64003,
+      "link": "https://stackoverflow.com/questions/64003/how-do-i-use-php-to-get-the-current-year",
+      "title": "How do I use PHP to get the current year?"
+    },
+    {
+      "tags": [
+        "php",
+        "header"
+      ],
+      "owner": {
+        "reputation": 2187,
+        "user_id": 1031807,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/3b46f93d34a6184fd34721d95671ba78?s=128&d=identicon&r=PG",
+        "display_name": "Moses89",
+        "link": "https://stackoverflow.com/users/1031807/moses89"
+      },
+      "is_answered": true,
+      "view_count": 1269378,
+      "protected_date": 1343945015,
+      "accepted_answer_id": 8028987,
+      "answer_count": 11,
+      "community_owned_date": 1389894098,
+      "score": 833,
+      "locked_date": 1435146033,
+      "last_activity_date": 1543357024,
+      "creation_date": 1320601282,
+      "last_edit_date": 1389894098,
+      "question_id": 8028957,
+      "link": "https://stackoverflow.com/questions/8028957/how-to-fix-headers-already-sent-error-in-php",
+      "title": "How to fix &quot;Headers already sent&quot; error in PHP"
+    },
+    {
+      "tags": [
+        "php",
+        "linux",
+        "php-ini"
+      ],
+      "owner": {
+        "reputation": 11875,
+        "user_id": 621338,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/81bb1356d45abf5998209087420dae3f?s=128&d=identicon&r=PG",
+        "display_name": "necromancer",
+        "link": "https://stackoverflow.com/users/621338/necromancer"
+      },
+      "is_answered": true,
+      "view_count": 735575,
+      "protected_date": 1430101125,
+      "accepted_answer_id": 17185370,
+      "answer_count": 13,
+      "score": 819,
+      "last_activity_date": 1559926627,
+      "creation_date": 1325283606,
+      "last_edit_date": 1554529118,
+      "question_id": 8684609,
+      "link": "https://stackoverflow.com/questions/8684609/dude-wheres-my-php-ini-server-config",
+      "title": "Dude, where&#39;s my php.ini? (server config)"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays"
+      ],
+      "owner": {
+        "reputation": 4622,
+        "user_id": 774018,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/c9b997170552c490d0ede862580616ed?s=128&d=identicon&r=PG",
+        "display_name": "Adam Strudwick",
+        "link": "https://stackoverflow.com/users/774018/adam-strudwick"
+      },
+      "is_answered": true,
+      "view_count": 722730,
+      "protected_date": 1542167272,
+      "accepted_answer_id": 7225113,
+      "answer_count": 25,
+      "score": 791,
+      "last_activity_date": 1561098573,
+      "creation_date": 1314578644,
+      "last_edit_date": 1473201394,
+      "question_id": 7225070,
+      "link": "https://stackoverflow.com/questions/7225070/php-array-delete-by-value-not-key",
+      "title": "PHP array delete by value (not key)"
+    },
+    {
+      "tags": [
+        "php",
+        "datetime"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "Mike"
+      },
+      "is_answered": true,
+      "view_count": 2055075,
+      "protected_date": 1390204208,
+      "answer_count": 36,
+      "score": 770,
+      "last_activity_date": 1560620737,
+      "creation_date": 1232654958,
+      "last_edit_date": 1550878591,
+      "question_id": 470617,
+      "link": "https://stackoverflow.com/questions/470617/how-do-i-get-the-current-date-and-time-in-php",
+      "title": "How do I get the current date and time in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "json",
+        "header"
+      ],
+      "owner": {
+        "reputation": 4000,
+        "user_id": 492914,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://graph.facebook.com/1065487716/picture?type=large",
+        "display_name": "Scott Nicol",
+        "link": "https://stackoverflow.com/users/492914/scott-nicol"
+      },
+      "is_answered": true,
+      "view_count": 888683,
+      "protected_date": 1544534094,
+      "accepted_answer_id": 4064468,
+      "answer_count": 16,
+      "score": 769,
+      "last_activity_date": 1555971724,
+      "creation_date": 1288549434,
+      "last_edit_date": 1465661194,
+      "question_id": 4064444,
+      "link": "https://stackoverflow.com/questions/4064444/returning-json-from-a-php-script",
+      "title": "Returning JSON from a PHP Script"
+    },
+    {
+      "tags": [
+        "php",
+        "http",
+        "comet"
+      ],
+      "owner": {
+        "reputation": 123200,
+        "user_id": 745,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/edf857d71f672d8f411ef6b8376316b8?s=128&d=identicon&r=PG",
+        "display_name": "dbr",
+        "link": "https://stackoverflow.com/users/745/dbr"
+      },
+      "is_answered": true,
+      "view_count": 271077,
+      "protected_date": 1318804564,
+      "accepted_answer_id": 333884,
+      "answer_count": 17,
+      "score": 762,
+      "last_activity_date": 1558999266,
+      "creation_date": 1228216487,
+      "last_edit_date": 1453714438,
+      "question_id": 333664,
+      "link": "https://stackoverflow.com/questions/333664/how-do-i-implement-basic-long-polling",
+      "title": "How do I implement basic &quot;Long Polling&quot;?"
+    },
+    {
+      "tags": [
+        "php",
+        "sql",
+        "mysql",
+        "performance",
+        "primary-key"
+      ],
+      "owner": {
+        "reputation": 18971,
+        "user_id": 4418,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://i.stack.imgur.com/sQFX6.jpg?s=128&g=1",
+        "display_name": "warren",
+        "link": "https://stackoverflow.com/users/4418/warren"
+      },
+      "is_answered": true,
+      "view_count": 621022,
+      "protected_date": 1515548627,
+      "accepted_answer_id": 1361368,
+      "answer_count": 9,
+      "score": 757,
+      "last_activity_date": 1558016452,
+      "creation_date": 1251795401,
+      "last_edit_date": 1522184401,
+      "question_id": 1361340,
+      "link": "https://stackoverflow.com/questions/1361340/how-to-insert-if-not-exists-in-mysql",
+      "title": "How to &#39;insert if not exists&#39; in MySQL?"
+    },
+    {
+      "tags": [
+        "php",
+        "string",
+        "random"
+      ],
+      "owner": {
+        "reputation": 3980,
+        "user_id": 519455,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/2a7e7998ef533a531b6c06e03e73575e?s=128&d=identicon&r=PG",
+        "display_name": "Captain Lightning",
+        "link": "https://stackoverflow.com/users/519455/captain-lightning"
+      },
+      "is_answered": true,
+      "view_count": 1112037,
+      "protected_date": 1374101490,
+      "accepted_answer_id": 4356295,
+      "answer_count": 53,
+      "score": 749,
+      "last_activity_date": 1563458868,
+      "creation_date": 1291503381,
+      "last_edit_date": 1563457091,
+      "question_id": 4356289,
+      "link": "https://stackoverflow.com/questions/4356289/php-random-string-generator",
+      "title": "PHP random string generator"
+    },
+    {
+      "tags": [
+        "php",
+        "string",
+        "syntax"
+      ],
+      "owner": {
+        "reputation": 9929,
+        "user_id": 379800,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/4f68ffa7c457a0da70bbca813d054a40?s=128&d=identicon&r=PG",
+        "display_name": "rob waminal",
+        "link": "https://stackoverflow.com/users/379800/rob-waminal"
+      },
+      "is_answered": true,
+      "view_count": 333978,
+      "protected_date": 1391679488,
+      "accepted_answer_id": 3446286,
+      "answer_count": 10,
+      "score": 742,
+      "last_activity_date": 1559641549,
+      "creation_date": 1281417176,
+      "last_edit_date": 1559641549,
+      "question_id": 3446216,
+      "link": "https://stackoverflow.com/questions/3446216/what-is-the-difference-between-single-quoted-and-double-quoted-strings-in-php",
+      "title": "What is the difference between single-quoted and double-quoted strings in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays"
+      ],
+      "owner": {
+        "reputation": 16089,
+        "user_id": 5291,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/718a25f38a4fea73c590ac7c8f372bf7?s=128&d=identicon&r=PG",
+        "display_name": "Wilco",
+        "link": "https://stackoverflow.com/users/5291/wilco"
+      },
+      "is_answered": true,
+      "view_count": 231340,
+      "protected_date": 1371806551,
+      "accepted_answer_id": 173479,
+      "answer_count": 51,
+      "community_owned_date": 1353639093,
+      "score": 729,
+      "last_activity_date": 1557460573,
+      "creation_date": 1223276473,
+      "last_edit_date": 1406968200,
+      "question_id": 173400,
+      "link": "https://stackoverflow.com/questions/173400/how-to-check-if-php-array-is-associative-or-sequential",
+      "title": "How to check if PHP array is associative or sequential?"
+    },
+    {
+      "tags": [
+        "php",
+        "multithreading",
+        "thread-safety",
+        "packages",
+        "threadcontext"
+      ],
+      "owner": {
+        "reputation": 4287,
+        "user_id": 190494,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/f06faa57577f5bc3055fb0c92ad49318?s=128&d=identicon&r=PG",
+        "display_name": "O..",
+        "link": "https://stackoverflow.com/users/190494/o"
+      },
+      "is_answered": true,
+      "view_count": 332078,
+      "answer_count": 4,
+      "score": 724,
+      "last_activity_date": 1535553558,
+      "creation_date": 1256550093,
+      "last_edit_date": 1481969184,
+      "question_id": 1623914,
+      "link": "https://stackoverflow.com/questions/1623914/what-is-thread-safe-or-non-thread-safe-in-php",
+      "title": "What is thread safe or non-thread safe in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays",
+        "string"
+      ],
+      "owner": {
+        "reputation": 3821,
+        "user_id": 434269,
+        "user_type": "unregistered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/9e127e3a9affb9c9e30863084ae9b59f?s=128&d=identicon&r=PG",
+        "display_name": "Will",
+        "link": "https://stackoverflow.com/users/434269/will"
+      },
+      "is_answered": true,
+      "view_count": 803835,
+      "protected_date": 1398769652,
+      "accepted_answer_id": 3654309,
+      "answer_count": 25,
+      "score": 715,
+      "last_activity_date": 1562442224,
+      "creation_date": 1283807217,
+      "last_edit_date": 1562442224,
+      "question_id": 3654295,
+      "link": "https://stackoverflow.com/questions/3654295/remove-empty-array-elements",
+      "title": "Remove empty array elements"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays"
+      ],
+      "owner": {
+        "reputation": 12178,
+        "user_id": 94077,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/ebd7a8f2b54483200c3094c372509667?s=128&d=identicon&r=PG",
+        "display_name": "Alex S",
+        "link": "https://stackoverflow.com/users/94077/alex-s"
+      },
+      "is_answered": true,
+      "view_count": 536625,
+      "accepted_answer_id": 1028677,
+      "answer_count": 19,
+      "score": 714,
+      "last_activity_date": 1554362588,
+      "creation_date": 1245694439,
+      "last_edit_date": 1373857353,
+      "question_id": 1028668,
+      "link": "https://stackoverflow.com/questions/1028668/get-first-key-in-a-possibly-associative-array",
+      "title": "Get first key in a (possibly) associative array?"
+    },
+    {
+      "tags": [
+        "php",
+        "mysql",
+        "encoding",
+        "collation"
+      ],
+      "owner": {
+        "reputation": 71124,
+        "user_id": 5441,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/0aebcaf10719325c563dea3d1f024958?s=128&d=identicon&r=PG",
+        "display_name": "Darryl Hein",
+        "link": "https://stackoverflow.com/users/5441/darryl-hein"
+      },
+      "is_answered": true,
+      "view_count": 398094,
+      "protected_date": 1501871594,
+      "closed_date": 1444679223,
+      "accepted_answer_id": 367725,
+      "answer_count": 11,
+      "score": 694,
+      "last_activity_date": 1518714227,
+      "creation_date": 1229327316,
+      "last_edit_date": 1456199433,
+      "question_id": 367711,
+      "link": "https://stackoverflow.com/questions/367711/what-is-the-best-collation-to-use-for-mysql-with-php",
+      "closed_reason": "primarily opinion-based",
+      "title": "What is the best collation to use for MySQL with PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "datetime",
+        "datediff"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "gnanesh"
+      },
+      "is_answered": true,
+      "view_count": 752591,
+      "protected_date": 1312550893,
+      "accepted_answer_id": 676828,
+      "answer_count": 32,
+      "score": 686,
+      "last_activity_date": 1561407705,
+      "creation_date": 1237890787,
+      "last_edit_date": 1490199824,
+      "question_id": 676824,
+      "link": "https://stackoverflow.com/questions/676824/how-to-calculate-the-difference-between-two-dates-using-php",
+      "title": "How to calculate the difference between two dates using PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays"
+      ],
+      "owner": {
+        "reputation": 14345,
+        "user_id": 289666,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/7b73b931731be605e73692f0255d83e4?s=128&d=identicon&r=PG",
+        "display_name": "Haroldo",
+        "link": "https://stackoverflow.com/users/289666/haroldo"
+      },
+      "is_answered": true,
+      "view_count": 974570,
+      "protected_date": 1522211027,
+      "accepted_answer_id": 4345609,
+      "answer_count": 29,
+      "score": 679,
+      "last_activity_date": 1560371741,
+      "creation_date": 1291379656,
+      "last_edit_date": 1302726754,
+      "question_id": 4345554,
+      "link": "https://stackoverflow.com/questions/4345554/convert-php-object-to-associative-array",
+      "title": "Convert PHP object to associative array"
+    },
+    {
+      "tags": [
+        "php",
+        "file-extension"
+      ],
+      "owner": {
+        "reputation": 371541,
+        "user_id": 9951,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/1449ec95d8c114dbca53136cc8194b61?s=128&d=identicon&r=PG&f=1",
+        "display_name": "e-satis",
+        "link": "https://stackoverflow.com/users/9951/e-satis"
+      },
+      "is_answered": true,
+      "view_count": 536245,
+      "protected_date": 1373144646,
+      "accepted_answer_id": 173876,
+      "answer_count": 25,
+      "score": 674,
+      "last_activity_date": 1563315891,
+      "creation_date": 1223290802,
+      "last_edit_date": 1548395886,
+      "question_id": 173868,
+      "link": "https://stackoverflow.com/questions/173868/how-do-i-get-extract-a-file-extension-in-php",
+      "title": "How do I get (extract) a file extension in PHP?"
+    },
+    {
+      "tags": [
+        "php"
+      ],
+      "owner": {
+        "reputation": 6754,
+        "user_id": 515659,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/34560018bc4dfe43a60c26d4e4fc17b2?s=128&d=identicon&r=PG",
+        "display_name": "I-M-JM",
+        "link": "https://stackoverflow.com/users/515659/i-m-jm"
+      },
+      "is_answered": true,
+      "view_count": 902359,
+      "closed_date": 1349454794,
+      "accepted_answer_id": 5593009,
+      "answer_count": 4,
+      "score": 663,
+      "last_activity_date": 1543485871,
+      "creation_date": 1302254110,
+      "last_edit_date": 1495539207,
+      "question_id": 5592994,
+      "link": "https://stackoverflow.com/questions/5592994/remove-the-last-character-from-string",
+      "closed_reason": "exact duplicate",
+      "title": "Remove the last character from string"
+    },
+    {
+      "tags": [
+        "php",
+        "javascript",
+        "jquery",
+        "ajax",
+        "post"
+      ],
+      "owner": {
+        "reputation": 6921,
+        "user_id": 528370,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/03c51d4dacea73644b28b9ece8e84d63?s=128&d=identicon&r=PG",
+        "display_name": "Thew",
+        "link": "https://stackoverflow.com/users/528370/thew"
+      },
+      "is_answered": true,
+      "view_count": 1276224,
+      "protected_date": 1366905207,
+      "accepted_answer_id": 5004276,
+      "answer_count": 12,
+      "score": 636,
+      "last_activity_date": 1562957032,
+      "creation_date": 1297776537,
+      "last_edit_date": 1559641710,
+      "question_id": 5004233,
+      "link": "https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php",
+      "title": "jQuery Ajax POST example with PHP"
+    },
+    {
+      "tags": [
+        "php",
+        "exit",
+        "die"
+      ],
+      "owner": {
+        "reputation": 10453,
+        "user_id": 110976,
+        "user_type": "registered",
+        "accept_rate": 45,
+        "profile_image": "https://www.gravatar.com/avatar/f816a3c6185b3bcbd994179ac7cc547d?s=128&d=identicon&r=PG",
+        "display_name": "coderex",
+        "link": "https://stackoverflow.com/users/110976/coderex"
+      },
+      "is_answered": true,
+      "view_count": 238344,
+      "protected_date": 1356102187,
+      "answer_count": 18,
+      "score": 633,
+      "last_activity_date": 1560060556,
+      "creation_date": 1259130487,
+      "last_edit_date": 1547287054,
+      "question_id": 1795025,
+      "link": "https://stackoverflow.com/questions/1795025/what-are-the-differences-in-die-and-exit-in-php",
+      "title": "What are the differences in die() and exit() in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "const",
+        "constants"
+      ],
+      "owner": {
+        "reputation": 5235,
+        "user_id": 191201,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/6af0261420871e7541d044fbd399c0bc?s=128&d=identicon&r=PG",
+        "display_name": "danjarvis",
+        "link": "https://stackoverflow.com/users/191201/danjarvis"
+      },
+      "is_answered": true,
+      "view_count": 211024,
+      "protected_date": 1386617595,
+      "accepted_answer_id": 3193704,
+      "answer_count": 11,
+      "score": 629,
+      "last_activity_date": 1563101695,
+      "creation_date": 1268663037,
+      "last_edit_date": 1563101331,
+      "question_id": 2447791,
+      "link": "https://stackoverflow.com/questions/2447791/define-vs-const",
+      "title": "define() vs. const"
+    },
+    {
+      "tags": [
+        "javascript",
+        "php"
+      ],
+      "owner": {
+        "reputation": 122042,
+        "user_id": 871050,
+        "user_type": "moderator",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/a7a50a9492be737b0c012a839338272a?s=128&d=identicon&r=PG",
+        "display_name": "Madara Uchiha",
+        "link": "https://stackoverflow.com/users/871050/madara-uchiha"
+      },
+      "is_answered": true,
+      "view_count": 693868,
+      "protected_date": 1400679153,
+      "accepted_answer_id": 23740549,
+      "answer_count": 18,
+      "score": 623,
+      "last_activity_date": 1563507243,
+      "creation_date": 1400510276,
+      "last_edit_date": 1563234340,
+      "question_id": 23740548,
+      "link": "https://stackoverflow.com/questions/23740548/how-do-i-pass-variables-and-data-from-php-to-javascript",
+      "title": "How do I pass variables and data from PHP to JavaScript?"
+    },
+    {
+      "tags": [
+        "php",
+        "security",
+        "pdo",
+        "sql-injection"
+      ],
+      "owner": {
+        "reputation": 96332,
+        "user_id": 305,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/040ffc7f3327b05f01c54a8bef3ba60a?s=128&d=identicon&r=PG",
+        "display_name": "Mark Biek",
+        "link": "https://stackoverflow.com/users/305/mark-biek"
+      },
+      "is_answered": true,
+      "view_count": 190251,
+      "protected_date": 1392957381,
+      "accepted_answer_id": 12202218,
+      "answer_count": 7,
+      "score": 617,
+      "last_activity_date": 1520194676,
+      "creation_date": 1222357415,
+      "last_edit_date": 1403457347,
+      "question_id": 134099,
+      "link": "https://stackoverflow.com/questions/134099/are-pdo-prepared-statements-sufficient-to-prevent-sql-injection",
+      "title": "Are PDO prepared statements sufficient to prevent SQL injection?"
+    },
+    {
+      "tags": [
+        "php",
+        "http",
+        "post",
+        "request"
+      ],
+      "owner": {
+        "reputation": 4032,
+        "user_id": 705004,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/a36c447b8d8e7d03f7bee47a7dcd53c3?s=128&d=identicon&r=PG",
+        "display_name": "Fred Tanrikut",
+        "link": "https://stackoverflow.com/users/705004/fred-tanrikut"
+      },
+      "is_answered": true,
+      "view_count": 855143,
+      "protected_date": 1424294243,
+      "answer_count": 12,
+      "score": 597,
+      "last_activity_date": 1561407940,
+      "creation_date": 1302689160,
+      "last_edit_date": 1442944389,
+      "question_id": 5647461,
+      "link": "https://stackoverflow.com/questions/5647461/how-do-i-send-a-post-request-with-php",
+      "title": "How do I send a POST request with PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "parsing",
+        "debugging",
+        "syntax-error"
+      ],
+      "owner": {
+        "reputation": 127798,
+        "user_id": 345031,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/b7ec7f22d50ea13c796815c13075b08f?s=128&d=identicon&r=PG",
+        "display_name": "mario",
+        "link": "https://stackoverflow.com/users/345031/mario"
+      },
+      "is_answered": true,
+      "view_count": 454743,
+      "protected_date": 1423566924,
+      "accepted_answer_id": 18050072,
+      "answer_count": 16,
+      "community_owned_date": 1377213079,
+      "score": 595,
+      "last_activity_date": 1559894011,
+      "creation_date": 1375672275,
+      "last_edit_date": 1559641244,
+      "question_id": 18050071,
+      "link": "https://stackoverflow.com/questions/18050071/php-parse-syntax-errors-and-how-to-solve-them",
+      "title": "PHP parse/syntax errors; and how to solve them?"
+    },
+    {
+      "tags": [
+        "php",
+        "wordpress",
+        "directory"
+      ],
+      "owner": {
+        "reputation": 15587,
+        "user_id": 209102,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/82349e7bba6f517a2b50be2c38fd5d70?s=128&d=identicon&r=PG",
+        "display_name": "Scott B",
+        "link": "https://stackoverflow.com/users/209102/scott-b"
+      },
+      "is_answered": true,
+      "view_count": 569603,
+      "protected_date": 1433512790,
+      "accepted_answer_id": 2303377,
+      "answer_count": 15,
+      "score": 584,
+      "last_activity_date": 1551890234,
+      "creation_date": 1266693969,
+      "last_edit_date": 1452279646,
+      "question_id": 2303372,
+      "link": "https://stackoverflow.com/questions/2303372/create-a-folder-if-it-doesnt-already-exist",
+      "title": "Create a folder if it doesn&#39;t already exist"
+    },
+    {
+      "tags": [
+        "php",
+        "performance",
+        "arrays",
+        "json",
+        "serialization"
+      ],
+      "owner": {
+        "reputation": 12132,
+        "user_id": 83304,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/4055ea3f55338062fd7fa12d69bf5df2?s=128&d=identicon&r=PG",
+        "display_name": "KyleFarris",
+        "link": "https://stackoverflow.com/users/83304/kylefarris"
+      },
+      "is_answered": true,
+      "view_count": 176211,
+      "protected_date": 1371982776,
+      "accepted_answer_id": 804089,
+      "answer_count": 19,
+      "score": 582,
+      "last_activity_date": 1529395847,
+      "creation_date": 1241035783,
+      "last_edit_date": 1425682703,
+      "question_id": 804045,
+      "link": "https://stackoverflow.com/questions/804045/preferred-method-to-store-php-arrays-json-encode-vs-serialize",
+      "title": "Preferred method to store PHP arrays (json_encode vs serialize)"
+    },
+    {
+      "tags": [
+        "php",
+        "string",
+        "spaces"
+      ],
+      "owner": {
+        "reputation": 14245,
+        "user_id": 179235,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/690b45e1ac7a2e6df563acb6be6b18fd?s=128&d=identicon&r=PG",
+        "display_name": "streetparade",
+        "link": "https://stackoverflow.com/users/179235/streetparade"
+      },
+      "is_answered": true,
+      "view_count": 1033003,
+      "closed_date": 1343907544,
+      "accepted_answer_id": 2109339,
+      "answer_count": 4,
+      "score": 573,
+      "last_activity_date": 1562198125,
+      "creation_date": 1264078955,
+      "last_edit_date": 1562198125,
+      "question_id": 2109325,
+      "link": "https://stackoverflow.com/questions/2109325/how-do-i-strip-all-spaces-out-of-a-string-in-php",
+      "closed_reason": "exact duplicate",
+      "title": "How do I strip all spaces out of a string in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "mysql",
+        "sql",
+        "security",
+        "sql-injection"
+      ],
+      "owner": {
+        "reputation": 34730,
+        "user_id": 95944,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://i.stack.imgur.com/dEHGM.jpg?s=128&g=1",
+        "display_name": "Richard Knop",
+        "link": "https://stackoverflow.com/users/95944/richard-knop"
+      },
+      "is_answered": true,
+      "view_count": 215598,
+      "protected_date": 1444036903,
+      "accepted_answer_id": 5741264,
+      "answer_count": 4,
+      "score": 572,
+      "last_activity_date": 1559641392,
+      "creation_date": 1303372571,
+      "last_edit_date": 1559641392,
+      "question_id": 5741187,
+      "link": "https://stackoverflow.com/questions/5741187/sql-injection-that-gets-around-mysql-real-escape-string",
+      "title": "SQL injection that gets around mysql_real_escape_string()"
+    },
+    {
+      "tags": [
+        "php",
+        "codeigniter",
+        "memory",
+        "xml-rpc",
+        "memory-limit"
+      ],
+      "owner": {
+        "reputation": 2866,
+        "user_id": 410280,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/79f9fe9327739d059539e8cd3894c2c7?s=128&d=identicon&r=PG",
+        "display_name": "ArcticZero",
+        "link": "https://stackoverflow.com/users/410280/arcticzero"
+      },
+      "is_answered": true,
+      "view_count": 1262591,
+      "protected_date": 1437295337,
+      "answer_count": 27,
+      "score": 569,
+      "last_activity_date": 1563291465,
+      "creation_date": 1234964024,
+      "last_edit_date": 1509738030,
+      "question_id": 561066,
+      "link": "https://stackoverflow.com/questions/561066/fatal-error-allowed-memory-size-of-134217728-bytes-exhausted-codeigniter-xml",
+      "title": "Fatal Error: Allowed Memory Size of 134217728 Bytes Exhausted (CodeIgniter + XML-RPC)"
+    },
+    {
+      "tags": [
+        "php",
+        "datetime"
+      ],
+      "owner": {
+        "reputation": 6937,
+        "user_id": 233679,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/d3d5963e03d6556ce76ff1799c43939e?s=128&d=identicon&r=PG",
+        "display_name": "PHP Ferrari",
+        "link": "https://stackoverflow.com/users/233679/php-ferrari"
+      },
+      "is_answered": true,
+      "view_count": 706577,
+      "accepted_answer_id": 2040589,
+      "answer_count": 27,
+      "score": 568,
+      "last_activity_date": 1561407966,
+      "creation_date": 1263197217,
+      "last_edit_date": 1561407966,
+      "question_id": 2040560,
+      "link": "https://stackoverflow.com/questions/2040560/finding-the-number-of-days-between-two-dates",
+      "title": "Finding the number of days between two dates"
+    },
+    {
+      "tags": [
+        "php",
+        "string",
+        "var-dump"
+      ],
+      "owner": {
+        "reputation": 96332,
+        "user_id": 305,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/040ffc7f3327b05f01c54a8bef3ba60a?s=128&d=identicon&r=PG",
+        "display_name": "Mark Biek",
+        "link": "https://stackoverflow.com/users/305/mark-biek"
+      },
+      "is_answered": true,
+      "view_count": 313564,
+      "accepted_answer_id": 139491,
+      "answer_count": 12,
+      "score": 567,
+      "last_activity_date": 1563053181,
+      "creation_date": 1222435382,
+      "last_edit_date": 1563052830,
+      "question_id": 139474,
+      "link": "https://stackoverflow.com/questions/139474/how-can-i-capture-the-result-of-var-dump-to-a-string",
+      "title": "How can I capture the result of var_dump to a string?"
+    },
+    {
+      "tags": [
+        "php",
+        "operators",
+        "error-suppression"
+      ],
+      "owner": {
+        "reputation": 8712,
+        "user_id": 22550,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://www.gravatar.com/avatar/df80ffb0f9149e665ab51bd6211cd383?s=128&d=identicon&r=PG",
+        "display_name": "sv_in",
+        "link": "https://stackoverflow.com/users/22550/sv-in"
+      },
+      "is_answered": true,
+      "view_count": 215245,
+      "protected_date": 1475732485,
+      "accepted_answer_id": 1032169,
+      "answer_count": 11,
+      "score": 545,
+      "last_activity_date": 1534591363,
+      "creation_date": 1245758912,
+      "last_edit_date": 1449401526,
+      "question_id": 1032161,
+      "link": "https://stackoverflow.com/questions/1032161/what-is-the-use-of-the-symbol-in-php",
+      "title": "What is the use of the @ symbol in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "casting",
+        "type-conversion"
+      ],
+      "owner": {
+        "reputation": 5581,
+        "user_id": 2421575,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/438621c2ec9a957af802ca4d01e1f5da?s=128&d=identicon&r=PG",
+        "display_name": "Sara",
+        "link": "https://stackoverflow.com/users/2421575/sara"
+      },
+      "is_answered": true,
+      "view_count": 1394648,
+      "protected_date": 1452551329,
+      "accepted_answer_id": 8529687,
+      "answer_count": 25,
+      "score": 545,
+      "last_activity_date": 1561405349,
+      "creation_date": 1324008494,
+      "last_edit_date": 1561405349,
+      "question_id": 8529656,
+      "link": "https://stackoverflow.com/questions/8529656/how-do-i-convert-a-string-to-a-number-in-php",
+      "title": "How do I convert a string to a number in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "debugging",
+        "error-handling"
+      ],
+      "owner": {
+        "reputation": 3897,
+        "user_id": 5010,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/217a4e91ece4b8295c6c0894e2cda359?s=128&d=identicon&r=PG",
+        "display_name": "Candidasa",
+        "link": "https://stackoverflow.com/users/5010/candidasa"
+      },
+      "is_answered": true,
+      "view_count": 551593,
+      "protected_date": 1444035600,
+      "accepted_answer_id": 845025,
+      "answer_count": 26,
+      "score": 543,
+      "last_activity_date": 1559641503,
+      "creation_date": 1241948892,
+      "last_edit_date": 1559641503,
+      "question_id": 845021,
+      "link": "https://stackoverflow.com/questions/845021/how-can-i-get-useful-error-messages-in-php",
+      "title": "How can I get useful error messages in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "numbers",
+        "format"
+      ],
+      "owner": {
+        "reputation": 5891,
+        "user_id": 120330,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://www.gravatar.com/avatar/4bf3784011a5706bc9064fad113bbf31?s=128&d=identicon&r=PG",
+        "display_name": "Andromeda",
+        "link": "https://stackoverflow.com/users/120330/andromeda"
+      },
+      "is_answered": true,
+      "view_count": 458756,
+      "accepted_answer_id": 1699980,
+      "answer_count": 14,
+      "score": 542,
+      "last_activity_date": 1555329369,
+      "creation_date": 1257758701,
+      "last_edit_date": 1502337644,
+      "question_id": 1699958,
+      "link": "https://stackoverflow.com/questions/1699958/formatting-a-number-with-leading-zeros-in-php",
+      "title": "Formatting a number with leading zeros in PHP"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays",
+        "pdo",
+        "prepared-statement",
+        "where-in"
+      ],
+      "owner": {
+        "reputation": 3322,
+        "user_id": 113659,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/4086702a3fd23cbf7b32ce5dabfe6411?s=128&d=identicon&r=PG",
+        "display_name": "Andru",
+        "link": "https://stackoverflow.com/users/113659/andru"
+      },
+      "is_answered": true,
+      "view_count": 190860,
+      "protected_date": 1434530643,
+      "answer_count": 21,
+      "score": 540,
+      "last_activity_date": 1556082222,
+      "creation_date": 1243509477,
+      "last_edit_date": 1527156482,
+      "question_id": 920353,
+      "link": "https://stackoverflow.com/questions/920353/can-i-bind-an-array-to-an-in-condition",
+      "title": "Can I bind an array to an IN() condition?"
+    },
+    {
+      "tags": [
+        "php",
+        "oop",
+        "model-view-controller",
+        "architecture",
+        "model"
+      ],
+      "owner": {
+        "reputation": 4890,
+        "user_id": 734587,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/98273b7b565f14cf4bd44c0ed8327357?s=128&d=identicon&r=PG",
+        "display_name": "Dietpixel",
+        "link": "https://stackoverflow.com/users/734587/dietpixel"
+      },
+      "is_answered": true,
+      "view_count": 168275,
+      "protected_date": 1379461742,
+      "closed_date": 1542846727,
+      "accepted_answer_id": 5864000,
+      "answer_count": 5,
+      "score": 537,
+      "last_activity_date": 1542812088,
+      "creation_date": 1304382522,
+      "last_edit_date": 1408817320,
+      "question_id": 5863870,
+      "link": "https://stackoverflow.com/questions/5863870/how-should-a-model-be-structured-in-mvc",
+      "closed_reason": "primarily opinion-based",
+      "title": "How should a model be structured in MVC?"
+    },
+    {
+      "tags": [
+        "php",
+        "string"
+      ],
+      "owner": {
+        "reputation": 7006,
+        "user_id": 2680,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/68b699ac414790094c02c1cf40ef2334?s=128&d=identicon&r=PG",
+        "display_name": "Antoine Aubry",
+        "link": "https://stackoverflow.com/users/2680/antoine-aubry"
+      },
+      "is_answered": true,
+      "view_count": 1491272,
+      "accepted_answer_id": 28111,
+      "answer_count": 24,
+      "score": 535,
+      "last_activity_date": 1563109808,
+      "creation_date": 1219759009,
+      "last_edit_date": 1544630902,
+      "question_id": 28098,
+      "link": "https://stackoverflow.com/questions/28098/php-equivalent-of-net-javas-tostring",
+      "title": "PHP equivalent of .NET/Java&#39;s toString()"
+    },
+    {
+      "tags": [
+        "php",
+        "fatal-error"
+      ],
+      "owner": {
+        "reputation": 59211,
+        "user_id": 28835,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/34a7a029578b79cf4afa596ad4e3e72b?s=128&d=identicon&r=PG",
+        "display_name": "too much php",
+        "link": "https://stackoverflow.com/users/28835/too-much-php"
+      },
+      "is_answered": true,
+      "view_count": 340581,
+      "protected_date": 1389768015,
+      "answer_count": 18,
+      "score": 528,
+      "last_activity_date": 1538741906,
+      "creation_date": 1226299347,
+      "last_edit_date": 1490870653,
+      "question_id": 277224,
+      "link": "https://stackoverflow.com/questions/277224/how-do-i-catch-a-php-fatal-error",
+      "title": "How do I catch a PHP Fatal Error"
+    },
+    {
+      "tags": [
+        "php",
+        "json",
+        "pretty-print"
+      ],
+      "owner": {
+        "reputation": 12469,
+        "user_id": 371408,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/4aee79156a78ba2c12551acabd846f4d?s=128&d=identicon&r=PG",
+        "display_name": "Zach Rattner",
+        "link": "https://stackoverflow.com/users/371408/zach-rattner"
+      },
+      "is_answered": true,
+      "view_count": 449440,
+      "protected_date": 1500380726,
+      "accepted_answer_id": 9120871,
+      "answer_count": 21,
+      "score": 523,
+      "last_activity_date": 1560542298,
+      "creation_date": 1305781709,
+      "last_edit_date": 1467173053,
+      "question_id": 6054033,
+      "link": "https://stackoverflow.com/questions/6054033/pretty-printing-json-with-php",
+      "title": "Pretty-Printing JSON with PHP"
+    },
+    {
+      "tags": [
+        "php"
+      ],
+      "owner": {
+        "reputation": 4975,
+        "user_id": 4137,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7952608036efe43597e88cd635fc2472?s=128&d=identicon&r=PG",
+        "display_name": "Eric Hogue",
+        "link": "https://stackoverflow.com/users/4137/eric-hogue"
+      },
+      "is_answered": true,
+      "view_count": 306431,
+      "protected_date": 1330807853,
+      "accepted_answer_id": 46491,
+      "answer_count": 12,
+      "score": 517,
+      "last_activity_date": 1556436369,
+      "creation_date": 1220639352,
+      "last_edit_date": 1378638138,
+      "question_id": 46483,
+      "link": "https://stackoverflow.com/questions/46483/htmlentities-vs-htmlspecialchars",
+      "title": "htmlentities() vs. htmlspecialchars()"
+    },
+    {
+      "tags": [
+        "php",
+        "coding-style",
+        "php-shorttags"
+      ],
+      "owner": {
+        "reputation": 8120,
+        "user_id": 1896,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/9a382f89bcb948a8318c3edeeada7449?s=128&d=identicon&r=PG",
+        "display_name": "MDCore",
+        "link": "https://stackoverflow.com/users/1896/mdcore"
+      },
+      "is_answered": true,
+      "view_count": 110266,
+      "protected_date": 1355853392,
+      "accepted_answer_id": 200666,
+      "answer_count": 26,
+      "score": 514,
+      "last_activity_date": 1553063906,
+      "creation_date": 1223979664,
+      "last_edit_date": 1397564278,
+      "question_id": 200640,
+      "link": "https://stackoverflow.com/questions/200640/are-php-short-tags-acceptable-to-use",
+      "title": "Are PHP short tags acceptable to use?"
+    },
+    {
+      "tags": [
+        "php",
+        "apache",
+        "server-variables"
+      ],
+      "owner": {
+        "reputation": 15994,
+        "user_id": 200145,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://i.stack.imgur.com/k71xd.jpg?s=128&g=1",
+        "display_name": "Emanuil Rusev",
+        "link": "https://stackoverflow.com/users/200145/emanuil-rusev"
+      },
+      "is_answered": true,
+      "view_count": 401035,
+      "accepted_answer_id": 2297421,
+      "answer_count": 9,
+      "score": 513,
+      "last_activity_date": 1505982920,
+      "creation_date": 1266593394,
+      "last_edit_date": 1505982920,
+      "question_id": 2297403,
+      "link": "https://stackoverflow.com/questions/2297403/what-is-the-difference-between-http-host-and-server-name-in-php",
+      "title": "What is the difference between HTTP_HOST and SERVER_NAME in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "syntax-error",
+        "runtime-error"
+      ],
+      "owner": {
+        "reputation": 5137,
+        "user_id": 1765,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://i.stack.imgur.com/yqGVn.jpg?s=128&g=1",
+        "display_name": "Peter Turner",
+        "link": "https://stackoverflow.com/users/1765/peter-turner"
+      },
+      "is_answered": true,
+      "view_count": 129825,
+      "accepted_answer_id": 592326,
+      "answer_count": 9,
+      "score": 506,
+      "last_activity_date": 1562256100,
+      "creation_date": 1235680492,
+      "last_edit_date": 1453100847,
+      "question_id": 592322,
+      "link": "https://stackoverflow.com/questions/592322/php-expects-t-paamayim-nekudotayim",
+      "title": "PHP expects T_PAAMAYIM_NEKUDOTAYIM?"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays",
+        "copy"
+      ],
+      "owner": {
+        "reputation": 7571,
+        "user_id": 172406,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/e750df851299d1c7d627f063a6e46980?s=128&d=identicon&r=PG",
+        "display_name": "vfclists",
+        "link": "https://stackoverflow.com/users/172406/vfclists"
+      },
+      "is_answered": true,
+      "view_count": 362035,
+      "accepted_answer_id": 1533214,
+      "answer_count": 18,
+      "score": 481,
+      "last_activity_date": 1559769805,
+      "creation_date": 1254931910,
+      "last_edit_date": 1374369793,
+      "question_id": 1532618,
+      "link": "https://stackoverflow.com/questions/1532618/is-there-a-function-to-make-a-copy-of-a-php-array-to-another",
+      "title": "Is there a function to make a copy of a PHP array to another?"
+    },
+    {
+      "tags": [
+        "php",
+        "formatting",
+        "numbers",
+        "rounding",
+        "number-formatting"
+      ],
+      "owner": {
+        "reputation": 52783,
+        "user_id": 16511,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/f1ead936fb3a1beb870c8541f463254a?s=128&d=identicon&r=PG",
+        "display_name": "Rich Bradshaw",
+        "link": "https://stackoverflow.com/users/16511/rich-bradshaw"
+      },
+      "is_answered": true,
+      "view_count": 957497,
+      "protected_date": 1491212516,
+      "accepted_answer_id": 4483561,
+      "answer_count": 21,
+      "score": 480,
+      "last_activity_date": 1552589950,
+      "creation_date": 1292771430,
+      "last_edit_date": 1516925029,
+      "question_id": 4483540,
+      "link": "https://stackoverflow.com/questions/4483540/show-a-number-to-2-decimal-places",
+      "title": "Show a number to 2 decimal places"
+    },
+    {
+      "tags": [
+        "php"
+      ],
+      "owner": {
+        "reputation": 3768,
+        "user_id": 220007,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/acc00451d4a15e076c2b5eb2158737fb?s=128&d=identicon&r=PG",
+        "display_name": "Yo Momma",
+        "link": "https://stackoverflow.com/users/220007/yo-momma"
+      },
+      "is_answered": true,
+      "view_count": 944915,
+      "protected_date": 1380295201,
+      "accepted_answer_id": 2184541,
+      "answer_count": 15,
+      "score": 474,
+      "last_activity_date": 1555158634,
+      "creation_date": 1265119246,
+      "last_edit_date": 1507899504,
+      "question_id": 2184513,
+      "link": "https://stackoverflow.com/questions/2184513/change-the-maximum-upload-file-size",
+      "title": "Change the maximum upload file size"
+    },
+    {
+      "tags": [
+        "php",
+        "comparison",
+        "operators",
+        "equality",
+        "identity-operator"
+      ],
+      "owner": {
+        "reputation": 385436,
+        "user_id": 9021,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/f092dfd45793e9483281d4205b674823?s=128&d=identicon&r=PG",
+        "display_name": "nickf",
+        "link": "https://stackoverflow.com/users/9021/nickf"
+      },
+      "is_answered": true,
+      "view_count": 274330,
+      "protected_date": 1393061085,
+      "accepted_answer_id": 80649,
+      "answer_count": 21,
+      "score": 472,
+      "last_activity_date": 1551722280,
+      "creation_date": 1221634605,
+      "last_edit_date": 1492610566,
+      "question_id": 80646,
+      "link": "https://stackoverflow.com/questions/80646/how-do-the-php-equality-double-equals-and-identity-triple-equals-comp",
+      "title": "How do the PHP equality (== double equals) and identity (=== triple equals) comparison operators differ?"
+    },
+    {
+      "tags": [
+        "php",
+        "json"
+      ],
+      "owner": {
+        "reputation": 2359,
+        "user_id": 861417,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/edb4f5a60f04e78366d548a67abd6894?s=128&d=identicon&r=PG",
+        "display_name": "Dail",
+        "link": "https://stackoverflow.com/users/861417/dail"
+      },
+      "is_answered": true,
+      "view_count": 535540,
+      "protected_date": 1538579142,
+      "answer_count": 13,
+      "score": 471,
+      "last_activity_date": 1542370923,
+      "creation_date": 1311594014,
+      "last_edit_date": 1542370923,
+      "question_id": 6815520,
+      "link": "https://stackoverflow.com/questions/6815520/cannot-use-object-of-type-stdclass-as-array",
+      "title": "Cannot use object of type stdClass as array?"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays",
+        "sorting",
+        "object"
+      ],
+      "owner": {
+        "reputation": 22586,
+        "user_id": 376947,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/1b61fefdf47fd531f94a86516dba0521?s=128&d=identicon&r=PG",
+        "display_name": "Alex",
+        "link": "https://stackoverflow.com/users/376947/alex"
+      },
+      "is_answered": true,
+      "view_count": 297576,
+      "protected_date": 1387301112,
+      "accepted_answer_id": 4282423,
+      "answer_count": 18,
+      "score": 464,
+      "last_activity_date": 1562123704,
+      "creation_date": 1290743456,
+      "last_edit_date": 1411554994,
+      "question_id": 4282413,
+      "link": "https://stackoverflow.com/questions/4282413/sort-array-of-objects-by-object-fields",
+      "title": "Sort array of objects by object fields"
+    },
+    {
+      "tags": [
+        "php",
+        "static",
+        "late-static-binding"
+      ],
+      "owner": {
+        "reputation": 4825,
+        "user_id": 429909,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/e46980983e688dda30e225d29eb8d0ae?s=128&d=identicon&r=PG",
+        "display_name": "Mike",
+        "link": "https://stackoverflow.com/users/429909/mike"
+      },
+      "is_answered": true,
+      "view_count": 183827,
+      "protected_date": 1415952359,
+      "accepted_answer_id": 5197655,
+      "answer_count": 3,
+      "score": 464,
+      "last_activity_date": 1535101624,
+      "creation_date": 1299260506,
+      "last_edit_date": 1444437889,
+      "question_id": 5197300,
+      "link": "https://stackoverflow.com/questions/5197300/new-self-vs-new-static",
+      "title": "New self vs. new static"
+    },
+    {
+      "tags": [
+        "php"
+      ],
+      "owner": {
+        "reputation": 11522,
+        "user_id": 128585,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/8cbbc8b30949eefe9178e4b5fa177e9a?s=128&d=identicon&r=PG",
+        "display_name": "Extrakun",
+        "link": "https://stackoverflow.com/users/128585/extrakun"
+      },
+      "is_answered": true,
+      "view_count": 234620,
+      "protected_date": 1379399059,
+      "accepted_answer_id": 4328049,
+      "answer_count": 7,
+      "score": 457,
+      "last_activity_date": 1471535948,
+      "creation_date": 1246553917,
+      "last_edit_date": 1465930910,
+      "question_id": 1075534,
+      "link": "https://stackoverflow.com/questions/1075534/cant-use-method-return-value-in-write-context",
+      "title": "Can&#39;t use method return value in write context"
+    },
+    {
+      "tags": [
+        "php",
+        "string",
+        "casting",
+        "type-conversion",
+        "integer"
+      ],
+      "owner": {
+        "reputation": 2867,
+        "user_id": 127896,
+        "user_type": "registered",
+        "accept_rate": 33,
+        "profile_image": "https://www.gravatar.com/avatar/11ed476493bc622b8e1881b1fb926b52?s=128&d=identicon&r=PG",
+        "display_name": "kman99",
+        "link": "https://stackoverflow.com/users/127896/kman99"
+      },
+      "is_answered": true,
+      "view_count": 1107782,
+      "accepted_answer_id": 1035658,
+      "answer_count": 13,
+      "score": 456,
+      "last_activity_date": 1561412488,
+      "creation_date": 1245796665,
+      "last_edit_date": 1561412488,
+      "question_id": 1035634,
+      "link": "https://stackoverflow.com/questions/1035634/converting-an-integer-to-a-string-in-php",
+      "title": "Converting an integer to a string in PHP"
+    },
+    {
+      "tags": [
+        "javascript",
+        "php",
+        "client-side",
+        "server-side"
+      ],
+      "owner": {
+        "reputation": 409594,
+        "user_id": 476,
+        "user_type": "moderator",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/a235706e3d81b614acaec3368edfea4b?s=128&d=identicon&r=PG",
+        "display_name": "deceze",
+        "link": "https://stackoverflow.com/users/476/deceze"
+      },
+      "is_answered": true,
+      "view_count": 35905,
+      "protected_date": 1407750116,
+      "accepted_answer_id": 13840431,
+      "answer_count": 5,
+      "score": 455,
+      "last_activity_date": 1557996272,
+      "creation_date": 1355317380,
+      "last_edit_date": 1502799448,
+      "question_id": 13840429,
+      "link": "https://stackoverflow.com/questions/13840429/what-is-the-difference-between-client-side-and-server-side-programming",
+      "title": "What is the difference between client-side and server-side programming?"
+    },
+    {
+      "tags": [
+        "php",
+        "code-analysis",
+        "static-analysis"
+      ],
+      "owner": {
+        "reputation": 5360,
+        "user_id": 21229,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/3d7e4b135453e58ce86964bac55ab3f0?s=128&d=identicon&r=PG",
+        "display_name": "eswald",
+        "link": "https://stackoverflow.com/users/21229/eswald"
+      },
+      "is_answered": true,
+      "view_count": 136726,
+      "closed_date": 1387993647,
+      "accepted_answer_id": 379471,
+      "answer_count": 12,
+      "score": 455,
+      "last_activity_date": 1561408109,
+      "creation_date": 1229629198,
+      "last_edit_date": 1561408109,
+      "question_id": 378959,
+      "link": "https://stackoverflow.com/questions/378959/how-to-perform-static-code-analysis-in-php",
+      "closed_reason": "off-topic",
+      "title": "How to perform static code analysis in php?"
+    },
+    {
+      "tags": [
+        "php",
+        "loops",
+        "foreach"
+      ],
+      "owner": {
+        "reputation": 3508,
+        "user_id": 111279,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/a874ec50e145c80d58126ab2d215a8af?s=128&d=identicon&r=PG",
+        "display_name": "mehdi",
+        "link": "https://stackoverflow.com/users/111279/mehdi"
+      },
+      "is_answered": true,
+      "view_count": 463972,
+      "protected_date": 1435077811,
+      "accepted_answer_id": 1070256,
+      "answer_count": 18,
+      "score": 450,
+      "last_activity_date": 1546158808,
+      "creation_date": 1246467479,
+      "last_edit_date": 1411832908,
+      "question_id": 1070244,
+      "link": "https://stackoverflow.com/questions/1070244/how-to-determine-the-first-and-last-iteration-in-a-foreach-loop",
+      "title": "How to determine the first and last iteration in a foreach loop?"
+    },
+    {
+      "tags": [
+        "php",
+        "date",
+        "formatting"
+      ],
+      "owner": {
+        "reputation": 3302,
+        "user_id": 146773,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/f2c9dcd00b4947cd026f6afbfeb137b2?s=128&d=identicon&r=PG",
+        "display_name": "matthy",
+        "link": "https://stackoverflow.com/users/146773/matthy"
+      },
+      "is_answered": true,
+      "view_count": 1523444,
+      "protected_date": 1346958502,
+      "accepted_answer_id": 2487938,
+      "answer_count": 14,
+      "score": 445,
+      "last_activity_date": 1557577299,
+      "creation_date": 1269191472,
+      "last_edit_date": 1391306584,
+      "question_id": 2487921,
+      "link": "https://stackoverflow.com/questions/2487921/convert-date-format-yyyy-mm-dd-dd-mm-yyyy",
+      "title": "Convert date format yyyy-mm-dd =&gt; dd-mm-yyyy"
+    },
+    {
+      "tags": [
+        "php",
+        "datetime",
+        "time",
+        "timestamp"
+      ],
+      "owner": {
+        "reputation": 2477,
+        "user_id": 180685,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/5253bc10e05e82c3032158a0c319f045?s=128&d=identicon&r=PG",
+        "display_name": "MoeAmine",
+        "link": "https://stackoverflow.com/users/180685/moeamine"
+      },
+      "is_answered": true,
+      "view_count": 1405189,
+      "protected_date": 1450591044,
+      "accepted_answer_id": 1995565,
+      "answer_count": 16,
+      "score": 445,
+      "last_activity_date": 1563041565,
+      "creation_date": 1262538438,
+      "last_edit_date": 1563041025,
+      "question_id": 1995562,
+      "link": "https://stackoverflow.com/questions/1995562/now-function-in-php",
+      "title": "NOW() function in PHP"
+    },
+    {
+      "tags": [
+        "php",
+        "html",
+        "email"
+      ],
+      "owner": {
+        "reputation": 2217,
+        "user_id": 3818620,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/8827d814004cf2bf25800b2c8d8f2830?s=128&d=identicon&r=PG&f=1",
+        "display_name": "user3818620",
+        "link": "https://stackoverflow.com/users/3818620/user3818620"
+      },
+      "is_answered": true,
+      "view_count": 299466,
+      "protected_date": 1444035537,
+      "answer_count": 26,
+      "score": 441,
+      "last_activity_date": 1563360150,
+      "creation_date": 1404872335,
+      "last_edit_date": 1559641317,
+      "question_id": 24644436,
+      "link": "https://stackoverflow.com/questions/24644436/php-mail-function-doesnt-complete-sending-of-e-mail",
+      "title": "PHP mail function doesn&#39;t complete sending of e-mail"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays",
+        "insert"
+      ],
+      "owner": {
+        "reputation": 5814,
+        "user_id": 276640,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/549e4525b38bf265add3c9b10d6650e2?s=128&d=identicon&r=PG",
+        "display_name": "kusanagi",
+        "link": "https://stackoverflow.com/users/276640/kusanagi"
+      },
+      "is_answered": true,
+      "view_count": 307052,
+      "protected_date": 1488571433,
+      "accepted_answer_id": 3797526,
+      "answer_count": 18,
+      "score": 435,
+      "last_activity_date": 1560425035,
+      "creation_date": 1285493962,
+      "last_edit_date": 1361276833,
+      "question_id": 3797239,
+      "link": "https://stackoverflow.com/questions/3797239/insert-new-item-in-array-on-any-position-in-php",
+      "title": "Insert new item in array on any position in PHP"
+    },
+    {
+      "tags": [
+        "php"
+      ],
+      "owner": {
+        "reputation": 35240,
+        "user_id": 14690,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/b99d795971e0611610fbfb4fb20f4a80?s=128&d=identicon&r=PG",
+        "display_name": "Milan Babuškov",
+        "link": "https://stackoverflow.com/users/14690/milan-babu%c5%a1kov"
+      },
+      "is_answered": true,
+      "view_count": 29540,
+      "protected_date": 1491325671,
+      "accepted_answer_id": 4098397,
+      "answer_count": 13,
+      "score": 433,
+      "last_activity_date": 1501599927,
+      "creation_date": 1288884991,
+      "last_edit_date": 1389402552,
+      "question_id": 4098345,
+      "link": "https://stackoverflow.com/questions/4098345/why-doesnt-this-code-simply-print-letters-a-to-z",
+      "title": "Why doesn&#39;t this code simply print letters A to Z?"
+    },
+    {
+      "tags": [
+        "php",
+        "string"
+      ],
+      "owner": {
+        "reputation": 14245,
+        "user_id": 179235,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/690b45e1ac7a2e6df563acb6be6b18fd?s=128&d=identicon&r=PG",
+        "display_name": "streetparade",
+        "link": "https://stackoverflow.com/users/179235/streetparade"
+      },
+      "is_answered": true,
+      "view_count": 344463,
+      "accepted_answer_id": 2681810,
+      "answer_count": 11,
+      "score": 432,
+      "last_activity_date": 1558946039,
+      "creation_date": 1271843097,
+      "last_edit_date": 1271845715,
+      "question_id": 2681786,
+      "link": "https://stackoverflow.com/questions/2681786/how-to-get-the-last-char-of-a-string-in-php",
+      "title": "how to get the last char of a string in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "arrays",
+        "variables"
+      ],
+      "owner": {
+        "reputation": 3105,
+        "user_id": 78026,
+        "user_type": "unregistered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/38dfecc87c292b2eb5840657564757a3?s=128&d=identicon&r=PG",
+        "display_name": "AquinasTub",
+        "link": "https://stackoverflow.com/users/78026/aquinastub"
+      },
+      "is_answered": true,
+      "view_count": 879571,
+      "accepted_answer_id": 676703,
+      "answer_count": 9,
+      "score": 431,
+      "last_activity_date": 1542877099,
+      "creation_date": 1237887300,
+      "last_edit_date": 1397463609,
+      "question_id": 676677,
+      "link": "https://stackoverflow.com/questions/676677/how-to-add-elements-to-an-empty-array-in-php",
+      "title": "How to add elements to an empty array in PHP?"
+    },
+    {
+      "tags": [
+        "php",
+        "session",
+        "session-variables"
+      ],
+      "owner": {
+        "reputation": 5202,
+        "user_id": 751969,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/308f35eee01ec1745b58904c8edf7324?s=128&d=identicon&r=PG",
+        "display_name": "Logan",
+        "link": "https://stackoverflow.com/users/751969/logan"
+      },
+      "is_answered": true,
+      "view_count": 405286,
+      "accepted_answer_id": 18542272,
+      "answer_count": 26,
+      "score": 427,
+      "last_activity_date": 1548882106,
+      "creation_date": 1307350851,
+      "last_edit_date": 1342646705,
+      "question_id": 6249707,
+      "link": "https://stackoverflow.com/questions/6249707/check-if-php-session-has-already-started",
+      "title": "Check if PHP session has already started"
+    },
+    {
+      "tags": [
+        "php",
+        "http",
+        "curl",
+        "http-post"
+      ],
+      "owner": {
+        "reputation": 4770,
+        "user_id": 213568,
+        "user_type": "unregistered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/ad3080a3720dfe7d39006ac24866fb8d?s=128&d=identicon&r=PG",
+        "display_name": "mysqllearner",
+        "link": "https://stackoverflow.com/users/213568/mysqllearner"
+      },
+      "is_answered": true,
+      "view_count": 937030,
+      "protected_date": 1462567842,
+      "accepted_answer_id": 2138534,
+      "answer_count": 11,
+      "score": 426,
+      "last_activity_date": 1561400325,
+      "creation_date": 1264498775,
+      "last_edit_date": 1481317079,
+      "question_id": 2138527,
+      "link": "https://stackoverflow.com/questions/2138527/php-curl-http-post-sample-code",
+      "title": "PHP + curl, HTTP POST sample code?"
+    },
+    {
+      "tags": [
+        "php",
+        "loops",
+        "foreach"
+      ],
+      "owner": {
+        "reputation": 2178,
+        "user_id": 18334,
+        "user_type": "registered",
+        "display_name": "user18334",
+        "link": "https://stackoverflow.com/users/18334/user18334"
+      },
+      "is_answered": true,
+      "view_count": 565143,
+      "protected_date": 1488571624,
+      "accepted_answer_id": 141114,
+      "answer_count": 13,
+      "score": 425,
+      "last_activity_date": 1554716942,
+      "creation_date": 1222453395,
+      "last_edit_date": 1513221381,
+      "question_id": 141108,
+      "link": "https://stackoverflow.com/questions/141108/how-to-find-the-foreach-index",
+      "title": "How to find the foreach index"
+    },
+    {
+      "tags": [
+        "php"
+      ],
+      "owner": {
+        "reputation": 2135,
+        "user_id": 1799853,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e98729721c7855b7782e0cf21587f46e?s=128&d=identicon&r=PG",
+        "display_name": "adnan masood",
+        "link": "https://stackoverflow.com/users/1799853/adnan-masood"
+      },
+      "is_answered": true,
+      "view_count": 597026,
+      "answer_count": 14,
+      "score": 425,
+      "last_activity_date": 1563301152,
+      "creation_date": 1352188150,
+      "last_edit_date": 1547645548,
+      "question_id": 13246597,
+      "link": "https://stackoverflow.com/questions/13246597/how-to-read-a-large-file-line-by-line",
+      "title": "How to read a large file line by line?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 260
+}

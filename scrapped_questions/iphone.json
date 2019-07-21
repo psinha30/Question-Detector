@@ -1,0 +1,2852 @@
+
+{
+  "items": [
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "windows"
+      ],
+      "owner": {
+        "reputation": 2688,
+        "user_id": 2454,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/e41e093d120822663bc6634643ce2362?s=128&d=identicon&r=PG",
+        "display_name": "ryan",
+        "link": "https://stackoverflow.com/users/2454/ryan"
+      },
+      "is_answered": true,
+      "view_count": 1095239,
+      "protected_date": 1337959986,
+      "answer_count": 40,
+      "community_owned_date": 1347902163,
+      "score": 1147,
+      "last_activity_date": 1558964537,
+      "creation_date": 1219412101,
+      "last_edit_date": 1549356932,
+      "question_id": 22358,
+      "link": "https://stackoverflow.com/questions/22358/how-can-i-develop-for-iphone-using-a-windows-development-machine",
+      "title": "How can I develop for iPhone using a Windows development machine?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "xcode"
+      ],
+      "owner": {
+        "reputation": 4430,
+        "user_id": 4857269,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-fXKDFWvYClY/AAAAAAAAAAI/AAAAAAAABqg/T2bWQPcjKrk/photo.jpg?sz=128",
+        "display_name": "Nathan Kramer",
+        "link": "https://stackoverflow.com/users/4857269/nathan-kramer"
+      },
+      "is_answered": true,
+      "view_count": 533075,
+      "protected_date": 1437335878,
+      "accepted_answer_id": 39784892,
+      "answer_count": 23,
+      "score": 865,
+      "last_activity_date": 1560161605,
+      "creation_date": 1433864937,
+      "last_edit_date": 1495746960,
+      "question_id": 30736932,
+      "link": "https://stackoverflow.com/questions/30736932/xcode-error-could-not-find-developer-disk-image",
+      "title": "Xcode error &quot;Could not find Developer Disk Image&quot;"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "screen",
+        "iphone-5"
+      ],
+      "owner": {
+        "reputation": 11728,
+        "user_id": 229229,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://i.stack.imgur.com/c9BL3.jpg?s=128&g=1",
+        "display_name": "Lukasz",
+        "link": "https://stackoverflow.com/users/229229/lukasz"
+      },
+      "is_answered": true,
+      "view_count": 148449,
+      "protected_date": 1367356770,
+      "accepted_answer_id": 12397309,
+      "answer_count": 30,
+      "score": 495,
+      "last_activity_date": 1548846240,
+      "creation_date": 1347479048,
+      "last_edit_date": 1418893277,
+      "question_id": 12395200,
+      "link": "https://stackoverflow.com/questions/12395200/how-to-develop-or-migrate-apps-for-iphone-5-screen-resolution",
+      "title": "How to develop or migrate apps for iPhone 5 screen resolution?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone"
+      ],
+      "owner": {
+        "reputation": 3022,
+        "user_id": 154203,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/7f76ca888b5cbbb7206380b3542b1c33?s=128&d=identicon&r=PG",
+        "display_name": "phx",
+        "link": "https://stackoverflow.com/users/154203/phx"
+      },
+      "is_answered": true,
+      "view_count": 195418,
+      "protected_date": 1418775363,
+      "accepted_answer_id": 1351090,
+      "answer_count": 34,
+      "score": 476,
+      "last_activity_date": 1526499060,
+      "creation_date": 1251473680,
+      "last_edit_date": 1525186681,
+      "question_id": 1347779,
+      "link": "https://stackoverflow.com/questions/1347779/how-to-navigate-through-textfields-next-done-buttons",
+      "title": "How to navigate through textfields (Next / Done Buttons)"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "cocoa-touch",
+        "uikit",
+        "uitextview"
+      ],
+      "owner": {
+        "reputation": 3127,
+        "user_id": 90571,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://i.stack.imgur.com/KESVR.png?s=128&g=1",
+        "display_name": "sniurkst",
+        "link": "https://stackoverflow.com/users/90571/sniurkst"
+      },
+      "is_answered": true,
+      "view_count": 179829,
+      "accepted_answer_id": 42333832,
+      "answer_count": 20,
+      "score": 448,
+      "last_activity_date": 1560165100,
+      "creation_date": 1239694935,
+      "last_edit_date": 1553259330,
+      "question_id": 746670,
+      "link": "https://stackoverflow.com/questions/746670/how-to-lose-margin-padding-in-uitextview",
+      "title": "How to lose margin/padding in UITextView?"
+    },
+    {
+      "tags": [
+        "html",
+        "iphone",
+        "zoom",
+        "mobile-safari",
+        "html-input"
+      ],
+      "owner": {
+        "reputation": 2214,
+        "user_id": 360383,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/dd17ac45cfef4ae8c71343766c71ac15?s=128&d=identicon&r=PG",
+        "display_name": "Eduardo Montenegro",
+        "link": "https://stackoverflow.com/users/360383/eduardo-montenegro"
+      },
+      "is_answered": true,
+      "view_count": 349624,
+      "protected_date": 1433746624,
+      "answer_count": 30,
+      "score": 442,
+      "last_activity_date": 1554058716,
+      "creation_date": 1275912417,
+      "last_edit_date": 1519639689,
+      "question_id": 2989263,
+      "link": "https://stackoverflow.com/questions/2989263/disable-auto-zoom-in-input-text-tag-safari-on-iphone",
+      "title": "Disable Auto Zoom in Input &quot;Text&quot; tag - Safari on iPhone"
+    },
+    {
+      "tags": [
+        "iphone",
+        "debugging",
+        "ios",
+        "ios-simulator"
+      ],
+      "owner": {
+        "reputation": 2398,
+        "user_id": 16280,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7ea9dd5dbc3b113c5808b566e1c460b2?s=128&d=identicon&r=PG",
+        "display_name": "Paul Hammond",
+        "link": "https://stackoverflow.com/users/16280/paul-hammond"
+      },
+      "is_answered": true,
+      "view_count": 183434,
+      "protected_date": 1381507116,
+      "accepted_answer_id": 4808511,
+      "answer_count": 19,
+      "score": 382,
+      "last_activity_date": 1563447096,
+      "creation_date": 1296066654,
+      "question_id": 4808433,
+      "link": "https://stackoverflow.com/questions/4808433/is-it-possible-to-disable-the-network-in-ios-simulator",
+      "title": "Is it possible to disable the network in iOS Simulator?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "xcode",
+        "ios-simulator",
+        "screenshot"
+      ],
+      "owner": {
+        "reputation": 14760,
+        "user_id": 881635,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/087cfe28fcb8a3729c18d1e00c413b9e?s=128&d=identicon&r=PG",
+        "display_name": "iDroid Explorer",
+        "link": "https://stackoverflow.com/users/881635/idroid-explorer"
+      },
+      "is_answered": true,
+      "view_count": 183325,
+      "accepted_answer_id": 15929681,
+      "answer_count": 14,
+      "score": 377,
+      "last_activity_date": 1556812559,
+      "creation_date": 1313583427,
+      "last_edit_date": 1534149402,
+      "question_id": 7092613,
+      "link": "https://stackoverflow.com/questions/7092613/take-screenshots-in-the-ios-simulator",
+      "title": "Take screenshots in the iOS simulator"
+    },
+    {
+      "tags": [
+        "iphone",
+        "objective-c",
+        "keyboard",
+        "uitextview",
+        "iphone-softkeyboard"
+      ],
+      "owner": {
+        "reputation": 9102,
+        "user_id": 67391,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/62413a63fb6b3cdb0a04b40c498ff971?s=128&d=identicon&r=PG",
+        "display_name": "Chilly Zhong",
+        "link": "https://stackoverflow.com/users/67391/chilly-zhong"
+      },
+      "is_answered": true,
+      "view_count": 290749,
+      "accepted_answer_id": 704197,
+      "answer_count": 33,
+      "score": 372,
+      "last_activity_date": 1551090733,
+      "creation_date": 1238550533,
+      "last_edit_date": 1547730324,
+      "question_id": 703754,
+      "link": "https://stackoverflow.com/questions/703754/how-to-dismiss-keyboard-for-uitextview-with-return-key",
+      "title": "How to dismiss keyboard for UITextView with return key?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "xcode",
+        "warnings",
+        "cocoapods"
+      ],
+      "owner": {
+        "reputation": 6861,
+        "user_id": 445598,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/4ab0af72c2e38ff2315851a2a0d82bb4?s=128&d=identicon&r=PG",
+        "display_name": "KrauseFx",
+        "link": "https://stackoverflow.com/users/445598/krausefx"
+      },
+      "is_answered": true,
+      "view_count": 57799,
+      "accepted_answer_id": 13209057,
+      "answer_count": 4,
+      "score": 372,
+      "last_activity_date": 1558503712,
+      "creation_date": 1351937996,
+      "question_id": 13208202,
+      "link": "https://stackoverflow.com/questions/13208202/ignore-xcode-warnings-when-using-cocoapods",
+      "title": "Ignore Xcode warnings when using Cocoapods"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "ipod-touch"
+      ],
+      "owner": {
+        "reputation": 3430,
+        "user_id": 55580,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://i.stack.imgur.com/V61pe.jpg?s=128&g=1",
+        "display_name": "Rob",
+        "link": "https://stackoverflow.com/users/55580/rob"
+      },
+      "is_answered": true,
+      "view_count": 189490,
+      "protected_date": 1297824325,
+      "accepted_answer_id": 448218,
+      "answer_count": 31,
+      "score": 366,
+      "last_activity_date": 1559082452,
+      "creation_date": 1232048218,
+      "last_edit_date": 1546597137,
+      "question_id": 448162,
+      "link": "https://stackoverflow.com/questions/448162/determine-device-iphone-ipod-touch-with-ios",
+      "title": "Determine device (iPhone, iPod Touch) with iOS"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "xcode",
+        "ipad"
+      ],
+      "owner": {
+        "reputation": 2639,
+        "user_id": 102901,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.stack.imgur.com/hA0w7.jpg?s=128&g=1",
+        "display_name": "Cosmin",
+        "link": "https://stackoverflow.com/users/102901/cosmin"
+      },
+      "is_answered": true,
+      "view_count": 92848,
+      "accepted_answer_id": 32560406,
+      "answer_count": 8,
+      "score": 360,
+      "last_activity_date": 1557386771,
+      "creation_date": 1442217187,
+      "question_id": 32559724,
+      "link": "https://stackoverflow.com/questions/32559724/ipad-multitasking-support-requires-these-orientations",
+      "title": "iPad Multitasking support requires these orientations"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "iphone",
+        "mobile-safari",
+        "css-reset"
+      ],
+      "owner": {
+        "reputation": 34292,
+        "user_id": 114916,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/566bb1dcfcfe99bc2d3babc14a0417b5?s=128&d=identicon&r=PG",
+        "display_name": "Alex",
+        "link": "https://stackoverflow.com/users/114916/alex"
+      },
+      "is_answered": true,
+      "view_count": 276543,
+      "protected_date": 1406902377,
+      "accepted_answer_id": 2918716,
+      "answer_count": 11,
+      "score": 355,
+      "last_activity_date": 1533659484,
+      "creation_date": 1274938692,
+      "last_edit_date": 1442553988,
+      "question_id": 2918707,
+      "link": "https://stackoverflow.com/questions/2918707/turn-off-iphone-safari-input-element-rounding",
+      "title": "Turn off iPhone/Safari input element rounding"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "cocoa-touch",
+        "uiview",
+        "rounded-corners"
+      ],
+      "owner": {
+        "reputation": 3213,
+        "user_id": 238099,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/7fd5213ef68f6de2f6153a2c07b44b7e?s=128&d=identicon&r=PG",
+        "display_name": "Aditya Vaidyam",
+        "link": "https://stackoverflow.com/users/238099/aditya-vaidyam"
+      },
+      "is_answered": true,
+      "view_count": 244079,
+      "accepted_answer_id": 4754420,
+      "answer_count": 30,
+      "score": 349,
+      "last_activity_date": 1561029809,
+      "creation_date": 1295571512,
+      "last_edit_date": 1561029809,
+      "question_id": 4754392,
+      "link": "https://stackoverflow.com/questions/4754392/uiview-with-rounded-corners-and-drop-shadow",
+      "title": "UIView with rounded corners and drop shadow?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "objective-c",
+        "cocoa",
+        "cocoa-touch",
+        "ios"
+      ],
+      "owner": {
+        "reputation": 3734,
+        "user_id": 21804,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/535a458afd969143ed08a916a805333f?s=128&d=identicon&r=PG",
+        "display_name": "pixel",
+        "link": "https://stackoverflow.com/users/21804/pixel"
+      },
+      "is_answered": true,
+      "view_count": 121497,
+      "closed_date": 1336638526,
+      "accepted_answer_id": 156098,
+      "answer_count": 33,
+      "community_owned_date": 1282904252,
+      "score": 346,
+      "locked_date": 1336644374,
+      "last_activity_date": 1336201311,
+      "creation_date": 1222827222,
+      "last_edit_date": 1322056554,
+      "question_id": 155964,
+      "link": "https://stackoverflow.com/questions/155964/what-are-best-practices-that-you-use-when-writing-objective-c-and-cocoa",
+      "closed_reason": "not constructive",
+      "title": "What are best practices that you use when writing Objective-C and Cocoa?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "objective-c",
+        "ios",
+        "cocoa-touch",
+        "core-graphics"
+      ],
+      "owner": {
+        "reputation": 2657,
+        "user_id": 96455,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/16bbb5898bf208ffef736295fceb7e27?s=128&d=identicon&r=PG",
+        "display_name": "Fraser Speirs",
+        "link": "https://stackoverflow.com/users/96455/fraser-speirs"
+      },
+      "is_answered": true,
+      "view_count": 240428,
+      "protected_date": 1375935152,
+      "accepted_answer_id": 806723,
+      "answer_count": 14,
+      "score": 346,
+      "last_activity_date": 1538557940,
+      "creation_date": 1241078824,
+      "last_edit_date": 1370089061,
+      "question_id": 805872,
+      "link": "https://stackoverflow.com/questions/805872/how-do-i-draw-a-shadow-under-a-uiview",
+      "title": "How do I draw a shadow under a UIView?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "objective-c",
+        "cocoa-touch",
+        "gesture-recognition",
+        "uigesturerecognizer"
+      ],
+      "owner": {
+        "reputation": 26931,
+        "user_id": 19875,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/dcb55baf9cd5a05c70569122b7184766?s=128&d=identicon&r=PG",
+        "display_name": "Sheehan Alam",
+        "link": "https://stackoverflow.com/users/19875/sheehan-alam"
+      },
+      "is_answered": true,
+      "view_count": 84385,
+      "accepted_answer_id": 3320351,
+      "answer_count": 7,
+      "score": 345,
+      "last_activity_date": 1529010396,
+      "creation_date": 1279898468,
+      "question_id": 3319591,
+      "link": "https://stackoverflow.com/questions/3319591/uilongpressgesturerecognizer-gets-called-twice-when-pressing-down",
+      "title": "UILongPressGestureRecognizer gets called twice when pressing down"
+    },
+    {
+      "tags": [
+        "iphone",
+        "safari",
+        "mobile-safari"
+      ],
+      "owner": {
+        "reputation": 64229,
+        "user_id": 10947,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/ab1d14914503d2d7f3279c3f2db4c245?s=128&d=identicon&r=PG",
+        "display_name": "benzado",
+        "link": "https://stackoverflow.com/users/10947/benzado"
+      },
+      "is_answered": true,
+      "view_count": 244762,
+      "protected_date": 1445629075,
+      "accepted_answer_id": 227238,
+      "answer_count": 24,
+      "score": 341,
+      "last_activity_date": 1522973868,
+      "creation_date": 1224687644,
+      "question_id": 226131,
+      "link": "https://stackoverflow.com/questions/226131/how-to-disable-phone-number-linking-in-mobile-safari",
+      "title": "How to disable phone number linking in Mobile Safari?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "swift",
+        "device"
+      ],
+      "owner": {
+        "reputation": 2664,
+        "user_id": 2640210,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/n03sb.jpg?s=128&g=1",
+        "display_name": "The Mach System",
+        "link": "https://stackoverflow.com/users/2640210/the-mach-system"
+      },
+      "is_answered": true,
+      "view_count": 208698,
+      "protected_date": 1531523867,
+      "accepted_answer_id": 26962452,
+      "answer_count": 27,
+      "score": 340,
+      "last_activity_date": 1563182474,
+      "creation_date": 1411607281,
+      "last_edit_date": 1506085410,
+      "question_id": 26028918,
+      "link": "https://stackoverflow.com/questions/26028918/how-to-determine-the-current-iphone-device-model",
+      "title": "How to determine the current iPhone/device model?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "swift",
+        "iphone",
+        "nsurlsession"
+      ],
+      "owner": {
+        "reputation": 2630,
+        "user_id": 2932812,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/707a11274c3595b459fae772017aac5f?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Dicky Tsang",
+        "link": "https://stackoverflow.com/users/2932812/dicky-tsang"
+      },
+      "is_answered": true,
+      "view_count": 330455,
+      "protected_date": 1453047703,
+      "accepted_answer_id": 31738382,
+      "answer_count": 17,
+      "score": 331,
+      "last_activity_date": 1559058545,
+      "creation_date": 1401801152,
+      "last_edit_date": 1559056906,
+      "question_id": 24016142,
+      "link": "https://stackoverflow.com/questions/24016142/how-to-make-an-http-request-in-swift",
+      "title": "How to make an HTTP request in Swift?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "cocoa-touch",
+        "uiimage",
+        "uiimagepickercontroller"
+      ],
+      "owner": {
+        "reputation": 19963,
+        "user_id": 416412,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/d9ceb1bd6352a711acd55f6a55c51914?s=128&d=identicon&r=PG&f=1",
+        "display_name": "binnyb",
+        "link": "https://stackoverflow.com/users/416412/binnyb"
+      },
+      "is_answered": true,
+      "view_count": 128519,
+      "accepted_answer_id": 5427890,
+      "answer_count": 19,
+      "score": 324,
+      "last_activity_date": 1559886393,
+      "creation_date": 1301017278,
+      "last_edit_date": 1439719931,
+      "question_id": 5427656,
+      "link": "https://stackoverflow.com/questions/5427656/ios-uiimagepickercontroller-result-image-orientation-after-upload",
+      "title": "iOS UIImagePickerController result image orientation after upload"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "phone-number"
+      ],
+      "owner": {
+        "reputation": 5610,
+        "user_id": 26980,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/697167a0bb75aeca729748062fa2da8f?s=128&d=identicon&r=PG",
+        "display_name": "Vadim",
+        "link": "https://stackoverflow.com/users/26980/vadim"
+      },
+      "is_answered": true,
+      "view_count": 200606,
+      "protected_date": 1279652844,
+      "accepted_answer_id": 1685369,
+      "answer_count": 10,
+      "score": 323,
+      "last_activity_date": 1546422774,
+      "creation_date": 1223676233,
+      "last_edit_date": 1418894056,
+      "question_id": 193182,
+      "link": "https://stackoverflow.com/questions/193182/programmatically-get-own-phone-number-in-ios",
+      "title": "Programmatically get own phone number in iOS"
+    },
+    {
+      "tags": [
+        "iphone",
+        "encryption",
+        "app-store"
+      ],
+      "owner": {
+        "reputation": 34848,
+        "user_id": 22927,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/488c2dcaa43806d49cac768901604ab5?s=128&d=identicon&r=PG",
+        "display_name": "Steven Fisher",
+        "link": "https://stackoverflow.com/users/22927/steven-fisher"
+      },
+      "is_answered": true,
+      "view_count": 169266,
+      "accepted_answer_id": 16080233,
+      "answer_count": 12,
+      "score": 323,
+      "last_activity_date": 1551593506,
+      "creation_date": 1264448623,
+      "last_edit_date": 1264450205,
+      "question_id": 2135081,
+      "link": "https://stackoverflow.com/questions/2135081/does-my-application-contain-encryption",
+      "title": "Does my application &quot;contain encryption&quot;?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "objective-c",
+        "ios",
+        "xcode4.3",
+        "cocoapods"
+      ],
+      "owner": {
+        "reputation": 4834,
+        "user_id": 772481,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://i.stack.imgur.com/Thkmt.jpg?s=128&g=1",
+        "display_name": "angelokh",
+        "link": "https://stackoverflow.com/users/772481/angelokh"
+      },
+      "is_answered": true,
+      "view_count": 152696,
+      "protected_date": 1402044688,
+      "accepted_answer_id": 9988853,
+      "answer_count": 41,
+      "score": 322,
+      "last_activity_date": 1539325065,
+      "creation_date": 1332707943,
+      "last_edit_date": 1357131451,
+      "question_id": 9863836,
+      "link": "https://stackoverflow.com/questions/9863836/library-not-found-for-lpods",
+      "title": "library not found for -lPods"
+    },
+    {
+      "tags": [
+        "iphone",
+        "sqlite"
+      ],
+      "owner": {
+        "reputation": 1833,
+        "user_id": 55061,
+        "user_type": "registered",
+        "accept_rate": 12,
+        "profile_image": "https://www.gravatar.com/avatar/32c37abe8570fd46e2f5e69b7a4d4c97?s=128&d=identicon&r=PG",
+        "display_name": "luebken",
+        "link": "https://stackoverflow.com/users/55061/luebken"
+      },
+      "is_answered": true,
+      "view_count": 397987,
+      "answer_count": 16,
+      "score": 310,
+      "last_activity_date": 1558331517,
+      "creation_date": 1244062754,
+      "last_edit_date": 1495542877,
+      "question_id": 947215,
+      "link": "https://stackoverflow.com/questions/947215/how-to-get-a-list-of-column-names-on-sqlite3-iphone",
+      "title": "How to get a list of column names on sqlite3 / iPhone?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "android",
+        "html",
+        "mobile-website"
+      ],
+      "owner": {
+        "reputation": 5873,
+        "user_id": 115781,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/7f0c300a172253ab88feb0c3992b9301?s=128&d=identicon&r=PG",
+        "display_name": "Mickey Shine",
+        "link": "https://stackoverflow.com/users/115781/mickey-shine"
+      },
+      "is_answered": true,
+      "view_count": 210943,
+      "accepted_answer_id": 1806940,
+      "answer_count": 14,
+      "score": 310,
+      "locked_date": 1351386793,
+      "last_activity_date": 1351386772,
+      "creation_date": 1254016010,
+      "last_edit_date": 1298024237,
+      "question_id": 1482586,
+      "link": "https://stackoverflow.com/questions/1482586/comparison-between-corona-phonegap-titanium",
+      "title": "Comparison between Corona, Phonegap, Titanium"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "navigation",
+        "uinavigationcontroller"
+      ],
+      "owner": {
+        "reputation": 9102,
+        "user_id": 67391,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/62413a63fb6b3cdb0a04b40c498ff971?s=128&d=identicon&r=PG",
+        "display_name": "Chilly Zhong",
+        "link": "https://stackoverflow.com/users/67391/chilly-zhong"
+      },
+      "is_answered": true,
+      "view_count": 171728,
+      "protected_date": 1399727314,
+      "accepted_answer_id": 791938,
+      "answer_count": 13,
+      "score": 309,
+      "last_activity_date": 1559297511,
+      "creation_date": 1236248123,
+      "last_edit_date": 1557416754,
+      "question_id": 614212,
+      "link": "https://stackoverflow.com/questions/614212/how-to-hide-back-button-on-navigation-bar-on-iphone",
+      "title": "How to hide &#39;Back&#39; button on navigation bar on iPhone?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "cocoa-touch",
+        "interface-builder",
+        "autolayout"
+      ],
+      "owner": {
+        "reputation": 2052,
+        "user_id": 1873508,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/e85ce083f258c2ccfba1642e6a5253f3?s=128&d=identicon&r=PG",
+        "display_name": "Guferos",
+        "link": "https://stackoverflow.com/users/1873508/guferos"
+      },
+      "is_answered": true,
+      "view_count": 149448,
+      "protected_date": 1460979616,
+      "accepted_answer_id": 18066138,
+      "answer_count": 20,
+      "score": 309,
+      "last_activity_date": 1545810304,
+      "creation_date": 1375730161,
+      "last_edit_date": 1532188328,
+      "question_id": 18065938,
+      "link": "https://stackoverflow.com/questions/18065938/how-to-use-auto-layout-to-move-other-views-when-a-view-is-hidden",
+      "title": "How to use auto-layout to move other views when a view is hidden?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "objective-c",
+        "screen",
+        "device"
+      ],
+      "owner": {
+        "reputation": 2190,
+        "user_id": 1642174,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/a6e8286905664bb64af8b1067bf8e3e7?s=128&d=identicon&r=PG",
+        "display_name": "Finn Gaida",
+        "link": "https://stackoverflow.com/users/1642174/finn-gaida"
+      },
+      "is_answered": true,
+      "view_count": 152494,
+      "protected_date": 1348234231,
+      "accepted_answer_id": 12447113,
+      "answer_count": 24,
+      "score": 299,
+      "last_activity_date": 1554636070,
+      "creation_date": 1347799837,
+      "last_edit_date": 1366403046,
+      "question_id": 12446990,
+      "link": "https://stackoverflow.com/questions/12446990/how-to-detect-iphone-5-widescreen-devices",
+      "title": "How to detect iPhone 5 (widescreen devices)?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "ipad",
+        "cocoapods"
+      ],
+      "owner": {
+        "reputation": 16183,
+        "user_id": 1704346,
+        "user_type": "registered",
+        "accept_rate": 44,
+        "profile_image": "https://i.stack.imgur.com/cWLrS.jpg?s=128&g=1",
+        "display_name": "Lithu T.V",
+        "link": "https://stackoverflow.com/users/1704346/lithu-t-v"
+      },
+      "is_answered": true,
+      "view_count": 139606,
+      "accepted_answer_id": 35316717,
+      "answer_count": 6,
+      "score": 296,
+      "last_activity_date": 1547058104,
+      "creation_date": 1354822545,
+      "last_edit_date": 1434370723,
+      "question_id": 13751147,
+      "link": "https://stackoverflow.com/questions/13751147/remove-or-uninstall-library-previously-added-cocoapods",
+      "title": "Remove or uninstall library previously added : cocoapods"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "itunes",
+        "itunesconnect"
+      ],
+      "owner": {
+        "reputation": 3791,
+        "user_id": 2462776,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/tzDOO.jpg?s=128&g=1",
+        "display_name": "Yasika Patel",
+        "link": "https://stackoverflow.com/users/2462776/yasika-patel"
+      },
+      "is_answered": true,
+      "view_count": 124006,
+      "protected_date": 1410530447,
+      "accepted_answer_id": 25682251,
+      "answer_count": 21,
+      "score": 294,
+      "last_activity_date": 1561363407,
+      "creation_date": 1409906632,
+      "last_edit_date": 1409985364,
+      "question_id": 25681869,
+      "link": "https://stackoverflow.com/questions/25681869/images-cant-contain-alpha-channels-or-transparencies",
+      "title": "Images can&#39;t contain alpha channels or transparencies"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "ipad",
+        "icons"
+      ],
+      "owner": {
+        "reputation": 1479,
+        "user_id": 255014,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/76e9ac025015b6f6586037728f160c2f?s=128&d=identicon&r=PG",
+        "display_name": "Frank Barson",
+        "link": "https://stackoverflow.com/users/255014/frank-barson"
+      },
+      "is_answered": true,
+      "view_count": 204209,
+      "protected_date": 1363290933,
+      "answer_count": 16,
+      "score": 293,
+      "last_activity_date": 1557508509,
+      "creation_date": 1264024425,
+      "last_edit_date": 1332032437,
+      "question_id": 2105289,
+      "link": "https://stackoverflow.com/questions/2105289/iphone-app-icons-exact-radius",
+      "title": "iPhone App Icons - Exact Radius?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "core-data",
+        "sync",
+        "data-synchronization"
+      ],
+      "owner": {
+        "reputation": 7295,
+        "user_id": 353137,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/dc84cbc5a22776aa12209b1e25b3a81b?s=128&d=identicon&r=PG",
+        "display_name": "Jason",
+        "link": "https://stackoverflow.com/users/353137/jason"
+      },
+      "is_answered": true,
+      "view_count": 87390,
+      "protected_date": 1418775390,
+      "closed_date": 1513343789,
+      "accepted_answer_id": 5164878,
+      "answer_count": 9,
+      "score": 290,
+      "last_activity_date": 1513265438,
+      "creation_date": 1297979545,
+      "last_edit_date": 1343474904,
+      "question_id": 5035132,
+      "link": "https://stackoverflow.com/questions/5035132/how-to-sync-iphone-core-data-with-web-server-and-then-push-to-other-devices",
+      "closed_reason": "too broad",
+      "title": "How to Sync iPhone Core Data with web server, and then push to other devices?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "cocoa-touch",
+        "uinavigationbar",
+        "uitoolbar"
+      ],
+      "owner": {
+        "reputation": 12735,
+        "user_id": 30480,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e7f3eb127c979c3be007f1134944e7cd?s=128&d=identicon&r=PG",
+        "display_name": "Marco",
+        "link": "https://stackoverflow.com/users/30480/marco"
+      },
+      "is_answered": true,
+      "view_count": 174686,
+      "protected_date": 1418775270,
+      "accepted_answer_id": 574863,
+      "answer_count": 23,
+      "score": 287,
+      "last_activity_date": 1521887728,
+      "creation_date": 1224701142,
+      "last_edit_date": 1499938557,
+      "question_id": 227078,
+      "link": "https://stackoverflow.com/questions/227078/creating-a-left-arrow-button-like-uinavigationbars-back-style-on-a-uitoolba",
+      "title": "Creating a left-arrow button (like UINavigationBar&#39;s &quot;back&quot; style) on a UIToolbar"
+    },
+    {
+      "tags": [
+        "iphone",
+        "objective-c",
+        "ios",
+        "cocoa-touch",
+        "ios4"
+      ],
+      "owner": {
+        "reputation": 4383,
+        "user_id": 480346,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/341254f0fbe1dd03bb776a69fc71ee3e?s=128&d=identicon&r=PG",
+        "display_name": "meetpd",
+        "link": "https://stackoverflow.com/users/480346/meetpd"
+      },
+      "is_answered": true,
+      "view_count": 204853,
+      "closed_date": 1384442398,
+      "accepted_answer_id": 7848772,
+      "answer_count": 10,
+      "score": 285,
+      "last_activity_date": 1520342648,
+      "creation_date": 1319196606,
+      "question_id": 7848766,
+      "link": "https://stackoverflow.com/questions/7848766/how-can-we-programmatically-detect-which-ios-version-is-device-running-on",
+      "closed_reason": "duplicate",
+      "title": "How can we programmatically detect which iOS version is device running on?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "xcode"
+      ],
+      "owner": {
+        "reputation": 13337,
+        "user_id": 1784011,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/Qc2Pb.jpg?s=128&g=1",
+        "display_name": "Woodstock",
+        "link": "https://stackoverflow.com/users/1784011/woodstock"
+      },
+      "is_answered": true,
+      "view_count": 162963,
+      "accepted_answer_id": 19706886,
+      "answer_count": 8,
+      "score": 285,
+      "last_activity_date": 1500573848,
+      "creation_date": 1380909759,
+      "last_edit_date": 1444310349,
+      "question_id": 19187857,
+      "link": "https://stackoverflow.com/questions/19187857/processing-symbol-files-in-xcode",
+      "title": "Processing Symbol Files in Xcode"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "xcode",
+        "device"
+      ],
+      "owner": {
+        "reputation": 1431,
+        "user_id": 4151881,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://i.stack.imgur.com/tQUrV.jpg?s=128&g=1",
+        "display_name": "Faisal Syed",
+        "link": "https://stackoverflow.com/users/4151881/faisal-syed"
+      },
+      "is_answered": true,
+      "view_count": 162060,
+      "accepted_answer_id": 26791721,
+      "answer_count": 34,
+      "score": 278,
+      "last_activity_date": 1562183294,
+      "creation_date": 1415317020,
+      "last_edit_date": 1558960812,
+      "question_id": 26791477,
+      "link": "https://stackoverflow.com/questions/26791477/xcode-device-locked-when-iphone-is-unlocked",
+      "title": "Xcode &quot;Device Locked&quot; When iPhone is unlocked"
+    },
+    {
+      "tags": [
+        "iphone",
+        "xcode"
+      ],
+      "owner": {
+        "reputation": 27771,
+        "user_id": 153422,
+        "user_type": "registered",
+        "accept_rate": 53,
+        "profile_image": "https://www.gravatar.com/avatar/8033fa6d00ea3c5a231a31ca1989fd78?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Adam",
+        "link": "https://stackoverflow.com/users/153422/adam"
+      },
+      "is_answered": true,
+      "view_count": 124058,
+      "protected_date": 1302709931,
+      "accepted_answer_id": 3647187,
+      "answer_count": 9,
+      "score": 278,
+      "last_activity_date": 1516932581,
+      "creation_date": 1282214851,
+      "last_edit_date": 1516932581,
+      "question_id": 3520977,
+      "link": "https://stackoverflow.com/questions/3520977/build-fat-static-library-device-simulator-using-xcode-and-sdk-4",
+      "title": "Build fat static library (device + simulator) using Xcode and SDK 4+"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "objective-c",
+        "uitableview"
+      ],
+      "owner": {
+        "reputation": 23328,
+        "user_id": 40933,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://www.gravatar.com/avatar/a088b1abe4432e21f41875645347d705?s=128&d=identicon&r=PG",
+        "display_name": "Warrior",
+        "link": "https://stackoverflow.com/users/40933/warrior"
+      },
+      "is_answered": true,
+      "view_count": 205408,
+      "accepted_answer_id": 2268457,
+      "answer_count": 21,
+      "score": 275,
+      "last_activity_date": 1556260318,
+      "creation_date": 1266257662,
+      "last_edit_date": 1458287799,
+      "question_id": 2267993,
+      "link": "https://stackoverflow.com/questions/2267993/uitableview-how-to-disable-selection-for-some-rows-but-not-others",
+      "title": "UITableview: How to Disable Selection for Some Rows but Not Others"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "app-store",
+        "itunesconnect",
+        "ios-provisioning"
+      ],
+      "owner": {
+        "reputation": 1459,
+        "user_id": 1413558,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/fc7a1e21db1f0435cf0800d4b6d77699?s=128&d=identicon&r=PG&f=1",
+        "display_name": "user1413558",
+        "link": "https://stackoverflow.com/users/1413558/user1413558"
+      },
+      "is_answered": true,
+      "view_count": 109954,
+      "accepted_answer_id": 10760224,
+      "answer_count": 4,
+      "score": 273,
+      "last_activity_date": 1513672368,
+      "creation_date": 1337972349,
+      "last_edit_date": 1513672368,
+      "question_id": 10759973,
+      "link": "https://stackoverflow.com/questions/10759973/proper-way-to-renew-distribution-certificate-for-ios",
+      "title": "Proper way to renew distribution certificate for iOS"
+    },
+    {
+      "tags": [
+        "iphone",
+        "objective-c",
+        "jobs"
+      ],
+      "owner": {
+        "reputation": 1369,
+        "user_id": 27815,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/888c0c9ba8802b0ddb24a22850244bd3?s=128&d=identicon&r=PG",
+        "display_name": "user27815",
+        "link": "https://stackoverflow.com/users/27815/user27815"
+      },
+      "is_answered": true,
+      "view_count": 552830,
+      "protected_date": 1326230755,
+      "closed_date": 1321047307,
+      "answer_count": 10,
+      "score": 270,
+      "locked_date": 1329957216,
+      "last_activity_date": 1325017345,
+      "creation_date": 1224172485,
+      "last_edit_date": 1317820560,
+      "question_id": 209170,
+      "link": "https://stackoverflow.com/questions/209170/how-much-does-it-cost-to-develop-an-iphone-application",
+      "closed_reason": "off topic",
+      "title": "How much does it cost to develop an iPhone application?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "nsstring"
+      ],
+      "owner": {
+        "reputation": 19101,
+        "user_id": 40106,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/164ca8ba426bdb10381290b9617d3ea7?s=128&d=identicon&r=PG&f=1",
+        "display_name": "4thSpace",
+        "link": "https://stackoverflow.com/users/40106/4thspace"
+      },
+      "is_answered": true,
+      "view_count": 248002,
+      "accepted_answer_id": 668254,
+      "answer_count": 6,
+      "score": 270,
+      "last_activity_date": 1557423810,
+      "creation_date": 1237587999,
+      "last_edit_date": 1557423810,
+      "question_id": 668228,
+      "link": "https://stackoverflow.com/questions/668228/string-replacement-in-objective-c",
+      "title": "String replacement in Objective-C"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "cocoa-touch",
+        "interface-builder"
+      ],
+      "owner": {
+        "reputation": 20995,
+        "user_id": 257558,
+        "user_type": "registered",
+        "accept_rate": 54,
+        "profile_image": "https://i.stack.imgur.com/FImru.png?s=128&g=1",
+        "display_name": "foreyez",
+        "link": "https://stackoverflow.com/users/257558/foreyez"
+      },
+      "is_answered": true,
+      "view_count": 195340,
+      "accepted_answer_id": 3330397,
+      "answer_count": 13,
+      "score": 269,
+      "last_activity_date": 1557432801,
+      "creation_date": 1280081242,
+      "last_edit_date": 1557432801,
+      "question_id": 3330378,
+      "link": "https://stackoverflow.com/questions/3330378/cocoa-touch-how-to-change-uiviews-border-color-and-thickness",
+      "title": "Cocoa Touch: How To Change UIView&#39;s Border Color And Thickness?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "encoding",
+        "nsuserdefaults"
+      ],
+      "owner": {
+        "reputation": 5202,
+        "user_id": 200567,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/d2e01c1655c22259cbeb14feea47df6d?s=128&d=identicon&r=PG",
+        "display_name": "Ethan Mick",
+        "link": "https://stackoverflow.com/users/200567/ethan-mick"
+      },
+      "is_answered": true,
+      "view_count": 132404,
+      "accepted_answer_id": 2315972,
+      "answer_count": 7,
+      "score": 265,
+      "last_activity_date": 1555519940,
+      "creation_date": 1266896373,
+      "last_edit_date": 1555519940,
+      "question_id": 2315948,
+      "link": "https://stackoverflow.com/questions/2315948/how-to-store-custom-objects-in-nsuserdefaults",
+      "title": "How to store custom objects in NSUserDefaults"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "cocoa-touch",
+        "ipad"
+      ],
+      "owner": {
+        "reputation": 3342,
+        "user_id": 21293,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/3899a45d8a5c74bf74dea225d1b0247b?s=128&d=identicon&r=PG",
+        "display_name": "user21293",
+        "link": "https://stackoverflow.com/users/21293/user21293"
+      },
+      "is_answered": true,
+      "view_count": 225924,
+      "protected_date": 1310062215,
+      "accepted_answer_id": 355173,
+      "answer_count": 24,
+      "score": 264,
+      "last_activity_date": 1560852450,
+      "creation_date": 1228887752,
+      "last_edit_date": 1555519820,
+      "question_id": 355168,
+      "link": "https://stackoverflow.com/questions/355168/proper-way-to-exit-iphone-application",
+      "title": "Proper way to exit iPhone application?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "iphone-5"
+      ],
+      "owner": {
+        "reputation": 2618,
+        "user_id": 1052504,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/d24c555de0ab090f0b822155f31affe4?s=128&d=identicon&r=PG",
+        "display_name": "jturolla",
+        "link": "https://stackoverflow.com/users/1052504/jturolla"
+      },
+      "is_answered": true,
+      "view_count": 161048,
+      "protected_date": 1347699540,
+      "closed_date": 1347982245,
+      "accepted_answer_id": 12396752,
+      "answer_count": 8,
+      "score": 264,
+      "last_activity_date": 1394019876,
+      "creation_date": 1347486008,
+      "last_edit_date": 1495539197,
+      "question_id": 12396545,
+      "link": "https://stackoverflow.com/questions/12396545/ios-6-apps-how-to-deal-with-iphone-5-screen-size",
+      "closed_reason": "exact duplicate",
+      "title": "iOS 6 apps - how to deal with iPhone 5 screen size?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "viewwillappear"
+      ],
+      "owner": {
+        "reputation": 15896,
+        "user_id": 478460,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/81173562da1e1c9ae2ddd0df69ec4f69?s=128&d=identicon&r=PG",
+        "display_name": "Philip Walton",
+        "link": "https://stackoverflow.com/users/478460/philip-walton"
+      },
+      "is_answered": true,
+      "view_count": 126414,
+      "accepted_answer_id": 5278108,
+      "answer_count": 5,
+      "score": 262,
+      "last_activity_date": 1539681134,
+      "creation_date": 1299875146,
+      "last_edit_date": 1539681134,
+      "question_id": 5277940,
+      "link": "https://stackoverflow.com/questions/5277940/why-does-viewwillappear-not-get-called-when-an-app-comes-back-from-the-backgroun",
+      "title": "Why does viewWillAppear not get called when an app comes back from the background?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "ios-simulator",
+        "uiimagepickercontroller",
+        "photo"
+      ],
+      "owner": {
+        "reputation": 2490,
+        "user_id": 55817,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/f637556e134ef76b6696a4db91f67c45?s=128&d=identicon&r=PG",
+        "display_name": "Vijayeta",
+        "link": "https://stackoverflow.com/users/55817/vijayeta"
+      },
+      "is_answered": true,
+      "view_count": 142881,
+      "accepted_answer_id": 468899,
+      "answer_count": 31,
+      "score": 261,
+      "last_activity_date": 1557424529,
+      "creation_date": 1232626085,
+      "last_edit_date": 1557424529,
+      "question_id": 468879,
+      "link": "https://stackoverflow.com/questions/468879/adding-images-to-iphone-simulator",
+      "title": "Adding images to iPhone Simulator"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "xcode",
+        "build",
+        "target"
+      ],
+      "owner": {
+        "reputation": 94290,
+        "user_id": 74118,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://i.stack.imgur.com/pfMm3.jpg?s=128&g=1",
+        "display_name": "nevan king",
+        "link": "https://stackoverflow.com/users/74118/nevan-king"
+      },
+      "is_answered": true,
+      "view_count": 70475,
+      "accepted_answer_id": 3095716,
+      "answer_count": 5,
+      "score": 259,
+      "last_activity_date": 1546283374,
+      "creation_date": 1277228231,
+      "last_edit_date": 1546257026,
+      "question_id": 3095612,
+      "link": "https://stackoverflow.com/questions/3095612/warning-the-copy-bundle-resources-build-phase-contains-this-targets-info-plist",
+      "title": "Warning: The Copy Bundle Resources build phase contains this target&#39;s Info.plist file"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "xcode7",
+        "bitcode"
+      ],
+      "owner": {
+        "reputation": 3013,
+        "user_id": 876062,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/56645295211430af3413fac61e67628e?s=128&d=identicon&r=PG",
+        "display_name": "damithH",
+        "link": "https://stackoverflow.com/users/876062/damithh"
+      },
+      "is_answered": true,
+      "view_count": 112918,
+      "accepted_answer_id": 30722686,
+      "answer_count": 5,
+      "score": 256,
+      "last_activity_date": 1563336772,
+      "creation_date": 1433821233,
+      "last_edit_date": 1563336772,
+      "question_id": 30722606,
+      "link": "https://stackoverflow.com/questions/30722606/what-does-enable-bitcode-do-in-xcode-7",
+      "title": "What does ENABLE_BITCODE do in xcode 7?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "uibutton",
+        "ios7",
+        "uisegmentedcontrol"
+      ],
+      "owner": {
+        "reputation": 1952,
+        "user_id": 1710704,
+        "user_type": "registered",
+        "accept_rate": 33,
+        "profile_image": "https://www.gravatar.com/avatar/a3b646c4f3b358bc74cfe636ca9655f7?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Logan Shire",
+        "link": "https://stackoverflow.com/users/1710704/logan-shire"
+      },
+      "is_answered": true,
+      "view_count": 139135,
+      "accepted_answer_id": 24979595,
+      "answer_count": 15,
+      "score": 251,
+      "last_activity_date": 1562034431,
+      "creation_date": 1383805612,
+      "last_edit_date": 1438461962,
+      "question_id": 19829356,
+      "link": "https://stackoverflow.com/questions/19829356/color-tint-uibutton-image",
+      "title": "Color Tint UIButton Image"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "version"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "cmos"
+      },
+      "is_answered": true,
+      "view_count": 107592,
+      "answer_count": 15,
+      "score": 249,
+      "last_activity_date": 1554893446,
+      "creation_date": 1232389942,
+      "last_edit_date": 1320158759,
+      "question_id": 458632,
+      "link": "https://stackoverflow.com/questions/458632/how-can-my-iphone-app-detect-its-own-version-number",
+      "title": "How can my iphone app detect its own version number?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "uilabel",
+        "newline",
+        "line-breaks"
+      ],
+      "owner": {
+        "reputation": 15375,
+        "user_id": 240337,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/10c3b52f94486dc6c12f68a6642f1f1a?s=128&d=identicon&r=PG",
+        "display_name": "Thang Pham",
+        "link": "https://stackoverflow.com/users/240337/thang-pham"
+      },
+      "is_answered": true,
+      "view_count": 241565,
+      "accepted_answer_id": 2315428,
+      "answer_count": 19,
+      "score": 246,
+      "last_activity_date": 1527726089,
+      "creation_date": 1266861138,
+      "last_edit_date": 1509574370,
+      "question_id": 2312899,
+      "link": "https://stackoverflow.com/questions/2312899/how-to-add-line-break-for-uilabel",
+      "title": "How to add line break for UILabel?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "uitableview",
+        "keyboard",
+        "scroll"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "Jonathan"
+      },
+      "is_answered": true,
+      "view_count": 192173,
+      "answer_count": 46,
+      "community_owned_date": 1388493445,
+      "score": 246,
+      "last_activity_date": 1562178636,
+      "creation_date": 1235729150,
+      "last_edit_date": 1427386837,
+      "question_id": 594181,
+      "link": "https://stackoverflow.com/questions/594181/making-a-uitableview-scroll-when-text-field-is-selected",
+      "title": "Making a UITableView scroll when text field is selected"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "objective-c",
+        "automatic-ref-counting",
+        "weak-references"
+      ],
+      "owner": {
+        "reputation": 6141,
+        "user_id": 1066899,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/093623a2cb341330217f2a4f38a69cc2?s=128&d=identicon&r=PG",
+        "display_name": "the_critic",
+        "link": "https://stackoverflow.com/users/1066899/the-critic"
+      },
+      "is_answered": true,
+      "view_count": 100946,
+      "accepted_answer_id": 20032131,
+      "answer_count": 6,
+      "score": 245,
+      "last_activity_date": 1472642157,
+      "creation_date": 1384692717,
+      "last_edit_date": 1404399223,
+      "question_id": 20030873,
+      "link": "https://stackoverflow.com/questions/20030873/always-pass-weak-reference-of-self-into-block-in-arc",
+      "title": "Always pass weak reference of self into block in ARC?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "ios-simulator",
+        "screenshot",
+        "xcode9"
+      ],
+      "owner": {
+        "reputation": 1416,
+        "user_id": 958472,
+        "user_type": "registered",
+        "accept_rate": 29,
+        "profile_image": "https://www.gravatar.com/avatar/b48e3f47403456ce2597a301a9ddb847?s=128&d=identicon&r=PG",
+        "display_name": "Flyingkiwi",
+        "link": "https://stackoverflow.com/users/958472/flyingkiwi"
+      },
+      "is_answered": true,
+      "view_count": 73654,
+      "accepted_answer_id": 8286150,
+      "answer_count": 13,
+      "score": 244,
+      "last_activity_date": 1520420219,
+      "creation_date": 1322402735,
+      "last_edit_date": 1515487166,
+      "question_id": 8286120,
+      "link": "https://stackoverflow.com/questions/8286120/where-are-ios-simulator-screenshots-stored",
+      "title": "Where are iOS simulator screenshots stored?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "email",
+        "cocoa-touch"
+      ],
+      "owner": {
+        "reputation": 1541,
+        "user_id": 39599,
+        "user_type": "unregistered",
+        "accept_rate": 0,
+        "profile_image": "https://www.gravatar.com/avatar/02511a5c709fc8b92470b10a9c894e53?s=128&d=identicon&r=PG",
+        "display_name": "Khushi",
+        "link": "https://stackoverflow.com/users/39599/khushi"
+      },
+      "is_answered": true,
+      "view_count": 164697,
+      "protected_date": 1278979478,
+      "answer_count": 11,
+      "score": 243,
+      "last_activity_date": 1557424537,
+      "creation_date": 1227334129,
+      "last_edit_date": 1557424537,
+      "question_id": 310946,
+      "link": "https://stackoverflow.com/questions/310946/how-can-i-send-mail-from-an-iphone-application",
+      "title": "How can I send mail from an iPhone application"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "uitableview",
+        "nsindexpath"
+      ],
+      "owner": {
+        "reputation": 1497,
+        "user_id": 1309092,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/3aaf7c52bb728e358ccc72d3a8f288e1?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Rubber Duck",
+        "link": "https://stackoverflow.com/users/1309092/rubber-duck"
+      },
+      "is_answered": true,
+      "view_count": 189578,
+      "accepted_answer_id": 2151217,
+      "answer_count": 4,
+      "score": 240,
+      "last_activity_date": 1496144394,
+      "creation_date": 1264635479,
+      "last_edit_date": 1496144394,
+      "question_id": 2151196,
+      "link": "https://stackoverflow.com/questions/2151196/how-to-create-nsindexpath-for-tableview",
+      "title": "How to create NSIndexPath for TableView"
+    },
+    {
+      "tags": [
+        "iphone",
+        "objective-c",
+        "cocoa-touch",
+        "nsdate"
+      ],
+      "owner": {
+        "reputation": 6349,
+        "user_id": 648371,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/ebe749793896c4953948fadad6f7a74f?s=128&d=identicon&r=PG",
+        "display_name": "n.evermind",
+        "link": "https://stackoverflow.com/users/648371/n-evermind"
+      },
+      "is_answered": true,
+      "view_count": 141183,
+      "accepted_answer_id": 5965106,
+      "answer_count": 13,
+      "score": 238,
+      "last_activity_date": 1506545144,
+      "creation_date": 1305120465,
+      "last_edit_date": 1305122451,
+      "question_id": 5965044,
+      "link": "https://stackoverflow.com/questions/5965044/how-to-compare-two-nsdates-which-is-more-recent",
+      "title": "How to compare two NSDates: Which is more recent?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "localhost"
+      ],
+      "owner": {
+        "reputation": 2550,
+        "user_id": 3635,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/39e5cb1b8020d96ef115fb0213f86623?s=128&d=identicon&r=PG",
+        "display_name": "rams",
+        "link": "https://stackoverflow.com/users/3635/rams"
+      },
+      "is_answered": true,
+      "view_count": 342271,
+      "accepted_answer_id": 3132119,
+      "answer_count": 26,
+      "score": 238,
+      "last_activity_date": 1556794735,
+      "creation_date": 1277726127,
+      "last_edit_date": 1411085711,
+      "question_id": 3132105,
+      "link": "https://stackoverflow.com/questions/3132105/how-do-you-access-a-website-running-on-localhost-from-iphone-browser",
+      "title": "How do you access a website running on localhost from iPhone browser"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "iphone",
+        "xcode",
+        "xcode4"
+      ],
+      "owner": {
+        "reputation": 389,
+        "user_id": 489955,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0a24808c7c90a549ed4e760215463494?s=128&d=identicon&r=PG",
+        "display_name": "CodeVomit",
+        "link": "https://stackoverflow.com/users/489955/codevomit"
+      },
+      "is_answered": true,
+      "view_count": 601210,
+      "accepted_answer_id": 6179752,
+      "answer_count": 67,
+      "community_owned_date": 1381588400,
+      "score": 237,
+      "last_activity_date": 1553988900,
+      "creation_date": 1300295455,
+      "last_edit_date": 1452615052,
+      "question_id": 5329001,
+      "link": "https://stackoverflow.com/questions/5329001/apple-mach-o-linker-error-when-compiling-for-device",
+      "title": "Apple Mach-O Linker Error when compiling for device"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "iphone-x"
+      ],
+      "owner": {
+        "reputation": 6326,
+        "user_id": 777861,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://www.gravatar.com/avatar/0a8add4df8f2840ec57bdbd29bcb050d?s=128&d=identicon&r=PG",
+        "display_name": "Andrei Herford",
+        "link": "https://stackoverflow.com/users/777861/andrei-herford"
+      },
+      "is_answered": true,
+      "view_count": 146885,
+      "protected_date": 1515057720,
+      "accepted_answer_id": 46192822,
+      "answer_count": 34,
+      "score": 237,
+      "last_activity_date": 1546786403,
+      "creation_date": 1505290325,
+      "last_edit_date": 1521612544,
+      "question_id": 46192280,
+      "link": "https://stackoverflow.com/questions/46192280/detect-if-the-device-is-iphone-x",
+      "title": "Detect if the device is iPhone X"
+    },
+    {
+      "tags": [
+        "iphone",
+        "objective-c",
+        "ios",
+        "cocoa-touch",
+        "interface-builder"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "Gonso"
+      },
+      "is_answered": true,
+      "view_count": 293467,
+      "protected_date": 1511956581,
+      "answer_count": 24,
+      "score": 237,
+      "last_activity_date": 1515140587,
+      "creation_date": 1242307392,
+      "last_edit_date": 1395926783,
+      "question_id": 863321,
+      "link": "https://stackoverflow.com/questions/863321/how-to-load-a-uiview-using-a-nib-file-created-with-interface-builder",
+      "title": "How to load a UIView using a nib file created with Interface Builder"
+    },
+    {
+      "tags": [
+        "iphone",
+        "debugging",
+        "profile",
+        "provisioning"
+      ],
+      "owner": {
+        "reputation": 1735,
+        "user_id": 100903,
+        "user_type": "registered",
+        "accept_rate": 54,
+        "profile_image": "https://www.gravatar.com/avatar/e84cce7f43b213cb1ba73070f1ee9d4f?s=128&d=identicon&r=PG",
+        "display_name": "xenep",
+        "link": "https://stackoverflow.com/users/100903/xenep"
+      },
+      "is_answered": true,
+      "view_count": 279089,
+      "accepted_answer_id": 4258048,
+      "answer_count": 41,
+      "score": 237,
+      "last_activity_date": 1541099854,
+      "creation_date": 1289583490,
+      "last_edit_date": 1427386070,
+      "question_id": 4167466,
+      "link": "https://stackoverflow.com/questions/4167466/a-valid-provisioning-profile-for-this-executable-was-not-found-for-debug-mode",
+      "title": "A valid provisioning profile for this executable was not found for debug mode"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "uibutton",
+        "uikit"
+      ],
+      "owner": {
+        "reputation": 1751,
+        "user_id": 378510,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://www.gravatar.com/avatar/f86b8cd308c99e24727acaf23b3e4cd0?s=128&d=identicon&r=PG",
+        "display_name": "Justin Galzic",
+        "link": "https://stackoverflow.com/users/378510/justin-galzic"
+      },
+      "is_answered": true,
+      "view_count": 188108,
+      "accepted_answer_id": 5358259,
+      "answer_count": 13,
+      "score": 234,
+      "last_activity_date": 1549368222,
+      "creation_date": 1293728968,
+      "last_edit_date": 1495540041,
+      "question_id": 4564621,
+      "link": "https://stackoverflow.com/questions/4564621/aligning-text-and-image-on-uibutton-with-imageedgeinsets-and-titleedgeinsets",
+      "title": "Aligning text and image on UIButton with imageEdgeInsets and titleEdgeInsets"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "objective-c",
+        "uinavigationbar",
+        "ios7"
+      ],
+      "owner": {
+        "reputation": 1247,
+        "user_id": 480231,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/fe2ab7095dcecd7465086d789eec795b?s=128&d=identicon&r=PG",
+        "display_name": "1110",
+        "link": "https://stackoverflow.com/users/480231/1110"
+      },
+      "is_answered": true,
+      "view_count": 173119,
+      "protected_date": 1422611865,
+      "accepted_answer_id": 19029973,
+      "answer_count": 10,
+      "score": 233,
+      "last_activity_date": 1506624719,
+      "creation_date": 1380202505,
+      "last_edit_date": 1430588091,
+      "question_id": 19029833,
+      "link": "https://stackoverflow.com/questions/19029833/ios-7-navigation-bar-text-and-arrow-color",
+      "title": "IOS 7 Navigation Bar text and arrow color"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "xcode",
+        "xcode6.1"
+      ],
+      "owner": {
+        "reputation": 1888,
+        "user_id": 835009,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/b993da4af90825d5b07d60b59e75757c?s=128&d=identicon&r=PG",
+        "display_name": "Sunil",
+        "link": "https://stackoverflow.com/users/835009/sunil"
+      },
+      "is_answered": true,
+      "view_count": 101202,
+      "protected_date": 1433685079,
+      "answer_count": 13,
+      "score": 233,
+      "last_activity_date": 1552681302,
+      "creation_date": 1422603590,
+      "last_edit_date": 1422612653,
+      "question_id": 28231338,
+      "link": "https://stackoverflow.com/questions/28231338/ios-app-the-application-could-not-be-verified-only-on-one-device",
+      "title": "iOS app &#39;The application could not be verified&#39; only on one device"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "compiler-errors",
+        "email-integration"
+      ],
+      "owner": {
+        "reputation": 3314,
+        "user_id": 871079,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://i.stack.imgur.com/4E4c5.jpg?s=128&g=1",
+        "display_name": "Mann",
+        "link": "https://stackoverflow.com/users/871079/mann"
+      },
+      "is_answered": true,
+      "view_count": 251169,
+      "protected_date": 1440533209,
+      "accepted_answer_id": 9438843,
+      "answer_count": 34,
+      "score": 233,
+      "last_activity_date": 1561904557,
+      "creation_date": 1312816660,
+      "last_edit_date": 1495542881,
+      "question_id": 6984368,
+      "link": "https://stackoverflow.com/questions/6984368/undefined-symbols-for-architecture-i386-objc-class-skpsmtpmessage-referenc",
+      "title": "Undefined symbols for architecture i386: _OBJC_CLASS_$_SKPSMTPMessage&quot;, referenced from: error"
+    },
+    {
+      "tags": [
+        "iphone",
+        "xcode"
+      ],
+      "owner": {
+        "reputation": 2425,
+        "user_id": 332606,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/342cde1ece14a69d0ad5c6c6d6a2c5ab?s=128&d=identicon&r=PG",
+        "display_name": "toofah",
+        "link": "https://stackoverflow.com/users/332606/toofah"
+      },
+      "is_answered": true,
+      "view_count": 86847,
+      "protected_date": 1397197193,
+      "accepted_answer_id": 3087101,
+      "answer_count": 10,
+      "score": 233,
+      "last_activity_date": 1561705043,
+      "creation_date": 1277142704,
+      "last_edit_date": 1542855366,
+      "question_id": 3087089,
+      "link": "https://stackoverflow.com/questions/3087089/xcode-build-and-archive-menu-item-disabled",
+      "title": "Xcode &#39;Build and Archive&#39; menu item disabled"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "objective-c",
+        "git",
+        "cocoapods"
+      ],
+      "owner": {
+        "reputation": 3203,
+        "user_id": 1336608,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://i.stack.imgur.com/mPxMs.png?s=128&g=1",
+        "display_name": "Gabox",
+        "link": "https://stackoverflow.com/users/1336608/gabox"
+      },
+      "is_answered": true,
+      "view_count": 100858,
+      "accepted_answer_id": 21852985,
+      "answer_count": 17,
+      "score": 233,
+      "last_activity_date": 1560271743,
+      "creation_date": 1389276904,
+      "last_edit_date": 1475333521,
+      "question_id": 21022638,
+      "link": "https://stackoverflow.com/questions/21022638/pod-install-is-staying-on-setting-up-cocoapods-master-repo",
+      "title": "Pod install is staying on &quot;Setting up CocoaPods Master repo&quot;"
+    },
+    {
+      "tags": [
+        "javascript",
+        "iphone",
+        "android",
+        "swipe"
+      ],
+      "owner": {
+        "reputation": 1505,
+        "user_id": 175798,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/4d4c349d613aab97e8c1b9fbb858b093?s=128&d=identicon&r=PG",
+        "display_name": "827",
+        "link": "https://stackoverflow.com/users/175798/827"
+      },
+      "is_answered": true,
+      "view_count": 215285,
+      "answer_count": 18,
+      "score": 230,
+      "last_activity_date": 1560934307,
+      "creation_date": 1266209435,
+      "question_id": 2264072,
+      "link": "https://stackoverflow.com/questions/2264072/detect-a-finger-swipe-through-javascript-on-the-iphone-and-android",
+      "title": "Detect a finger swipe through JavaScript on the iPhone and Android"
+    },
+    {
+      "tags": [
+        "android",
+        "iphone",
+        "ios",
+        "networking",
+        "wireshark"
+      ],
+      "owner": {
+        "reputation": 3100,
+        "user_id": 1170920,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://i.stack.imgur.com/KtDOG.jpg?s=128&g=1",
+        "display_name": "Xara",
+        "link": "https://stackoverflow.com/users/1170920/xara"
+      },
+      "is_answered": true,
+      "view_count": 368027,
+      "protected_date": 1516000818,
+      "accepted_answer_id": 9570093,
+      "answer_count": 11,
+      "score": 230,
+      "last_activity_date": 1548341366,
+      "creation_date": 1330868909,
+      "last_edit_date": 1546318543,
+      "question_id": 9555403,
+      "link": "https://stackoverflow.com/questions/9555403/capturing-mobile-phone-traffic-on-wireshark",
+      "title": "Capturing mobile phone traffic on Wireshark"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "ipad"
+      ],
+      "owner": {
+        "reputation": 1562,
+        "user_id": 1431382,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/78c007a667f862ee5d095bde953b4de8?s=128&d=identicon&r=PG",
+        "display_name": "Nathan Fraenkel",
+        "link": "https://stackoverflow.com/users/1431382/nathan-fraenkel"
+      },
+      "is_answered": true,
+      "view_count": 205603,
+      "protected_date": 1427456133,
+      "accepted_answer_id": 11197770,
+      "answer_count": 17,
+      "score": 229,
+      "last_activity_date": 1559560948,
+      "creation_date": 1340659146,
+      "last_edit_date": 1502465546,
+      "question_id": 11197509,
+      "link": "https://stackoverflow.com/questions/11197509/how-to-get-device-make-and-model-on-ios",
+      "title": "How to get device make and model on iOS?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "user-input"
+      ],
+      "owner": {
+        "reputation": 9102,
+        "user_id": 67391,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/62413a63fb6b3cdb0a04b40c498ff971?s=128&d=identicon&r=PG",
+        "display_name": "Chilly Zhong",
+        "link": "https://stackoverflow.com/users/67391/chilly-zhong"
+      },
+      "is_answered": true,
+      "view_count": 134228,
+      "protected_date": 1294211146,
+      "accepted_answer_id": 11382044,
+      "answer_count": 21,
+      "score": 229,
+      "last_activity_date": 1548952468,
+      "creation_date": 1235529924,
+      "last_edit_date": 1437042289,
+      "question_id": 584538,
+      "link": "https://stackoverflow.com/questions/584538/how-to-show-done-button-on-iphone-number-pad",
+      "title": "How to show &quot;Done&quot; button on iPhone number pad"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "rspec",
+        "cucumber",
+        "ios-ui-automation"
+      ],
+      "owner": {
+        "reputation": 58227,
+        "user_id": 242933,
+        "user_type": "registered",
+        "accept_rate": 53,
+        "profile_image": "https://www.gravatar.com/avatar/7e6e0e2b73358e47e0b7f83f8111f75b?s=128&d=identicon&r=PG",
+        "display_name": "ma11hew28",
+        "link": "https://stackoverflow.com/users/242933/ma11hew28"
+      },
+      "is_answered": true,
+      "view_count": 44833,
+      "answer_count": 8,
+      "community_owned_date": 1300640883,
+      "score": 229,
+      "locked_date": 1378262537,
+      "last_activity_date": 1377188910,
+      "creation_date": 1289062468,
+      "last_edit_date": 1495540493,
+      "question_id": 4114083,
+      "link": "https://stackoverflow.com/questions/4114083/ios-tests-specs-tdd-bdd-and-integration-acceptance-testing",
+      "title": "iOS Tests/Specs TDD/BDD and Integration &amp; Acceptance Testing"
+    },
+    {
+      "tags": [
+        "iphone",
+        "windows",
+        "ios"
+      ],
+      "owner": {
+        "reputation": 28718,
+        "user_id": 9382,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/bc7b9ac824e43ce9d62bf7dfb37b6393?s=128&d=identicon&r=PG",
+        "display_name": "AngryHacker",
+        "link": "https://stackoverflow.com/users/9382/angryhacker"
+      },
+      "is_answered": false,
+      "view_count": 314263,
+      "closed_date": 1347902109,
+      "answer_count": 0,
+      "community_owned_date": 1284716378,
+      "score": 229,
+      "locked_date": 1347902127,
+      "last_activity_date": 1347895101,
+      "creation_date": 1222067142,
+      "last_edit_date": 1495540397,
+      "question_id": 113547,
+      "link": "https://stackoverflow.com/questions/113547/iphone-development-on-windows",
+      "closed_reason": "exact duplicate",
+      "title": "iPhone development on Windows"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "objective-c",
+        "uinavigationbar",
+        "transparency"
+      ],
+      "owner": {
+        "reputation": 9864,
+        "user_id": 128875,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/d28379931d5213306b8014bb074e0e23?s=128&d=identicon&r=PG",
+        "display_name": "quano",
+        "link": "https://stackoverflow.com/users/128875/quano"
+      },
+      "is_answered": true,
+      "view_count": 127356,
+      "accepted_answer_id": 18969823,
+      "answer_count": 17,
+      "score": 225,
+      "last_activity_date": 1551787836,
+      "creation_date": 1266894366,
+      "last_edit_date": 1451048842,
+      "question_id": 2315862,
+      "link": "https://stackoverflow.com/questions/2315862/make-uinavigationbar-transparent",
+      "title": "Make UINavigationBar transparent"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "uiscrollview",
+        "uiwebview"
+      ],
+      "owner": {
+        "reputation": 32024,
+        "user_id": 26510,
+        "user_type": "registered",
+        "accept_rate": 99,
+        "profile_image": "https://www.gravatar.com/avatar/25ee9a1b9f5a16feb1432882a9ef2f06?s=128&d=identicon&r=PG",
+        "display_name": "Brad Parks",
+        "link": "https://stackoverflow.com/users/26510/brad-parks"
+      },
+      "is_answered": true,
+      "view_count": 128828,
+      "protected_date": 1302035845,
+      "accepted_answer_id": 3324886,
+      "answer_count": 22,
+      "score": 224,
+      "last_activity_date": 1557481187,
+      "creation_date": 1233493710,
+      "last_edit_date": 1557481187,
+      "question_id": 500761,
+      "link": "https://stackoverflow.com/questions/500761/stop-uiwebview-from-bouncing-vertically",
+      "title": "Stop UIWebView from &quot;bouncing&quot; vertically?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "xcode",
+        "git"
+      ],
+      "owner": {
+        "reputation": 25801,
+        "user_id": 2158465,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/1d560c523dea22722fe39a89c903c33d?s=128&d=identicon&r=PG",
+        "display_name": "Epic Byte",
+        "link": "https://stackoverflow.com/users/2158465/epic-byte"
+      },
+      "is_answered": true,
+      "view_count": 73439,
+      "protected_date": 1453210043,
+      "accepted_answer_id": 18939465,
+      "answer_count": 3,
+      "score": 224,
+      "last_activity_date": 1437749873,
+      "creation_date": 1379813248,
+      "last_edit_date": 1495540490,
+      "question_id": 18939421,
+      "link": "https://stackoverflow.com/questions/18939421/what-should-xcode-6-gitignore-file-include",
+      "title": "What should Xcode 6 gitignore file include?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "web-services",
+        "soap",
+        "wsdl"
+      ],
+      "owner": {
+        "reputation": 1465,
+        "user_id": 25277,
+        "user_type": "registered",
+        "accept_rate": 38,
+        "profile_image": "https://www.gravatar.com/avatar/34b668e7dd9642bacb640cd1860163de?s=128&d=identicon&r=PG",
+        "display_name": "Gero",
+        "link": "https://stackoverflow.com/users/25277/gero"
+      },
+      "is_answered": true,
+      "view_count": 148347,
+      "protected_date": 1290052933,
+      "answer_count": 7,
+      "score": 224,
+      "last_activity_date": 1514212923,
+      "creation_date": 1224072437,
+      "last_edit_date": 1355310744,
+      "question_id": 204465,
+      "link": "https://stackoverflow.com/questions/204465/how-to-access-soap-services-from-iphone",
+      "title": "How to access SOAP services from iPhone"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "objective-c",
+        "ios4",
+        "nserror"
+      ],
+      "owner": {
+        "reputation": 21570,
+        "user_id": 144695,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/7c7abbaffe724a5eea63fcc50c0c1942?s=128&d=identicon&r=PG",
+        "display_name": "Nic Hubbard",
+        "link": "https://stackoverflow.com/users/144695/nic-hubbard"
+      },
+      "is_answered": true,
+      "view_count": 125424,
+      "accepted_answer_id": 4654759,
+      "answer_count": 8,
+      "score": 223,
+      "last_activity_date": 1554636259,
+      "creation_date": 1294725239,
+      "last_edit_date": 1445850971,
+      "question_id": 4654653,
+      "link": "https://stackoverflow.com/questions/4654653/how-can-i-use-nserror-in-my-iphone-app",
+      "title": "How can I use NSError in my iPhone App?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "url"
+      ],
+      "owner": {
+        "reputation": 2869,
+        "user_id": 136168,
+        "user_type": "registered",
+        "accept_rate": 45,
+        "profile_image": "https://www.gravatar.com/avatar/a3426fbc55e06a103bb70ebcc8721b08?s=128&d=identicon&r=PG",
+        "display_name": "Martijn Th&#233;",
+        "link": "https://stackoverflow.com/users/136168/martijn-th%c3%a9"
+      },
+      "is_answered": true,
+      "view_count": 131370,
+      "protected_date": 1323269003,
+      "accepted_answer_id": 1109200,
+      "answer_count": 12,
+      "score": 222,
+      "last_activity_date": 1446633567,
+      "creation_date": 1247219581,
+      "last_edit_date": 1330785781,
+      "question_id": 1108693,
+      "link": "https://stackoverflow.com/questions/1108693/is-it-possible-to-register-a-httpdomain-based-url-scheme-for-iphone-apps-like",
+      "title": "Is it possible to register a http+domain-based URL Scheme for iPhone apps, like YouTube and Maps?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "xcode",
+        "xcode4",
+        "ipod-touch"
+      ],
+      "owner": {
+        "reputation": 1995,
+        "user_id": 216363,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/c4d4b6dbea0f5f2e6f5232a93b5f5290?s=128&d=identicon&r=PG",
+        "display_name": "D-Nice",
+        "link": "https://stackoverflow.com/users/216363/d-nice"
+      },
+      "is_answered": true,
+      "view_count": 35367,
+      "protected_date": 1319028456,
+      "accepted_answer_id": 7788578,
+      "answer_count": 25,
+      "score": 222,
+      "last_activity_date": 1559599781,
+      "creation_date": 1300049330,
+      "last_edit_date": 1389321676,
+      "question_id": 5292286,
+      "link": "https://stackoverflow.com/questions/5292286/xcode-4-says-finished-running-my-app-on-the-targeted-device-nothing-happe",
+      "title": "Xcode 4 says &quot;finished running &lt;my app&gt;&quot; on the targeted device -- Nothing happens"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "retina-display",
+        "uiscreen"
+      ],
+      "owner": {
+        "reputation": 1993,
+        "user_id": 292431,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/a4d1c60a1f1f0941260b3fc99636a850?s=128&d=identicon&r=PG",
+        "display_name": "Pierre Valade",
+        "link": "https://stackoverflow.com/users/292431/pierre-valade"
+      },
+      "is_answered": true,
+      "view_count": 97541,
+      "answer_count": 14,
+      "score": 221,
+      "last_activity_date": 1557502871,
+      "creation_date": 1282059121,
+      "last_edit_date": 1557438578,
+      "question_id": 3504173,
+      "link": "https://stackoverflow.com/questions/3504173/detect-retina-display",
+      "title": "Detect Retina Display"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "cocoa-touch",
+        "gradient"
+      ],
+      "owner": {
+        "reputation": 3128,
+        "user_id": 51630,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/f28e27cbab7a55130a79eb65bcdd3d0d?s=128&d=identicon&r=PG",
+        "display_name": "TonyNeallon",
+        "link": "https://stackoverflow.com/users/51630/tonyneallon"
+      },
+      "is_answered": true,
+      "view_count": 174322,
+      "closed_date": 1344534163,
+      "accepted_answer_id": 422831,
+      "answer_count": 7,
+      "score": 219,
+      "last_activity_date": 1405606124,
+      "creation_date": 1231361910,
+      "last_edit_date": 1495542859,
+      "question_id": 422066,
+      "link": "https://stackoverflow.com/questions/422066/gradients-on-uiview-and-uilabels-on-iphone",
+      "closed_reason": "exact duplicate",
+      "title": "Gradients on UIView and UILabels On iPhone"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "uitableview",
+        "scroll"
+      ],
+      "owner": {
+        "reputation": 1416,
+        "user_id": 824003,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7f89da720b750d05a00e891b334d5844?s=128&d=identicon&r=PG",
+        "display_name": "Ginny",
+        "link": "https://stackoverflow.com/users/824003/ginny"
+      },
+      "is_answered": true,
+      "view_count": 132397,
+      "answer_count": 9,
+      "score": 218,
+      "last_activity_date": 1547736416,
+      "creation_date": 1315969660,
+      "last_edit_date": 1519736797,
+      "question_id": 7410845,
+      "link": "https://stackoverflow.com/questions/7410845/how-to-disable-scrolling-in-uitableview-table-when-the-content-fits-on-the-scree",
+      "title": "How to disable scrolling in UITableView table when the content fits on the screen"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "objective-c",
+        "ipad",
+        "swift"
+      ],
+      "owner": {
+        "reputation": 5505,
+        "user_id": 284714,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://www.gravatar.com/avatar/a45c3f3d52ee26a5237541d95fbe468b?s=128&d=identicon&r=PG",
+        "display_name": "Berry Blue",
+        "link": "https://stackoverflow.com/users/284714/berry-blue"
+      },
+      "is_answered": true,
+      "view_count": 119244,
+      "accepted_answer_id": 24059373,
+      "answer_count": 15,
+      "score": 217,
+      "last_activity_date": 1549513901,
+      "creation_date": 1401968632,
+      "last_edit_date": 1405746395,
+      "question_id": 24059327,
+      "link": "https://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift",
+      "title": "Detect current device with UI_USER_INTERFACE_IDIOM() in Swift"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "xcode",
+        "ipad",
+        "storyboard"
+      ],
+      "owner": {
+        "reputation": 5184,
+        "user_id": 720133,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://i.stack.imgur.com/SI25K.jpg?s=128&g=1",
+        "display_name": "dehlen",
+        "link": "https://stackoverflow.com/users/720133/dehlen"
+      },
+      "is_answered": true,
+      "view_count": 77928,
+      "protected_date": 1503396113,
+      "accepted_answer_id": 8694985,
+      "answer_count": 21,
+      "score": 216,
+      "last_activity_date": 1557434640,
+      "creation_date": 1323622780,
+      "last_edit_date": 1557434640,
+      "question_id": 8465769,
+      "link": "https://stackoverflow.com/questions/8465769/converting-storyboard-from-iphone-to-ipad",
+      "title": "Converting Storyboard from iPhone to iPad"
+    },
+    {
+      "tags": [
+        "javascript",
+        "iphone",
+        "html5",
+        "local-storage"
+      ],
+      "owner": {
+        "reputation": 1388,
+        "user_id": 1478808,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/3b0860ef07c01addb41cb705caa337a3?s=128&d=identicon&r=PG",
+        "display_name": "NicT",
+        "link": "https://stackoverflow.com/users/1478808/nict"
+      },
+      "is_answered": true,
+      "view_count": 122698,
+      "accepted_answer_id": 23453866,
+      "answer_count": 9,
+      "score": 216,
+      "last_activity_date": 1528188670,
+      "creation_date": 1389868552,
+      "question_id": 21159301,
+      "link": "https://stackoverflow.com/questions/21159301/quotaexceedederror-dom-exception-22-an-attempt-was-made-to-add-something-to-st",
+      "title": "QuotaExceededError: Dom exception 22: An attempt was made to add something to storage that exceeded the quota"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios-simulator"
+      ],
+      "owner": {
+        "reputation": 27011,
+        "user_id": 12037,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/3f719a88bc46c61695a03e624ab5564c?s=128&d=identicon&r=PG",
+        "display_name": "Codebeef",
+        "link": "https://stackoverflow.com/users/12037/codebeef"
+      },
+      "is_answered": true,
+      "view_count": 143843,
+      "protected_date": 1438368267,
+      "accepted_answer_id": 3495426,
+      "answer_count": 19,
+      "score": 214,
+      "last_activity_date": 1561560133,
+      "creation_date": 1247209033,
+      "last_edit_date": 1265394250,
+      "question_id": 1108076,
+      "link": "https://stackoverflow.com/questions/1108076/where-does-the-iphone-simulator-store-its-data",
+      "title": "Where does the iPhone Simulator store its data?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "objective-c",
+        "uitextfield",
+        "first-responder"
+      ],
+      "owner": {
+        "reputation": 10504,
+        "user_id": 271166,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/76bc24262b75ff8cab315c6f745a8913?s=128&d=identicon&r=PG",
+        "display_name": "Kalle",
+        "link": "https://stackoverflow.com/users/271166/kalle"
+      },
+      "is_answered": true,
+      "view_count": 46435,
+      "protected_date": 1418775402,
+      "accepted_answer_id": 5503637,
+      "answer_count": 13,
+      "score": 214,
+      "last_activity_date": 1548359728,
+      "creation_date": 1280499475,
+      "last_edit_date": 1395690198,
+      "question_id": 3372333,
+      "link": "https://stackoverflow.com/questions/3372333/ipad-keyboard-will-not-dismiss-if-modal-viewcontroller-presentation-style-is-uim",
+      "title": "iPad keyboard will not dismiss if modal ViewController presentation style is UIModalPresentationFormSheet"
+    },
+    {
+      "tags": [
+        "iphone",
+        "ios",
+        "ipad",
+        "uitableview",
+        "ios7"
+      ],
+      "owner": {
+        "reputation": 7241,
+        "user_id": 865475,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/1ccb0ac62b02ab00a764610451baf342?s=128&d=identicon&r=PG",
+        "display_name": "Dmitry",
+        "link": "https://stackoverflow.com/users/865475/dmitry"
+      },
+      "is_answered": true,
+      "view_count": 107988,
+      "closed_date": 1379694950,
+      "accepted_answer_id": 18773281,
+      "answer_count": 2,
+      "score": 213,
+      "last_activity_date": 1401999181,
+      "creation_date": 1379015741,
+      "last_edit_date": 1401999181,
+      "question_id": 18773239,
+      "link": "https://stackoverflow.com/questions/18773239/how-to-fix-uitableview-separator-on-ios-7",
+      "closed_reason": "duplicate",
+      "title": "How to fix UITableView separator on iOS 7?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "xcode",
+        "webview",
+        "nsfilemanager"
+      ],
+      "owner": {
+        "reputation": 1296,
+        "user_id": 196894,
+        "user_type": "unregistered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/fa73637adea185c4722032ab09167857?s=128&d=identicon&r=PG",
+        "display_name": "Obliviux",
+        "link": "https://stackoverflow.com/users/196894/obliviux"
+      },
+      "is_answered": true,
+      "view_count": 144189,
+      "accepted_answer_id": 1638853,
+      "answer_count": 6,
+      "score": 212,
+      "last_activity_date": 1546320539,
+      "creation_date": 1256751206,
+      "last_edit_date": 1494860667,
+      "question_id": 1638834,
+      "link": "https://stackoverflow.com/questions/1638834/how-to-check-if-a-file-exists-in-documents-folder",
+      "title": "How to check if a file exists in Documents folder?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "uitableview",
+        "uibutton"
+      ],
+      "owner": {
+        "reputation": 23069,
+        "user_id": 100142,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.stack.imgur.com/tqqXC.png?s=128&g=1",
+        "display_name": "rein",
+        "link": "https://stackoverflow.com/users/100142/rein"
+      },
+      "is_answered": true,
+      "view_count": 131579,
+      "protected_date": 1432097432,
+      "accepted_answer_id": 1802875,
+      "answer_count": 26,
+      "score": 210,
+      "last_activity_date": 1556012557,
+      "creation_date": 1259229421,
+      "last_edit_date": 1544053950,
+      "question_id": 1802707,
+      "link": "https://stackoverflow.com/questions/1802707/detecting-which-uibutton-was-pressed-in-a-uitableview",
+      "title": "Detecting which UIButton was pressed in a UITableView"
+    },
+    {
+      "tags": [
+        "iphone",
+        "cocoa-touch",
+        "xcode",
+        "user-interface",
+        "interface-builder"
+      ],
+      "owner": {
+        "reputation": 26931,
+        "user_id": 19875,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/dcb55baf9cd5a05c70569122b7184766?s=128&d=identicon&r=PG",
+        "display_name": "Sheehan Alam",
+        "link": "https://stackoverflow.com/users/19875/sheehan-alam"
+      },
+      "is_answered": true,
+      "view_count": 62147,
+      "accepted_answer_id": 2565029,
+      "answer_count": 5,
+      "score": 210,
+      "last_activity_date": 1499723991,
+      "creation_date": 1270182614,
+      "question_id": 2565008,
+      "link": "https://stackoverflow.com/questions/2565008/how-do-i-enter-rgb-values-into-interface-builder",
+      "title": "How do I enter RGB values into Interface Builder?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "time",
+        "timestamp",
+        "current-time"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "phil"
+      },
+      "is_answered": true,
+      "view_count": 221751,
+      "protected_date": 1482927045,
+      "accepted_answer_id": 358219,
+      "answer_count": 18,
+      "score": 209,
+      "last_activity_date": 1557467580,
+      "creation_date": 1228958978,
+      "last_edit_date": 1557467580,
+      "question_id": 358207,
+      "link": "https://stackoverflow.com/questions/358207/iphone-how-to-get-current-milliseconds",
+      "title": "iPhone: How to get current milliseconds?"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "cocoa-touch",
+        "font-size",
+        "uisegmentedcontrol"
+      ],
+      "owner": {
+        "reputation": 1056,
+        "user_id": 240751,
+        "user_type": "unregistered",
+        "accept_rate": 0,
+        "profile_image": "https://www.gravatar.com/avatar/375d819ffc0593fa2519af26c0cd90e6?s=128&d=identicon&r=PG",
+        "display_name": "Aashutosh Tiwari",
+        "link": "https://stackoverflow.com/users/240751/aashutosh-tiwari"
+      },
+      "is_answered": true,
+      "view_count": 92335,
+      "answer_count": 16,
+      "score": 209,
+      "last_activity_date": 1563133879,
+      "creation_date": 1266408357,
+      "last_edit_date": 1557776614,
+      "question_id": 2280391,
+      "link": "https://stackoverflow.com/questions/2280391/change-font-size-of-uisegmentedcontrol",
+      "title": "Change font size of UISegmentedControl"
+    },
+    {
+      "tags": [
+        "iphone",
+        "xcode",
+        "certificate",
+        "keychain",
+        "provisioning-profile"
+      ],
+      "owner": {
+        "reputation": 14616,
+        "user_id": 499417,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/4926053f9238c44da0ea8dc27ce113ba?s=128&d=identicon&r=PG",
+        "display_name": "Oliver",
+        "link": "https://stackoverflow.com/users/499417/oliver"
+      },
+      "is_answered": true,
+      "view_count": 233828,
+      "protected_date": 1341409575,
+      "accepted_answer_id": 8509545,
+      "answer_count": 16,
+      "score": 208,
+      "last_activity_date": 1406731972,
+      "creation_date": 1311201264,
+      "last_edit_date": 1326892331,
+      "question_id": 6769345,
+      "link": "https://stackoverflow.com/questions/6769345/xcode-4-valid-signing-identity-not-found-error-on-provisioning-profiles-on-a",
+      "title": "Xcode 4 - &quot;Valid signing identity not found&quot; error on provisioning profiles on a new Macintosh install"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "memory-management"
+      ],
+      "owner": {
+        "reputation": 1026,
+        "user_id": 271440,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://www.gravatar.com/avatar/691ea630880e2d7baab6bb5b3f9e0b19?s=128&d=identicon&r=PG",
+        "display_name": "Mark Reid",
+        "link": "https://stackoverflow.com/users/271440/mark-reid"
+      },
+      "is_answered": true,
+      "view_count": 179671,
+      "accepted_answer_id": 7855536,
+      "answer_count": 4,
+      "score": 205,
+      "last_activity_date": 1530109743,
+      "creation_date": 1266018686,
+      "last_edit_date": 1530109743,
+      "question_id": 2255861,
+      "link": "https://stackoverflow.com/questions/2255861/property-retain-assign-copy-nonatomic-in-objective-c",
+      "title": "@property retain, assign, copy, nonatomic in Objective-C"
+    },
+    {
+      "tags": [
+        "ios",
+        "iphone",
+        "notifications",
+        "apple-push-notifications",
+        "push"
+      ],
+      "owner": {
+        "reputation": 1735,
+        "user_id": 410138,
+        "user_type": "registered",
+        "accept_rate": 49,
+        "profile_image": "https://www.gravatar.com/avatar/99e38a064c3a24cf4cd2524607b4e100?s=128&d=identicon&r=PG",
+        "display_name": "Kevin",
+        "link": "https://stackoverflow.com/users/410138/kevin"
+      },
+      "is_answered": true,
+      "view_count": 115960,
+      "accepted_answer_id": 1535427,
+      "answer_count": 19,
+      "score": 205,
+      "last_activity_date": 1556977904,
+      "creation_date": 1254971108,
+      "last_edit_date": 1449841504,
+      "question_id": 1535403,
+      "link": "https://stackoverflow.com/questions/1535403/determine-on-iphone-if-user-has-enabled-push-notifications",
+      "title": "Determine on iPhone if user has enabled push notifications"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 290
+}

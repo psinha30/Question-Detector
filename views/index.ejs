@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Question Detector</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+
+  <!-- Favicon -->
+  <link href="img/favicon.ico" rel="icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700|Roboto:400,900" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <!-- <link href="/javascripts/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <!-- Libraries CSS Files -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+  <link href="/stylesheets/css/mainstyle.css" rel="stylesheet">
+  <style type="text/css">
+    .float {
+      position: fixed;
+      width: 60px;
+      height: 60px;
+      bottom: 40px;
+      right: 40px;
+      background-color: green;
+      color: white;
+      border-radius: 50px;
+      text-align: center;
+      box-shadow: 2px 2px 3px #999;
+    }
+
+    .my-float {
+      margin-top: 5px;
+    }
+  </style>
+
+</head>
+
+<body>
+  <a href="#" class="float">
+    <i class="fa fa-thumbs-up fa-3x my-float"></i>
+  </a>
+
+
+  <section class="hero">
+    <div class="container text-center">
+      <div class="row">
+      </div>
+
+      <div class="col-md-12">
+        <h1 style="color: red">
+            Question Detector
+          </h1>
+
+        <p class="tagline">
+          A powerful AI model which gives you the colsest answer to the asked question on "Stackoverflow".
+        </p>
+        <a class="btn btn-full" href="#contact">Ask A Question</a>
+      </div>
+    </div>
+
+  </section>
+
+
+
+  <!-- Header -->
+  <header id="header">
+    <div class="container">
+
+    </div>
+  </header>
+  <!-- #header -->
+
+  <!-- form field -->
+  <section id="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-13 text-center">
+          <h2 class="section-title">Ask a question and we will run querry in our model to find the best compared
+            question for you from Stckoverflow.</h2>
+          <!-- <h5 style="color: red">Please Do Not Spam Us We Are Under Developement</h5> -->
+        </div>
+      </div>
+
+      <div class="row justify-content-center">
+
+        <div class="col-lg-5 col-md-8">
+          <div class="form">
+            <div id="sendmessage">Your message has been sent. Thank you!</div>
+            <div id="errormessage"></div>
+            <form action="/question" , method="POST" role="form" class="contactForm">
+
+              <div class="form-group">
+                <input required type="text" name="name" class="form-control" id="name" placeholder="Your Name"
+                  data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                <div class="validation"></div>
+              </div>
+              <div class="form-group">
+                <input required type="email" class="form-control" name="email" id="email" placeholder="Your Email"
+                  data-rule="email" data-msg="Please enter a valid email" />
+                <div class="validation"></div>
+                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone
+                  else.</small>
+              </div>
+              <div class="form-group">
+                <textarea required class="form-control" name="question" rows="4" data-rule="required"
+                  data-msg="Please write something for us" placeholder="Question"></textarea>
+                <div class="validation"></div>
+                <small id="emailHelp" class="form-text " style="color: red">Please Do Not Use Any Special Charachters As Project Is Under Developement.</small>
+                  
+              </div>
+              <div class="text-center"><button type="submit">Generate Question</button></div>
+            </form>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- Header -->
+  <header id="header">
+    <div class="container">
+
+    </div>
+  </header>
+  <!-- #header -->
+
+
+
+  <!-- showing the generated question and tags from ai model   -->
+
+
+
+
+
+  <!-- teams members -->
+  <section class="team" id="team">
+    <div class="container">
+      <h2 class="text-center">
+        Meet our team
+      </h2>
+
+      <div class="row">
+
+
+        <div class="col-sm-3 col-xs-6" style="margin-left: 22%">
+          <div class="card card-block">
+            <div><img alt="" class="team-img" src="/images/team-2.jpg">
+              <div class="card-title-wrap">
+                <span class="card-title">Priyanshu Sinha</span> <span class="card-text">AI & NLP Engineer</span>
+              </div>
+
+              <div class="team-over">
+                <h4 class="hidden-md-down">
+                  Connect with me
+                </h4>
+
+                <nav class="social-nav">
+                  <a href="https://github.com/psinha30" target="_blank"><i class="fa fa-github fa-2x"></i></a> <a href="https://www.linkedin.com/in/priyanshu-sinha-24006917a/" target="_blank"><i
+                      class="fa fa-linkedin fa-2x"></i></a>
+                  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=priyanshusinha100@gmail.com"
+                    target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
+
+                </nav>
+
+                <p>
+                  I will love to hear any querry or if u love the project.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-3 col-xs-6" style="margin-left: 5%">
+          <div class="card card-block">
+            <div><img alt="" class="team-img" src="/images/team-3.jpg">
+              <div class="card-title-wrap">
+                <span class="card-title">Saurabh Singh</span> <span class="card-text">Developer & Database
+                  Engineer</span>
+              </div>
+
+              <div class="team-over">
+                <h4 class="hidden-md-down">
+                  Connect with me
+                </h4>
+
+                <nav class="social-nav">
+                  <a href="https://github.com/Dolar1" target="_blank"><i class="fa fa-github fa-2x"></i></a> <a
+                    href="https://www.linkedin.com/in/saurabhsingh111/" target="_blank"><i
+                      class="fa fa-linkedin fa-2x"></i></a>
+                  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dolarsingh111@gmail.com"
+                    target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
+                </nav>
+
+                <p>
+                  I will love to hear any querry or if u love the project.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+  </section>
+  <!-- /Team -->
+  <!-- @component: footer -->
+
+  <footer class="site-footer">
+    <div class="bottom">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-6 col-xs-12 text-lg-left text-center">
+            <p class="copyright-text">
+              © Question Detector
+            </p>
+            <div class="credits">
+              
+             Designed by <a href="https://bootstrapmade.com/">Question Detector</a>
+            </div>
+
+          </div>
+
+          <div class="col-lg-5 col-xs-10 text-lg-right text-center">
+            <div style="color: red">
+              <h4>Please Do Not Spam Us We Are Under Developement...!</h4>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <a class="scrolltop" href="#"><span class="fa fa-angle-up"></span></a>
+
+
+  <!-- Required JavaScript Libraries -->
+  <script href="/javascripts/lib/jquery/jquery.min.js"></script>
+  <script href="/javascripts/lib/jquery/jquery-migrate.min.js"></script>
+  <script href="/javascripts/lib/superfish/hoverIntent.js"></script>
+  <script href="/javascripts/lib/superfish/superfish.min.js"></script>
+  <script href="/javascripts/lib/tether/js/tether.min.js"></script>
+  <script href="/javascripts/lib/stellar/stellar.min.js"></script>
+  <script href="/javascripts/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script href="/javascripts/lib/counterup/counterup.min.js"></script>
+  <script href="/javascripts/lib/waypoints/waypoints.min.js"></script>
+  <script href="/javascripts/lib/easing/easing.js"></script>
+  <script href="/javascripts/lib/stickyjs/sticky.js"></script>
+  <script href="/javascripts/lib/parallax/parallax.js"></script>
+  <script href="/javascripts/lib/lockfixed/lockfixed.min.js"></script>
+
+  <!-- Template Specisifc Custom Javascript File -->
+  <script href="/javascripts/js/custom.js"></script>
+
+  <script href="/javascripts/contactform/contactform.js"></script>
+
+</body>
+
+</html>

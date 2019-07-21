@@ -1,0 +1,2733 @@
+
+{
+  "items": [
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 302968,
+        "user_id": 215945,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/203qt.png?s=128&g=1",
+        "display_name": "Mark Rajcok",
+        "link": "https://stackoverflow.com/users/215945/mark-rajcok"
+      },
+      "is_answered": true,
+      "view_count": 808115,
+      "protected_date": 1363756301,
+      "closed_date": 1435089511,
+      "accepted_answer_id": 15012542,
+      "answer_count": 15,
+      "score": 4519,
+      "locked_date": 1435298834,
+      "last_activity_date": 1541200959,
+      "creation_date": 1361419796,
+      "last_edit_date": 1541200959,
+      "question_id": 14994391,
+      "link": "https://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background",
+      "closed_reason": "too broad",
+      "title": "&quot;Thinking in AngularJS&quot; if I have a jQuery background?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "dependency-injection",
+        "angularjs-service",
+        "angularjs-factory",
+        "angularjs-provider"
+      ],
+      "owner": {
+        "reputation": 20775,
+        "user_id": 146636,
+        "user_type": "registered",
+        "accept_rate": 55,
+        "profile_image": "https://www.gravatar.com/avatar/95e8aba2803db0106c1e0a0f73b7e62e?s=128&d=identicon&r=PG",
+        "display_name": "Lior",
+        "link": "https://stackoverflow.com/users/146636/lior"
+      },
+      "is_answered": true,
+      "view_count": 756583,
+      "protected_date": 1434015547,
+      "accepted_answer_id": 15666049,
+      "answer_count": 30,
+      "score": 3274,
+      "last_activity_date": 1535958724,
+      "creation_date": 1364407186,
+      "last_edit_date": 1480077989,
+      "question_id": 15666048,
+      "link": "https://stackoverflow.com/questions/15666048/angularjs-service-vs-provider-vs-factory",
+      "title": "AngularJS: Service vs provider vs factory"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "data-binding"
+      ],
+      "owner": {
+        "reputation": 11268,
+        "user_id": 168367,
+        "user_type": "registered",
+        "accept_rate": 41,
+        "profile_image": "https://www.gravatar.com/avatar/86e7ab0ada8925248acaf1cdc3380b31?s=128&d=identicon&r=PG",
+        "display_name": "Pashec",
+        "link": "https://stackoverflow.com/users/168367/pashec"
+      },
+      "is_answered": true,
+      "view_count": 339154,
+      "protected_date": 1435223927,
+      "accepted_answer_id": 9693933,
+      "answer_count": 14,
+      "score": 1893,
+      "last_activity_date": 1541422601,
+      "creation_date": 1331633797,
+      "last_edit_date": 1495542893,
+      "question_id": 9682092,
+      "link": "https://stackoverflow.com/questions/9682092/how-does-data-binding-work-in-angularjs",
+      "title": "How does data binding work in AngularJS?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-scope"
+      ],
+      "owner": {
+        "reputation": 21248,
+        "user_id": 1345376,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://i.stack.imgur.com/9lIXD.jpg?s=128&g=1",
+        "display_name": "murtaza52",
+        "link": "https://stackoverflow.com/users/1345376/murtaza52"
+      },
+      "is_answered": true,
+      "view_count": 550576,
+      "protected_date": 1447269056,
+      "accepted_answer_id": 13744085,
+      "answer_count": 19,
+      "score": 1202,
+      "last_activity_date": 1560896371,
+      "creation_date": 1354794761,
+      "last_edit_date": 1483802830,
+      "question_id": 13743058,
+      "link": "https://stackoverflow.com/questions/13743058/how-do-i-access-the-scope-variable-in-browsers-console-using-angularjs",
+      "title": "How do I access the $scope variable in browser&#39;s console using AngularJS?"
+    },
+    {
+      "tags": [
+        "css",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 21386,
+        "user_id": 109306,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/4e13b6ef54614d63c40e7bf715ec108c?s=128&d=identicon&r=PG",
+        "display_name": "respectTheCode",
+        "link": "https://stackoverflow.com/users/109306/respectthecode"
+      },
+      "is_answered": true,
+      "view_count": 753473,
+      "protected_date": 1434048216,
+      "accepted_answer_id": 8309832,
+      "answer_count": 22,
+      "score": 1163,
+      "last_activity_date": 1543285933,
+      "creation_date": 1318848592,
+      "last_edit_date": 1438077706,
+      "question_id": 7792652,
+      "link": "https://stackoverflow.com/questions/7792652/what-is-the-best-way-to-conditionally-apply-a-class",
+      "title": "What is the best way to conditionally apply a class?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-scope"
+      ],
+      "owner": {
+        "reputation": 15219,
+        "user_id": 747024,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://i.stack.imgur.com/9wB4E.jpg?s=128&g=1",
+        "display_name": "ilyo",
+        "link": "https://stackoverflow.com/users/747024/ilyo"
+      },
+      "is_answered": true,
+      "view_count": 910628,
+      "protected_date": 1434049236,
+      "accepted_answer_id": 15113029,
+      "answer_count": 7,
+      "score": 1063,
+      "last_activity_date": 1506352486,
+      "creation_date": 1361969407,
+      "last_edit_date": 1483801297,
+      "question_id": 15112584,
+      "link": "https://stackoverflow.com/questions/15112584/how-do-i-use-scope-watch-and-scope-apply-in-angularjs",
+      "title": "How do I use $scope.$watch and $scope.$apply in AngularJS?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angular-services"
+      ],
+      "owner": {
+        "reputation": 18448,
+        "user_id": 758177,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://i.stack.imgur.com/pBdL1.jpg?s=128&g=1",
+        "display_name": "jacob",
+        "link": "https://stackoverflow.com/users/758177/jacob"
+      },
+      "is_answered": true,
+      "view_count": 327630,
+      "protected_date": 1545280931,
+      "accepted_answer_id": 21900284,
+      "answer_count": 9,
+      "score": 1054,
+      "last_activity_date": 1524568899,
+      "creation_date": 1358188601,
+      "last_edit_date": 1418446248,
+      "question_id": 14324451,
+      "link": "https://stackoverflow.com/questions/14324451/angular-service-vs-angular-factory",
+      "title": "angular.service vs angular.factory"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "angularjs-routing",
+        "angular-ui-router",
+        "angularjs-module"
+      ],
+      "owner": {
+        "reputation": 7508,
+        "user_id": 1586517,
+        "user_type": "registered",
+        "accept_rate": 10,
+        "profile_image": "https://i.stack.imgur.com/Q9yEw.jpg?s=128&g=1",
+        "display_name": "Premchandra Singh",
+        "link": "https://stackoverflow.com/users/1586517/premchandra-singh"
+      },
+      "is_answered": true,
+      "view_count": 257250,
+      "protected_date": 1451973967,
+      "accepted_answer_id": 21024270,
+      "answer_count": 15,
+      "score": 1054,
+      "last_activity_date": 1506090159,
+      "creation_date": 1389279808,
+      "last_edit_date": 1506090159,
+      "question_id": 21023763,
+      "link": "https://stackoverflow.com/questions/21023763/what-is-the-difference-between-angular-route-and-angular-ui-router",
+      "title": "What is the difference between angular-route and angular-ui-router?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-directive",
+        "angularjs-scope",
+        "isolated-scope"
+      ],
+      "owner": {
+        "reputation": 15469,
+        "user_id": 291244,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/c6019cc613abada6ce14018ab86ac3a1?s=128&d=identicon&r=PG",
+        "display_name": "iwein",
+        "link": "https://stackoverflow.com/users/291244/iwein"
+      },
+      "is_answered": true,
+      "view_count": 523263,
+      "protected_date": 1434047561,
+      "accepted_answer_id": 14063373,
+      "answer_count": 18,
+      "score": 1044,
+      "last_activity_date": 1550066897,
+      "creation_date": 1356588629,
+      "last_edit_date": 1488799474,
+      "question_id": 14050195,
+      "link": "https://stackoverflow.com/questions/14050195/what-is-the-difference-between-and-in-directive-scope-in-angularjs",
+      "title": "What is the difference between &#39;@&#39; and &#39;=&#39; in directive scope in AngularJS?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "inheritance",
+        "prototype",
+        "prototypal-inheritance"
+      ],
+      "owner": {
+        "reputation": 302968,
+        "user_id": 215945,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/203qt.png?s=128&g=1",
+        "display_name": "Mark Rajcok",
+        "link": "https://stackoverflow.com/users/215945/mark-rajcok"
+      },
+      "is_answered": true,
+      "view_count": 147023,
+      "protected_date": 1434049925,
+      "accepted_answer_id": 14049482,
+      "answer_count": 3,
+      "score": 1010,
+      "last_activity_date": 1512651456,
+      "creation_date": 1356583711,
+      "last_edit_date": 1512651456,
+      "question_id": 14049480,
+      "link": "https://stackoverflow.com/questions/14049480/what-are-the-nuances-of-scope-prototypal-prototypical-inheritance-in-angularjs",
+      "title": "What are the nuances of scope prototypal / prototypical inheritance in AngularJS?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-scope",
+        "this"
+      ],
+      "owner": {
+        "reputation": 5291,
+        "user_id": 212584,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/1e897e2f528de598c19a52a00e12d711?s=128&d=identicon&r=PG",
+        "display_name": "Alexei Boronine",
+        "link": "https://stackoverflow.com/users/212584/alexei-boronine"
+      },
+      "is_answered": true,
+      "view_count": 283461,
+      "protected_date": 1434047731,
+      "accepted_answer_id": 14168699,
+      "answer_count": 7,
+      "score": 1004,
+      "last_activity_date": 1535016565,
+      "creation_date": 1343012147,
+      "last_edit_date": 1445534037,
+      "question_id": 11605917,
+      "link": "https://stackoverflow.com/questions/11605917/this-vs-scope-in-angularjs-controllers",
+      "title": "&#39;this&#39; vs $scope in AngularJS controllers"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 4517,
+        "user_id": 1959037,
+        "user_type": "registered",
+        "accept_rate": 10,
+        "profile_image": "https://www.gravatar.com/avatar/5c54ba484108b8045484db536e092fdc?s=128&d=identicon&r=PG",
+        "display_name": "Paul Kononenko",
+        "link": "https://stackoverflow.com/users/1959037/paul-kononenko"
+      },
+      "is_answered": true,
+      "view_count": 576505,
+      "protected_date": 1524031485,
+      "answer_count": 13,
+      "score": 869,
+      "last_activity_date": 1530178476,
+      "creation_date": 1359032597,
+      "last_edit_date": 1494460413,
+      "question_id": 14502006,
+      "link": "https://stackoverflow.com/questions/14502006/working-with-scope-emit-and-scope-on",
+      "title": "Working with $scope.$emit and $scope.$on"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-scope",
+        "angularjs-digest"
+      ],
+      "owner": {
+        "reputation": 6264,
+        "user_id": 1563404,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/377beb6c94705e479eacd46c98804e29?s=128&d=identicon&r=PG",
+        "display_name": "Lightbulb1",
+        "link": "https://stackoverflow.com/users/1563404/lightbulb1"
+      },
+      "is_answered": true,
+      "view_count": 416611,
+      "protected_date": 1465899179,
+      "accepted_answer_id": 12859093,
+      "answer_count": 25,
+      "score": 824,
+      "last_activity_date": 1558642004,
+      "creation_date": 1349359652,
+      "last_edit_date": 1495524965,
+      "question_id": 12729122,
+      "link": "https://stackoverflow.com/questions/12729122/angularjs-prevent-error-digest-already-in-progress-when-calling-scope-apply",
+      "title": "AngularJS : Prevent error $digest already in progress when calling $scope.$apply()"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "escaping",
+        "html-sanitizing"
+      ],
+      "owner": {
+        "reputation": 8404,
+        "user_id": 418349,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/ed0f6bb03ce9730fb95f32901bfd2938?s=128&d=identicon&r=PG",
+        "display_name": "Swaff",
+        "link": "https://stackoverflow.com/users/418349/swaff"
+      },
+      "is_answered": true,
+      "view_count": 634295,
+      "protected_date": 1441090302,
+      "accepted_answer_id": 10971756,
+      "answer_count": 18,
+      "score": 778,
+      "last_activity_date": 1554587207,
+      "creation_date": 1329844332,
+      "last_edit_date": 1554586868,
+      "question_id": 9381926,
+      "link": "https://stackoverflow.com/questions/9381926/insert-html-into-view-from-angularjs-controller",
+      "title": "Insert HTML into view from AngularJS controller"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-directive"
+      ],
+      "owner": {
+        "reputation": 65034,
+        "user_id": 247243,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/7ee5d55919c272eddef98dbe16f5cb09?s=128&d=identicon&r=PG",
+        "display_name": "Misha Moroshko",
+        "link": "https://stackoverflow.com/users/247243/misha-moroshko"
+      },
+      "is_answered": true,
+      "view_count": 568680,
+      "protected_date": 1434048273,
+      "accepted_answer_id": 14837021,
+      "answer_count": 34,
+      "score": 742,
+      "last_activity_date": 1544428955,
+      "creation_date": 1360674532,
+      "last_edit_date": 1410037547,
+      "question_id": 14833326,
+      "link": "https://stackoverflow.com/questions/14833326/how-to-set-focus-on-input-field",
+      "title": "How to set focus on input field?"
+    },
+    {
+      "tags": [
+        "html5",
+        "angularjs",
+        "seo",
+        "search-engine",
+        "google-search"
+      ],
+      "owner": {
+        "reputation": 4462,
+        "user_id": 1206952,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://i.stack.imgur.com/7fo3r.jpg?s=128&g=1",
+        "display_name": "luisfarzati",
+        "link": "https://stackoverflow.com/users/1206952/luisfarzati"
+      },
+      "is_answered": true,
+      "view_count": 204386,
+      "protected_date": 1408928542,
+      "accepted_answer_id": 13521668,
+      "answer_count": 15,
+      "score": 695,
+      "last_activity_date": 1553596593,
+      "creation_date": 1353519888,
+      "last_edit_date": 1375562340,
+      "question_id": 13499040,
+      "link": "https://stackoverflow.com/questions/13499040/how-do-search-engines-deal-with-angularjs-applications",
+      "title": "How do search engines deal with AngularJS applications?"
+    },
+    {
+      "tags": [
+        "if-statement",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 5388,
+        "user_id": 736023,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://www.gravatar.com/avatar/5ca1ad1ae3e2f2fc8892b8c0bf0f33a5?s=128&d=identicon&r=PG",
+        "display_name": "vzhen",
+        "link": "https://stackoverflow.com/users/736023/vzhen"
+      },
+      "is_answered": true,
+      "view_count": 1026975,
+      "protected_date": 1524031560,
+      "accepted_answer_id": 15810462,
+      "answer_count": 9,
+      "score": 680,
+      "last_activity_date": 1535264541,
+      "creation_date": 1365076213,
+      "last_edit_date": 1417665941,
+      "question_id": 15810278,
+      "link": "https://stackoverflow.com/questions/15810278/if-else-statement-in-angularjs-templates",
+      "title": "if else statement in AngularJS templates"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-ng-repeat"
+      ],
+      "owner": {
+        "reputation": 4682,
+        "user_id": 1315279,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/c03f814ee0ba046d9b63433849cd3511?s=128&d=identicon&r=PG",
+        "display_name": "user192362127",
+        "link": "https://stackoverflow.com/users/1315279/user192362127"
+      },
+      "is_answered": true,
+      "view_count": 512323,
+      "protected_date": 1489017943,
+      "accepted_answer_id": 15127934,
+      "answer_count": 9,
+      "score": 667,
+      "last_activity_date": 1534164075,
+      "creation_date": 1362027465,
+      "last_edit_date": 1509272952,
+      "question_id": 15127834,
+      "link": "https://stackoverflow.com/questions/15127834/how-to-iterate-over-the-keys-and-values-with-ng-repeat-in-angularjs",
+      "title": "How to iterate over the keys and values with ng-repeat in AngularJS?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 9998,
+        "user_id": 1185242,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/16eb0aedb14ca0a2e5013721cd679485?s=128&d=identicon&r=PG",
+        "display_name": "nickponline",
+        "link": "https://stackoverflow.com/users/1185242/nickponline"
+      },
+      "is_answered": true,
+      "view_count": 563407,
+      "protected_date": 1522408554,
+      "accepted_answer_id": 14520103,
+      "answer_count": 30,
+      "score": 653,
+      "last_activity_date": 1538550127,
+      "creation_date": 1359081406,
+      "last_edit_date": 1483802168,
+      "question_id": 14514461,
+      "link": "https://stackoverflow.com/questions/14514461/how-do-i-bind-to-list-of-checkbox-values-with-angularjs",
+      "title": "How do I bind to list of checkbox values with AngularJS?"
+    },
+    {
+      "tags": [
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 3339,
+        "user_id": 57914,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/809d72c5c42ce00d69a11773df1bc529?s=128&d=identicon&r=PG",
+        "display_name": "Sudhanshu",
+        "link": "https://stackoverflow.com/users/57914/sudhanshu"
+      },
+      "is_answered": true,
+      "view_count": 390954,
+      "protected_date": 1434048662,
+      "accepted_answer_id": 12654812,
+      "answer_count": 26,
+      "score": 633,
+      "last_activity_date": 1553241350,
+      "creation_date": 1348938285,
+      "last_edit_date": 1483797285,
+      "question_id": 12654631,
+      "link": "https://stackoverflow.com/questions/12654631/why-does-angularjs-include-an-empty-option-in-select",
+      "title": "Why does AngularJS include an empty option in select?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angular-filters",
+        "ng-controller"
+      ],
+      "owner": {
+        "reputation": 3148,
+        "user_id": 1973826,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/c578722bfae19b4e9797eea367a86562?s=128&d=identicon&r=PG",
+        "display_name": "sumanth",
+        "link": "https://stackoverflow.com/users/1973826/sumanth"
+      },
+      "is_answered": true,
+      "view_count": 507166,
+      "protected_date": 1442576848,
+      "accepted_answer_id": 14302334,
+      "answer_count": 14,
+      "score": 629,
+      "last_activity_date": 1542359588,
+      "creation_date": 1358069394,
+      "last_edit_date": 1438097257,
+      "question_id": 14302267,
+      "link": "https://stackoverflow.com/questions/14302267/how-to-use-a-filter-in-a-controller",
+      "title": "How to use a filter in a controller?"
+    },
+    {
+      "tags": [
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 17047,
+        "user_id": 1617954,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/de2e396e5adca9a93f7966b612d07928?s=128&d=identicon&r=PG",
+        "display_name": "JvdBerg",
+        "link": "https://stackoverflow.com/users/1617954/jvdberg"
+      },
+      "is_answered": true,
+      "view_count": 262597,
+      "protected_date": 1436483351,
+      "accepted_answer_id": 13763886,
+      "answer_count": 20,
+      "score": 613,
+      "last_activity_date": 1504380701,
+      "creation_date": 1354879915,
+      "last_edit_date": 1452032742,
+      "question_id": 13762228,
+      "link": "https://stackoverflow.com/questions/13762228/confused-about-service-vs-factory",
+      "title": "Confused about Service vs Factory"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 11762,
+        "user_id": 442351,
+        "user_type": "registered",
+        "accept_rate": 56,
+        "profile_image": "https://www.gravatar.com/avatar/069558aeae416cb4a81cd65b90f987ec?s=128&d=identicon&r=PG",
+        "display_name": "BanksySan",
+        "link": "https://stackoverflow.com/users/442351/banksysan"
+      },
+      "is_answered": true,
+      "view_count": 380094,
+      "accepted_answer_id": 9407953,
+      "answer_count": 13,
+      "score": 572,
+      "last_activity_date": 1529529596,
+      "creation_date": 1329309080,
+      "last_edit_date": 1529529596,
+      "question_id": 9293423,
+      "link": "https://stackoverflow.com/questions/9293423/can-one-angularjs-controller-call-another",
+      "title": "Can one AngularJS controller call another?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "javascript-framework"
+      ],
+      "owner": {
+        "reputation": 22734,
+        "user_id": 1300302,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://i.stack.imgur.com/usc6D.jpg?s=128&g=1",
+        "display_name": "Sabarish Sankar",
+        "link": "https://stackoverflow.com/users/1300302/sabarish-sankar"
+      },
+      "is_answered": true,
+      "view_count": 644769,
+      "accepted_answer_id": 13760360,
+      "answer_count": 7,
+      "score": 563,
+      "last_activity_date": 1556204910,
+      "creation_date": 1354871780,
+      "last_edit_date": 1556204910,
+      "question_id": 13760070,
+      "link": "https://stackoverflow.com/questions/13760070/angularjs-passing-data-to-http-get-request",
+      "title": "AngularJS passing data to $http.get request"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angular-ngmodel",
+        "ng-bind"
+      ],
+      "owner": {
+        "reputation": 3214,
+        "user_id": 448337,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://i.stack.imgur.com/thUS2.jpg?s=128&g=1",
+        "display_name": "dubs",
+        "link": "https://stackoverflow.com/users/448337/dubs"
+      },
+      "is_answered": true,
+      "view_count": 238832,
+      "protected_date": 1436904059,
+      "accepted_answer_id": 12420157,
+      "answer_count": 8,
+      "score": 547,
+      "last_activity_date": 1542373760,
+      "creation_date": 1347606130,
+      "last_edit_date": 1479289503,
+      "question_id": 12419619,
+      "link": "https://stackoverflow.com/questions/12419619/whats-the-difference-between-ng-model-and-ng-bind",
+      "title": "What&#39;s the difference between ng-model and ng-bind"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 4446,
+        "user_id": 167749,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/41b7ad642367d9a94cef9bc42fac5504?s=128&d=identicon&r=PG",
+        "display_name": "Jukka Puranen",
+        "link": "https://stackoverflow.com/users/167749/jukka-puranen"
+      },
+      "is_answered": true,
+      "view_count": 419249,
+      "protected_date": 1445202176,
+      "accepted_answer_id": 12140310,
+      "answer_count": 27,
+      "score": 545,
+      "last_activity_date": 1521469391,
+      "creation_date": 1346058805,
+      "last_edit_date": 1483794131,
+      "question_id": 12139152,
+      "link": "https://stackoverflow.com/questions/12139152/how-do-i-set-the-value-property-in-angularjs-ng-options",
+      "title": "How do I set the value property in AngularJS&#39; ng-options?"
+    },
+    {
+      "tags": [
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 22353,
+        "user_id": 1130266,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/fa2d4040807e58ed5b06867720516e1b?s=128&d=identicon&r=PG",
+        "display_name": "Greg",
+        "link": "https://stackoverflow.com/users/1130266/greg"
+      },
+      "is_answered": true,
+      "view_count": 163327,
+      "protected_date": 1434019503,
+      "accepted_answer_id": 15535724,
+      "answer_count": 22,
+      "score": 523,
+      "last_activity_date": 1535264691,
+      "creation_date": 1363815796,
+      "last_edit_date": 1486368384,
+      "question_id": 15535336,
+      "link": "https://stackoverflow.com/questions/15535336/combating-angularjs-executing-controller-twice",
+      "title": "Combating AngularJS executing controller twice"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-directive"
+      ],
+      "owner": {
+        "reputation": 5933,
+        "user_id": 1584643,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/98cb228230c600adf54e60de76fd2a90?s=128&d=identicon&r=PG",
+        "display_name": "schacki",
+        "link": "https://stackoverflow.com/users/1584643/schacki"
+      },
+      "is_answered": true,
+      "view_count": 226406,
+      "answer_count": 6,
+      "score": 521,
+      "last_activity_date": 1498144185,
+      "creation_date": 1364456934,
+      "last_edit_date": 1495594715,
+      "question_id": 15676614,
+      "link": "https://stackoverflow.com/questions/15676614/link-vs-compile-vs-controller",
+      "title": "Link vs compile vs controller"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "polymer"
+      ],
+      "owner": {
+        "reputation": 10952,
+        "user_id": 1113921,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/731027a0b6612d93118a2337bc8e20de?s=128&d=identicon&r=PG",
+        "display_name": "Dan Kanze",
+        "link": "https://stackoverflow.com/users/1113921/dan-kanze"
+      },
+      "is_answered": true,
+      "view_count": 93632,
+      "answer_count": 10,
+      "score": 515,
+      "last_activity_date": 1491344675,
+      "creation_date": 1375818154,
+      "last_edit_date": 1395696452,
+      "question_id": 18089075,
+      "link": "https://stackoverflow.com/questions/18089075/what-is-the-difference-between-polymer-elements-and-angularjs-directives",
+      "title": "What is the difference between Polymer elements and AngularJS directives?"
+    },
+    {
+      "tags": [
+        "ajax",
+        "angularjs",
+        "post",
+        "angular-http"
+      ],
+      "owner": {
+        "reputation": 13129,
+        "user_id": 864236,
+        "user_type": "registered",
+        "accept_rate": 47,
+        "profile_image": "https://www.gravatar.com/avatar/cf2143f14e4018a342ce93aa0fad00c6?s=128&d=identicon&r=PG",
+        "display_name": "mjibson",
+        "link": "https://stackoverflow.com/users/864236/mjibson"
+      },
+      "is_answered": true,
+      "view_count": 384070,
+      "protected_date": 1438893304,
+      "accepted_answer_id": 11443066,
+      "answer_count": 22,
+      "score": 511,
+      "last_activity_date": 1535525409,
+      "creation_date": 1342046650,
+      "last_edit_date": 1439677260,
+      "question_id": 11442632,
+      "link": "https://stackoverflow.com/questions/11442632/how-can-i-post-data-as-form-data-instead-of-a-request-payload",
+      "title": "How can I post data as form data instead of a request payload?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-directive"
+      ],
+      "owner": {
+        "reputation": 5924,
+        "user_id": 3046255,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/c735441a8f71994ab500ce5e599b7fda?s=128&d=identicon&r=PG",
+        "display_name": "Patrice Chalin",
+        "link": "https://stackoverflow.com/users/3046255/patrice-chalin"
+      },
+      "is_answered": true,
+      "view_count": 199089,
+      "protected_date": 1436452561,
+      "accepted_answer_id": 21870119,
+      "answer_count": 7,
+      "score": 507,
+      "last_activity_date": 1517367635,
+      "creation_date": 1392774122,
+      "last_edit_date": 1452506994,
+      "question_id": 21869283,
+      "link": "https://stackoverflow.com/questions/21869283/when-to-favor-ng-if-vs-ng-show-ng-hide",
+      "title": "When to favor ng-if vs. ng-show/ng-hide?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 5549,
+        "user_id": 875342,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/469a4a84e0af3168c0e6d17f1b941e75?s=128&d=identicon&r=PG",
+        "display_name": "PhillipKregg",
+        "link": "https://stackoverflow.com/users/875342/phillipkregg"
+      },
+      "is_answered": true,
+      "view_count": 119520,
+      "accepted_answer_id": 12864135,
+      "answer_count": 6,
+      "score": 499,
+      "last_activity_date": 1417422764,
+      "creation_date": 1350060549,
+      "last_edit_date": 1410044252,
+      "question_id": 12863663,
+      "link": "https://stackoverflow.com/questions/12863663/complex-nesting-of-partials-and-templates",
+      "title": "Complex nesting of partials and templates"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "ng-class"
+      ],
+      "owner": {
+        "reputation": 4690,
+        "user_id": 2735275,
+        "user_type": "registered",
+        "accept_rate": 45,
+        "profile_image": "https://www.gravatar.com/avatar/ede6bc2fb601bfcf1f911b1337bcd135?s=128&d=identicon&r=PG",
+        "display_name": "Aditya Sethi",
+        "link": "https://stackoverflow.com/users/2735275/aditya-sethi"
+      },
+      "is_answered": true,
+      "view_count": 407758,
+      "protected_date": 1449683290,
+      "accepted_answer_id": 18871805,
+      "answer_count": 11,
+      "score": 497,
+      "last_activity_date": 1483683600,
+      "creation_date": 1379504459,
+      "last_edit_date": 1428450798,
+      "question_id": 18871277,
+      "link": "https://stackoverflow.com/questions/18871277/adding-multiple-class-using-ng-class",
+      "title": "Adding multiple class using ng-class"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "ngroute"
+      ],
+      "owner": {
+        "reputation": 8773,
+        "user_id": 455368,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/ff7c4c6e197ecf94f289f750acb72fcf?s=128&d=identicon&r=PG",
+        "display_name": "st.never",
+        "link": "https://stackoverflow.com/users/455368/st-never"
+      },
+      "is_answered": true,
+      "view_count": 445191,
+      "protected_date": 1449470047,
+      "accepted_answer_id": 11542936,
+      "answer_count": 11,
+      "score": 486,
+      "last_activity_date": 1544091052,
+      "creation_date": 1342615462,
+      "last_edit_date": 1410044283,
+      "question_id": 11541695,
+      "link": "https://stackoverflow.com/questions/11541695/redirecting-to-a-certain-route-based-on-condition",
+      "title": "Redirecting to a certain route based on condition"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 11788,
+        "user_id": 384016,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/845f343c1d289a3ee6ea5140fef8a25b?s=128&d=identicon&r=PG",
+        "display_name": "ryanzec",
+        "link": "https://stackoverflow.com/users/384016/ryanzec"
+      },
+      "is_answered": true,
+      "view_count": 773273,
+      "accepted_answer_id": 16529903,
+      "answer_count": 11,
+      "score": 477,
+      "last_activity_date": 1561101686,
+      "creation_date": 1368473918,
+      "last_edit_date": 1553887097,
+      "question_id": 16529825,
+      "link": "https://stackoverflow.com/questions/16529825/angularjs-ngclass-conditional",
+      "title": "AngularJS ngClass conditional"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "ng-repeat",
+        "angularjs-filter"
+      ],
+      "owner": {
+        "reputation": 4458,
+        "user_id": 963903,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://www.gravatar.com/avatar/58357f13983ea49a8355c0a8f7b3800c?s=128&d=identicon&r=PG",
+        "display_name": "Tim Webster",
+        "link": "https://stackoverflow.com/users/963903/tim-webster"
+      },
+      "is_answered": true,
+      "view_count": 769660,
+      "protected_date": 1434048394,
+      "accepted_answer_id": 14733280,
+      "answer_count": 12,
+      "score": 469,
+      "last_activity_date": 1532084898,
+      "creation_date": 1360165929,
+      "last_edit_date": 1438468874,
+      "question_id": 14733136,
+      "link": "https://stackoverflow.com/questions/14733136/ng-repeat-filter-by-single-field",
+      "title": "ng-repeat :filter by single field"
+    },
+    {
+      "tags": [
+        "scope",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 18191,
+        "user_id": 129805,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://i.stack.imgur.com/F1gxS.png?s=128&g=1",
+        "display_name": "fadedbee",
+        "link": "https://stackoverflow.com/users/129805/fadedbee"
+      },
+      "is_answered": true,
+      "view_count": 206461,
+      "accepted_answer_id": 19498009,
+      "answer_count": 19,
+      "score": 468,
+      "last_activity_date": 1498124605,
+      "creation_date": 1340917109,
+      "last_edit_date": 1455284110,
+      "question_id": 11252780,
+      "link": "https://stackoverflow.com/questions/11252780/whats-the-correct-way-to-communicate-between-controllers-in-angularjs",
+      "title": "What&#39;s the correct way to communicate between controllers in AngularJS?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "asynchronous",
+        "service",
+        "angular-promise"
+      ],
+      "owner": {
+        "reputation": 7207,
+        "user_id": 379122,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/ef1dac5ed06318f637b01b12dc5aa95c?s=128&d=identicon&r=PG",
+        "display_name": "testing123",
+        "link": "https://stackoverflow.com/users/379122/testing123"
+      },
+      "is_answered": true,
+      "view_count": 205239,
+      "accepted_answer_id": 16288468,
+      "answer_count": 10,
+      "score": 467,
+      "last_activity_date": 1467813313,
+      "creation_date": 1367263507,
+      "last_edit_date": 1495542877,
+      "question_id": 16286605,
+      "link": "https://stackoverflow.com/questions/16286605/angularjs-initialize-service-with-asynchronous-data",
+      "title": "AngularJS : Initialize service with asynchronous data"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "ng-repeat"
+      ],
+      "owner": {
+        "reputation": 3403,
+        "user_id": 1331867,
+        "user_type": "registered",
+        "accept_rate": 56,
+        "profile_image": "https://www.gravatar.com/avatar/d2467675719b1d025d3d6561e1b1e084?s=128&d=identicon&r=PG",
+        "display_name": "Dine",
+        "link": "https://stackoverflow.com/users/1331867/dine"
+      },
+      "is_answered": true,
+      "view_count": 299612,
+      "accepted_answer_id": 17246507,
+      "answer_count": 10,
+      "score": 461,
+      "last_activity_date": 1525446677,
+      "creation_date": 1367314638,
+      "last_edit_date": 1434472195,
+      "question_id": 16296670,
+      "link": "https://stackoverflow.com/questions/16296670/angular-ng-repeat-error-duplicates-in-a-repeater-are-not-allowed",
+      "title": "Angular ng-repeat Error &quot;Duplicates in a repeater are not allowed.&quot;"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-directive"
+      ],
+      "owner": {
+        "reputation": 16936,
+        "user_id": 1179377,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/35c050eac0eab06a8c3b6fec8c2bb5c0?s=128&d=identicon&r=PG",
+        "display_name": "Izhaki",
+        "link": "https://stackoverflow.com/users/1179377/izhaki"
+      },
+      "is_answered": true,
+      "view_count": 147608,
+      "closed_date": 1411829431,
+      "answer_count": 8,
+      "score": 450,
+      "last_activity_date": 1464984435,
+      "creation_date": 1404749582,
+      "last_edit_date": 1495541905,
+      "question_id": 24615103,
+      "link": "https://stackoverflow.com/questions/24615103/angular-directives-when-and-how-to-use-compile-controller-pre-link-and-post",
+      "closed_reason": "off-topic",
+      "title": "Angular directives - when and how to use compile, controller, pre-link and post-link"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 9280,
+        "user_id": 506405,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/30d7d4c13abcce7567310133134b829c?s=128&d=identicon&r=PG",
+        "display_name": "Dawid",
+        "link": "https://stackoverflow.com/users/506405/dawid"
+      },
+      "is_answered": true,
+      "view_count": 444582,
+      "protected_date": 1389648671,
+      "accepted_answer_id": 18287586,
+      "answer_count": 17,
+      "score": 443,
+      "last_activity_date": 1540988475,
+      "creation_date": 1376733416,
+      "question_id": 18287482,
+      "link": "https://stackoverflow.com/questions/18287482/angularjs-1-2-injectormodulerr",
+      "title": "AngularJS 1.2 $injector:modulerr"
+    },
+    {
+      "tags": [
+        "javascript",
+        "requirejs",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 2250,
+        "user_id": 1314697,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/f2cf69192c688ec9edc423725d995c7c?s=128&d=identicon&r=PG",
+        "display_name": "Franck",
+        "link": "https://stackoverflow.com/users/1314697/franck"
+      },
+      "is_answered": true,
+      "view_count": 156766,
+      "protected_date": 1400158246,
+      "closed_date": 1404129360,
+      "answer_count": 14,
+      "score": 443,
+      "last_activity_date": 1484000572,
+      "creation_date": 1348224578,
+      "question_id": 12529083,
+      "link": "https://stackoverflow.com/questions/12529083/does-it-make-sense-to-use-require-js-with-angular-js",
+      "closed_reason": "primarily opinion-based",
+      "title": "Does it make sense to use Require.js with Angular.js?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "events",
+        "angularjs-watch"
+      ],
+      "owner": {
+        "reputation": 22353,
+        "user_id": 1130266,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/fa2d4040807e58ed5b06867720516e1b?s=128&d=identicon&r=PG",
+        "display_name": "Greg",
+        "link": "https://stackoverflow.com/users/1130266/greg"
+      },
+      "is_answered": true,
+      "view_count": 181957,
+      "accepted_answer_id": 23495281,
+      "answer_count": 11,
+      "score": 436,
+      "last_activity_date": 1522658836,
+      "creation_date": 1344948581,
+      "last_edit_date": 1454849117,
+      "question_id": 11952579,
+      "link": "https://stackoverflow.com/questions/11952579/watch-multiple-scope-attributes",
+      "title": "Watch multiple $scope attributes"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "html-select",
+        "ng-options"
+      ],
+      "owner": {
+        "reputation": 7578,
+        "user_id": 155639,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://www.gravatar.com/avatar/498f03206bf22bfabc298b3d716209e8?s=128&d=identicon&r=PG",
+        "display_name": "Andrej Kaurin",
+        "link": "https://stackoverflow.com/users/155639/andrej-kaurin"
+      },
+      "is_answered": true,
+      "view_count": 402525,
+      "protected_date": 1492786490,
+      "accepted_answer_id": 13049740,
+      "answer_count": 8,
+      "score": 432,
+      "last_activity_date": 1492773983,
+      "creation_date": 1351076600,
+      "last_edit_date": 1489687696,
+      "question_id": 13047923,
+      "link": "https://stackoverflow.com/questions/13047923/working-with-select-using-angularjss-ng-options",
+      "title": "Working with select using AngularJS&#39;s ng-options"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 2530,
+        "user_id": 1907800,
+        "user_type": "registered",
+        "accept_rate": 53,
+        "profile_image": "https://www.gravatar.com/avatar/53317552e20dff126c8747c79fa10276?s=128&d=identicon&r=PG",
+        "display_name": "user109187",
+        "link": "https://stackoverflow.com/users/1907800/user109187"
+      },
+      "is_answered": true,
+      "view_count": 385904,
+      "answer_count": 8,
+      "score": 424,
+      "last_activity_date": 1526561896,
+      "creation_date": 1362866186,
+      "last_edit_date": 1424815712,
+      "question_id": 15316363,
+      "link": "https://stackoverflow.com/questions/15316363/how-to-display-length-of-filtered-ng-repeat-data",
+      "title": "How to display length of filtered ng-repeat data"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "angularjs-ng-click"
+      ],
+      "owner": {
+        "reputation": 2327,
+        "user_id": 1506886,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/6800dea725208c6ad322562fc182d9df?s=128&d=identicon&r=PG",
+        "display_name": "michael_knight",
+        "link": "https://stackoverflow.com/users/1506886/michael-knight"
+      },
+      "is_answered": true,
+      "view_count": 258386,
+      "accepted_answer_id": 20301030,
+      "answer_count": 5,
+      "score": 417,
+      "last_activity_date": 1554212241,
+      "creation_date": 1385818495,
+      "last_edit_date": 1470915354,
+      "question_id": 20300866,
+      "link": "https://stackoverflow.com/questions/20300866/angularjs-ng-click-stoppropagation",
+      "title": "AngularJS ng-click stopPropagation"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-ng-show",
+        "angularjs-ng-if"
+      ],
+      "owner": {
+        "reputation": 20100,
+        "user_id": 356440,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/d16fc2844c1d9f8f815f318734554266?s=128&d=identicon&r=PG",
+        "display_name": "Stephane Rolland",
+        "link": "https://stackoverflow.com/users/356440/stephane-rolland"
+      },
+      "is_answered": true,
+      "view_count": 286948,
+      "protected_date": 1436451841,
+      "accepted_answer_id": 19177773,
+      "answer_count": 12,
+      "score": 413,
+      "last_activity_date": 1557211730,
+      "creation_date": 1380878774,
+      "last_edit_date": 1557211730,
+      "question_id": 19177732,
+      "link": "https://stackoverflow.com/questions/19177732/what-is-the-difference-between-ng-if-and-ng-show-ng-hide",
+      "title": "What is the difference between ng-if and ng-show/ng-hide"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-ng-repeat",
+        "ng-repeat"
+      ],
+      "owner": {
+        "reputation": 3939,
+        "user_id": 971824,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://www.gravatar.com/avatar/c569401def2217e3cfa43ecbae24dd03?s=128&d=identicon&r=PG",
+        "display_name": "Malcr001",
+        "link": "https://stackoverflow.com/users/971824/malcr001"
+      },
+      "is_answered": true,
+      "view_count": 358550,
+      "accepted_answer_id": 16824944,
+      "answer_count": 26,
+      "score": 411,
+      "last_activity_date": 1557820106,
+      "creation_date": 1369865891,
+      "last_edit_date": 1400060084,
+      "question_id": 16824853,
+      "link": "https://stackoverflow.com/questions/16824853/way-to-ng-repeat-defined-number-of-times-instead-of-repeating-over-array",
+      "title": "Way to ng-repeat defined number of times instead of repeating over array?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "templates",
+        "partial-views",
+        "angular-routing"
+      ],
+      "owner": {
+        "reputation": 18619,
+        "user_id": 308097,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/53cda7da91aa447b1f734a52546a1906?s=128&d=identicon&r=PG",
+        "display_name": "mikel",
+        "link": "https://stackoverflow.com/users/308097/mikel"
+      },
+      "is_answered": true,
+      "view_count": 245521,
+      "protected_date": 1444398190,
+      "accepted_answer_id": 12506795,
+      "answer_count": 22,
+      "score": 404,
+      "last_activity_date": 1525434571,
+      "creation_date": 1348117451,
+      "last_edit_date": 1445248189,
+      "question_id": 12506329,
+      "link": "https://stackoverflow.com/questions/12506329/how-to-dynamically-change-header-based-on-angularjs-partial-view",
+      "title": "How to dynamically change header based on AngularJS partial view?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "watch",
+        "angular-services"
+      ],
+      "owner": {
+        "reputation": 4511,
+        "user_id": 703144,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/cd98a7fa7d9e312e85011d4ee7ec6141?s=128&d=identicon&r=PG",
+        "display_name": "berto",
+        "link": "https://stackoverflow.com/users/703144/berto"
+      },
+      "is_answered": true,
+      "view_count": 211184,
+      "answer_count": 21,
+      "score": 404,
+      "last_activity_date": 1535383123,
+      "creation_date": 1348551666,
+      "last_edit_date": 1443528099,
+      "question_id": 12576798,
+      "link": "https://stackoverflow.com/questions/12576798/angularjs-how-to-watch-service-variables",
+      "title": "AngularJS : How to watch service variables?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "ng-bind"
+      ],
+      "owner": {
+        "reputation": 3998,
+        "user_id": 115457,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/11e06646d58e4efc69ef59a8da40a25c?s=128&d=identicon&r=PG",
+        "display_name": "Nair",
+        "link": "https://stackoverflow.com/users/115457/nair"
+      },
+      "is_answered": true,
+      "view_count": 176289,
+      "protected_date": 1448625796,
+      "accepted_answer_id": 16126174,
+      "answer_count": 12,
+      "score": 399,
+      "last_activity_date": 1557134019,
+      "creation_date": 1366497284,
+      "last_edit_date": 1443530070,
+      "question_id": 16125872,
+      "link": "https://stackoverflow.com/questions/16125872/angularjs-why-ng-bind-is-better-than-in-angular",
+      "title": "AngularJS : Why ng-bind is better than {{}} in angular?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-directive",
+        "angular-ui"
+      ],
+      "owner": {
+        "reputation": 2671,
+        "user_id": 1697849,
+        "user_type": "registered",
+        "accept_rate": 46,
+        "profile_image": "https://i.stack.imgur.com/loQq1.jpg?s=128&g=1",
+        "display_name": "Venkata Tata",
+        "link": "https://stackoverflow.com/users/1697849/venkata-tata"
+      },
+      "is_answered": true,
+      "view_count": 436006,
+      "accepted_answer_id": 17472118,
+      "answer_count": 19,
+      "score": 398,
+      "last_activity_date": 1539852118,
+      "creation_date": 1372942185,
+      "last_edit_date": 1471512628,
+      "question_id": 17470790,
+      "link": "https://stackoverflow.com/questions/17470790/how-to-use-a-keypress-event-in-angularjs",
+      "title": "How to use a keypress event in AngularJS?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html5",
+        "include",
+        "angularjs",
+        "repeater"
+      ],
+      "owner": {
+        "reputation": 18448,
+        "user_id": 758177,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://i.stack.imgur.com/pBdL1.jpg?s=128&g=1",
+        "display_name": "jacob",
+        "link": "https://stackoverflow.com/users/758177/jacob"
+      },
+      "is_answered": true,
+      "view_count": 303230,
+      "accepted_answer_id": 13943587,
+      "answer_count": 8,
+      "score": 397,
+      "last_activity_date": 1551123158,
+      "creation_date": 1355874987,
+      "last_edit_date": 1551123158,
+      "question_id": 13943471,
+      "link": "https://stackoverflow.com/questions/13943471/what-is-the-correct-syntax-of-ng-include",
+      "title": "What is the correct syntax of ng-include?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "web-applications",
+        "javascript-framework"
+      ],
+      "owner": {
+        "reputation": 1951,
+        "user_id": 1558259,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ccf88f87f1d316dd65bd9bc7a446bf28?s=128&d=identicon&r=PG",
+        "display_name": "user1558259",
+        "link": "https://stackoverflow.com/users/1558259/user1558259"
+      },
+      "is_answered": true,
+      "view_count": 111350,
+      "protected_date": 1433961319,
+      "answer_count": 4,
+      "score": 390,
+      "last_activity_date": 1508454925,
+      "creation_date": 1348341543,
+      "last_edit_date": 1508454925,
+      "question_id": 12546945,
+      "link": "https://stackoverflow.com/questions/12546945/difference-between-the-controller-link-and-compile-functions-when-definin",
+      "title": "Difference between the &#39;controller&#39;, &#39;link&#39; and &#39;compile&#39; functions when defining a directive"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 9249,
+        "user_id": 1510869,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/cb92dfd2efa610125f5e58eddbed1e47?s=128&d=identicon&r=PG",
+        "display_name": "user825904",
+        "link": "https://stackoverflow.com/users/1510869/user825904"
+      },
+      "is_answered": true,
+      "view_count": 206032,
+      "protected_date": 1413212062,
+      "accepted_answer_id": 13151808,
+      "answer_count": 6,
+      "score": 384,
+      "last_activity_date": 1483790662,
+      "creation_date": 1351660962,
+      "last_edit_date": 1410044368,
+      "question_id": 13151725,
+      "link": "https://stackoverflow.com/questions/13151725/how-is-angularjs-different-from-jquery",
+      "title": "How is AngularJS different from jQuery"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "ng-repeat",
+        "angularjs-ng-click"
+      ],
+      "owner": {
+        "reputation": 3369,
+        "user_id": 702185,
+        "user_type": "registered",
+        "accept_rate": 40,
+        "profile_image": "https://www.gravatar.com/avatar/e1aa5b243afb853cde22b60bd404f22b?s=128&d=identicon&r=PG",
+        "display_name": "Paweł Szymański",
+        "link": "https://stackoverflow.com/users/702185/pawe%c5%82-szyma%c5%84ski"
+      },
+      "is_answered": true,
+      "view_count": 422281,
+      "protected_date": 1434036859,
+      "accepted_answer_id": 17039960,
+      "answer_count": 7,
+      "score": 383,
+      "last_activity_date": 1528830313,
+      "creation_date": 1370940431,
+      "last_edit_date": 1437222758,
+      "question_id": 17039926,
+      "link": "https://stackoverflow.com/questions/17039926/adding-parameter-to-ng-click-function-inside-ng-repeat-doesnt-seem-to-work",
+      "title": "Adding parameter to ng-click function inside ng-repeat doesn&#39;t seem to work"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-service"
+      ],
+      "owner": {
+        "reputation": 17124,
+        "user_id": 813142,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/5dce44fcbdc5a812e5beb7676510b563?s=128&d=identicon&r=PG",
+        "display_name": "JustGoscha",
+        "link": "https://stackoverflow.com/users/813142/justgoscha"
+      },
+      "is_answered": true,
+      "view_count": 108117,
+      "protected_date": 1433938003,
+      "accepted_answer_id": 15536532,
+      "answer_count": 4,
+      "score": 383,
+      "last_activity_date": 1532720054,
+      "creation_date": 1363793335,
+      "last_edit_date": 1447710564,
+      "question_id": 15527832,
+      "link": "https://stackoverflow.com/questions/15527832/how-can-i-test-an-angularjs-service-from-the-console",
+      "title": "How can I test an AngularJS service from the console?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "angularjs-ng-repeat",
+        "angularjs-ng-show"
+      ],
+      "owner": {
+        "reputation": 16604,
+        "user_id": 1422124,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://i.stack.imgur.com/7gX80.jpg?s=128&g=1",
+        "display_name": "Prinzhorn",
+        "link": "https://stackoverflow.com/users/1422124/prinzhorn"
+      },
+      "is_answered": true,
+      "view_count": 230759,
+      "accepted_answer_id": 12341183,
+      "answer_count": 10,
+      "score": 376,
+      "last_activity_date": 1550871191,
+      "creation_date": 1347202355,
+      "last_edit_date": 1455760927,
+      "question_id": 12340095,
+      "link": "https://stackoverflow.com/questions/12340095/angularjs-ng-repeat-handle-empty-list-case",
+      "title": "AngularJS ng-repeat handle empty list case"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 3236,
+        "user_id": 1262123,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/5f7f0c8896ce007a9e663ee751775761?s=128&d=identicon&r=PG",
+        "display_name": "Abilash",
+        "link": "https://stackoverflow.com/users/1262123/abilash"
+      },
+      "is_answered": true,
+      "view_count": 120601,
+      "protected_date": 1433961328,
+      "accepted_answer_id": 14907826,
+      "answer_count": 4,
+      "score": 375,
+      "last_activity_date": 1523533610,
+      "creation_date": 1360849140,
+      "last_edit_date": 1485780358,
+      "question_id": 14876112,
+      "link": "https://stackoverflow.com/questions/14876112/angularjs-difference-between-the-observe-and-watch-methods",
+      "title": "AngularJS : Difference between the $observe and $watch methods"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "angular-ui-router"
+      ],
+      "owner": {
+        "reputation": 2242,
+        "user_id": 1287899,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/9626e5ccaaecaa83f3600427f271bfc8?s=128&d=identicon&r=PG",
+        "display_name": "Ahmed Hashem",
+        "link": "https://stackoverflow.com/users/1287899/ahmed-hashem"
+      },
+      "is_answered": true,
+      "view_count": 175460,
+      "accepted_answer_id": 22540482,
+      "answer_count": 10,
+      "score": 372,
+      "last_activity_date": 1554026662,
+      "creation_date": 1395328442,
+      "last_edit_date": 1554026662,
+      "question_id": 22537311,
+      "link": "https://stackoverflow.com/questions/22537311/angularjs-ui-router-login-authentication",
+      "title": "AngularJS ui-router login authentication"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-scope"
+      ],
+      "owner": {
+        "reputation": 2267,
+        "user_id": 2580767,
+        "user_type": "registered",
+        "accept_rate": 56,
+        "profile_image": "https://graph.facebook.com/846265141/picture?type=large",
+        "display_name": "zpydee",
+        "link": "https://stackoverflow.com/users/2580767/zpydee"
+      },
+      "is_answered": true,
+      "view_count": 468946,
+      "protected_date": 1453409012,
+      "accepted_answer_id": 21454647,
+      "answer_count": 9,
+      "score": 371,
+      "last_activity_date": 1538203944,
+      "creation_date": 1391077337,
+      "last_edit_date": 1482907650,
+      "question_id": 21453697,
+      "link": "https://stackoverflow.com/questions/21453697/angularjs-access-parent-scope-from-child-controller",
+      "title": "AngularJS access parent scope from child controller"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "sorting",
+        "angularjs-ng-repeat",
+        "angularjs-orderby"
+      ],
+      "owner": {
+        "reputation": 2070,
+        "user_id": 877333,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/eb95620b55bbf2e0c53b2bb34633d25f?s=128&d=identicon&r=PG",
+        "display_name": "gmeka",
+        "link": "https://stackoverflow.com/users/877333/gmeka"
+      },
+      "is_answered": true,
+      "view_count": 165094,
+      "protected_date": 1434036791,
+      "accepted_answer_id": 17037756,
+      "answer_count": 8,
+      "score": 362,
+      "last_activity_date": 1561637514,
+      "creation_date": 1370930856,
+      "last_edit_date": 1434002824,
+      "question_id": 17037524,
+      "link": "https://stackoverflow.com/questions/17037524/orderby-multiple-fields-in-angular",
+      "title": "orderBy multiple fields in Angular"
+    },
+    {
+      "tags": [
+        "javascript",
+        "binding",
+        "angularjs",
+        "directive"
+      ],
+      "owner": {
+        "reputation": 2962,
+        "user_id": 1115237,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/a5b371929b9ddad5e22fc6997e5aab49?s=128&d=identicon&r=PG",
+        "display_name": "Shlomi Schwartz",
+        "link": "https://stackoverflow.com/users/1115237/shlomi-schwartz"
+      },
+      "is_answered": true,
+      "view_count": 295950,
+      "protected_date": 1434049723,
+      "accepted_answer_id": 12372494,
+      "answer_count": 6,
+      "score": 361,
+      "last_activity_date": 1485852848,
+      "creation_date": 1347371060,
+      "last_edit_date": 1377247561,
+      "question_id": 12371159,
+      "link": "https://stackoverflow.com/questions/12371159/how-to-get-evaluated-attributes-inside-a-custom-directive",
+      "title": "How to get evaluated attributes inside a custom directive"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "angularjs",
+        "angular-ui-router",
+        "angular-ui"
+      ],
+      "owner": {
+        "reputation": 5121,
+        "user_id": 411449,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://www.gravatar.com/avatar/798ce620514f0e9eb191be9599855a7f?s=128&d=identicon&r=PG",
+        "display_name": "skip",
+        "link": "https://stackoverflow.com/users/411449/skip"
+      },
+      "is_answered": true,
+      "view_count": 362001,
+      "protected_date": 1450870011,
+      "accepted_answer_id": 25647714,
+      "answer_count": 3,
+      "score": 360,
+      "last_activity_date": 1439213566,
+      "creation_date": 1409755839,
+      "last_edit_date": 1432098431,
+      "question_id": 25647454,
+      "link": "https://stackoverflow.com/questions/25647454/how-to-pass-parameters-using-ui-sref-in-ui-router-to-controller",
+      "title": "How to pass parameters using ui-sref in ui-router to controller"
+    },
+    {
+      "tags": [
+        "function",
+        "angularjs",
+        "call",
+        "keypress",
+        "enter"
+      ],
+      "owner": {
+        "reputation": 5129,
+        "user_id": 1200555,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/4f304d6d2f8ec35a565ca50e537f8bf6?s=128&d=identicon&r=PG",
+        "display_name": "ali",
+        "link": "https://stackoverflow.com/users/1200555/ali"
+      },
+      "is_answered": true,
+      "view_count": 362441,
+      "accepted_answer_id": 15418063,
+      "answer_count": 11,
+      "score": 358,
+      "last_activity_date": 1495740502,
+      "creation_date": 1363285018,
+      "last_edit_date": 1445349501,
+      "question_id": 15417125,
+      "link": "https://stackoverflow.com/questions/15417125/submit-form-on-pressing-enter-with-angularjs",
+      "title": "Submit form on pressing Enter with AngularJS"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "onload"
+      ],
+      "owner": {
+        "reputation": 7120,
+        "user_id": 627492,
+        "user_type": "registered",
+        "accept_rate": 46,
+        "profile_image": "https://www.gravatar.com/avatar/a65ecbb7d583a75511cff7d78dd7d6e7?s=128&d=identicon&r=PG",
+        "display_name": "Duke Dougal",
+        "link": "https://stackoverflow.com/users/627492/duke-dougal"
+      },
+      "is_answered": true,
+      "view_count": 689522,
+      "accepted_answer_id": 15463124,
+      "answer_count": 14,
+      "score": 353,
+      "last_activity_date": 1552997180,
+      "creation_date": 1363506236,
+      "last_edit_date": 1529671401,
+      "question_id": 15458609,
+      "link": "https://stackoverflow.com/questions/15458609/how-to-execute-angularjs-controller-function-on-page-load",
+      "title": "How to execute AngularJS controller function on page load?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 1969,
+        "user_id": 886647,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://i.stack.imgur.com/cW5Lf.jpg?s=128&g=1",
+        "display_name": "johnkeese",
+        "link": "https://stackoverflow.com/users/886647/johnkeese"
+      },
+      "is_answered": true,
+      "view_count": 259359,
+      "protected_date": 1449086461,
+      "accepted_answer_id": 21920241,
+      "answer_count": 10,
+      "score": 352,
+      "last_activity_date": 1539593188,
+      "creation_date": 1392931633,
+      "last_edit_date": 1485563634,
+      "question_id": 21919962,
+      "link": "https://stackoverflow.com/questions/21919962/share-data-between-angularjs-controllers",
+      "title": "Share data between AngularJS controllers"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-scope"
+      ],
+      "owner": {
+        "reputation": 32680,
+        "user_id": 968155,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://i.stack.imgur.com/dnnKq.jpg?s=128&g=1",
+        "display_name": "New Dev",
+        "link": "https://stackoverflow.com/users/968155/new-dev"
+      },
+      "is_answered": true,
+      "view_count": 143317,
+      "accepted_answer_id": 28156845,
+      "answer_count": 6,
+      "score": 347,
+      "last_activity_date": 1505914743,
+      "creation_date": 1415173710,
+      "last_edit_date": 1415175705,
+      "question_id": 26752030,
+      "link": "https://stackoverflow.com/questions/26752030/rootscope-broadcast-vs-scope-emit",
+      "title": "$rootScope.$broadcast vs. $scope.$emit"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "acronym",
+        "mvw"
+      ],
+      "owner": {
+        "reputation": 3449,
+        "user_id": 553598,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://i.stack.imgur.com/zrGyR.jpg?s=128&g=1",
+        "display_name": "slacktracer",
+        "link": "https://stackoverflow.com/users/553598/slacktracer"
+      },
+      "is_answered": true,
+      "view_count": 154441,
+      "protected_date": 1527364493,
+      "accepted_answer_id": 13329508,
+      "answer_count": 5,
+      "score": 343,
+      "last_activity_date": 1527363431,
+      "creation_date": 1352620337,
+      "last_edit_date": 1475086127,
+      "question_id": 13329485,
+      "link": "https://stackoverflow.com/questions/13329485/what-does-mvw-stand-for",
+      "title": "What does MVW stand for?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "global-variables"
+      ],
+      "owner": {
+        "reputation": 6264,
+        "user_id": 1563404,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/377beb6c94705e479eacd46c98804e29?s=128&d=identicon&r=PG",
+        "display_name": "Lightbulb1",
+        "link": "https://stackoverflow.com/users/1563404/lightbulb1"
+      },
+      "is_answered": true,
+      "view_count": 433099,
+      "accepted_answer_id": 11938785,
+      "answer_count": 12,
+      "score": 341,
+      "last_activity_date": 1559772965,
+      "creation_date": 1344875227,
+      "last_edit_date": 1438098950,
+      "question_id": 11938380,
+      "link": "https://stackoverflow.com/questions/11938380/global-variables-in-angularjs",
+      "title": "Global variables in AngularJS"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "preventdefault"
+      ],
+      "owner": {
+        "reputation": 3446,
+        "user_id": 84566,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/b2f561d729080b51744ffe78c3423c22?s=128&d=identicon&r=PG",
+        "display_name": "Micael",
+        "link": "https://stackoverflow.com/users/84566/micael"
+      },
+      "is_answered": true,
+      "view_count": 265179,
+      "accepted_answer_id": 17999446,
+      "answer_count": 26,
+      "score": 340,
+      "last_activity_date": 1520119219,
+      "creation_date": 1339070242,
+      "last_edit_date": 1438098270,
+      "question_id": 10931315,
+      "link": "https://stackoverflow.com/questions/10931315/how-to-preventdefault-on-anchor-tags",
+      "title": "How to preventDefault on anchor tags?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "model-view-controller",
+        "angularjs",
+        "dci"
+      ],
+      "owner": {
+        "reputation": 3308,
+        "user_id": 791795,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.stack.imgur.com/JSeIz.png?s=128&g=1",
+        "display_name": "Nils Blum-Oeste",
+        "link": "https://stackoverflow.com/users/791795/nils-blum-oeste"
+      },
+      "is_answered": true,
+      "view_count": 74551,
+      "accepted_answer_id": 11120766,
+      "answer_count": 8,
+      "score": 340,
+      "last_activity_date": 1557646628,
+      "creation_date": 1340164587,
+      "last_edit_date": 1557645037,
+      "question_id": 11112608,
+      "link": "https://stackoverflow.com/questions/11112608/where-to-put-model-data-and-behaviour-tl-dr-use-services",
+      "title": "Where to put model data and behaviour? [tl; dr; Use Services]"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "angularjs",
+        "web-applications",
+        "mean-stack"
+      ],
+      "owner": {
+        "reputation": 2274,
+        "user_id": 3555155,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/5c472b8a25188271f70a01c1827015ff?s=128&d=identicon&r=PG",
+        "display_name": "CMPSoares",
+        "link": "https://stackoverflow.com/users/3555155/cmpsoares"
+      },
+      "is_answered": true,
+      "view_count": 108564,
+      "protected_date": 1418568644,
+      "accepted_answer_id": 23206972,
+      "answer_count": 5,
+      "score": 332,
+      "last_activity_date": 1503416464,
+      "creation_date": 1398090361,
+      "last_edit_date": 1405947959,
+      "question_id": 23199392,
+      "link": "https://stackoverflow.com/questions/23199392/difference-between-mean-js-and-mean-io",
+      "title": "Difference between MEAN.js and MEAN.io"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "post",
+        "angular-http"
+      ],
+      "owner": {
+        "reputation": 2543,
+        "user_id": 1417500,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/ed41a21b046ab43aaecb86267ac58786?s=128&d=identicon&r=PG",
+        "display_name": "Spencer Mark",
+        "link": "https://stackoverflow.com/users/1417500/spencer-mark"
+      },
+      "is_answered": true,
+      "view_count": 683095,
+      "accepted_answer_id": 20276775,
+      "answer_count": 37,
+      "score": 331,
+      "last_activity_date": 1502114512,
+      "creation_date": 1381252068,
+      "last_edit_date": 1472639771,
+      "question_id": 19254029,
+      "link": "https://stackoverflow.com/questions/19254029/angularjs-http-post-does-not-send-data",
+      "title": "AngularJs $http.post() does not send data"
+    },
+    {
+      "tags": [
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 3997,
+        "user_id": 3071284,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/c2667be070f278228bba19c6a6e734df?s=128&d=identicon&r=PG&f=1",
+        "display_name": "user3071284",
+        "link": "https://stackoverflow.com/users/3071284/user3071284"
+      },
+      "is_answered": true,
+      "view_count": 303356,
+      "protected_date": 1514216871,
+      "accepted_answer_id": 20664122,
+      "answer_count": 2,
+      "score": 326,
+      "last_activity_date": 1531215447,
+      "creation_date": 1387383228,
+      "last_edit_date": 1502711091,
+      "question_id": 20663076,
+      "link": "https://stackoverflow.com/questions/20663076/angularjs-app-run-documentation",
+      "title": "AngularJS app.run() documentation?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "angularjs-controller"
+      ],
+      "owner": {
+        "reputation": 3758,
+        "user_id": 858962,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://www.gravatar.com/avatar/5f16ec0395b1710fd529b01602de66ca?s=128&d=identicon&r=PG",
+        "display_name": "dopatraman",
+        "link": "https://stackoverflow.com/users/858962/dopatraman"
+      },
+      "is_answered": true,
+      "view_count": 316919,
+      "accepted_answer_id": 12009408,
+      "answer_count": 15,
+      "score": 324,
+      "last_activity_date": 1483018263,
+      "creation_date": 1345218165,
+      "last_edit_date": 1458785520,
+      "question_id": 12008908,
+      "link": "https://stackoverflow.com/questions/12008908/angularjs-how-can-i-pass-variables-between-controllers",
+      "title": "AngularJS: How can I pass variables between controllers?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angular-ui",
+        "angular-ui-router"
+      ],
+      "owner": {
+        "reputation": 4508,
+        "user_id": 3299229,
+        "user_type": "registered",
+        "accept_rate": 55,
+        "profile_image": "https://i.stack.imgur.com/XbdKO.jpg?s=128&g=1",
+        "display_name": "Holland Risley",
+        "link": "https://stackoverflow.com/users/3299229/holland-risley"
+      },
+      "is_answered": true,
+      "view_count": 435122,
+      "accepted_answer_id": 21936701,
+      "answer_count": 18,
+      "score": 320,
+      "last_activity_date": 1502411150,
+      "creation_date": 1392158305,
+      "last_edit_date": 1448614826,
+      "question_id": 21714655,
+      "link": "https://stackoverflow.com/questions/21714655/reloading-current-state-refresh-data",
+      "title": "Reloading current state - refresh data"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-directive"
+      ],
+      "owner": {
+        "reputation": 5825,
+        "user_id": 361609,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/e057f054e4547912de39e47b9df2ddd8?s=128&d=identicon&r=PG",
+        "display_name": "colllin",
+        "link": "https://stackoverflow.com/users/361609/colllin"
+      },
+      "is_answered": true,
+      "view_count": 254583,
+      "protected_date": 1433961387,
+      "accepted_answer_id": 17900556,
+      "answer_count": 6,
+      "score": 320,
+      "last_activity_date": 1469443335,
+      "creation_date": 1374943677,
+      "last_edit_date": 1495542891,
+      "question_id": 17900201,
+      "link": "https://stackoverflow.com/questions/17900201/how-to-access-parent-scope-from-within-a-custom-directive-with-own-scope-in-an",
+      "title": "How to access parent scope from within a custom directive *with own scope* in AngularJS?"
+    },
+    {
+      "tags": [
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 6172,
+        "user_id": 782252,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/5199a8a24240189d16f4b6cbc919c467?s=128&d=identicon&r=PG",
+        "display_name": "raberana",
+        "link": "https://stackoverflow.com/users/782252/raberana"
+      },
+      "is_answered": true,
+      "view_count": 188616,
+      "accepted_answer_id": 18431438,
+      "answer_count": 2,
+      "score": 318,
+      "last_activity_date": 1396457762,
+      "creation_date": 1377406617,
+      "last_edit_date": 1377407205,
+      "question_id": 18425841,
+      "link": "https://stackoverflow.com/questions/18425841/angular-min-js-map-not-found-what-is-it-exactly",
+      "title": "angular.min.js.map not found, what is it exactly?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "angularjs-routing"
+      ],
+      "owner": {
+        "reputation": 44945,
+        "user_id": 192810,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/8d67eedc1442e8392a7add197abacd66?s=128&d=identicon&r=PG",
+        "display_name": "Misko Hevery",
+        "link": "https://stackoverflow.com/users/192810/misko-hevery"
+      },
+      "is_answered": true,
+      "view_count": 153656,
+      "answer_count": 13,
+      "score": 317,
+      "last_activity_date": 1462811300,
+      "creation_date": 1345043579,
+      "last_edit_date": 1395581354,
+      "question_id": 11972026,
+      "link": "https://stackoverflow.com/questions/11972026/delaying-angularjs-route-change-until-model-loaded-to-prevent-flicker",
+      "title": "Delaying AngularJS route change until model loaded to prevent flicker"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "anchor",
+        "hashtag"
+      ],
+      "owner": {
+        "reputation": 1963,
+        "user_id": 384868,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://i.stack.imgur.com/WAHSh.jpg?s=128&g=1",
+        "display_name": "Rasmus",
+        "link": "https://stackoverflow.com/users/384868/rasmus"
+      },
+      "is_answered": true,
+      "view_count": 219755,
+      "protected_date": 1463821751,
+      "accepted_answer_id": 14717011,
+      "answer_count": 27,
+      "score": 316,
+      "last_activity_date": 1524776559,
+      "creation_date": 1360081778,
+      "last_edit_date": 1518506676,
+      "question_id": 14712223,
+      "link": "https://stackoverflow.com/questions/14712223/how-to-handle-anchor-hash-linking-in-angularjs",
+      "title": "How to handle anchor hash linking in AngularJS"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "watch"
+      ],
+      "owner": {
+        "reputation": 80362,
+        "user_id": 342235,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/88e5a9eb011a73ab970ddc8cfb05ff85?s=128&d=identicon&r=PG",
+        "display_name": "Freewind",
+        "link": "https://stackoverflow.com/users/342235/freewind"
+      },
+      "is_answered": true,
+      "view_count": 210956,
+      "accepted_answer_id": 14713978,
+      "answer_count": 10,
+      "score": 316,
+      "last_activity_date": 1527587742,
+      "creation_date": 1360081395,
+      "question_id": 14712089,
+      "link": "https://stackoverflow.com/questions/14712089/how-to-deep-watch-an-array-in-angularjs",
+      "title": "How to deep watch an array in angularjs?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-ng-repeat"
+      ],
+      "owner": {
+        "reputation": 2735,
+        "user_id": 555116,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/dfef352cd6b3d05a04b82bb03f55d8ee?s=128&d=identicon&r=PG",
+        "display_name": "Tules",
+        "link": "https://stackoverflow.com/users/555116/tules"
+      },
+      "is_answered": true,
+      "view_count": 172573,
+      "accepted_answer_id": 15257501,
+      "answer_count": 6,
+      "score": 314,
+      "last_activity_date": 1559479260,
+      "creation_date": 1362599211,
+      "last_edit_date": 1465542193,
+      "question_id": 15256600,
+      "link": "https://stackoverflow.com/questions/15256600/passing-2-index-values-within-nested-ng-repeat",
+      "title": "passing 2 $index values within nested ng-repeat"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "controller"
+      ],
+      "owner": {
+        "reputation": 1901,
+        "user_id": 2913347,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://www.gravatar.com/avatar/15b107295e52e5a98f48078c49163488?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Beebunny",
+        "link": "https://stackoverflow.com/users/2913347/beebunny"
+      },
+      "is_answered": true,
+      "view_count": 208729,
+      "accepted_answer_id": 20087682,
+      "answer_count": 6,
+      "score": 314,
+      "last_activity_date": 1490310378,
+      "creation_date": 1384923104,
+      "last_edit_date": 1495540969,
+      "question_id": 20087627,
+      "link": "https://stackoverflow.com/questions/20087627/how-to-create-separate-angularjs-controller-files",
+      "title": "How to create separate AngularJS controller files?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "angularjs-scope"
+      ],
+      "owner": {
+        "reputation": 2040,
+        "user_id": 411934,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://i.stack.imgur.com/KuWpP.jpg?s=128&g=1",
+        "display_name": "Vladimir Sidorenko",
+        "link": "https://stackoverflow.com/users/411934/vladimir-sidorenko"
+      },
+      "is_answered": true,
+      "view_count": 158744,
+      "accepted_answer_id": 19455564,
+      "answer_count": 8,
+      "score": 312,
+      "last_activity_date": 1540366060,
+      "creation_date": 1382116826,
+      "last_edit_date": 1540359373,
+      "question_id": 19455501,
+      "link": "https://stackoverflow.com/questions/19455501/watch-an-object",
+      "title": "$watch an object"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "ngroute"
+      ],
+      "owner": {
+        "reputation": 3442,
+        "user_id": 1276811,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/2249cad731351b722d0bf0eacb2cf446?s=128&d=identicon&r=PG",
+        "display_name": "Ellis Whitehead",
+        "link": "https://stackoverflow.com/users/1276811/ellis-whitehead"
+      },
+      "is_answered": true,
+      "view_count": 310438,
+      "answer_count": 11,
+      "score": 309,
+      "last_activity_date": 1522250668,
+      "creation_date": 1339851832,
+      "last_edit_date": 1438100415,
+      "question_id": 11063673,
+      "link": "https://stackoverflow.com/questions/11063673/whats-the-most-concise-way-to-read-query-parameters-in-angularjs",
+      "title": "What&#39;s the most concise way to read query parameters in AngularJS?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "twitter-bootstrap",
+        "angularjs",
+        "angularjs-directive",
+        "navbar"
+      ],
+      "owner": {
+        "reputation": 6424,
+        "user_id": 1876508,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://i.stack.imgur.com/CRCbp.png?s=128&g=1",
+        "display_name": "user1876508",
+        "link": "https://stackoverflow.com/users/1876508/user1876508"
+      },
+      "is_answered": true,
+      "view_count": 228495,
+      "accepted_answer_id": 18562339,
+      "answer_count": 26,
+      "score": 305,
+      "last_activity_date": 1548021297,
+      "creation_date": 1366827730,
+      "last_edit_date": 1478885379,
+      "question_id": 16199418,
+      "link": "https://stackoverflow.com/questions/16199418/how-to-set-bootstrap-navbar-active-class-with-angular-js",
+      "title": "How to set bootstrap navbar active class with Angular JS?"
+    },
+    {
+      "tags": [
+        "css",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 302968,
+        "user_id": 215945,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/203qt.png?s=128&g=1",
+        "display_name": "Mark Rajcok",
+        "link": "https://stackoverflow.com/users/215945/mark-rajcok"
+      },
+      "is_answered": true,
+      "view_count": 501582,
+      "protected_date": 1433956496,
+      "accepted_answer_id": 13813255,
+      "answer_count": 14,
+      "score": 303,
+      "last_activity_date": 1549638845,
+      "creation_date": 1355197193,
+      "question_id": 13813254,
+      "link": "https://stackoverflow.com/questions/13813254/how-do-i-conditionally-apply-css-styles-in-angularjs",
+      "title": "How do I conditionally apply CSS styles in AngularJS?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "source-maps"
+      ],
+      "owner": {
+        "reputation": 19458,
+        "user_id": 863380,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://i.stack.imgur.com/QwXKU.png?s=128&g=1",
+        "display_name": "Muhammad Reda",
+        "link": "https://stackoverflow.com/users/863380/muhammad-reda"
+      },
+      "is_answered": true,
+      "view_count": 83784,
+      "accepted_answer_id": 21719713,
+      "answer_count": 5,
+      "score": 303,
+      "last_activity_date": 1546454644,
+      "creation_date": 1392183510,
+      "last_edit_date": 1409727721,
+      "question_id": 21719562,
+      "link": "https://stackoverflow.com/questions/21719562/javascript-map-files-javascript-source-maps",
+      "title": "Javascript .map files - javascript source maps"
+    },
+    {
+      "tags": [
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 10010,
+        "user_id": 960588,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/3fada965c1f65adc0599bb9cd606524d?s=128&d=identicon&r=PG",
+        "display_name": "Patrick",
+        "link": "https://stackoverflow.com/users/960588/patrick"
+      },
+      "is_answered": true,
+      "view_count": 639552,
+      "protected_date": 1434048360,
+      "accepted_answer_id": 14386972,
+      "answer_count": 10,
+      "score": 302,
+      "last_activity_date": 1517551563,
+      "creation_date": 1358450813,
+      "last_edit_date": 1461921755,
+      "question_id": 14386570,
+      "link": "https://stackoverflow.com/questions/14386570/getting-the-ng-object-selected-with-ng-change",
+      "title": "getting the ng-object selected with ng-change"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "html-select"
+      ],
+      "owner": {
+        "reputation": 14774,
+        "user_id": 1907358,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://i.stack.imgur.com/O1zIH.png?s=128&g=1",
+        "display_name": "iConnor",
+        "link": "https://stackoverflow.com/users/1907358/iconnor"
+      },
+      "is_answered": true,
+      "view_count": 460009,
+      "accepted_answer_id": 18195305,
+      "answer_count": 24,
+      "score": 299,
+      "last_activity_date": 1518074297,
+      "creation_date": 1376332734,
+      "last_edit_date": 1478187306,
+      "question_id": 18194255,
+      "link": "https://stackoverflow.com/questions/18194255/how-to-have-a-default-option-in-angular-js-select-box",
+      "title": "How to have a default option in Angular.js select box"
+    },
+    {
+      "tags": [
+        "javascript",
+        "django",
+        "django-templates",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 13761,
+        "user_id": 432193,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/87f2efac0ff72169aa6e92fc3c613189?s=128&d=identicon&r=PG",
+        "display_name": "Endophage",
+        "link": "https://stackoverflow.com/users/432193/endophage"
+      },
+      "is_answered": true,
+      "view_count": 72632,
+      "accepted_answer_id": 11108407,
+      "answer_count": 13,
+      "score": 299,
+      "last_activity_date": 1505601554,
+      "creation_date": 1322517348,
+      "last_edit_date": 1331027604,
+      "question_id": 8302928,
+      "link": "https://stackoverflow.com/questions/8302928/angularjs-with-django-conflicting-template-tags",
+      "title": "AngularJS with Django - Conflicting template tags"
+    },
+    {
+      "tags": [
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 18540,
+        "user_id": 45767,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/9e83e0990a074bea96296aac170fd3cf?s=128&d=identicon&r=PG",
+        "display_name": "JeremyWeir",
+        "link": "https://stackoverflow.com/users/45767/jeremyweir"
+      },
+      "is_answered": true,
+      "view_count": 102189,
+      "protected_date": 1443002305,
+      "accepted_answer_id": 12866739,
+      "answer_count": 7,
+      "score": 297,
+      "last_activity_date": 1521292424,
+      "creation_date": 1350072886,
+      "question_id": 12866447,
+      "link": "https://stackoverflow.com/questions/12866447/prevent-double-curly-brace-notation-from-displaying-momentarily-before-angular-j",
+      "title": "Prevent double curly brace notation from displaying momentarily before angular.js compiles/interpolates document"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "node.js",
+        "reload",
+        "rerender"
+      ],
+      "owner": {
+        "reputation": 8971,
+        "user_id": 732896,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/435a35abe1426a8ab00c31ae1fa8aaa3?s=128&d=identicon&r=PG",
+        "display_name": "andersonvom",
+        "link": "https://stackoverflow.com/users/732896/andersonvom"
+      },
+      "is_answered": true,
+      "view_count": 599375,
+      "protected_date": 1471962902,
+      "accepted_answer_id": 16821726,
+      "answer_count": 13,
+      "score": 292,
+      "last_activity_date": 1544013408,
+      "creation_date": 1369265304,
+      "last_edit_date": 1537166159,
+      "question_id": 16703215,
+      "link": "https://stackoverflow.com/questions/16703215/how-to-reload-or-re-render-the-entire-page-using-angularjs",
+      "title": "How to reload or re-render the entire page using AngularJS"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-directive"
+      ],
+      "owner": {
+        "reputation": 4113,
+        "user_id": 2327089,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/ef2af5ae0b1e17f7dbd681726d06bb5d?s=128&d=identicon&r=PG",
+        "display_name": "mcbjam",
+        "link": "https://stackoverflow.com/users/2327089/mcbjam"
+      },
+      "is_answered": true,
+      "view_count": 311915,
+      "accepted_answer_id": 18487942,
+      "answer_count": 13,
+      "score": 292,
+      "last_activity_date": 1529220782,
+      "creation_date": 1370165388,
+      "last_edit_date": 1427904699,
+      "question_id": 16881478,
+      "link": "https://stackoverflow.com/questions/16881478/how-to-call-a-method-defined-in-an-angularjs-directive",
+      "title": "How to call a method defined in an AngularJS directive?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-service",
+        "angularjs-factory"
+      ],
+      "owner": {
+        "reputation": 1696,
+        "user_id": 1941747,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/a5fda7fb1e0bf4dcd7c43f6e4ae382ea?s=128&d=identicon&r=PG",
+        "display_name": "user1941747",
+        "link": "https://stackoverflow.com/users/1941747/user1941747"
+      },
+      "is_answered": true,
+      "view_count": 120450,
+      "accepted_answer_id": 18941858,
+      "answer_count": 9,
+      "score": 292,
+      "last_activity_date": 1557857348,
+      "creation_date": 1379817324,
+      "last_edit_date": 1495540957,
+      "question_id": 18939709,
+      "link": "https://stackoverflow.com/questions/18939709/angularjs-when-to-use-service-instead-of-factory",
+      "title": "AngularJS : When to use service instead of factory"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "directive"
+      ],
+      "owner": {
+        "reputation": 6863,
+        "user_id": 14540,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/c4ceadae4f61dac8ff3ababc3faa6c42?s=128&d=identicon&r=PG",
+        "display_name": "kolrie",
+        "link": "https://stackoverflow.com/users/14540/kolrie"
+      },
+      "is_answered": true,
+      "view_count": 259929,
+      "accepted_answer_id": 14116498,
+      "answer_count": 8,
+      "score": 291,
+      "last_activity_date": 1554865534,
+      "creation_date": 1357087491,
+      "last_edit_date": 1370569731,
+      "question_id": 14115701,
+      "link": "https://stackoverflow.com/questions/14115701/angularjs-create-a-directive-that-uses-ng-model",
+      "title": "AngularJS - Create a directive that uses ng-model"
+    },
+    {
+      "tags": [
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 15598,
+        "user_id": 263061,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://www.gravatar.com/avatar/7c724c96f7ec19f73245499b6169e329?s=128&d=identicon&r=PG",
+        "display_name": "nh2",
+        "link": "https://stackoverflow.com/users/263061/nh2"
+      },
+      "is_answered": true,
+      "view_count": 199542,
+      "accepted_answer_id": 16227326,
+      "answer_count": 6,
+      "score": 289,
+      "last_activity_date": 1482143030,
+      "creation_date": 1366939674,
+      "last_edit_date": 1419359872,
+      "question_id": 16227325,
+      "link": "https://stackoverflow.com/questions/16227325/how-do-i-call-an-angular-js-filter-with-multiple-arguments",
+      "title": "How do I call an Angular.js filter with multiple arguments?"
+    },
+    {
+      "tags": [
+        "angularjs",
+        "angularjs-fileupload"
+      ],
+      "owner": {
+        "reputation": 4690,
+        "user_id": 2735275,
+        "user_type": "registered",
+        "accept_rate": 45,
+        "profile_image": "https://www.gravatar.com/avatar/ede6bc2fb601bfcf1f911b1337bcd135?s=128&d=identicon&r=PG",
+        "display_name": "Aditya Sethi",
+        "link": "https://stackoverflow.com/users/2735275/aditya-sethi"
+      },
+      "is_answered": true,
+      "view_count": 733150,
+      "accepted_answer_id": 20506037,
+      "answer_count": 29,
+      "score": 286,
+      "last_activity_date": 1562871984,
+      "creation_date": 1378117792,
+      "last_edit_date": 1528726407,
+      "question_id": 18571001,
+      "link": "https://stackoverflow.com/questions/18571001/file-upload-using-angularjs",
+      "title": "File Upload using AngularJS"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 1858,
+        "user_id": 399642,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/a744175fed458fcf473274ce8e3d5579?s=128&d=identicon&r=PG",
+        "display_name": "YoniGeek",
+        "link": "https://stackoverflow.com/users/399642/yonigeek"
+      },
+      "is_answered": true,
+      "view_count": 296156,
+      "accepted_answer_id": 16814107,
+      "answer_count": 5,
+      "score": 285,
+      "last_activity_date": 1537085286,
+      "creation_date": 1369830651,
+      "last_edit_date": 1470291201,
+      "question_id": 16813945,
+      "link": "https://stackoverflow.com/questions/16813945/how-to-add-many-functions-in-one-ng-click",
+      "title": "How to add many functions in ONE ng-click?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 289
+}

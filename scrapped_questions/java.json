@@ -1,0 +1,2850 @@
+
+{
+  "items": [
+    {
+      "tags": [
+        "java",
+        "c++",
+        "performance",
+        "optimization",
+        "branch-prediction"
+      ],
+      "owner": {
+        "reputation": 309121,
+        "user_id": 87234,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/FkjBe.png?s=128&g=1",
+        "display_name": "GManNickG",
+        "link": "https://stackoverflow.com/users/87234/gmannickg"
+      },
+      "is_answered": true,
+      "view_count": 1374942,
+      "protected_date": 1399067470,
+      "accepted_answer_id": 11227902,
+      "answer_count": 22,
+      "score": 23221,
+      "last_activity_date": 1562040497,
+      "creation_date": 1340805096,
+      "last_edit_date": 1561993279,
+      "question_id": 11227809,
+      "link": "https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array",
+      "title": "Why is processing a sorted array faster than processing an unsorted array?"
+    },
+    {
+      "tags": [
+        "java",
+        "date",
+        "timezone"
+      ],
+      "owner": {
+        "reputation": 80362,
+        "user_id": 342235,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/88e5a9eb011a73ab970ddc8cfb05ff85?s=128&d=identicon&r=PG",
+        "display_name": "Freewind",
+        "link": "https://stackoverflow.com/users/342235/freewind"
+      },
+      "is_answered": true,
+      "view_count": 606148,
+      "protected_date": 1433866025,
+      "accepted_answer_id": 6841479,
+      "answer_count": 9,
+      "score": 6473,
+      "last_activity_date": 1563043475,
+      "creation_date": 1311754558,
+      "last_edit_date": 1542345402,
+      "question_id": 6841333,
+      "link": "https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result",
+      "title": "Why is subtracting these two times (in 1927) giving a strange result?"
+    },
+    {
+      "tags": [
+        "java",
+        "methods",
+        "parameter-passing",
+        "pass-by-reference",
+        "pass-by-value"
+      ],
+      "owner": {
+        "reputation": 2350,
+        "user_id": 4315,
+        "user_type": "registered",
+        "display_name": "user4315",
+        "link": "https://stackoverflow.com/users/4315/user4315"
+      },
+      "is_answered": true,
+      "view_count": 1821302,
+      "protected_date": 1308938923,
+      "answer_count": 81,
+      "community_owned_date": 1347646975,
+      "score": 6040,
+      "last_activity_date": 1563340243,
+      "creation_date": 1220386469,
+      "last_edit_date": 1531308668,
+      "question_id": 40480,
+      "link": "https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value",
+      "title": "Is Java &quot;pass-by-reference&quot; or &quot;pass-by-value&quot;?"
+    },
+    {
+      "tags": [
+        "java",
+        "object",
+        "nullpointerexception",
+        "null"
+      ],
+      "owner": {
+        "reputation": 1912,
+        "user_id": 34856,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/1e57ced4476e0c629c70e6058159c4f0?s=128&d=identicon&r=PG",
+        "display_name": "Goran Martinic",
+        "link": "https://stackoverflow.com/users/34856/goran-martinic"
+      },
+      "is_answered": true,
+      "view_count": 1161169,
+      "protected_date": 1368308875,
+      "accepted_answer_id": 271874,
+      "answer_count": 63,
+      "community_owned_date": 1319187757,
+      "score": 3828,
+      "last_activity_date": 1560256796,
+      "creation_date": 1226046700,
+      "last_edit_date": 1523985343,
+      "question_id": 271526,
+      "link": "https://stackoverflow.com/questions/271526/avoiding-null-statements",
+      "title": "Avoiding != null statements"
+    },
+    {
+      "tags": [
+        "java",
+        "string",
+        "io",
+        "stream",
+        "inputstream"
+      ],
+      "owner": {
+        "reputation": 19079,
+        "user_id": 16616,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/PNeie.png?s=128&g=1",
+        "display_name": "Johnny Maelstrom",
+        "link": "https://stackoverflow.com/users/16616/johnny-maelstrom"
+      },
+      "is_answered": true,
+      "view_count": 1958785,
+      "protected_date": 1370840953,
+      "accepted_answer_id": 309448,
+      "answer_count": 58,
+      "score": 3722,
+      "last_activity_date": 1562877118,
+      "creation_date": 1227286060,
+      "last_edit_date": 1546684106,
+      "question_id": 309424,
+      "link": "https://stackoverflow.com/questions/309424/how-do-i-read-convert-an-inputstream-into-a-string-in-java",
+      "title": "How do I read / convert an InputStream into a String in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "collections",
+        "hashmap",
+        "hashtable"
+      ],
+      "owner": {
+        "reputation": 21221,
+        "user_id": 4316,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/dc91d4e8c035283347ba673168770cea?s=128&d=identicon&r=PG",
+        "display_name": "dmanxiii",
+        "link": "https://stackoverflow.com/users/4316/dmanxiii"
+      },
+      "is_answered": true,
+      "view_count": 1441244,
+      "protected_date": 1331925209,
+      "accepted_answer_id": 40878,
+      "answer_count": 34,
+      "score": 3498,
+      "last_activity_date": 1551875526,
+      "creation_date": 1220386320,
+      "last_edit_date": 1551875150,
+      "question_id": 40471,
+      "link": "https://stackoverflow.com/questions/40471/differences-between-hashmap-and-hashtable",
+      "title": "Differences between HashMap and Hashtable?"
+    },
+    {
+      "tags": [
+        "java",
+        "casting",
+        "operators",
+        "variable-assignment",
+        "assignment-operator"
+      ],
+      "owner": {
+        "reputation": 17305,
+        "user_id": 1127571,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/00735aa8e45c6a3f4a79efe9cf689e40?s=128&d=identicon&r=PG",
+        "display_name": "Honza Brabec",
+        "link": "https://stackoverflow.com/users/1127571/honza-brabec"
+      },
+      "is_answered": true,
+      "view_count": 270346,
+      "protected_date": 1361956091,
+      "accepted_answer_id": 8710685,
+      "answer_count": 11,
+      "score": 3496,
+      "last_activity_date": 1561453477,
+      "creation_date": 1325585432,
+      "last_edit_date": 1536651457,
+      "question_id": 8710619,
+      "link": "https://stackoverflow.com/questions/8710619/why-dont-javas-compound-assignment-operators-require-casting",
+      "title": "Why don&#39;t Java&#39;s +=, -=, *=, /= compound assignment operators require casting?"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "usermanager"
+      ],
+      "owner": {
+        "reputation": 48600,
+        "user_id": 542091,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.stack.imgur.com/rQ7vZ.jpg?s=128&g=1",
+        "display_name": "Ovidiu Latcu",
+        "link": "https://stackoverflow.com/users/542091/ovidiu-latcu"
+      },
+      "is_answered": true,
+      "view_count": 296211,
+      "protected_date": 1353543106,
+      "accepted_answer_id": 13375461,
+      "answer_count": 11,
+      "score": 3431,
+      "last_activity_date": 1554270624,
+      "creation_date": 1352882041,
+      "last_edit_date": 1536308514,
+      "question_id": 13375357,
+      "link": "https://stackoverflow.com/questions/13375357/proper-use-cases-for-android-usermanager-isuseragoat",
+      "title": "Proper use cases for Android UserManager.isUserAGoat()?"
+    },
+    {
+      "tags": [
+        "java",
+        "arrays",
+        "arraylist",
+        "type-conversion"
+      ],
+      "owner": {
+        "reputation": 23529,
+        "user_id": 939,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/ce6d3fed32e985093a107913c3762579?s=128&d=identicon&r=PG",
+        "display_name": "Ron Tuffin",
+        "link": "https://stackoverflow.com/users/939/ron-tuffin"
+      },
+      "is_answered": true,
+      "view_count": 1392702,
+      "protected_date": 1479928258,
+      "accepted_answer_id": 157950,
+      "answer_count": 33,
+      "score": 3334,
+      "last_activity_date": 1562915656,
+      "creation_date": 1222871912,
+      "last_edit_date": 1478948090,
+      "question_id": 157944,
+      "link": "https://stackoverflow.com/questions/157944/create-arraylist-from-array",
+      "title": "Create ArrayList from array"
+    },
+    {
+      "tags": [
+        "java",
+        "random",
+        "integer"
+      ],
+      "owner": {
+        "reputation": 19834,
+        "user_id": 42155,
+        "user_type": "registered",
+        "accept_rate": 22,
+        "profile_image": "https://www.gravatar.com/avatar/bec1c77805ad9d7e6b1dca098442e984?s=128&d=identicon&r=PG",
+        "display_name": "user42155",
+        "link": "https://stackoverflow.com/users/42155/user42155"
+      },
+      "is_answered": true,
+      "view_count": 3820071,
+      "protected_date": 1296764202,
+      "answer_count": 65,
+      "score": 3259,
+      "last_activity_date": 1562955603,
+      "creation_date": 1229106057,
+      "last_edit_date": 1546683214,
+      "question_id": 363681,
+      "link": "https://stackoverflow.com/questions/363681/how-do-i-generate-random-integers-within-a-specific-range-in-java",
+      "title": "How do I generate random integers within a specific range in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "string",
+        "security",
+        "passwords",
+        "char"
+      ],
+      "owner": {
+        "reputation": 17128,
+        "user_id": 953140,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/daa7534f8797b6392e9e2a3496663196?s=128&d=identicon&r=PG",
+        "display_name": "Ahamed",
+        "link": "https://stackoverflow.com/users/953140/ahamed"
+      },
+      "is_answered": true,
+      "view_count": 361773,
+      "protected_date": 1345899092,
+      "accepted_answer_id": 8881376,
+      "answer_count": 18,
+      "score": 3198,
+      "last_activity_date": 1557401012,
+      "creation_date": 1326723642,
+      "last_edit_date": 1484308089,
+      "question_id": 8881291,
+      "link": "https://stackoverflow.com/questions/8881291/why-is-char-preferred-over-string-for-passwords",
+      "title": "Why is char[] preferred over String for passwords?"
+    },
+    {
+      "tags": [
+        "java",
+        "loops",
+        "hashmap",
+        "iteration"
+      ],
+      "owner": {
+        "reputation": 24651,
+        "user_id": 84916,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://i.stack.imgur.com/IaDb2.jpg?s=128&g=1",
+        "display_name": "burntsugar",
+        "link": "https://stackoverflow.com/users/84916/burntsugar"
+      },
+      "is_answered": true,
+      "view_count": 3530012,
+      "protected_date": 1386076986,
+      "closed_date": 1326229788,
+      "accepted_answer_id": 1066603,
+      "answer_count": 7,
+      "score": 3152,
+      "last_activity_date": 1551355756,
+      "creation_date": 1246404254,
+      "last_edit_date": 1517957756,
+      "question_id": 1066589,
+      "link": "https://stackoverflow.com/questions/1066589/iterate-through-a-hashmap",
+      "closed_reason": "exact duplicate",
+      "title": "Iterate through a HashMap"
+    },
+    {
+      "tags": [
+        "java",
+        "dictionary",
+        "collections",
+        "iteration"
+      ],
+      "owner": {
+        "reputation": 13621,
+        "user_id": 4807,
+        "user_type": "registered",
+        "accept_rate": 43,
+        "profile_image": "https://www.gravatar.com/avatar/7453d8a240de4b8d26869aa92743bb8e?s=128&d=identicon&r=PG",
+        "display_name": "iMack",
+        "link": "https://stackoverflow.com/users/4807/imack"
+      },
+      "is_answered": true,
+      "view_count": 2302609,
+      "protected_date": 1365576855,
+      "accepted_answer_id": 46908,
+      "answer_count": 39,
+      "score": 2988,
+      "last_activity_date": 1559764607,
+      "creation_date": 1220649168,
+      "last_edit_date": 1546735606,
+      "question_id": 46898,
+      "link": "https://stackoverflow.com/questions/46898/how-do-i-efficiently-iterate-over-each-entry-in-a-java-map",
+      "title": "How do I efficiently iterate over each entry in a Java Map?"
+    },
+    {
+      "tags": [
+        "java",
+        "memory",
+        "memory-leaks"
+      ],
+      "owner": {
+        "reputation": 12204,
+        "user_id": 465179,
+        "user_type": "registered",
+        "accept_rate": 99,
+        "profile_image": "https://www.gravatar.com/avatar/a2fa6a84c0fa7de188a4777dd2bce022?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Mat B.",
+        "link": "https://stackoverflow.com/users/465179/mat-b"
+      },
+      "is_answered": true,
+      "view_count": 597742,
+      "protected_date": 1366039525,
+      "accepted_answer_id": 6471947,
+      "answer_count": 54,
+      "community_owned_date": 1311330284,
+      "score": 2986,
+      "last_activity_date": 1553758231,
+      "creation_date": 1308931912,
+      "last_edit_date": 1548108038,
+      "question_id": 6470651,
+      "link": "https://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java",
+      "title": "Creating a memory leak with Java"
+    },
+    {
+      "tags": [
+        "java",
+        "private",
+        "public",
+        "protected",
+        "access-modifiers"
+      ],
+      "owner": {
+        "reputation": 15243,
+        "user_id": 625,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/8f2a8ae3a27197376573647811f96901?s=128&d=identicon&r=PG",
+        "display_name": "intrepion",
+        "link": "https://stackoverflow.com/users/625/intrepion"
+      },
+      "is_answered": true,
+      "view_count": 1923855,
+      "protected_date": 1364437131,
+      "accepted_answer_id": 215505,
+      "answer_count": 25,
+      "score": 2885,
+      "last_activity_date": 1562512207,
+      "creation_date": 1224359592,
+      "last_edit_date": 1536677689,
+      "question_id": 215497,
+      "link": "https://stackoverflow.com/questions/215497/what-is-the-difference-between-public-protected-package-private-and-private-in",
+      "title": "What is the difference between public, protected, package-private and private in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "arraylist",
+        "collections",
+        "linked-list"
+      ],
+      "owner": {
+        "reputation": 15986,
+        "user_id": 41200,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/625c890e8df6e3310dc357810eab83e8?s=128&d=identicon&r=PG",
+        "display_name": "sdellysse",
+        "link": "https://stackoverflow.com/users/41200/sdellysse"
+      },
+      "is_answered": true,
+      "view_count": 988235,
+      "protected_date": 1304220057,
+      "accepted_answer_id": 322742,
+      "answer_count": 31,
+      "score": 2878,
+      "last_activity_date": 1557464670,
+      "creation_date": 1227749795,
+      "last_edit_date": 1536677623,
+      "question_id": 322715,
+      "link": "https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist-in-java",
+      "title": "When to use LinkedList over ArrayList in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "string",
+        "int",
+        "type-conversion"
+      ],
+      "owner": {
+        "reputation": 17439,
+        "user_id": 537967,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/fd0de9b7a6fdcd9368f37e71484440fb?s=128&d=identicon&r=PG",
+        "display_name": "Unknown user",
+        "link": "https://stackoverflow.com/users/537967/unknown-user"
+      },
+      "is_answered": true,
+      "view_count": 5702024,
+      "protected_date": 1368887701,
+      "accepted_answer_id": 5585800,
+      "answer_count": 43,
+      "score": 2805,
+      "last_activity_date": 1557403592,
+      "creation_date": 1302200874,
+      "last_edit_date": 1516232968,
+      "question_id": 5585779,
+      "link": "https://stackoverflow.com/questions/5585779/how-do-i-convert-a-string-to-an-int-in-java",
+      "title": "How do I convert a String to an int in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "serialization",
+        "serialversionuid"
+      ],
+      "owner": {
+        "reputation": 33215,
+        "user_id": 33203,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/07856b52198509b8bd0d2e5418d0bf37?s=128&d=identicon&r=PG",
+        "display_name": "ashokgelal",
+        "link": "https://stackoverflow.com/users/33203/ashokgelal"
+      },
+      "is_answered": true,
+      "view_count": 823441,
+      "protected_date": 1430753768,
+      "accepted_answer_id": 285809,
+      "answer_count": 24,
+      "score": 2782,
+      "last_activity_date": 1556851093,
+      "creation_date": 1226532296,
+      "last_edit_date": 1426632249,
+      "question_id": 285793,
+      "link": "https://stackoverflow.com/questions/285793/what-is-a-serialversionuid-and-why-should-i-use-it",
+      "title": "What is a serialVersionUID and why should I use it?"
+    },
+    {
+      "tags": [
+        "java",
+        "performance",
+        "loops",
+        "for-loop",
+        "system.out"
+      ],
+      "owner": {
+        "reputation": 13678,
+        "user_id": 1732709,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/1e93a4869dec073619f6ba377ec87691?s=128&d=identicon&r=PG",
+        "display_name": "Kuba Spatny",
+        "link": "https://stackoverflow.com/users/1732709/kuba-spatny"
+      },
+      "is_answered": true,
+      "view_count": 225692,
+      "protected_date": 1393358700,
+      "accepted_answer_id": 21947627,
+      "answer_count": 2,
+      "score": 2604,
+      "last_activity_date": 1523001683,
+      "creation_date": 1393026343,
+      "last_edit_date": 1523001683,
+      "question_id": 21947452,
+      "link": "https://stackoverflow.com/questions/21947452/why-is-printing-b-dramatically-slower-than-printing",
+      "title": "Why is printing &quot;B&quot; dramatically slower than printing &quot;#&quot;?"
+    },
+    {
+      "tags": [
+        "java",
+        "collections",
+        "arraylist",
+        "initialization"
+      ],
+      "owner": {
+        "reputation": 62884,
+        "user_id": 119895,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.stack.imgur.com/dEYOs.jpg?s=128&g=1",
+        "display_name": "Macarse",
+        "link": "https://stackoverflow.com/users/119895/macarse"
+      },
+      "is_answered": true,
+      "view_count": 2776217,
+      "protected_date": 1428573066,
+      "accepted_answer_id": 1005083,
+      "answer_count": 32,
+      "score": 2521,
+      "last_activity_date": 1562921704,
+      "creation_date": 1245211820,
+      "last_edit_date": 1388655598,
+      "question_id": 1005073,
+      "link": "https://stackoverflow.com/questions/1005073/initialization-of-an-arraylist-in-one-line",
+      "title": "Initialization of an ArrayList in one line"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "networkonmainthread",
+        "thread-exceptions"
+      ],
+      "owner": {
+        "reputation": 11866,
+        "user_id": 797593,
+        "user_type": "registered",
+        "accept_rate": 44,
+        "profile_image": "https://www.gravatar.com/avatar/ed2f53c878a1477e24121d5d87d048c8?s=128&d=identicon&r=PG",
+        "display_name": "bejoy george",
+        "link": "https://stackoverflow.com/users/797593/bejoy-george"
+      },
+      "is_answered": true,
+      "view_count": 1113314,
+      "protected_date": 1390933774,
+      "accepted_answer_id": 6343299,
+      "answer_count": 53,
+      "score": 2240,
+      "last_activity_date": 1560142947,
+      "creation_date": 1308052920,
+      "last_edit_date": 1517669374,
+      "question_id": 6343166,
+      "link": "https://stackoverflow.com/questions/6343166/how-do-i-fix-android-os-networkonmainthreadexception",
+      "title": "How do I fix android.os.NetworkOnMainThreadException?"
+    },
+    {
+      "tags": [
+        "java",
+        "return",
+        "try-catch-finally"
+      ],
+      "owner": {
+        "reputation": 11211,
+        "user_id": 885027,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/b822dd193d8b86b734967ec5f4a8a92b?s=128&d=identicon&r=PG",
+        "display_name": "jonny five",
+        "link": "https://stackoverflow.com/users/885027/jonny-five"
+      },
+      "is_answered": true,
+      "view_count": 457871,
+      "protected_date": 1503225474,
+      "accepted_answer_id": 65049,
+      "answer_count": 46,
+      "score": 2199,
+      "last_activity_date": 1556028240,
+      "creation_date": 1221500634,
+      "last_edit_date": 1556028240,
+      "question_id": 65035,
+      "link": "https://stackoverflow.com/questions/65035/does-a-finally-block-always-get-executed-in-java",
+      "title": "Does a finally block always get executed in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "maven-2",
+        "build-process",
+        "build-automation",
+        "executable-jar"
+      ],
+      "owner": {
+        "reputation": 11478,
+        "user_id": 67219,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0f3cc17431211a37e6d52154fef3f710?s=128&d=identicon&r=PG",
+        "display_name": "soemirno",
+        "link": "https://stackoverflow.com/users/67219/soemirno"
+      },
+      "is_answered": true,
+      "view_count": 1170155,
+      "protected_date": 1302806041,
+      "accepted_answer_id": 574650,
+      "answer_count": 34,
+      "score": 2196,
+      "last_activity_date": 1562738866,
+      "creation_date": 1235292225,
+      "last_edit_date": 1527731979,
+      "question_id": 574594,
+      "link": "https://stackoverflow.com/questions/574594/how-can-i-create-an-executable-jar-with-dependencies-using-maven",
+      "title": "How can I create an executable JAR with dependencies using Maven?"
+    },
+    {
+      "tags": [
+        "java",
+        "arrays"
+      ],
+      "owner": {
+        "reputation": 14987,
+        "user_id": 16534,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://i.stack.imgur.com/JnmCP.jpg?s=128&g=1",
+        "display_name": "Mike Sickler",
+        "link": "https://stackoverflow.com/users/16534/mike-sickler"
+      },
+      "is_answered": true,
+      "view_count": 1821113,
+      "protected_date": 1433930944,
+      "accepted_answer_id": 1128728,
+      "answer_count": 25,
+      "score": 2126,
+      "last_activity_date": 1555062835,
+      "creation_date": 1247616201,
+      "last_edit_date": 1546679166,
+      "question_id": 1128723,
+      "link": "https://stackoverflow.com/questions/1128723/how-do-i-determine-whether-an-array-contains-a-particular-value-in-java",
+      "title": "How do I determine whether an array contains a particular value in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "constructor"
+      ],
+      "owner": {
+        "reputation": 33215,
+        "user_id": 33203,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/07856b52198509b8bd0d2e5418d0bf37?s=128&d=identicon&r=PG",
+        "display_name": "ashokgelal",
+        "link": "https://stackoverflow.com/users/33203/ashokgelal"
+      },
+      "is_answered": true,
+      "view_count": 773112,
+      "protected_date": 1373306296,
+      "accepted_answer_id": 285184,
+      "answer_count": 20,
+      "score": 2071,
+      "last_activity_date": 1560933516,
+      "creation_date": 1226520619,
+      "last_edit_date": 1226521019,
+      "question_id": 285177,
+      "link": "https://stackoverflow.com/questions/285177/how-do-i-call-one-constructor-from-another-in-java",
+      "title": "How do I call one constructor from another in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "multithreading",
+        "runnable",
+        "implements",
+        "java-threads"
+      ],
+      "owner": {
+        "reputation": 10069,
+        "user_id": 65374,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d9b476b19aefee886c89265430ede95a?s=128&d=identicon&r=PG",
+        "display_name": "user65374",
+        "link": "https://stackoverflow.com/users/65374/user65374"
+      },
+      "is_answered": true,
+      "view_count": 654090,
+      "protected_date": 1374690685,
+      "accepted_answer_id": 541506,
+      "answer_count": 42,
+      "score": 1951,
+      "last_activity_date": 1556892827,
+      "creation_date": 1234448926,
+      "last_edit_date": 1536677779,
+      "question_id": 541487,
+      "link": "https://stackoverflow.com/questions/541487/implements-runnable-vs-extends-thread-in-java",
+      "title": "&quot;implements Runnable&quot; vs &quot;extends Thread&quot; in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "reflection",
+        "terminology"
+      ],
+      "owner": {
+        "reputation": 24090,
+        "user_id": 142,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/73f6b2c26b7b1a8974a2a2f94a14706c?s=128&d=identicon&r=PG",
+        "display_name": "Lehane",
+        "link": "https://stackoverflow.com/users/142/lehane"
+      },
+      "is_answered": true,
+      "view_count": 829962,
+      "protected_date": 1402120474,
+      "accepted_answer_id": 37632,
+      "answer_count": 21,
+      "score": 1931,
+      "last_activity_date": 1561380711,
+      "creation_date": 1220258361,
+      "last_edit_date": 1446013805,
+      "question_id": 37628,
+      "link": "https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful",
+      "title": "What is reflection and why is it useful?"
+    },
+    {
+      "tags": [
+        "java",
+        "spring",
+        "spring-mvc",
+        "annotations"
+      ],
+      "owner": {
+        "reputation": 9452,
+        "user_id": 863084,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/be273143043ed0ff5b55406ac70ff41e?s=128&d=identicon&r=PG",
+        "display_name": "Colin McCree",
+        "link": "https://stackoverflow.com/users/863084/colin-mccree"
+      },
+      "is_answered": true,
+      "view_count": 824002,
+      "protected_date": 1452629449,
+      "answer_count": 26,
+      "score": 1886,
+      "last_activity_date": 1562224923,
+      "creation_date": 1311671446,
+      "last_edit_date": 1497508285,
+      "question_id": 6827752,
+      "link": "https://stackoverflow.com/questions/6827752/whats-the-difference-between-component-repository-service-annotations-in",
+      "title": "What&#39;s the difference between @Component, @Repository &amp; @Service annotations in Spring?"
+    },
+    {
+      "tags": [
+        "java",
+        "arrays",
+        "declare"
+      ],
+      "owner": {
+        "reputation": 10108,
+        "user_id": 40842,
+        "user_type": "registered",
+        "accept_rate": 56,
+        "profile_image": "https://i.stack.imgur.com/p89Vc.png?s=128&g=1",
+        "display_name": "bestattendance",
+        "link": "https://stackoverflow.com/users/40842/bestattendance"
+      },
+      "is_answered": true,
+      "view_count": 4210260,
+      "protected_date": 1375953809,
+      "accepted_answer_id": 1200646,
+      "answer_count": 23,
+      "score": 1877,
+      "last_activity_date": 1560128268,
+      "creation_date": 1248877347,
+      "last_edit_date": 1495365288,
+      "question_id": 1200621,
+      "link": "https://stackoverflow.com/questions/1200621/how-do-i-declare-and-initialize-an-array-in-java",
+      "title": "How do I declare and initialize an array in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "http",
+        "httprequest",
+        "httpurlconnection",
+        "urlconnection"
+      ],
+      "owner": {
+        "reputation": 877183,
+        "user_id": 157882,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/89927e2f4bde24991649b353a37678b9?s=128&d=identicon&r=PG",
+        "display_name": "BalusC",
+        "link": "https://stackoverflow.com/users/157882/balusc"
+      },
+      "is_answered": true,
+      "view_count": 975645,
+      "protected_date": 1304965837,
+      "accepted_answer_id": 2793153,
+      "answer_count": 11,
+      "community_owned_date": 1273299371,
+      "score": 1873,
+      "last_activity_date": 1542452936,
+      "creation_date": 1273299371,
+      "last_edit_date": 1517904209,
+      "question_id": 2793150,
+      "link": "https://stackoverflow.com/questions/2793150/how-to-use-java-net-urlconnection-to-fire-and-handle-http-requests",
+      "title": "How to use java.net.URLConnection to fire and handle HTTP requests"
+    },
+    {
+      "tags": [
+        "java",
+        "exception",
+        "junit",
+        "junit4",
+        "assert"
+      ],
+      "owner": {
+        "reputation": 27046,
+        "user_id": 1666,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/96dda17df0db1cc0c3762c505a7d1352?s=128&d=identicon&r=PG",
+        "display_name": "SCdF",
+        "link": "https://stackoverflow.com/users/1666/scdf"
+      },
+      "is_answered": true,
+      "view_count": 1147718,
+      "protected_date": 1545281086,
+      "accepted_answer_id": 156528,
+      "answer_count": 33,
+      "score": 1854,
+      "last_activity_date": 1562252281,
+      "creation_date": 1222844168,
+      "last_edit_date": 1384547292,
+      "question_id": 156503,
+      "link": "https://stackoverflow.com/questions/156503/how-do-you-assert-that-a-certain-exception-is-thrown-in-junit-4-tests",
+      "title": "How do you assert that a certain exception is thrown in JUnit 4 tests?"
+    },
+    {
+      "tags": [
+        "java",
+        "enums"
+      ],
+      "owner": {
+        "reputation": 15112,
+        "user_id": 50913,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/a2efbe5dd07faf6e3432863a8303dbcd?s=128&d=identicon&r=PG",
+        "display_name": "Malachi",
+        "link": "https://stackoverflow.com/users/50913/malachi"
+      },
+      "is_answered": true,
+      "view_count": 1007599,
+      "protected_date": 1342167656,
+      "accepted_answer_id": 604426,
+      "answer_count": 26,
+      "score": 1830,
+      "last_activity_date": 1561279446,
+      "creation_date": 1236034594,
+      "last_edit_date": 1536677958,
+      "question_id": 604424,
+      "link": "https://stackoverflow.com/questions/604424/how-to-get-an-enum-value-from-a-string-value-in-java",
+      "title": "How to get an enum value from a string value in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "arrays",
+        "printing"
+      ],
+      "owner": {
+        "reputation": 21525,
+        "user_id": 12149,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/23e5406a16f4b8552eb037d4332b6c6d?s=128&d=identicon&r=PG",
+        "display_name": "Alex Spurling",
+        "link": "https://stackoverflow.com/users/12149/alex-spurling"
+      },
+      "is_answered": true,
+      "view_count": 2050215,
+      "protected_date": 1443812073,
+      "accepted_answer_id": 409795,
+      "answer_count": 32,
+      "score": 1783,
+      "last_activity_date": 1562511530,
+      "creation_date": 1231015179,
+      "last_edit_date": 1562511530,
+      "question_id": 409784,
+      "link": "https://stackoverflow.com/questions/409784/whats-the-simplest-way-to-print-a-java-array",
+      "title": "What&#39;s the simplest way to print a Java array?"
+    },
+    {
+      "tags": [
+        "java",
+        "string",
+        "random"
+      ],
+      "owner": {
+        "reputation": 9266,
+        "user_id": 1031797,
+        "user_type": "registered",
+        "accept_rate": 45,
+        "profile_image": "https://www.gravatar.com/avatar/331bd6bab092563bcd9fabc83e9745f0?s=128&d=identicon&r=PG",
+        "display_name": "0x56794E",
+        "link": "https://stackoverflow.com/users/1031797/0x56794e"
+      },
+      "is_answered": true,
+      "view_count": 191101,
+      "protected_date": 1362411173,
+      "accepted_answer_id": 15182511,
+      "answer_count": 14,
+      "score": 1703,
+      "last_activity_date": 1491607270,
+      "creation_date": 1362285486,
+      "last_edit_date": 1440778337,
+      "question_id": 15182496,
+      "link": "https://stackoverflow.com/questions/15182496/why-does-this-code-using-random-strings-print-hello-world",
+      "title": "Why does this code using random strings print &quot;hello world&quot;?"
+    },
+    {
+      "tags": [
+        "java",
+        "loops"
+      ],
+      "owner": {
+        "reputation": 11020,
+        "user_id": 15108,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/9ca9e0c0bf07d39f1c29776e766ba4cc?s=128&d=identicon&r=PG",
+        "display_name": "boutta",
+        "link": "https://stackoverflow.com/users/15108/boutta"
+      },
+      "is_answered": true,
+      "view_count": 1052532,
+      "protected_date": 1375117442,
+      "accepted_answer_id": 886979,
+      "answer_count": 33,
+      "score": 1702,
+      "last_activity_date": 1557310832,
+      "creation_date": 1242810463,
+      "last_edit_date": 1546680109,
+      "question_id": 886955,
+      "link": "https://stackoverflow.com/questions/886955/how-do-i-break-out-of-nested-loops-in-java",
+      "title": "How do I break out of nested loops in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "inner-classes",
+        "static-classes"
+      ],
+      "owner": {
+        "reputation": 11447,
+        "user_id": 11193,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/16053c2004464d5e98c00a4cbd0b018d?s=128&d=identicon&r=PG",
+        "display_name": "Omnipotent",
+        "link": "https://stackoverflow.com/users/11193/omnipotent"
+      },
+      "is_answered": true,
+      "view_count": 685140,
+      "protected_date": 1393007616,
+      "accepted_answer_id": 70358,
+      "answer_count": 26,
+      "score": 1644,
+      "last_activity_date": 1561977618,
+      "creation_date": 1221553355,
+      "last_edit_date": 1546882897,
+      "question_id": 70324,
+      "link": "https://stackoverflow.com/questions/70324/java-inner-class-and-static-nested-class",
+      "title": "Java inner class and static nested class"
+    },
+    {
+      "tags": [
+        "java",
+        "string",
+        "random",
+        "alphanumeric"
+      ],
+      "owner": {
+        "reputation": 1913,
+        "user_id": 3803,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/59613cffb2b962a7d4165a6c25fa5f32?s=128&d=identicon&r=PG",
+        "display_name": "Todd",
+        "link": "https://stackoverflow.com/users/3803/todd"
+      },
+      "is_answered": true,
+      "view_count": 1315552,
+      "protected_date": 1381347277,
+      "accepted_answer_id": 41156,
+      "answer_count": 40,
+      "community_owned_date": 1375106843,
+      "score": 1628,
+      "last_activity_date": 1554383872,
+      "creation_date": 1220410723,
+      "last_edit_date": 1549007716,
+      "question_id": 41107,
+      "link": "https://stackoverflow.com/questions/41107/how-to-generate-a-random-alpha-numeric-string",
+      "title": "How to generate a random alpha-numeric string?"
+    },
+    {
+      "tags": [
+        "java",
+        "jsp",
+        "scriptlet"
+      ],
+      "owner": {
+        "reputation": 8605,
+        "user_id": 95914,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/043703d9aa973023306d6562404804b7?s=128&d=identicon&r=PG",
+        "display_name": "chmoelders",
+        "link": "https://stackoverflow.com/users/95914/chmoelders"
+      },
+      "is_answered": true,
+      "view_count": 270644,
+      "protected_date": 1310383056,
+      "accepted_answer_id": 3180202,
+      "answer_count": 30,
+      "score": 1620,
+      "last_activity_date": 1547611068,
+      "creation_date": 1278314646,
+      "last_edit_date": 1440778660,
+      "question_id": 3177733,
+      "link": "https://stackoverflow.com/questions/3177733/how-to-avoid-java-code-in-jsp-files",
+      "title": "How to avoid Java code in JSP files?"
+    },
+    {
+      "tags": [
+        "java",
+        "javabeans",
+        "serializable"
+      ],
+      "owner": {
+        "reputation": 34325,
+        "user_id": 166067,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/f438fd966ad34c1efff6e49010f51e49?s=128&d=identicon&r=PG",
+        "display_name": "Amir Rachum",
+        "link": "https://stackoverflow.com/users/166067/amir-rachum"
+      },
+      "is_answered": true,
+      "view_count": 513699,
+      "protected_date": 1464709853,
+      "accepted_answer_id": 3295517,
+      "answer_count": 15,
+      "score": 1600,
+      "last_activity_date": 1561600452,
+      "creation_date": 1279672871,
+      "last_edit_date": 1561600452,
+      "question_id": 3295496,
+      "link": "https://stackoverflow.com/questions/3295496/what-is-a-javabean-exactly",
+      "title": "What is a JavaBean exactly?"
+    },
+    {
+      "tags": [
+        "java",
+        "enums"
+      ],
+      "owner": {
+        "reputation": 289048,
+        "user_id": 139010,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/0df2f3c2d3b43605889eb90231fb6884?s=128&d=identicon&r=PG",
+        "display_name": "Matt Ball",
+        "link": "https://stackoverflow.com/users/139010/matt-ball"
+      },
+      "is_answered": true,
+      "view_count": 594114,
+      "protected_date": 1346679891,
+      "accepted_answer_id": 1750453,
+      "answer_count": 14,
+      "score": 1576,
+      "last_activity_date": 1559746478,
+      "creation_date": 1258478787,
+      "last_edit_date": 1508057150,
+      "question_id": 1750435,
+      "link": "https://stackoverflow.com/questions/1750435/comparing-java-enum-members-or-equals",
+      "title": "Comparing Java enum members: == or equals()?"
+    },
+    {
+      "tags": [
+        "java",
+        "sorting",
+        "dictionary",
+        "collections"
+      ],
+      "owner": {
+        "reputation": 1283,
+        "user_id": 9466,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/725fa1e4f3e5fbac4cd60d24795fe15a?s=128&d=identicon&r=PG",
+        "display_name": "Abe",
+        "link": "https://stackoverflow.com/users/9466/abe"
+      },
+      "is_answered": true,
+      "view_count": 1309632,
+      "protected_date": 1434582481,
+      "answer_count": 49,
+      "community_owned_date": 1338338847,
+      "score": 1526,
+      "last_activity_date": 1548742063,
+      "creation_date": 1221944603,
+      "last_edit_date": 1519483700,
+      "question_id": 109383,
+      "link": "https://stackoverflow.com/questions/109383/sort-a-mapkey-value-by-values",
+      "title": "Sort a Map&lt;Key, Value&gt; by values"
+    },
+    {
+      "tags": [
+        "java",
+        "jvm",
+        "incompatibility",
+        "unsupported-class-version"
+      ],
+      "owner": {
+        "reputation": 9655,
+        "user_id": 898042,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://i.stack.imgur.com/3QYVI.jpg?s=128&g=1",
+        "display_name": "ERJAN",
+        "link": "https://stackoverflow.com/users/898042/erjan"
+      },
+      "is_answered": true,
+      "view_count": 1780077,
+      "protected_date": 1411403422,
+      "accepted_answer_id": 11432195,
+      "answer_count": 47,
+      "score": 1505,
+      "last_activity_date": 1554724565,
+      "creation_date": 1335785304,
+      "last_edit_date": 1553323320,
+      "question_id": 10382929,
+      "link": "https://stackoverflow.com/questions/10382929/how-to-fix-java-lang-unsupportedclassversionerror-unsupported-major-minor-versi",
+      "title": "How to fix java.lang.UnsupportedClassVersionError: Unsupported major.minor version"
+    },
+    {
+      "tags": [
+        "java",
+        "methods",
+        "parameters",
+        "overloading",
+        "default-parameters"
+      ],
+      "owner": {
+        "reputation": 9186,
+        "user_id": 99317,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/bc2e00dbe90b975153a8b9869ed91193?s=128&d=identicon&r=PG",
+        "display_name": "gnavi",
+        "link": "https://stackoverflow.com/users/99317/gnavi"
+      },
+      "is_answered": true,
+      "view_count": 1059680,
+      "protected_date": 1365591866,
+      "accepted_answer_id": 997529,
+      "answer_count": 20,
+      "score": 1503,
+      "last_activity_date": 1561633281,
+      "creation_date": 1245089068,
+      "last_edit_date": 1557306081,
+      "question_id": 997482,
+      "link": "https://stackoverflow.com/questions/997482/does-java-support-default-parameter-values",
+      "title": "Does Java support default parameter values?"
+    },
+    {
+      "tags": [
+        "java",
+        "string"
+      ],
+      "owner": {
+        "reputation": 8387,
+        "user_id": 303459,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/20170a95aae39f88e43bc49d0e33dc47?s=128&d=identicon&r=PG",
+        "display_name": "riyana",
+        "link": "https://stackoverflow.com/users/303459/riyana"
+      },
+      "is_answered": true,
+      "view_count": 3592651,
+      "protected_date": 1396099867,
+      "accepted_answer_id": 3481842,
+      "answer_count": 33,
+      "score": 1500,
+      "last_activity_date": 1555413008,
+      "creation_date": 1281754913,
+      "last_edit_date": 1536767179,
+      "question_id": 3481828,
+      "link": "https://stackoverflow.com/questions/3481828/how-to-split-a-string-in-java",
+      "title": "How to split a string in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "stringbuilder",
+        "stringbuffer"
+      ],
+      "owner": {
+        "reputation": 8140,
+        "user_id": 44848,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a403164937a20394c497791a71a551c0?s=128&d=identicon&r=PG",
+        "display_name": "blacktiger",
+        "link": "https://stackoverflow.com/users/44848/blacktiger"
+      },
+      "is_answered": true,
+      "view_count": 752915,
+      "protected_date": 1372687121,
+      "accepted_answer_id": 355092,
+      "answer_count": 31,
+      "score": 1471,
+      "last_activity_date": 1562845689,
+      "creation_date": 1228883666,
+      "last_edit_date": 1462868428,
+      "question_id": 355089,
+      "link": "https://stackoverflow.com/questions/355089/difference-between-stringbuilder-and-stringbuffer",
+      "title": "Difference between StringBuilder and StringBuffer"
+    },
+    {
+      "tags": [
+        "java",
+        "oop",
+        "setter",
+        "getter",
+        "abstraction"
+      ],
+      "owner": {
+        "reputation": 21986,
+        "user_id": 182690,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/de893f8241f722520a6fd3a967733ef7?s=128&d=identicon&r=PG",
+        "display_name": "Dean J",
+        "link": "https://stackoverflow.com/users/182690/dean-j"
+      },
+      "is_answered": true,
+      "view_count": 359746,
+      "protected_date": 1390791753,
+      "closed_date": 1510585636,
+      "accepted_answer_id": 1568230,
+      "answer_count": 38,
+      "score": 1426,
+      "last_activity_date": 1560517642,
+      "creation_date": 1255544456,
+      "last_edit_date": 1512575115,
+      "question_id": 1568091,
+      "link": "https://stackoverflow.com/questions/1568091/why-use-getters-and-setters-accessors",
+      "closed_reason": "primarily opinion-based",
+      "title": "Why use getters and setters/accessors?"
+    },
+    {
+      "tags": [
+        "java",
+        "foreach",
+        "syntactic-sugar"
+      ],
+      "owner": {
+        "reputation": 15000,
+        "user_id": 5074,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/5ed19e00dca9ce442f9d057337a5634f?s=128&d=identicon&r=PG",
+        "display_name": "Jay R.",
+        "link": "https://stackoverflow.com/users/5074/jay-r"
+      },
+      "is_answered": true,
+      "view_count": 2469726,
+      "protected_date": 1406360427,
+      "accepted_answer_id": 85206,
+      "answer_count": 26,
+      "score": 1402,
+      "last_activity_date": 1535635395,
+      "creation_date": 1221669872,
+      "last_edit_date": 1519392118,
+      "question_id": 85190,
+      "link": "https://stackoverflow.com/questions/85190/how-does-the-java-for-each-loop-work",
+      "title": "How does the Java &#39;for each&#39; loop work?"
+    },
+    {
+      "tags": [
+        "java",
+        "stack-trace",
+        "tostring"
+      ],
+      "owner": {
+        "reputation": 94375,
+        "user_id": 11236,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/40656706454dcbdbcec125b85b01f1e4?s=128&d=identicon&r=PG",
+        "display_name": "ripper234",
+        "link": "https://stackoverflow.com/users/11236/ripper234"
+      },
+      "is_answered": true,
+      "view_count": 552921,
+      "protected_date": 1532630814,
+      "accepted_answer_id": 2109985,
+      "answer_count": 29,
+      "score": 1387,
+      "last_activity_date": 1551800608,
+      "creation_date": 1248003103,
+      "last_edit_date": 1457726677,
+      "question_id": 1149703,
+      "link": "https://stackoverflow.com/questions/1149703/how-can-i-convert-a-stack-trace-to-a-string",
+      "title": "How can I convert a stack trace to a string?"
+    },
+    {
+      "tags": [
+        "java",
+        "string",
+        "file",
+        "file-io",
+        "io"
+      ],
+      "owner": {
+        "reputation": 146552,
+        "user_id": 20654,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/94066dfa49c2feb14706cb081848fda7?s=128&d=identicon&r=PG",
+        "display_name": "OscarRyz",
+        "link": "https://stackoverflow.com/users/20654/oscarryz"
+      },
+      "is_answered": true,
+      "view_count": 1280193,
+      "protected_date": 1382388606,
+      "answer_count": 33,
+      "score": 1386,
+      "last_activity_date": 1561585888,
+      "creation_date": 1227897127,
+      "last_edit_date": 1536774898,
+      "question_id": 326390,
+      "link": "https://stackoverflow.com/questions/326390/how-do-i-create-a-java-string-from-the-contents-of-a-file",
+      "title": "How do I create a Java string from the contents of a file?"
+    },
+    {
+      "tags": [
+        "java",
+        "math",
+        "optimization",
+        "perfect-square"
+      ],
+      "owner": {
+        "reputation": 68524,
+        "user_id": 18511,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/c621039e41aef415ad25054da3bf3f9a?s=128&d=identicon&r=PG",
+        "display_name": "Kip",
+        "link": "https://stackoverflow.com/users/18511/kip"
+      },
+      "is_answered": true,
+      "view_count": 257197,
+      "protected_date": 1347961711,
+      "accepted_answer_id": 424936,
+      "answer_count": 35,
+      "community_owned_date": 1373578333,
+      "score": 1370,
+      "last_activity_date": 1562027852,
+      "creation_date": 1226929401,
+      "last_edit_date": 1545531900,
+      "question_id": 295579,
+      "link": "https://stackoverflow.com/questions/295579/fastest-way-to-determine-if-an-integers-square-root-is-an-integer",
+      "title": "Fastest way to determine if an integer&#39;s square root is an integer"
+    },
+    {
+      "tags": [
+        "java",
+        "field",
+        "transient"
+      ],
+      "owner": {
+        "reputation": 6974,
+        "user_id": 112532,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/9db5833f02d63552977138795c00ebea?s=128&d=identicon&r=PG",
+        "display_name": "Animesh",
+        "link": "https://stackoverflow.com/users/112532/animesh"
+      },
+      "is_answered": true,
+      "view_count": 650126,
+      "protected_date": 1397130703,
+      "accepted_answer_id": 910522,
+      "answer_count": 13,
+      "score": 1354,
+      "last_activity_date": 1559704176,
+      "creation_date": 1243339896,
+      "last_edit_date": 1462536312,
+      "question_id": 910374,
+      "link": "https://stackoverflow.com/questions/910374/why-does-java-have-transient-fields",
+      "title": "Why does Java have transient fields?"
+    },
+    {
+      "tags": [
+        "java",
+        "unicode",
+        "comments"
+      ],
+      "owner": {
+        "reputation": 5622,
+        "user_id": 1169349,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/12190e569661586c67fb666370343c80?s=128&d=identicon&r=PG",
+        "display_name": "Reg",
+        "link": "https://stackoverflow.com/users/1169349/reg"
+      },
+      "is_answered": true,
+      "view_count": 72372,
+      "protected_date": 1544695995,
+      "accepted_answer_id": 30727799,
+      "answer_count": 8,
+      "score": 1315,
+      "last_activity_date": 1527159925,
+      "creation_date": 1433840536,
+      "last_edit_date": 1436628406,
+      "question_id": 30727515,
+      "link": "https://stackoverflow.com/questions/30727515/why-is-executing-java-code-in-comments-with-certain-unicode-characters-allowed",
+      "title": "Why is executing Java code in comments with certain Unicode characters allowed?"
+    },
+    {
+      "tags": [
+        "java",
+        "file-io"
+      ],
+      "owner": {
+        "reputation": 8820,
+        "user_id": 57643,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/555accc068eb1072035caa6c52ce83a3?s=128&d=identicon&r=PG",
+        "display_name": "Drew Johnson",
+        "link": "https://stackoverflow.com/users/57643/drew-johnson"
+      },
+      "is_answered": true,
+      "view_count": 2703391,
+      "protected_date": 1480123636,
+      "accepted_answer_id": 2885224,
+      "answer_count": 30,
+      "score": 1287,
+      "last_activity_date": 1559904916,
+      "creation_date": 1274471935,
+      "last_edit_date": 1487086753,
+      "question_id": 2885173,
+      "link": "https://stackoverflow.com/questions/2885173/how-do-i-create-a-file-and-write-to-it-in-java",
+      "title": "How do I create a file and write to it in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "apache-camel",
+        "soa",
+        "enterprise-integration"
+      ],
+      "owner": {
+        "reputation": 7362,
+        "user_id": 929694,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://i.stack.imgur.com/pBrhW.jpg?s=128&g=1",
+        "display_name": "Myy",
+        "link": "https://stackoverflow.com/users/929694/myy"
+      },
+      "is_answered": true,
+      "view_count": 522812,
+      "protected_date": 1340020091,
+      "accepted_answer_id": 8849379,
+      "answer_count": 22,
+      "score": 1267,
+      "last_activity_date": 1562932551,
+      "creation_date": 1326421938,
+      "last_edit_date": 1453994732,
+      "question_id": 8845186,
+      "link": "https://stackoverflow.com/questions/8845186/what-exactly-is-apache-camel",
+      "title": "What exactly is Apache Camel?"
+    },
+    {
+      "tags": [
+        "java",
+        "arrays",
+        "concatenation",
+        "add"
+      ],
+      "owner": {
+        "reputation": 15146,
+        "user_id": 2948,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/5cc158ae2a6387ea2e2a19fb097e4215?s=128&d=identicon&r=PG",
+        "display_name": "Antti Kissaniemi",
+        "link": "https://stackoverflow.com/users/2948/antti-kissaniemi"
+      },
+      "is_answered": true,
+      "view_count": 998712,
+      "protected_date": 1394958513,
+      "answer_count": 58,
+      "community_owned_date": 1367238893,
+      "score": 1258,
+      "last_activity_date": 1561745716,
+      "creation_date": 1221632063,
+      "last_edit_date": 1545492903,
+      "question_id": 80476,
+      "link": "https://stackoverflow.com/questions/80476/how-can-i-concatenate-two-arrays-in-java",
+      "title": "How can I concatenate two arrays in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "nullpointerexception",
+        "null"
+      ],
+      "owner": {
+        "reputation": 7932,
+        "user_id": 4220,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/e1bf47f64ba0ab97e836ff76f23770ba?s=128&d=identicon&r=PG",
+        "display_name": "Johan L&#252;bcke",
+        "link": "https://stackoverflow.com/users/4220/johan-l%c3%bcbcke"
+      },
+      "is_answered": true,
+      "view_count": 211079,
+      "protected_date": 1375099849,
+      "accepted_answer_id": 2950415,
+      "answer_count": 7,
+      "score": 1228,
+      "last_activity_date": 1553721997,
+      "creation_date": 1275400395,
+      "last_edit_date": 1512311866,
+      "question_id": 2950319,
+      "link": "https://stackoverflow.com/questions/2950319/is-null-check-needed-before-calling-instanceof",
+      "title": "Is null check needed before calling instanceof?"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "eclipse",
+        "overriding",
+        "superclass"
+      ],
+      "owner": {
+        "reputation": 6513,
+        "user_id": 190303,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/8eb5110f68d15cce4e0ac76e2a9e246f?s=128&d=identicon&r=PG",
+        "display_name": "Tim H",
+        "link": "https://stackoverflow.com/users/190303/tim-h"
+      },
+      "is_answered": true,
+      "view_count": 248977,
+      "protected_date": 1290179875,
+      "accepted_answer_id": 1678170,
+      "answer_count": 12,
+      "score": 1208,
+      "last_activity_date": 1550410428,
+      "creation_date": 1257391073,
+      "last_edit_date": 1550410428,
+      "question_id": 1678122,
+      "link": "https://stackoverflow.com/questions/1678122/must-override-a-superclass-method-errors-after-importing-a-project-into-eclips",
+      "title": "&#39;Must Override a Superclass Method&#39; Errors after importing a project into Eclipse"
+    },
+    {
+      "tags": [
+        "java",
+        "class",
+        "main"
+      ],
+      "owner": {
+        "reputation": 540329,
+        "user_id": 139985,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://www.gravatar.com/avatar/147c5a9cc1feec049c50da791ac7d144?s=128&d=identicon&r=PG",
+        "display_name": "Stephen C",
+        "link": "https://stackoverflow.com/users/139985/stephen-c"
+      },
+      "is_answered": true,
+      "view_count": 2350968,
+      "protected_date": 1385998582,
+      "accepted_answer_id": 18093929,
+      "answer_count": 45,
+      "score": 1195,
+      "last_activity_date": 1563010098,
+      "creation_date": 1375844566,
+      "last_edit_date": 1515308315,
+      "question_id": 18093928,
+      "link": "https://stackoverflow.com/questions/18093928/what-does-could-not-find-or-load-main-class-mean",
+      "title": "What does &quot;Could not find or load main class&quot; mean?"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "sdk",
+        "windows-7-x64",
+        "jdk6"
+      ],
+      "owner": {
+        "reputation": 3098,
+        "user_id": 534294,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/7cd7c1d232177cfb78100a41d104c328?s=128&d=identicon&r=PG",
+        "display_name": "Simon",
+        "link": "https://stackoverflow.com/users/534294/simon"
+      },
+      "is_answered": true,
+      "view_count": 434620,
+      "protected_date": 1300649739,
+      "answer_count": 45,
+      "community_owned_date": 1352755859,
+      "score": 1178,
+      "last_activity_date": 1546497010,
+      "creation_date": 1291759934,
+      "last_edit_date": 1531830956,
+      "question_id": 4382178,
+      "link": "https://stackoverflow.com/questions/4382178/android-sdk-installation-doesnt-find-jdk",
+      "title": "Android SDK installation doesn&#39;t find JDK"
+    },
+    {
+      "tags": [
+        "java",
+        "decimal",
+        "rounding",
+        "digits"
+      ],
+      "owner": {
+        "reputation": 21525,
+        "user_id": 12149,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/23e5406a16f4b8552eb037d4332b6c6d?s=128&d=identicon&r=PG",
+        "display_name": "Alex Spurling",
+        "link": "https://stackoverflow.com/users/12149/alex-spurling"
+      },
+      "is_answered": true,
+      "view_count": 1494419,
+      "protected_date": 1323627157,
+      "accepted_answer_id": 153785,
+      "answer_count": 29,
+      "score": 1166,
+      "last_activity_date": 1532616068,
+      "creation_date": 1222790494,
+      "last_edit_date": 1490199748,
+      "question_id": 153724,
+      "link": "https://stackoverflow.com/questions/153724/how-to-round-a-number-to-n-decimal-places-in-java",
+      "title": "How to round a number to n decimal places in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "collections"
+      ],
+      "owner": {
+        "reputation": 131764,
+        "user_id": 15055,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/7f71287b47b7189d11fe6d3fbc7ed2fe?s=128&d=identicon&r=PG",
+        "display_name": "Claudiu",
+        "link": "https://stackoverflow.com/users/15055/claudiu"
+      },
+      "is_answered": true,
+      "view_count": 455076,
+      "protected_date": 1442932834,
+      "accepted_answer_id": 223929,
+      "answer_count": 23,
+      "score": 1131,
+      "last_activity_date": 1552562296,
+      "creation_date": 1224631413,
+      "last_edit_date": 1546511656,
+      "question_id": 223918,
+      "link": "https://stackoverflow.com/questions/223918/iterating-through-a-collection-avoiding-concurrentmodificationexception-when-re",
+      "title": "Iterating through a Collection, avoiding ConcurrentModificationException when removing objects in a loop"
+    },
+    {
+      "tags": [
+        "java",
+        "multithreading",
+        "sleep",
+        "java-threads"
+      ],
+      "owner": {
+        "reputation": 10228,
+        "user_id": 102040,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/dbf44501979768be513fc1d001e4238e?s=128&d=identicon&r=PG",
+        "display_name": "Geek",
+        "link": "https://stackoverflow.com/users/102040/geek"
+      },
+      "is_answered": true,
+      "view_count": 851919,
+      "protected_date": 1494410325,
+      "accepted_answer_id": 1036763,
+      "answer_count": 32,
+      "score": 1131,
+      "last_activity_date": 1545097906,
+      "creation_date": 1245826120,
+      "last_edit_date": 1501168491,
+      "question_id": 1036754,
+      "link": "https://stackoverflow.com/questions/1036754/difference-between-wait-and-sleep",
+      "title": "Difference between wait() and sleep()"
+    },
+    {
+      "tags": [
+        "java",
+        "multithreading",
+        "servlets",
+        "session-variables",
+        "instance-variables"
+      ],
+      "owner": {
+        "reputation": 5383,
+        "user_id": 374769,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/d2968172637f02ef3294791b3053fbd8?s=128&d=identicon&r=PG",
+        "display_name": "Ku Jon",
+        "link": "https://stackoverflow.com/users/374769/ku-jon"
+      },
+      "is_answered": true,
+      "view_count": 277855,
+      "protected_date": 1338976953,
+      "accepted_answer_id": 3106909,
+      "answer_count": 8,
+      "score": 1076,
+      "last_activity_date": 1562325894,
+      "creation_date": 1277338575,
+      "last_edit_date": 1490199722,
+      "question_id": 3106452,
+      "link": "https://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-sessions-shared-variables-and-multithreadi",
+      "title": "How do servlets work? Instantiation, sessions, shared variables and multithreading"
+    },
+    {
+      "tags": [
+        "java",
+        "arrays",
+        "arraylist"
+      ],
+      "owner": {
+        "reputation": 15876,
+        "user_id": 382906,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/c054847fb6fd89d40f3f4ad44d6daaf1?s=128&d=identicon&r=PG",
+        "display_name": "locoboy",
+        "link": "https://stackoverflow.com/users/382906/locoboy"
+      },
+      "is_answered": true,
+      "view_count": 1452017,
+      "protected_date": 1371642328,
+      "closed_date": 1417711303,
+      "accepted_answer_id": 5374359,
+      "answer_count": 6,
+      "score": 1070,
+      "last_activity_date": 1538386498,
+      "creation_date": 1300687079,
+      "last_edit_date": 1532975524,
+      "question_id": 5374311,
+      "link": "https://stackoverflow.com/questions/5374311/convert-arrayliststring-to-string-array",
+      "closed_reason": "duplicate",
+      "title": "Convert ArrayList&lt;String&gt; to String[] array"
+    },
+    {
+      "tags": [
+        "java",
+        "sorting",
+        "date",
+        "comparator"
+      ],
+      "owner": {
+        "reputation": 7828,
+        "user_id": 253387,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/a2ec41189711b656ebd6d60e26e1da07?s=128&d=identicon&r=PG",
+        "display_name": "Samuel",
+        "link": "https://stackoverflow.com/users/253387/samuel"
+      },
+      "is_answered": true,
+      "view_count": 1013109,
+      "protected_date": 1535482951,
+      "accepted_answer_id": 2784576,
+      "answer_count": 25,
+      "score": 1069,
+      "last_activity_date": 1550212782,
+      "creation_date": 1273180176,
+      "last_edit_date": 1453915105,
+      "question_id": 2784514,
+      "link": "https://stackoverflow.com/questions/2784514/sort-arraylist-of-custom-objects-by-property",
+      "title": "Sort ArrayList of custom Objects by property"
+    },
+    {
+      "tags": [
+        "java",
+        "dictionary",
+        "collections",
+        "initialization",
+        "idiomatic"
+      ],
+      "owner": {
+        "reputation": 199068,
+        "user_id": 7412,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://i.stack.imgur.com/doLQL.jpg?s=128&g=1",
+        "display_name": "dogbane",
+        "link": "https://stackoverflow.com/users/7412/dogbane"
+      },
+      "is_answered": true,
+      "view_count": 790323,
+      "protected_date": 1517400618,
+      "accepted_answer_id": 507658,
+      "answer_count": 42,
+      "score": 1041,
+      "last_activity_date": 1561451988,
+      "creation_date": 1233675693,
+      "last_edit_date": 1536628333,
+      "question_id": 507602,
+      "link": "https://stackoverflow.com/questions/507602/how-can-i-initialise-a-static-map",
+      "title": "How can I initialise a static Map?"
+    },
+    {
+      "tags": [
+        "java",
+        "hibernate",
+        "hbm2ddl"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "Suzan"
+      },
+      "is_answered": true,
+      "view_count": 929306,
+      "protected_date": 1322052360,
+      "answer_count": 13,
+      "score": 1013,
+      "last_activity_date": 1555446647,
+      "creation_date": 1231828848,
+      "last_edit_date": 1555341853,
+      "question_id": 438146,
+      "link": "https://stackoverflow.com/questions/438146/what-are-the-possible-values-of-the-hibernate-hbm2ddl-auto-configuration-and-wha",
+      "title": "What are the possible values of the Hibernate hbm2ddl.auto configuration and what do they do"
+    },
+    {
+      "tags": [
+        "java",
+        "arrays",
+        "generics",
+        "reflection",
+        "instantiation"
+      ],
+      "owner": {
+        "reputation": 9839,
+        "user_id": 64250,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/03e164cb17954a312ca99588c7aaefce?s=128&d=identicon&r=PG",
+        "display_name": "tatsuhirosatou",
+        "link": "https://stackoverflow.com/users/64250/tatsuhirosatou"
+      },
+      "is_answered": true,
+      "view_count": 704458,
+      "protected_date": 1443812528,
+      "accepted_answer_id": 530289,
+      "answer_count": 29,
+      "score": 1006,
+      "last_activity_date": 1545478043,
+      "creation_date": 1234200644,
+      "last_edit_date": 1487502684,
+      "question_id": 529085,
+      "link": "https://stackoverflow.com/questions/529085/how-to-create-a-generic-array-in-java",
+      "title": "How to create a generic array in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "download",
+        "android-asynctask"
+      ],
+      "owner": {
+        "reputation": 9637,
+        "user_id": 363606,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/31d54804ab93257c67941155208ea9ba?s=128&d=identicon&r=PG",
+        "display_name": "Tom Leese",
+        "link": "https://stackoverflow.com/users/363606/tom-leese"
+      },
+      "is_answered": true,
+      "view_count": 508164,
+      "protected_date": 1323256392,
+      "accepted_answer_id": 3028660,
+      "answer_count": 12,
+      "score": 1001,
+      "last_activity_date": 1547293475,
+      "creation_date": 1276338176,
+      "last_edit_date": 1417012958,
+      "question_id": 3028306,
+      "link": "https://stackoverflow.com/questions/3028306/download-a-file-with-android-and-showing-the-progress-in-a-progressdialog",
+      "title": "Download a file with Android, and showing the progress in a ProgressDialog"
+    },
+    {
+      "tags": [
+        "java",
+        "maven",
+        "libraries",
+        "mvn-repo"
+      ],
+      "owner": {
+        "reputation": 6233,
+        "user_id": 410693,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://i.stack.imgur.com/QUapZ.png?s=128&g=1",
+        "display_name": "Praneel PIDIKITI",
+        "link": "https://stackoverflow.com/users/410693/praneel-pidikiti"
+      },
+      "is_answered": true,
+      "view_count": 740318,
+      "protected_date": 1540539685,
+      "accepted_answer_id": 4955695,
+      "answer_count": 27,
+      "score": 968,
+      "last_activity_date": 1557474890,
+      "creation_date": 1297332206,
+      "last_edit_date": 1517992435,
+      "question_id": 4955635,
+      "link": "https://stackoverflow.com/questions/4955635/how-to-add-local-jar-files-to-a-maven-project",
+      "title": "How to add local jar files to a Maven project?"
+    },
+    {
+      "tags": [
+        "java",
+        "string",
+        "switch-statement"
+      ],
+      "owner": {
+        "reputation": 9636,
+        "user_id": 14007,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.stack.imgur.com/oJZ0p.png?s=128&g=1",
+        "display_name": "Alex Beardsley",
+        "link": "https://stackoverflow.com/users/14007/alex-beardsley"
+      },
+      "is_answered": true,
+      "view_count": 724888,
+      "protected_date": 1418699497,
+      "accepted_answer_id": 338230,
+      "answer_count": 14,
+      "score": 968,
+      "last_activity_date": 1531173141,
+      "creation_date": 1228328637,
+      "last_edit_date": 1531173141,
+      "question_id": 338206,
+      "link": "https://stackoverflow.com/questions/338206/why-cant-i-use-switch-statement-on-a-string",
+      "title": "Why can&#39;t I use switch statement on a String?"
+    },
+    {
+      "tags": [
+        "java",
+        "hash",
+        "md5",
+        "hashcode"
+      ],
+      "owner": {
+        "reputation": 5270,
+        "user_id": 356145,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/3858f299d4726d0033187eba7fc1861c?s=128&d=identicon&r=PG",
+        "display_name": "Akshay",
+        "link": "https://stackoverflow.com/users/356145/akshay"
+      },
+      "is_answered": true,
+      "view_count": 969010,
+      "protected_date": 1478838843,
+      "accepted_answer_id": 415956,
+      "answer_count": 33,
+      "score": 956,
+      "last_activity_date": 1546516526,
+      "creation_date": 1231235112,
+      "last_edit_date": 1407899134,
+      "question_id": 415953,
+      "link": "https://stackoverflow.com/questions/415953/how-can-i-generate-an-md5-hash",
+      "title": "How can I generate an MD5 hash?"
+    },
+    {
+      "tags": [
+        "stack-trace",
+        "java"
+      ],
+      "owner": {
+        "reputation": 94375,
+        "user_id": 11236,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/40656706454dcbdbcec125b85b01f1e4?s=128&d=identicon&r=PG",
+        "display_name": "ripper234",
+        "link": "https://stackoverflow.com/users/11236/ripper234"
+      },
+      "is_answered": true,
+      "view_count": 485150,
+      "protected_date": 1434642834,
+      "accepted_answer_id": 1069074,
+      "answer_count": 22,
+      "score": 933,
+      "last_activity_date": 1557670542,
+      "creation_date": 1246453981,
+      "last_edit_date": 1463019404,
+      "question_id": 1069066,
+      "link": "https://stackoverflow.com/questions/1069066/get-current-stack-trace-in-java",
+      "title": "Get current stack trace in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "json",
+        "parsing"
+      ],
+      "owner": {
+        "reputation": 13571,
+        "user_id": 2355649,
+        "user_type": "registered",
+        "accept_rate": 51,
+        "profile_image": "https://www.gravatar.com/avatar/c4c74fddc6280a68216b1d5bb93d070d?s=128&d=identicon&r=PG",
+        "display_name": "Muhammad Maqsoodur Rehman",
+        "link": "https://stackoverflow.com/users/2355649/muhammad-maqsoodur-rehman"
+      },
+      "is_answered": true,
+      "view_count": 1459792,
+      "protected_date": 1517417712,
+      "answer_count": 31,
+      "score": 933,
+      "last_activity_date": 1562741225,
+      "creation_date": 1270630821,
+      "last_edit_date": 1552666831,
+      "question_id": 2591098,
+      "link": "https://stackoverflow.com/questions/2591098/how-to-parse-json-in-java",
+      "title": "How to parse JSON in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "command-line",
+        "classpath"
+      ],
+      "owner": {
+        "reputation": 5996,
+        "user_id": 13435,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/3445fa8fd545db76b696ea8590798b06?s=128&d=identicon&r=PG",
+        "display_name": "Chris Serra",
+        "link": "https://stackoverflow.com/users/13435/chris-serra"
+      },
+      "is_answered": true,
+      "view_count": 965963,
+      "protected_date": 1314934688,
+      "answer_count": 24,
+      "score": 933,
+      "last_activity_date": 1558077493,
+      "creation_date": 1224531165,
+      "last_edit_date": 1496911653,
+      "question_id": 219585,
+      "link": "https://stackoverflow.com/questions/219585/including-all-the-jars-in-a-directory-within-the-java-classpath",
+      "title": "Including all the jars in a directory within the Java classpath"
+    },
+    {
+      "tags": [
+        "java",
+        "formatting",
+        "zero-pad"
+      ],
+      "owner": {
+        "reputation": 24928,
+        "user_id": 20400,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/40bd6fa511aed8cab1e12bb104b88b4e?s=128&d=identicon&r=PG",
+        "display_name": "Omar Kooheji",
+        "link": "https://stackoverflow.com/users/20400/omar-kooheji"
+      },
+      "is_answered": true,
+      "view_count": 577225,
+      "protected_date": 1378223499,
+      "accepted_answer_id": 473309,
+      "answer_count": 14,
+      "score": 931,
+      "last_activity_date": 1561227180,
+      "creation_date": 1232724084,
+      "last_edit_date": 1529852016,
+      "question_id": 473282,
+      "link": "https://stackoverflow.com/questions/473282/how-can-i-pad-an-integer-with-zeros-on-the-left",
+      "title": "How can I pad an integer with zeros on the left?"
+    },
+    {
+      "tags": [
+        "java",
+        "arrays",
+        "string",
+        "arraylist",
+        "collections"
+      ],
+      "owner": {
+        "reputation": 6164,
+        "user_id": 482568,
+        "user_type": "unregistered",
+        "accept_rate": 53,
+        "profile_image": "https://www.gravatar.com/avatar/6d1bf0a2593ff4cb79949afb2303fbaf?s=128&d=identicon&r=PG",
+        "display_name": "Alex",
+        "link": "https://stackoverflow.com/users/482568/alex"
+      },
+      "is_answered": true,
+      "view_count": 633748,
+      "protected_date": 1513722356,
+      "accepted_answer_id": 4042464,
+      "answer_count": 16,
+      "score": 926,
+      "last_activity_date": 1553232229,
+      "creation_date": 1288265453,
+      "last_edit_date": 1532632207,
+      "question_id": 4042434,
+      "link": "https://stackoverflow.com/questions/4042434/converting-arrayliststring-to-string-in-java",
+      "title": "Converting &#39;ArrayList&lt;String&gt; to &#39;String[]&#39; in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "multithreading",
+        "keyword",
+        "synchronized"
+      ],
+      "owner": {
+        "reputation": 10820,
+        "user_id": 124339,
+        "user_type": "registered",
+        "accept_rate": 46,
+        "profile_image": "https://www.gravatar.com/avatar/e6d1d662f2b3873887e61dafbed6d2c1?s=128&d=identicon&r=PG",
+        "display_name": "Johanna",
+        "link": "https://stackoverflow.com/users/124339/johanna"
+      },
+      "is_answered": true,
+      "view_count": 465737,
+      "protected_date": 1500913452,
+      "accepted_answer_id": 1085745,
+      "answer_count": 15,
+      "score": 923,
+      "last_activity_date": 1544430638,
+      "creation_date": 1246862843,
+      "last_edit_date": 1453850065,
+      "question_id": 1085709,
+      "link": "https://stackoverflow.com/questions/1085709/what-does-synchronized-mean",
+      "title": "What does &#39;synchronized&#39; mean?"
+    },
+    {
+      "tags": [
+        "java",
+        "dictionary",
+        "collections",
+        "initialization"
+      ],
+      "owner": {
+        "reputation": 4954,
+        "user_id": 634682,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/3dac2305819692d324865b7039f7f9fe?s=128&d=identicon&r=PG",
+        "display_name": "jens",
+        "link": "https://stackoverflow.com/users/634682/jens"
+      },
+      "is_answered": true,
+      "view_count": 1126037,
+      "closed_date": 1374155059,
+      "accepted_answer_id": 6802502,
+      "answer_count": 6,
+      "score": 919,
+      "last_activity_date": 1549437784,
+      "creation_date": 1311446433,
+      "last_edit_date": 1522695073,
+      "question_id": 6802483,
+      "link": "https://stackoverflow.com/questions/6802483/how-to-directly-initialize-a-hashmap-in-a-literal-way",
+      "closed_reason": "duplicate",
+      "title": "How to directly initialize a HashMap (in a literal way)?"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "windows",
+        "eclipse",
+        "32bit-64bit"
+      ],
+      "owner": {
+        "reputation": 4737,
+        "user_id": 1522092,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/kbJs2.jpg?s=128&g=1",
+        "display_name": "Ben E.",
+        "link": "https://stackoverflow.com/users/1522092/ben-e"
+      },
+      "is_answered": true,
+      "view_count": 1460079,
+      "protected_date": 1373093374,
+      "accepted_answer_id": 41441870,
+      "answer_count": 40,
+      "score": 917,
+      "last_activity_date": 1554460056,
+      "creation_date": 1342131811,
+      "last_edit_date": 1546458412,
+      "question_id": 11461607,
+      "link": "https://stackoverflow.com/questions/11461607/cant-start-eclipse-java-was-started-but-returned-exit-code-13",
+      "title": "Can&#39;t start Eclipse - Java was started but returned exit code=13"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "android-recyclerview"
+      ],
+      "owner": {
+        "reputation": 10541,
+        "user_id": 2424999,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://i.stack.imgur.com/oNCDG.jpg?s=128&g=1",
+        "display_name": "Tarun Varshney",
+        "link": "https://stackoverflow.com/users/2424999/tarun-varshney"
+      },
+      "is_answered": true,
+      "view_count": 349231,
+      "protected_date": 1522190100,
+      "closed_date": 1562118386,
+      "accepted_answer_id": 24933117,
+      "answer_count": 32,
+      "score": 917,
+      "last_activity_date": 1551683262,
+      "creation_date": 1406025819,
+      "last_edit_date": 1496913240,
+      "question_id": 24885223,
+      "link": "https://stackoverflow.com/questions/24885223/why-doesnt-recyclerview-have-onitemclicklistener",
+      "closed_reason": "primarily opinion-based",
+      "title": "Why doesn&#39;t RecyclerView have onItemClickListener()?"
+    },
+    {
+      "tags": [
+        "java",
+        "working-directory"
+      ],
+      "owner": {
+        "reputation": 4709,
+        "user_id": 541929,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://www.gravatar.com/avatar/c1e5a8e9fe1172e1f1d7cb0d1a49b837?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Qazi",
+        "link": "https://stackoverflow.com/users/541929/qazi"
+      },
+      "is_answered": true,
+      "view_count": 1175763,
+      "protected_date": 1478091786,
+      "answer_count": 20,
+      "score": 911,
+      "last_activity_date": 1563470283,
+      "creation_date": 1296624246,
+      "last_edit_date": 1431024482,
+      "question_id": 4871051,
+      "link": "https://stackoverflow.com/questions/4871051/getting-the-current-working-directory-in-java",
+      "title": "Getting the Current Working Directory in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "map"
+      ],
+      "owner": {
+        "reputation": 9375,
+        "user_id": 98514,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/1414fd68e16729db11e544785bb3c0f3?s=128&d=identicon&r=PG",
+        "display_name": "Kevin",
+        "link": "https://stackoverflow.com/users/98514/kevin"
+      },
+      "is_answered": true,
+      "view_count": 573046,
+      "protected_date": 1331908210,
+      "accepted_answer_id": 2889800,
+      "answer_count": 15,
+      "score": 905,
+      "last_activity_date": 1538269746,
+      "creation_date": 1274562615,
+      "last_edit_date": 1404136191,
+      "question_id": 2889777,
+      "link": "https://stackoverflow.com/questions/2889777/difference-between-hashmap-linkedhashmap-and-treemap",
+      "title": "Difference between HashMap, LinkedHashMap and TreeMap"
+    },
+    {
+      "tags": [
+        "java",
+        "windows",
+        "eclipse",
+        "java-native-interface"
+      ],
+      "owner": {
+        "reputation": 6132,
+        "user_id": 834063,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/45ekd.jpg?s=128&g=1",
+        "display_name": "Mxyk",
+        "link": "https://stackoverflow.com/users/834063/mxyk"
+      },
+      "is_answered": true,
+      "view_count": 1400254,
+      "protected_date": 1354622890,
+      "accepted_answer_id": 7385128,
+      "answer_count": 38,
+      "community_owned_date": 1385889454,
+      "score": 902,
+      "last_activity_date": 1512376746,
+      "creation_date": 1315504935,
+      "last_edit_date": 1512376746,
+      "question_id": 7352493,
+      "link": "https://stackoverflow.com/questions/7352493/failed-to-load-the-jni-shared-library-jdk",
+      "title": "Failed to load the JNI shared Library (JDK)"
+    },
+    {
+      "tags": [
+        "java",
+        "arrays",
+        "list",
+        "containers",
+        "data-conversion"
+      ],
+      "owner": {
+        "reputation": 12226,
+        "user_id": 88622,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/296d01932963a523abf019517f125578?s=128&d=identicon&r=PG",
+        "display_name": "Alexandru",
+        "link": "https://stackoverflow.com/users/88622/alexandru"
+      },
+      "is_answered": true,
+      "view_count": 1164603,
+      "protected_date": 1517661270,
+      "accepted_answer_id": 2607335,
+      "answer_count": 17,
+      "score": 892,
+      "last_activity_date": 1549164432,
+      "creation_date": 1270815620,
+      "last_edit_date": 1499382814,
+      "question_id": 2607289,
+      "link": "https://stackoverflow.com/questions/2607289/converting-array-to-list-in-java",
+      "title": "Converting array to list in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "static-classes"
+      ],
+      "owner": {
+        "reputation": 9195,
+        "user_id": 216190,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/5a13963fd8a6734ffd1aed8fc76e58ec?s=128&d=identicon&r=PG",
+        "display_name": "Kraken",
+        "link": "https://stackoverflow.com/users/216190/kraken"
+      },
+      "is_answered": true,
+      "view_count": 817499,
+      "protected_date": 1426810689,
+      "accepted_answer_id": 7486111,
+      "answer_count": 10,
+      "score": 882,
+      "last_activity_date": 1562672011,
+      "creation_date": 1316525562,
+      "last_edit_date": 1477141296,
+      "question_id": 7486012,
+      "link": "https://stackoverflow.com/questions/7486012/static-classes-in-java",
+      "title": "Static Classes In Java"
+    },
+    {
+      "tags": [
+        "java",
+        "file-io",
+        "ascii"
+      ],
+      "owner": {
+        "reputation": 4616,
+        "user_id": 130888,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/dc215853f29bd2688d472d34043f4656?s=128&d=identicon&r=PG",
+        "display_name": "Tim the Enchanter",
+        "link": "https://stackoverflow.com/users/130888/tim-the-enchanter"
+      },
+      "is_answered": true,
+      "view_count": 2242596,
+      "protected_date": 1480304167,
+      "accepted_answer_id": 4716521,
+      "answer_count": 25,
+      "score": 878,
+      "last_activity_date": 1549408889,
+      "creation_date": 1295288953,
+      "last_edit_date": 1452863577,
+      "question_id": 4716503,
+      "link": "https://stackoverflow.com/questions/4716503/reading-a-plain-text-file-in-java",
+      "title": "Reading a plain text file in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "java-8"
+      ],
+      "owner": {
+        "reputation": 25247,
+        "user_id": 1719067,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/c1be932bbc82f9808ccd623e58a7a4a1?s=128&d=identicon&r=PG",
+        "display_name": "Narendra Pathai",
+        "link": "https://stackoverflow.com/users/1719067/narendra-pathai"
+      },
+      "is_answered": true,
+      "view_count": 294687,
+      "accepted_answer_id": 20001866,
+      "answer_count": 17,
+      "score": 875,
+      "last_activity_date": 1563303309,
+      "creation_date": 1384519592,
+      "last_edit_date": 1418809822,
+      "question_id": 20001427,
+      "link": "https://stackoverflow.com/questions/20001427/double-colon-operator-in-java-8",
+      "title": ":: (double colon) operator in Java 8"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "reputation": 6569,
+        "user_id": 1019952,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://i.stack.imgur.com/ryrqT.jpg?s=128&g=1",
+        "display_name": "Mohamed Taher Alrefaie",
+        "link": "https://stackoverflow.com/users/1019952/mohamed-taher-alrefaie"
+      },
+      "is_answered": true,
+      "view_count": 211491,
+      "accepted_answer_id": 15203417,
+      "answer_count": 7,
+      "score": 873,
+      "last_activity_date": 1554264173,
+      "creation_date": 1362404728,
+      "last_edit_date": 1529939036,
+      "question_id": 15202997,
+      "link": "https://stackoverflow.com/questions/15202997/what-is-the-difference-between-canonical-name-simple-name-and-class-name-in-jav",
+      "title": "What is the difference between canonical name, simple name and class name in Java Class?"
+    },
+    {
+      "tags": [
+        "java",
+        "nullpointerexception",
+        "null",
+        "annotations",
+        "ide"
+      ],
+      "owner": {
+        "reputation": 4616,
+        "user_id": 416130,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/d13fae48bcfeda71a5f5c75527e40f2e?s=128&d=identicon&r=PG",
+        "display_name": "jaxzin",
+        "link": "https://stackoverflow.com/users/416130/jaxzin"
+      },
+      "is_answered": true,
+      "view_count": 255053,
+      "protected_date": 1544695888,
+      "answer_count": 21,
+      "score": 872,
+      "last_activity_date": 1559024659,
+      "creation_date": 1297375535,
+      "last_edit_date": 1505416499,
+      "question_id": 4963300,
+      "link": "https://stackoverflow.com/questions/4963300/which-notnull-java-annotation-should-i-use",
+      "title": "Which @NotNull Java annotation should I use?"
+    },
+    {
+      "tags": [
+        "java",
+        "performance",
+        "string",
+        "concatenation",
+        "stringbuilder"
+      ],
+      "owner": {
+        "reputation": 8641,
+        "user_id": 117783,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/b62c0a8e7b98e7dd694ead5fe60f1875?s=128&d=identicon&r=PG",
+        "display_name": "non sequitor",
+        "link": "https://stackoverflow.com/users/117783/non-sequitor"
+      },
+      "is_answered": true,
+      "view_count": 330737,
+      "accepted_answer_id": 1532499,
+      "answer_count": 18,
+      "score": 857,
+      "last_activity_date": 1528095526,
+      "creation_date": 1254930248,
+      "last_edit_date": 1473449581,
+      "question_id": 1532461,
+      "link": "https://stackoverflow.com/questions/1532461/stringbuilder-vs-string-concatenation-in-tostring-in-java",
+      "title": "StringBuilder vs String concatenation in toString() in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "memory-management",
+        "parameters",
+        "jvm"
+      ],
+      "owner": {
+        "reputation": 4452,
+        "user_id": 1239857,
+        "user_type": "registered",
+        "accept_rate": 31,
+        "profile_image": "https://www.gravatar.com/avatar/b24939b19f7bb6b71e908346563212ae?s=128&d=identicon&r=PG",
+        "display_name": "Pankaj",
+        "link": "https://stackoverflow.com/users/1239857/pankaj"
+      },
+      "is_answered": true,
+      "view_count": 1602625,
+      "protected_date": 1431464465,
+      "closed_date": 1457927373,
+      "accepted_answer_id": 14763095,
+      "answer_count": 4,
+      "score": 856,
+      "last_activity_date": 1553324068,
+      "creation_date": 1360279700,
+      "last_edit_date": 1553323714,
+      "question_id": 14763079,
+      "link": "https://stackoverflow.com/questions/14763079/what-are-the-xms-and-xmx-parameters-when-starting-jvm",
+      "closed_reason": "duplicate",
+      "title": "What are the -Xms and -Xmx parameters when starting JVM?"
+    },
+    {
+      "tags": [
+        "java",
+        "lambda",
+        "java-8",
+        "java-stream"
+      ],
+      "owner": {
+        "reputation": 8653,
+        "user_id": 1665365,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/1ebc8ee701d6a0e0b8a4b0a9294f2c47?s=128&d=identicon&r=PG",
+        "display_name": "Tom Cammann",
+        "link": "https://stackoverflow.com/users/1665365/tom-cammann"
+      },
+      "is_answered": true,
+      "view_count": 567709,
+      "protected_date": 1509066976,
+      "accepted_answer_id": 20363874,
+      "answer_count": 19,
+      "score": 853,
+      "last_activity_date": 1559676193,
+      "creation_date": 1386112729,
+      "last_edit_date": 1527718236,
+      "question_id": 20363719,
+      "link": "https://stackoverflow.com/questions/20363719/java-8-listv-into-mapk-v",
+      "title": "Java 8 List&lt;V&gt; into Map&lt;K, V&gt;"
+    },
+    {
+      "tags": [
+        "java",
+        "static-methods"
+      ],
+      "owner": {
+        "reputation": 5423,
+        "user_id": 94279,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/6ad4c029c42c1918ecae63b1833a0ed2?s=128&d=identicon&r=PG",
+        "display_name": "KP65",
+        "link": "https://stackoverflow.com/users/94279/kp65"
+      },
+      "is_answered": true,
+      "view_count": 1059142,
+      "protected_date": 1384974950,
+      "accepted_answer_id": 2671636,
+      "answer_count": 21,
+      "score": 837,
+      "last_activity_date": 1563194469,
+      "creation_date": 1271718333,
+      "last_edit_date": 1459828180,
+      "question_id": 2671496,
+      "link": "https://stackoverflow.com/questions/2671496/java-when-to-use-static-methods",
+      "title": "Java: when to use static methods"
+    },
+    {
+      "tags": [
+        "java",
+        "enums",
+        "for-loop"
+      ],
+      "owner": {
+        "reputation": 26802,
+        "user_id": 135178,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/da5cf6122a16fb61af077a6b431e7b6a?s=128&d=identicon&r=PG",
+        "display_name": "Nick Meyer",
+        "link": "https://stackoverflow.com/users/135178/nick-meyer"
+      },
+      "is_answered": true,
+      "view_count": 444352,
+      "protected_date": 1415793089,
+      "accepted_answer_id": 1104994,
+      "answer_count": 10,
+      "score": 835,
+      "last_activity_date": 1543979880,
+      "creation_date": 1247156643,
+      "last_edit_date": 1471093544,
+      "question_id": 1104975,
+      "link": "https://stackoverflow.com/questions/1104975/a-for-loop-to-iterate-over-an-enum-in-java",
+      "title": "A &#39;for&#39; loop to iterate over an enum in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "multithreading",
+        "concurrency",
+        "thread-local",
+        "thread-confinement"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "Sasha"
+      },
+      "is_answered": true,
+      "view_count": 303184,
+      "accepted_answer_id": 817926,
+      "answer_count": 24,
+      "score": 833,
+      "last_activity_date": 1557882823,
+      "creation_date": 1241380760,
+      "last_edit_date": 1557365663,
+      "question_id": 817856,
+      "link": "https://stackoverflow.com/questions/817856/when-and-how-should-i-use-a-threadlocal-variable",
+      "title": "When and how should I use a ThreadLocal variable?"
+    },
+    {
+      "tags": [
+        "java",
+        "string",
+        "date",
+        "time",
+        "data-conversion"
+      ],
+      "owner": {
+        "reputation": 8052,
+        "user_id": 123891,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/5ce0c454c9c66c4c7774cf4b0172c5c4?s=128&d=identicon&r=PG",
+        "display_name": "littleK",
+        "link": "https://stackoverflow.com/users/123891/littlek"
+      },
+      "is_answered": true,
+      "view_count": 1718219,
+      "protected_date": 1368117822,
+      "accepted_answer_id": 4216767,
+      "answer_count": 13,
+      "score": 825,
+      "last_activity_date": 1551191433,
+      "creation_date": 1290095581,
+      "last_edit_date": 1529934822,
+      "question_id": 4216745,
+      "link": "https://stackoverflow.com/questions/4216745/java-string-to-date-conversion",
+      "title": "Java string to date conversion"
+    },
+    {
+      "tags": [
+        "java",
+        "unit-testing",
+        "mocking",
+        "mockito"
+      ],
+      "owner": {
+        "reputation": 8594,
+        "user_id": 115890,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://i.stack.imgur.com/7BJ2g.jpg?s=128&g=1",
+        "display_name": "ibrahimyilmaz",
+        "link": "https://stackoverflow.com/users/115890/ibrahimyilmaz"
+      },
+      "is_answered": true,
+      "view_count": 685334,
+      "protected_date": 1428336531,
+      "accepted_answer_id": 2287302,
+      "answer_count": 10,
+      "score": 825,
+      "last_activity_date": 1556390840,
+      "creation_date": 1266353679,
+      "last_edit_date": 1556390840,
+      "question_id": 2276271,
+      "link": "https://stackoverflow.com/questions/2276271/how-to-make-mock-to-void-methods-with-mockito",
+      "title": "How to make mock to void methods with Mockito"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "reputation": 6439,
+        "user_id": 167114,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/d8f34b07df369e3c65131dd24b04ffe6?s=128&d=identicon&r=PG",
+        "display_name": "i2ijeya",
+        "link": "https://stackoverflow.com/users/167114/i2ijeya"
+      },
+      "is_answered": true,
+      "view_count": 604773,
+      "protected_date": 1472836046,
+      "accepted_answer_id": 1906455,
+      "answer_count": 20,
+      "score": 813,
+      "last_activity_date": 1549448225,
+      "creation_date": 1260872367,
+      "last_edit_date": 1346166576,
+      "question_id": 1906445,
+      "link": "https://stackoverflow.com/questions/1906445/what-is-the-difference-between-jdk-and-jre",
+      "title": "What is the difference between JDK and JRE?"
+    },
+    {
+      "tags": [
+        "java",
+        "jvm",
+        "benchmarking",
+        "jvm-hotspot",
+        "microbenchmark"
+      ],
+      "owner": {
+        "reputation": 10215,
+        "user_id": 24243,
+        "user_type": "registered",
+        "accept_rate": 40,
+        "profile_image": "https://www.gravatar.com/avatar/78443e56a77d9c3328197ee5c952c3d7?s=128&d=identicon&r=PG",
+        "display_name": "John Nilsson",
+        "link": "https://stackoverflow.com/users/24243/john-nilsson"
+      },
+      "is_answered": true,
+      "view_count": 103310,
+      "protected_date": 1296569235,
+      "accepted_answer_id": 513259,
+      "answer_count": 11,
+      "score": 811,
+      "last_activity_date": 1553325105,
+      "creation_date": 1233596381,
+      "last_edit_date": 1553324493,
+      "question_id": 504103,
+      "link": "https://stackoverflow.com/questions/504103/how-do-i-write-a-correct-micro-benchmark-in-java",
+      "title": "How do I write a correct micro-benchmark in Java?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 271
+}

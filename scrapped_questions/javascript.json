@@ -1,0 +1,2867 @@
+{
+  "items": [
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "redirect"
+      ],
+      "owner": {
+        "reputation": 49494,
+        "user_id": 44984,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://i.stack.imgur.com/7rqob.jpg?s=128&g=1",
+        "display_name": "venkatachalam",
+        "link": "https://stackoverflow.com/users/44984/venkatachalam"
+      },
+      "is_answered": true,
+      "view_count": 5756947,
+      "protected_date": 1447333882,
+      "accepted_answer_id": 506004,
+      "answer_count": 58,
+      "score": 7729,
+      "locked_date": 1522910705,
+      "last_activity_date": 1561992722,
+      "creation_date": 1233579256,
+      "last_edit_date": 1517920814,
+      "question_id": 503093,
+      "link": "https://stackoverflow.com/questions/503093/how-do-i-redirect-to-another-webpage",
+      "title": "How do I redirect to another webpage?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "function",
+        "variables",
+        "scope",
+        "closures"
+      ],
+      "owner": {
+        "reputation": 371541,
+        "user_id": 9951,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/1449ec95d8c114dbca53136cc8194b61?s=128&d=identicon&r=PG&f=1",
+        "display_name": "e-satis",
+        "link": "https://stackoverflow.com/users/9951/e-satis"
+      },
+      "is_answered": true,
+      "view_count": 1356413,
+      "protected_date": 1316450131,
+      "accepted_answer_id": 111111,
+      "answer_count": 86,
+      "community_owned_date": 1370514175,
+      "score": 7648,
+      "locked_date": 1497372465,
+      "last_activity_date": 1559757004,
+      "creation_date": 1222006327,
+      "last_edit_date": 1491746117,
+      "question_id": 111102,
+      "link": "https://stackoverflow.com/questions/111102/how-do-javascript-closures-work",
+      "title": "How do JavaScript closures work?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "string",
+        "substring",
+        "string-matching"
+      ],
+      "owner": {
+        "reputation": 9239,
+        "user_id": 131679,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://www.gravatar.com/avatar/4cb7f78dca34d0e27931f743f3aa1f30?s=128&d=identicon&r=PG",
+        "display_name": "gramm",
+        "link": "https://stackoverflow.com/users/131679/gramm"
+      },
+      "is_answered": true,
+      "view_count": 5600589,
+      "protected_date": 1351859467,
+      "accepted_answer_id": 1789952,
+      "answer_count": 3,
+      "community_owned_date": 1388363490,
+      "score": 7433,
+      "locked_date": 1522910801,
+      "last_activity_date": 1562385670,
+      "creation_date": 1259067869,
+      "last_edit_date": 1554297428,
+      "question_id": 1789945,
+      "link": "https://stackoverflow.com/questions/1789945/how-to-check-whether-a-string-contains-a-substring-in-javascript",
+      "title": "How to check whether a string contains a substring in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "dom",
+        "visibility"
+      ],
+      "owner": {
+        "reputation": 57518,
+        "user_id": 21709,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/3ea9c684a2db319df788cecc6c98f9cd?s=128&d=identicon&r=PG",
+        "display_name": "Philip Morton",
+        "link": "https://stackoverflow.com/users/21709/philip-morton"
+      },
+      "is_answered": true,
+      "view_count": 2465091,
+      "protected_date": 1334286591,
+      "accepted_answer_id": 178450,
+      "answer_count": 55,
+      "score": 7317,
+      "last_activity_date": 1563446431,
+      "creation_date": 1223384598,
+      "last_edit_date": 1563446431,
+      "question_id": 178325,
+      "link": "https://stackoverflow.com/questions/178325/how-do-i-check-if-an-element-is-hidden-in-jquery",
+      "title": "How do I check if an element is hidden in jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays"
+      ],
+      "owner": {
+        "reputation": 40111,
+        "user_id": 364969,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/79e7cefc9e7deb0e0bf422baa1a38a2c?s=128&d=identicon&r=PG",
+        "display_name": "Walker",
+        "link": "https://stackoverflow.com/users/364969/walker"
+      },
+      "is_answered": true,
+      "view_count": 5835396,
+      "protected_date": 1418673600,
+      "accepted_answer_id": 5767357,
+      "answer_count": 79,
+      "score": 7277,
+      "last_activity_date": 1561472504,
+      "creation_date": 1303597038,
+      "last_edit_date": 1550146186,
+      "question_id": 5767325,
+      "link": "https://stackoverflow.com/questions/5767325/how-do-i-remove-a-particular-element-from-an-array-in-javascript",
+      "title": "How do I remove a particular element from an array in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "syntax",
+        "jslint",
+        "use-strict"
+      ],
+      "owner": {
+        "reputation": 42623,
+        "user_id": 25847,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/34d142b034e7b194fc1708f3b20d9568?s=128&d=identicon&r=PG",
+        "display_name": "Mark Rogers",
+        "link": "https://stackoverflow.com/users/25847/mark-rogers"
+      },
+      "is_answered": true,
+      "view_count": 1025868,
+      "protected_date": 1370840538,
+      "accepted_answer_id": 1335881,
+      "answer_count": 27,
+      "score": 7195,
+      "last_activity_date": 1563537714,
+      "creation_date": 1251303013,
+      "last_edit_date": 1485135002,
+      "question_id": 1335851,
+      "link": "https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it",
+      "title": "What does &quot;use strict&quot; do in JavaScript, and what is the reasoning behind it?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "function",
+        "syntax",
+        "idioms"
+      ],
+      "owner": {
+        "reputation": 41971,
+        "user_id": 31569,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/2d71a937d0e784ea99153ce46afb9fb1?s=128&d=identicon&r=PG",
+        "display_name": "Richard Garside",
+        "link": "https://stackoverflow.com/users/31569/richard-garside"
+      },
+      "is_answered": true,
+      "view_count": 954180,
+      "protected_date": 1370840753,
+      "accepted_answer_id": 336868,
+      "answer_count": 38,
+      "score": 6503,
+      "last_activity_date": 1562455177,
+      "creation_date": 1228303867,
+      "last_edit_date": 1555350310,
+      "question_id": 336859,
+      "link": "https://stackoverflow.com/questions/336859/var-functionname-function-vs-function-functionname",
+      "title": "var functionName = function() {} vs function functionName() {}"
+    },
+    {
+      "tags": [
+        "javascript",
+        "operators",
+        "equality",
+        "equality-operator",
+        "identity-operator"
+      ],
+      "owner": {
+        "reputation": 28772,
+        "user_id": 44990,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/3a15a9709950fe8e7e5a2e1ef184f5d5?s=128&d=identicon&r=PG",
+        "display_name": "bcasp",
+        "link": "https://stackoverflow.com/users/44990/bcasp"
+      },
+      "is_answered": true,
+      "view_count": 1656815,
+      "protected_date": 1349355201,
+      "accepted_answer_id": 359509,
+      "answer_count": 49,
+      "score": 5670,
+      "locked_date": 1531965274,
+      "last_activity_date": 1556502828,
+      "creation_date": 1229005189,
+      "last_edit_date": 1490199217,
+      "question_id": 359494,
+      "link": "https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons",
+      "title": "Which equals operator (== vs ===) should be used in JavaScript comparisons?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "javascript-objects",
+        "object-properties"
+      ],
+      "owner": {
+        "reputation": 43066,
+        "user_id": 27929,
+        "user_type": "registered",
+        "accept_rate": 41,
+        "profile_image": "https://www.gravatar.com/avatar/8b141abc20af8ebe4667df467a73cc15?s=128&d=identicon&r=PG",
+        "display_name": "johnstok",
+        "link": "https://stackoverflow.com/users/27929/johnstok"
+      },
+      "is_answered": true,
+      "view_count": 1994885,
+      "protected_date": 1319135227,
+      "accepted_answer_id": 208106,
+      "answer_count": 38,
+      "score": 5615,
+      "last_activity_date": 1559827513,
+      "creation_date": 1224154665,
+      "last_edit_date": 1487494772,
+      "question_id": 208105,
+      "link": "https://stackoverflow.com/questions/208105/how-do-i-remove-a-property-from-a-javascript-object",
+      "title": "How do I remove a property from a JavaScript object?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "object",
+        "clone"
+      ],
+      "owner": {
+        "reputation": 5805,
+        "user_id": 12694,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/ecd1f4ee31abd67c6e665a10f5633e51?s=128&d=identicon&r=PG",
+        "display_name": "jschrab",
+        "link": "https://stackoverflow.com/users/12694/jschrab"
+      },
+      "is_answered": true,
+      "view_count": 1807126,
+      "protected_date": 1343768368,
+      "accepted_answer_id": 122704,
+      "answer_count": 69,
+      "community_owned_date": 1367873128,
+      "score": 5119,
+      "last_activity_date": 1562512185,
+      "creation_date": 1222187169,
+      "last_edit_date": 1490199459,
+      "question_id": 122102,
+      "link": "https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript",
+      "title": "What is the most efficient way to deep clone an object in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax",
+        "asynchronous",
+        "xmlhttprequest"
+      ],
+      "owner": {
+        "reputation": 580689,
+        "user_id": 218196,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/4P5DY.jpg?s=128&g=1",
+        "display_name": "Felix Kling",
+        "link": "https://stackoverflow.com/users/218196/felix-kling"
+      },
+      "is_answered": true,
+      "view_count": 1264684,
+      "protected_date": 1554698603,
+      "accepted_answer_id": 14220323,
+      "answer_count": 35,
+      "score": 5014,
+      "last_activity_date": 1563443442,
+      "creation_date": 1357664774,
+      "last_edit_date": 1563443442,
+      "question_id": 14220321,
+      "link": "https://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call",
+      "title": "How do I return the response from an asynchronous call?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "file",
+        "import",
+        "include"
+      ],
+      "owner": {
+        "reputation": 39492,
+        "user_id": 426996,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/0eb2e9ceba799c6579820c40ef1509d8?s=128&d=identicon&r=PG",
+        "display_name": "Alec Smart",
+        "link": "https://stackoverflow.com/users/426996/alec-smart"
+      },
+      "is_answered": true,
+      "view_count": 2782225,
+      "protected_date": 1370840821,
+      "accepted_answer_id": 950146,
+      "answer_count": 57,
+      "score": 4712,
+      "last_activity_date": 1562775129,
+      "creation_date": 1244116790,
+      "last_edit_date": 1508255614,
+      "question_id": 950087,
+      "link": "https://stackoverflow.com/questions/950087/how-do-i-include-a-javascript-file-in-another-javascript-file",
+      "title": "How do I include a JavaScript file in another JavaScript file?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 302968,
+        "user_id": 215945,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/203qt.png?s=128&g=1",
+        "display_name": "Mark Rajcok",
+        "link": "https://stackoverflow.com/users/215945/mark-rajcok"
+      },
+      "is_answered": true,
+      "view_count": 808115,
+      "protected_date": 1363756301,
+      "closed_date": 1435089511,
+      "accepted_answer_id": 15012542,
+      "answer_count": 15,
+      "score": 4519,
+      "locked_date": 1435298834,
+      "last_activity_date": 1541200959,
+      "creation_date": 1361419796,
+      "last_edit_date": 1541200959,
+      "question_id": 14994391,
+      "link": "https://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background",
+      "closed_reason": "too broad",
+      "title": "&quot;Thinking in AngularJS&quot; if I have a jQuery background?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays",
+        "loops",
+        "foreach",
+        "iteration"
+      ],
+      "owner": {
+        "reputation": 22198,
+        "user_id": 1140876,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/35c44645d7729e6828f494f5e20d5909?s=128&d=identicon&r=PG",
+        "display_name": "Dante1986",
+        "link": "https://stackoverflow.com/users/1140876/dante1986"
+      },
+      "is_answered": true,
+      "view_count": 3789333,
+      "protected_date": 1396537395,
+      "accepted_answer_id": 9329476,
+      "answer_count": 33,
+      "score": 4280,
+      "last_activity_date": 1558091480,
+      "creation_date": 1329486708,
+      "last_edit_date": 1555078470,
+      "question_id": 9329446,
+      "link": "https://stackoverflow.com/questions/9329446/for-each-over-an-array-in-javascript",
+      "title": "For-each over an array in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "dom",
+        "checkbox"
+      ],
+      "owner": {
+        "reputation": 27135,
+        "user_id": 111435,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/3d7de11fb1c0a98dc2aee865c558f7cc?s=128&d=identicon&r=PG",
+        "display_name": "Prasad",
+        "link": "https://stackoverflow.com/users/111435/prasad"
+      },
+      "is_answered": true,
+      "view_count": 3915389,
+      "protected_date": 1369154844,
+      "accepted_answer_id": 903152,
+      "answer_count": 61,
+      "community_owned_date": 1380469505,
+      "score": 4268,
+      "last_activity_date": 1563432625,
+      "creation_date": 1243091799,
+      "last_edit_date": 1562674852,
+      "question_id": 901712,
+      "link": "https://stackoverflow.com/questions/901712/how-to-check-whether-a-checkbox-is-checked-in-jquery",
+      "title": "How to check whether a checkbox is checked in jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "scope",
+        "ecmascript-6",
+        "var",
+        "let"
+      ],
+      "owner": {
+        "reputation": 50130,
+        "user_id": 12983,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/b33e8a75c925b361be8ff9568e35b26c?s=128&d=identicon&r=PG",
+        "display_name": "TM.",
+        "link": "https://stackoverflow.com/users/12983/tm"
+      },
+      "is_answered": true,
+      "view_count": 1029376,
+      "protected_date": 1465851993,
+      "accepted_answer_id": 11444416,
+      "answer_count": 32,
+      "score": 3947,
+      "last_activity_date": 1561344788,
+      "creation_date": 1239998966,
+      "last_edit_date": 1552944060,
+      "question_id": 762011,
+      "link": "https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var",
+      "title": "What&#39;s the difference between using &quot;let&quot; and &quot;var&quot;?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "checkbox",
+        "selected",
+        "checked"
+      ],
+      "owner": {
+        "reputation": 24741,
+        "user_id": 18107,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/8401ce7758b1b2040536bcb8e9575d58?s=128&d=identicon&r=PG",
+        "display_name": "tpower",
+        "link": "https://stackoverflow.com/users/18107/tpower"
+      },
+      "is_answered": true,
+      "view_count": 3084305,
+      "protected_date": 1370840703,
+      "accepted_answer_id": 426276,
+      "answer_count": 40,
+      "score": 3899,
+      "last_activity_date": 1546441804,
+      "creation_date": 1231453224,
+      "last_edit_date": 1457720096,
+      "question_id": 426258,
+      "link": "https://stackoverflow.com/questions/426258/setting-checked-for-a-checkbox-with-jquery",
+      "title": "Setting &quot;checked&quot; for a checkbox with jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "performance",
+        "optimization",
+        "href"
+      ],
+      "owner": {
+        "reputation": 1372,
+        "user_id": 8018,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/?s=128&d=identicon&r=PG",
+        "display_name": "2cBGj7vsfp",
+        "link": "https://stackoverflow.com/users/8018/2cbgj7vsfp"
+      },
+      "is_answered": true,
+      "view_count": 2212723,
+      "protected_date": 1320853767,
+      "answer_count": 54,
+      "community_owned_date": 1323940895,
+      "score": 3899,
+      "last_activity_date": 1560512251,
+      "creation_date": 1222365267,
+      "last_edit_date": 1487494697,
+      "question_id": 134845,
+      "link": "https://stackoverflow.com/questions/134845/which-href-value-should-i-use-for-javascript-links-or-javascriptvoid0",
+      "title": "Which &quot;href&quot; value should I use for JavaScript links, &quot;#&quot; or &quot;javascript:void(0)&quot;?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "regex",
+        "validation",
+        "email",
+        "email-validation"
+      ],
+      "owner": {
+        "reputation": 23835,
+        "user_id": 72,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/d53534df62555444fbae96b767b41b91?s=128&d=identicon&r=PG",
+        "display_name": "pix0r",
+        "link": "https://stackoverflow.com/users/72/pix0r"
+      },
+      "is_answered": true,
+      "view_count": 2638515,
+      "protected_date": 1299065462,
+      "accepted_answer_id": 46181,
+      "answer_count": 83,
+      "community_owned_date": 1378866100,
+      "score": 3877,
+      "last_activity_date": 1563223247,
+      "creation_date": 1220631011,
+      "last_edit_date": 1563222430,
+      "question_id": 46155,
+      "link": "https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript",
+      "title": "How to validate an email address in JavaScript"
+    },
+    {
+      "tags": [
+        "javascript",
+        "json",
+        "ajax",
+        "security"
+      ],
+      "owner": {
+        "reputation": 21962,
+        "user_id": 151495,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/fc3015cf70c3bebd186fc66af6f48759?s=128&d=identicon&r=PG",
+        "display_name": "Jess",
+        "link": "https://stackoverflow.com/users/151495/jess"
+      },
+      "is_answered": true,
+      "view_count": 504459,
+      "protected_date": 1508947745,
+      "accepted_answer_id": 2669766,
+      "answer_count": 6,
+      "score": 3867,
+      "last_activity_date": 1552877565,
+      "creation_date": 1271700009,
+      "last_edit_date": 1509398425,
+      "question_id": 2669690,
+      "link": "https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses",
+      "title": "Why does Google prepend while(1); to their JSON responses?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "string",
+        "replace"
+      ],
+      "owner": {
+        "reputation": 103582,
+        "user_id": 49153,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/833df8cee775eea743cb1172dfcd3809?s=128&d=identicon&r=PG",
+        "display_name": "Click Upvote",
+        "link": "https://stackoverflow.com/users/49153/click-upvote"
+      },
+      "is_answered": true,
+      "view_count": 3021292,
+      "protected_date": 1441104082,
+      "accepted_answer_id": 17606289,
+      "answer_count": 56,
+      "score": 3863,
+      "last_activity_date": 1563205805,
+      "creation_date": 1247853226,
+      "last_edit_date": 1563205805,
+      "question_id": 1144783,
+      "link": "https://stackoverflow.com/questions/1144783/how-to-replace-all-occurrences-of-a-string",
+      "title": "How to replace all occurrences of a string?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "guid",
+        "uuid"
+      ],
+      "owner": {
+        "reputation": 60320,
+        "user_id": 4926,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/3f9f1c5628ed19b0e70fd4e8b8a1d0b9?s=128&d=identicon&r=PG",
+        "display_name": "Jason Cohen",
+        "link": "https://stackoverflow.com/users/4926/jason-cohen"
+      },
+      "is_answered": true,
+      "view_count": 1538037,
+      "protected_date": 1370841035,
+      "accepted_answer_id": 105074,
+      "answer_count": 52,
+      "community_owned_date": 1396595614,
+      "score": 3737,
+      "last_activity_date": 1563225385,
+      "creation_date": 1221854460,
+      "last_edit_date": 1419636988,
+      "question_id": 105034,
+      "link": "https://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript",
+      "title": "Create GUID / UUID in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "date",
+        "datetime",
+        "timestamp",
+        "unix-timestamp"
+      ],
+      "owner": {
+        "reputation": 109202,
+        "user_id": 6068,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/931970b8dc51b72e05e3a12b88612d61?s=128&d=identicon&r=PG",
+        "display_name": "pupeno",
+        "link": "https://stackoverflow.com/users/6068/pupeno"
+      },
+      "is_answered": true,
+      "view_count": 2620931,
+      "protected_date": 1290095159,
+      "accepted_answer_id": 221297,
+      "answer_count": 38,
+      "score": 3722,
+      "last_activity_date": 1562349513,
+      "creation_date": 1224581373,
+      "last_edit_date": 1430171343,
+      "question_id": 221294,
+      "link": "https://stackoverflow.com/questions/221294/how-do-you-get-a-timestamp-in-javascript",
+      "title": "How do you get a timestamp in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays",
+        "algorithm",
+        "time-complexity",
+        "javascript-objects"
+      ],
+      "owner": {
+        "reputation": 30848,
+        "user_id": 208,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/0168f51cd822a820c606c259b80e253f?s=128&d=identicon&r=PG",
+        "display_name": "brad",
+        "link": "https://stackoverflow.com/users/208/brad"
+      },
+      "is_answered": true,
+      "view_count": 2336969,
+      "protected_date": 1392419401,
+      "accepted_answer_id": 1473742,
+      "answer_count": 46,
+      "score": 3634,
+      "last_activity_date": 1561030012,
+      "creation_date": 1224972880,
+      "last_edit_date": 1551187821,
+      "question_id": 237104,
+      "link": "https://stackoverflow.com/questions/237104/how-do-i-check-if-an-array-includes-an-object-in-javascript",
+      "title": "How do I check if an array includes an object in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "string",
+        "letter",
+        "capitalize"
+      ],
+      "owner": {
+        "reputation": 17536,
+        "user_id": 126778,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/3836be42aafd22765e6988e5f995226b?s=128&d=identicon&r=PG",
+        "display_name": "Robert Wills",
+        "link": "https://stackoverflow.com/users/126778/robert-wills"
+      },
+      "is_answered": true,
+      "view_count": 1804456,
+      "protected_date": 1374126183,
+      "answer_count": 84,
+      "score": 3435,
+      "last_activity_date": 1563572754,
+      "creation_date": 1245659131,
+      "last_edit_date": 1554488984,
+      "question_id": 1026069,
+      "link": "https://stackoverflow.com/questions/1026069/how-do-i-make-the-first-letter-of-a-string-uppercase-in-javascript",
+      "title": "How do I make the first letter of a string uppercase in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "clipboard",
+        "copy-paste"
+      ],
+      "owner": {
+        "reputation": 17014,
+        "user_id": 4264,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://i.stack.imgur.com/aeoTU.jpg?s=128&g=1",
+        "display_name": "Santiago Corredoira",
+        "link": "https://stackoverflow.com/users/4264/santiago-corredoira"
+      },
+      "is_answered": true,
+      "view_count": 1628115,
+      "protected_date": 1368308819,
+      "answer_count": 51,
+      "score": 2990,
+      "last_activity_date": 1557401340,
+      "creation_date": 1230642545,
+      "last_edit_date": 1512315856,
+      "question_id": 400212,
+      "link": "https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript",
+      "title": "How do I copy to the clipboard in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "performance",
+        "function",
+        "dynamic"
+      ],
+      "owner": {
+        "reputation": 17291,
+        "user_id": 3041,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/cbfce1df8a098753f8b90ccac072a18e?s=128&d=identicon&r=PG",
+        "display_name": "John Duff",
+        "link": "https://stackoverflow.com/users/3041/john-duff"
+      },
+      "is_answered": true,
+      "view_count": 672641,
+      "protected_date": 1395963995,
+      "accepted_answer_id": 1986909,
+      "answer_count": 20,
+      "score": 2935,
+      "last_activity_date": 1548508381,
+      "creation_date": 1262289385,
+      "last_edit_date": 1531289558,
+      "question_id": 1986896,
+      "link": "https://stackoverflow.com/questions/1986896/what-is-the-difference-between-call-and-apply",
+      "title": "What is the difference between call and apply?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays",
+        "append"
+      ],
+      "owner": {
+        "reputation": 9392,
+        "user_id": 8482,
+        "user_type": "registered",
+        "accept_rate": 54,
+        "profile_image": "https://www.gravatar.com/avatar/248a3c4ba8f2972427222d46954f9c1c?s=128&d=identicon&r=PG",
+        "display_name": "interstar",
+        "link": "https://stackoverflow.com/users/8482/interstar"
+      },
+      "is_answered": true,
+      "view_count": 2736589,
+      "accepted_answer_id": 351421,
+      "answer_count": 30,
+      "community_owned_date": 1228782197,
+      "score": 2895,
+      "locked_date": 1534979800,
+      "last_activity_date": 1561253367,
+      "creation_date": 1228782005,
+      "last_edit_date": 1505071287,
+      "question_id": 351409,
+      "link": "https://stackoverflow.com/questions/351409/how-to-append-something-to-an-array",
+      "title": "How to append something to an array?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "javascript-events",
+        "event-handling",
+        "event-propagation"
+      ],
+      "owner": {
+        "reputation": 45698,
+        "user_id": 137467,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/ba549cc90adcc10d22c52c998c1a42c7?s=128&d=identicon&r=PG",
+        "display_name": "RaYell",
+        "link": "https://stackoverflow.com/users/137467/rayell"
+      },
+      "is_answered": true,
+      "view_count": 792608,
+      "protected_date": 1377790438,
+      "accepted_answer_id": 1357151,
+      "answer_count": 13,
+      "score": 2844,
+      "last_activity_date": 1557810585,
+      "creation_date": 1251719911,
+      "last_edit_date": 1490199579,
+      "question_id": 1357118,
+      "link": "https://stackoverflow.com/questions/1357118/event-preventdefault-vs-return-false",
+      "title": "event.preventDefault() vs. return false"
+    },
+    {
+      "tags": [
+        "javascript",
+        "clone",
+        "javascript-objects"
+      ],
+      "owner": {
+        "reputation": 14727,
+        "user_id": 49695,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/007fcb22bed672220b54afb4c46ef8c3?s=128&d=identicon&r=PG",
+        "display_name": "mindeavor",
+        "link": "https://stackoverflow.com/users/49695/mindeavor"
+      },
+      "is_answered": true,
+      "view_count": 1679723,
+      "protected_date": 1396701705,
+      "accepted_answer_id": 728694,
+      "answer_count": 61,
+      "score": 2819,
+      "last_activity_date": 1562939104,
+      "creation_date": 1239159666,
+      "last_edit_date": 1543968570,
+      "question_id": 728360,
+      "link": "https://stackoverflow.com/questions/728360/how-do-i-correctly-clone-a-javascript-object",
+      "title": "How do I correctly clone a JavaScript object?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays",
+        "loops",
+        "for-loop"
+      ],
+      "owner": {
+        "reputation": 21237,
+        "user_id": 304725,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/e43ef0e6657fa3ba398a211e1962423e?s=128&d=identicon&r=PG",
+        "display_name": "Mark Szymanski",
+        "link": "https://stackoverflow.com/users/304725/mark-szymanski"
+      },
+      "is_answered": true,
+      "view_count": 3366404,
+      "protected_date": 1395023506,
+      "answer_count": 39,
+      "score": 2812,
+      "last_activity_date": 1562871281,
+      "creation_date": 1276128267,
+      "last_edit_date": 1525169830,
+      "question_id": 3010840,
+      "link": "https://stackoverflow.com/questions/3010840/loop-through-an-array-in-javascript",
+      "title": "Loop through an array in JavaScript"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax",
+        "asynchronous",
+        "xmlhttprequest"
+      ],
+      "owner": {
+        "reputation": 32362,
+        "user_id": 2138,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://www.gravatar.com/avatar/30995fcc876f40073628b63ea5cfab59?s=128&d=identicon&r=PG",
+        "display_name": "Sergio del Amo",
+        "link": "https://stackoverflow.com/users/2138/sergio-del-amo"
+      },
+      "is_answered": true,
+      "view_count": 1270116,
+      "protected_date": 1283168476,
+      "answer_count": 33,
+      "score": 2783,
+      "last_activity_date": 1562322717,
+      "creation_date": 1223029337,
+      "last_edit_date": 1551187962,
+      "question_id": 166221,
+      "link": "https://stackoverflow.com/questions/166221/how-can-i-upload-files-asynchronously",
+      "title": "How can I upload files asynchronously?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "url"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "dougoftheabaci"
+      },
+      "is_answered": true,
+      "view_count": 2624987,
+      "protected_date": 1369882592,
+      "accepted_answer_id": 1034642,
+      "answer_count": 20,
+      "score": 2774,
+      "last_activity_date": 1561440612,
+      "creation_date": 1245785205,
+      "last_edit_date": 1506210114,
+      "question_id": 1034621,
+      "link": "https://stackoverflow.com/questions/1034621/get-the-current-url-with-javascript",
+      "title": "Get the current URL with JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "operators"
+      ],
+      "owner": {
+        "reputation": 15453,
+        "user_id": 59107,
+        "user_type": "registered",
+        "accept_rate": 45,
+        "profile_image": "https://www.gravatar.com/avatar/1c6ed1e4b15243c4e1a552fcdacff8ac?s=128&d=identicon&r=PG",
+        "display_name": "Hexagon Theory",
+        "link": "https://stackoverflow.com/users/59107/hexagon-theory"
+      },
+      "is_answered": true,
+      "view_count": 475889,
+      "protected_date": 1428955079,
+      "accepted_answer_id": 784946,
+      "answer_count": 35,
+      "score": 2760,
+      "last_activity_date": 1562589931,
+      "creation_date": 1240560838,
+      "last_edit_date": 1376428814,
+      "question_id": 784929,
+      "link": "https://stackoverflow.com/questions/784929/what-is-the-not-not-operator-in-javascript",
+      "title": "What is the !! (not not) operator in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "url",
+        "plugins",
+        "query-string"
+      ],
+      "owner": {
+        "reputation": 6799,
+        "user_id": 49742,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://i.stack.imgur.com/LpKk1.jpg?s=128&g=1",
+        "display_name": "Kemal Emin",
+        "link": "https://stackoverflow.com/users/49742/kemal-emin"
+      },
+      "is_answered": true,
+      "view_count": 3472500,
+      "protected_date": 1319383651,
+      "accepted_answer_id": 901144,
+      "answer_count": 73,
+      "community_owned_date": 1343334545,
+      "score": 2701,
+      "locked_date": 1406316939,
+      "last_activity_date": 1555321091,
+      "creation_date": 1243066248,
+      "last_edit_date": 1428368108,
+      "question_id": 901115,
+      "link": "https://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript",
+      "title": "How can I get query string values in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "css3"
+      ],
+      "owner": {
+        "reputation": 11326,
+        "user_id": 3009513,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/480ff02965c8d38dbfd8c903bb662efe?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Mathew MacLean",
+        "link": "https://stackoverflow.com/users/3009513/mathew-maclean"
+      },
+      "is_answered": true,
+      "view_count": 229621,
+      "protected_date": 1399997122,
+      "accepted_answer_id": 23569891,
+      "answer_count": 19,
+      "score": 2642,
+      "last_activity_date": 1548992949,
+      "creation_date": 1399652217,
+      "last_edit_date": 1544937073,
+      "question_id": 23569441,
+      "link": "https://stackoverflow.com/questions/23569441/is-it-possible-to-apply-css-to-half-of-a-character",
+      "title": "Is it possible to apply CSS to half of a character?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "object",
+        "undefined"
+      ],
+      "owner": {
+        "reputation": 69466,
+        "user_id": 797,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/aef85130bf44caa9b4de0a3153e758f2?s=128&d=identicon&r=PG",
+        "display_name": "Matt Sheppard",
+        "link": "https://stackoverflow.com/users/797/matt-sheppard"
+      },
+      "is_answered": true,
+      "view_count": 1079481,
+      "protected_date": 1335343521,
+      "accepted_answer_id": 416327,
+      "answer_count": 41,
+      "score": 2640,
+      "last_activity_date": 1552134624,
+      "creation_date": 1219735508,
+      "last_edit_date": 1447031189,
+      "question_id": 27509,
+      "link": "https://stackoverflow.com/questions/27509/detecting-an-undefined-object-property",
+      "title": "Detecting an undefined object property"
+    },
+    {
+      "tags": [
+        "javascript",
+        "loops",
+        "closures"
+      ],
+      "owner": {
+        "reputation": 385436,
+        "user_id": 9021,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/f092dfd45793e9483281d4205b674823?s=128&d=identicon&r=PG",
+        "display_name": "nickf",
+        "link": "https://stackoverflow.com/users/9021/nickf"
+      },
+      "is_answered": true,
+      "view_count": 320613,
+      "protected_date": 1399777873,
+      "accepted_answer_id": 750506,
+      "answer_count": 43,
+      "score": 2620,
+      "last_activity_date": 1560167815,
+      "creation_date": 1239775580,
+      "last_edit_date": 1558627014,
+      "question_id": 750486,
+      "link": "https://stackoverflow.com/questions/750486/javascript-closure-inside-loops-simple-practical-example",
+      "title": "JavaScript closure inside loops – simple practical example"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 33760,
+        "user_id": 302,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://i.stack.imgur.com/zonWW.jpg?s=128&g=1",
+        "display_name": "Jake McGraw",
+        "link": "https://stackoverflow.com/users/302/jake-mcgraw"
+      },
+      "is_answered": true,
+      "view_count": 714926,
+      "protected_date": 1365393315,
+      "accepted_answer_id": 587408,
+      "answer_count": 40,
+      "score": 2588,
+      "last_activity_date": 1563374597,
+      "creation_date": 1219866581,
+      "last_edit_date": 1513423743,
+      "question_id": 31044,
+      "link": "https://stackoverflow.com/questions/31044/is-there-an-exists-function-for-jquery",
+      "title": "Is there an &quot;exists&quot; function for jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays",
+        "object"
+      ],
+      "owner": {
+        "reputation": 19858,
+        "user_id": 79,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/072abdb5a6787505e87044eda654a49b?s=128&d=identicon&r=PG",
+        "display_name": "Adam Ernst",
+        "link": "https://stackoverflow.com/users/79/adam-ernst"
+      },
+      "is_answered": true,
+      "view_count": 1678907,
+      "protected_date": 1386274915,
+      "accepted_answer_id": 1098955,
+      "answer_count": 19,
+      "score": 2586,
+      "last_activity_date": 1558175538,
+      "creation_date": 1247059292,
+      "last_edit_date": 1442689293,
+      "question_id": 1098040,
+      "link": "https://stackoverflow.com/questions/1098040/checking-if-a-key-exists-in-a-javascript-object",
+      "title": "Checking if a key exists in a JavaScript object?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "loops",
+        "each"
+      ],
+      "owner": {
+        "reputation": 16494,
+        "user_id": 1312208,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/9196200f17e666c6ccd475bbf26e1309?s=128&d=identicon&r=PG",
+        "display_name": "Tanmoy",
+        "link": "https://stackoverflow.com/users/1312208/tanmoy"
+      },
+      "is_answered": true,
+      "view_count": 1693726,
+      "protected_date": 1361955130,
+      "accepted_answer_id": 684692,
+      "answer_count": 36,
+      "score": 2562,
+      "last_activity_date": 1560018378,
+      "creation_date": 1238047307,
+      "last_edit_date": 1536834367,
+      "question_id": 684672,
+      "link": "https://stackoverflow.com/questions/684672/how-do-i-loop-through-or-enumerate-a-javascript-object",
+      "title": "How do I loop through or enumerate a JavaScript object?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "dom"
+      ],
+      "owner": {
+        "reputation": 14451,
+        "user_id": 4998,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/9e7ab793d69214c204058d3788e2f97d?s=128&d=identicon&r=PG",
+        "display_name": "Nathan Smith",
+        "link": "https://stackoverflow.com/users/4998/nathan-smith"
+      },
+      "is_answered": true,
+      "view_count": 2382917,
+      "protected_date": 1319644295,
+      "accepted_answer_id": 196038,
+      "answer_count": 28,
+      "score": 2554,
+      "last_activity_date": 1555239545,
+      "creation_date": 1223842003,
+      "last_edit_date": 1555239545,
+      "question_id": 195951,
+      "link": "https://stackoverflow.com/questions/195951/how-to-change-an-elements-class-with-javascript",
+      "title": "How to change an element&#39;s class with JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "arrays",
+        "insert"
+      ],
+      "owner": {
+        "reputation": 30217,
+        "user_id": 192,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/4466fde5314c4361853e95c1f892e191?s=128&d=identicon&r=PG",
+        "display_name": "tags2k",
+        "link": "https://stackoverflow.com/users/192/tags2k"
+      },
+      "is_answered": true,
+      "view_count": 1573385,
+      "protected_date": 1410722819,
+      "accepted_answer_id": 586189,
+      "answer_count": 15,
+      "score": 2533,
+      "last_activity_date": 1563471486,
+      "creation_date": 1235572170,
+      "last_edit_date": 1549829222,
+      "question_id": 586182,
+      "link": "https://stackoverflow.com/questions/586182/how-to-insert-an-item-into-an-array-at-a-specific-index-javascript",
+      "title": "How to insert an item into an array at a specific index (JavaScript)?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "jquery-selectors",
+        "radio-button"
+      ],
+      "owner": {
+        "reputation": 40169,
+        "user_id": 1782,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/4dfc8f56817006ef21327d5ff19ce04f?s=128&d=identicon&r=PG",
+        "display_name": "juan",
+        "link": "https://stackoverflow.com/users/1782/juan"
+      },
+      "is_answered": true,
+      "view_count": 2024916,
+      "protected_date": 1395775523,
+      "accepted_answer_id": 596369,
+      "answer_count": 34,
+      "score": 2516,
+      "last_activity_date": 1559105949,
+      "creation_date": 1235764407,
+      "last_edit_date": 1502458294,
+      "question_id": 596351,
+      "link": "https://stackoverflow.com/questions/596351/how-can-i-know-which-radio-button-is-selected-via-jquery",
+      "title": "How can I know which radio button is selected via jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "null",
+        "is-empty"
+      ],
+      "owner": {
+        "reputation": 30886,
+        "user_id": 5619,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/4c5bc935da066bf73113e426f396ba60?s=128&d=identicon&r=PG",
+        "display_name": "casademora",
+        "link": "https://stackoverflow.com/users/5619/casademora"
+      },
+      "is_answered": true,
+      "view_count": 2546388,
+      "protected_date": 1383310658,
+      "accepted_answer_id": 154068,
+      "answer_count": 41,
+      "score": 2501,
+      "last_activity_date": 1560510061,
+      "creation_date": 1222795065,
+      "last_edit_date": 1543917221,
+      "question_id": 154059,
+      "link": "https://stackoverflow.com/questions/154059/how-to-check-empty-undefined-null-string-in-javascript",
+      "title": "How to check empty/undefined/null string in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays",
+        "javascript-objects"
+      ],
+      "owner": {
+        "reputation": 130548,
+        "user_id": 65387,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/c0377fc1b08293d3362611978913a32b?s=128&d=identicon&r=PG",
+        "display_name": "mpen",
+        "link": "https://stackoverflow.com/users/65387/mpen"
+      },
+      "is_answered": true,
+      "view_count": 1376492,
+      "protected_date": 1443032875,
+      "accepted_answer_id": 20956445,
+      "answer_count": 45,
+      "score": 2476,
+      "last_activity_date": 1563215939,
+      "creation_date": 1295808784,
+      "last_edit_date": 1549879354,
+      "question_id": 4775722,
+      "link": "https://stackoverflow.com/questions/4775722/how-to-check-if-an-object-is-an-array",
+      "title": "How to check if an object is an array?"
+    },
+    {
+      "tags": [
+        "javascript"
+      ],
+      "owner": {
+        "reputation": 12394,
+        "user_id": 64784,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0a9c0ebf4b5e81484937665688cbe96d?s=128&d=identicon&r=PG",
+        "display_name": "falmp",
+        "link": "https://stackoverflow.com/users/64784/falmp"
+      },
+      "is_answered": true,
+      "view_count": 1743198,
+      "protected_date": 1524664752,
+      "accepted_answer_id": 32108184,
+      "answer_count": 44,
+      "score": 2426,
+      "last_activity_date": 1559684979,
+      "creation_date": 1237945185,
+      "last_edit_date": 1559684979,
+      "question_id": 679915,
+      "link": "https://stackoverflow.com/questions/679915/how-do-i-test-for-an-empty-javascript-object",
+      "title": "How do I test for an empty JavaScript object?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "ecmascript-6"
+      ],
+      "owner": {
+        "reputation": 4620,
+        "user_id": 1165332,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://i.stack.imgur.com/4IJx2.jpg?s=128&g=1",
+        "display_name": "Dimpu Aravind Buddha",
+        "link": "https://stackoverflow.com/users/1165332/dimpu-aravind-buddha"
+      },
+      "is_answered": true,
+      "view_count": 358658,
+      "protected_date": 1516121121,
+      "accepted_answer_id": 48270314,
+      "answer_count": 26,
+      "score": 2409,
+      "last_activity_date": 1559835114,
+      "creation_date": 1516047647,
+      "last_edit_date": 1543249297,
+      "question_id": 48270127,
+      "link": "https://stackoverflow.com/questions/48270127/can-a-1-a-2-a-3-ever-evaluate-to-true",
+      "title": "Can (a== 1 &amp;&amp; a ==2 &amp;&amp; a==3) ever evaluate to true?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays",
+        "sorting"
+      ],
+      "owner": {
+        "reputation": 12011,
+        "user_id": 138390,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/5fbd1c9c3953de2fdf81e50b492777e2?s=128&d=identicon&r=PG",
+        "display_name": "Tyrone Slothrop",
+        "link": "https://stackoverflow.com/users/138390/tyrone-slothrop"
+      },
+      "is_answered": true,
+      "view_count": 1244977,
+      "protected_date": 1444997798,
+      "accepted_answer_id": 1129270,
+      "answer_count": 41,
+      "score": 2356,
+      "last_activity_date": 1558192193,
+      "creation_date": 1247627867,
+      "last_edit_date": 1539014468,
+      "question_id": 1129216,
+      "link": "https://stackoverflow.com/questions/1129216/sort-array-of-objects-by-string-property-value",
+      "title": "Sort array of objects by string property value"
+    },
+    {
+      "tags": [
+        "javascript",
+        "url",
+        "encoding"
+      ],
+      "owner": {
+        "reputation": 385436,
+        "user_id": 9021,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/f092dfd45793e9483281d4205b674823?s=128&d=identicon&r=PG",
+        "display_name": "nickf",
+        "link": "https://stackoverflow.com/users/9021/nickf"
+      },
+      "is_answered": true,
+      "view_count": 1413760,
+      "protected_date": 1372551127,
+      "accepted_answer_id": 332888,
+      "answer_count": 14,
+      "score": 2326,
+      "last_activity_date": 1563352621,
+      "creation_date": 1228185428,
+      "last_edit_date": 1414761202,
+      "question_id": 332872,
+      "link": "https://stackoverflow.com/questions/332872/encode-url-in-javascript",
+      "title": "Encode URL in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html5",
+        "local-storage"
+      ],
+      "owner": {
+        "reputation": 51727,
+        "user_id": 1175,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/48c5dc5d3596150c1d9d906a687cf458?s=128&d=identicon&r=PG",
+        "display_name": "Kristopher Johnson",
+        "link": "https://stackoverflow.com/users/1175/kristopher-johnson"
+      },
+      "is_answered": true,
+      "view_count": 971156,
+      "protected_date": 1371982237,
+      "accepted_answer_id": 2010948,
+      "answer_count": 27,
+      "score": 2310,
+      "last_activity_date": 1561625753,
+      "creation_date": 1262750751,
+      "last_edit_date": 1495023607,
+      "question_id": 2010892,
+      "link": "https://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage",
+      "title": "Storing Objects in HTML5 localStorage"
+    },
+    {
+      "tags": [
+        "javascript",
+        "decimal",
+        "rounding",
+        "decimal-point"
+      ],
+      "owner": {
+        "reputation": 13375,
+        "user_id": 360705,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://i.stack.imgur.com/4f5zg.jpg?s=128&g=1",
+        "display_name": "stinkycheeseman",
+        "link": "https://stackoverflow.com/users/360705/stinkycheeseman"
+      },
+      "is_answered": true,
+      "view_count": 2031765,
+      "protected_date": 1376752269,
+      "accepted_answer_id": 11832950,
+      "answer_count": 66,
+      "score": 2305,
+      "last_activity_date": 1560891154,
+      "creation_date": 1344273468,
+      "last_edit_date": 1556651605,
+      "question_id": 11832914,
+      "link": "https://stackoverflow.com/questions/11832914/round-to-at-most-2-decimal-places-only-if-necessary",
+      "title": "Round to at most 2 decimal places (only if necessary)"
+    },
+    {
+      "tags": [
+        "javascript",
+        "string",
+        "multiline",
+        "heredoc"
+      ],
+      "owner": {
+        "reputation": 13651,
+        "user_id": 95956,
+        "user_type": "registered",
+        "accept_rate": 39,
+        "profile_image": "https://www.gravatar.com/avatar/cf67a80f9bbf37b8fa751a05d3b90977?s=128&d=identicon&r=PG",
+        "display_name": "Newy",
+        "link": "https://stackoverflow.com/users/95956/newy"
+      },
+      "is_answered": true,
+      "view_count": 1278969,
+      "protected_date": 1386817393,
+      "accepted_answer_id": 805113,
+      "answer_count": 36,
+      "score": 2286,
+      "last_activity_date": 1555657825,
+      "creation_date": 1241057515,
+      "last_edit_date": 1368027446,
+      "question_id": 805107,
+      "link": "https://stackoverflow.com/questions/805107/creating-multiline-strings-in-javascript",
+      "title": "Creating multiline strings in JavaScript"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "refresh",
+        "reload"
+      ],
+      "owner": {
+        "reputation": 15613,
+        "user_id": 505762,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/2201d8fa37944a6b590cf0c67e1af931?s=128&d=identicon&r=PG",
+        "display_name": "luca",
+        "link": "https://stackoverflow.com/users/505762/luca"
+      },
+      "is_answered": true,
+      "view_count": 2306358,
+      "protected_date": 1399453611,
+      "accepted_answer_id": 5404869,
+      "answer_count": 23,
+      "score": 2285,
+      "last_activity_date": 1558077614,
+      "creation_date": 1300881331,
+      "last_edit_date": 1367954897,
+      "question_id": 5404839,
+      "link": "https://stackoverflow.com/questions/5404839/how-can-i-refresh-a-page-with-jquery",
+      "title": "How can I refresh a page with jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 32362,
+        "user_id": 2138,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://www.gravatar.com/avatar/30995fcc876f40073628b63ea5cfab59?s=128&d=identicon&r=PG",
+        "display_name": "Sergio del Amo",
+        "link": "https://stackoverflow.com/users/2138/sergio-del-amo"
+      },
+      "is_answered": true,
+      "view_count": 1111070,
+      "protected_date": 1372107596,
+      "accepted_answer_id": 153047,
+      "answer_count": 77,
+      "community_owned_date": 1366294701,
+      "score": 2283,
+      "last_activity_date": 1561479837,
+      "creation_date": 1222780632,
+      "last_edit_date": 1477843549,
+      "question_id": 152975,
+      "link": "https://stackoverflow.com/questions/152975/how-do-i-detect-a-click-outside-an-element",
+      "title": "How do I detect a click outside an element?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "validation",
+        "numbers"
+      ],
+      "owner": {
+        "reputation": 77954,
+        "user_id": 29,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/f4f4b5a6f27f72b32d42463b1a25e0df?s=128&d=identicon&r=PG",
+        "display_name": "Michael Haren",
+        "link": "https://stackoverflow.com/users/29/michael-haren"
+      },
+      "is_answered": true,
+      "view_count": 1441300,
+      "protected_date": 1357505852,
+      "accepted_answer_id": 1830844,
+      "answer_count": 48,
+      "community_owned_date": 1373411444,
+      "score": 2282,
+      "last_activity_date": 1549818668,
+      "creation_date": 1219242073,
+      "last_edit_date": 1481083051,
+      "question_id": 18082,
+      "link": "https://stackoverflow.com/questions/18082/validate-decimal-numbers-in-javascript-isnumeric",
+      "title": "Validate decimal numbers in JavaScript - IsNumeric()"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html-table"
+      ],
+      "owner": {
+        "reputation": 71124,
+        "user_id": 5441,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/0aebcaf10719325c563dea3d1f024958?s=128&d=identicon&r=PG",
+        "display_name": "Darryl Hein",
+        "link": "https://stackoverflow.com/users/5441/darryl-hein"
+      },
+      "is_answered": true,
+      "view_count": 1549836,
+      "protected_date": 1295777235,
+      "accepted_answer_id": 171049,
+      "answer_count": 35,
+      "score": 2268,
+      "last_activity_date": 1557649527,
+      "creation_date": 1223155990,
+      "last_edit_date": 1451504352,
+      "question_id": 171027,
+      "link": "https://stackoverflow.com/questions/171027/add-table-row-in-jquery",
+      "title": "Add table row in jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "function",
+        "parameters",
+        "default-parameters"
+      ],
+      "owner": {
+        "reputation": 23341,
+        "user_id": 1470,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/bf8f45e0eeb60d023dfb474ea6e7eb44?s=128&d=identicon&r=PG",
+        "display_name": "Tilendor",
+        "link": "https://stackoverflow.com/users/1470/tilendor"
+      },
+      "is_answered": true,
+      "view_count": 1166040,
+      "protected_date": 1444036700,
+      "accepted_answer_id": 894877,
+      "answer_count": 24,
+      "score": 2218,
+      "last_activity_date": 1563294400,
+      "creation_date": 1242936437,
+      "last_edit_date": 1558067364,
+      "question_id": 894860,
+      "link": "https://stackoverflow.com/questions/894860/set-a-default-parameter-value-for-a-javascript-function",
+      "title": "Set a default parameter value for a JavaScript function"
+    },
+    {
+      "tags": [
+        "javascript"
+      ],
+      "owner": {
+        "reputation": 4286,
+        "user_id": 4599,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/1ffdc1eaaa1de227b53aa59d3bb82b61?s=128&d=identicon&r=PG",
+        "display_name": "Kevin",
+        "link": "https://stackoverflow.com/users/4599/kevin"
+      },
+      "is_answered": true,
+      "view_count": 1672024,
+      "protected_date": 1398689780,
+      "accepted_answer_id": 264037,
+      "answer_count": 74,
+      "community_owned_date": 1372016381,
+      "score": 2208,
+      "last_activity_date": 1561735625,
+      "creation_date": 1225843988,
+      "question_id": 263965,
+      "link": "https://stackoverflow.com/questions/263965/how-can-i-convert-a-string-to-boolean-in-javascript",
+      "title": "How can I convert a string to boolean in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "dom",
+        "attr",
+        "prop"
+      ],
+      "owner": {
+        "reputation": 115281,
+        "user_id": 561731,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/5ba9dd877c8a4bc5995b2101908ae648?s=128&d=identicon&r=PG",
+        "display_name": "Neal",
+        "link": "https://stackoverflow.com/users/561731/neal"
+      },
+      "is_answered": true,
+      "view_count": 557147,
+      "protected_date": 1325777013,
+      "accepted_answer_id": 5876747,
+      "answer_count": 17,
+      "score": 2208,
+      "last_activity_date": 1560440905,
+      "creation_date": 1304451208,
+      "last_edit_date": 1493143365,
+      "question_id": 5874652,
+      "link": "https://stackoverflow.com/questions/5874652/prop-vs-attr",
+      "title": ".prop() vs .attr()"
+    },
+    {
+      "tags": [
+        "javascript",
+        "javascript-objects"
+      ],
+      "owner": {
+        "reputation": 14689,
+        "user_id": 4541,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/0dbd7b2879b41c03162147c1037b3bcc?s=128&d=identicon&r=PG",
+        "display_name": "JC Grubbs",
+        "link": "https://stackoverflow.com/users/4541/jc-grubbs"
+      },
+      "is_answered": true,
+      "view_count": 1153413,
+      "protected_date": 1402509012,
+      "accepted_answer_id": 171256,
+      "answer_count": 60,
+      "community_owned_date": 1390856457,
+      "score": 2204,
+      "last_activity_date": 1555444680,
+      "creation_date": 1223166654,
+      "last_edit_date": 1504801953,
+      "question_id": 171251,
+      "link": "https://stackoverflow.com/questions/171251/how-can-i-merge-properties-of-two-javascript-objects-dynamically",
+      "title": "How can I merge properties of two JavaScript objects dynamically?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays"
+      ],
+      "owner": {
+        "reputation": 15620,
+        "user_id": 149738,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/fa1de418dc9e7922d034c5198c842be6?s=128&d=identicon&r=PG",
+        "display_name": "akano1",
+        "link": "https://stackoverflow.com/users/149738/akano1"
+      },
+      "is_answered": true,
+      "view_count": 2278932,
+      "protected_date": 1404843571,
+      "accepted_answer_id": 1232046,
+      "answer_count": 18,
+      "score": 2199,
+      "locked_date": 1504098679,
+      "last_activity_date": 1552299163,
+      "creation_date": 1249463319,
+      "last_edit_date": 1447269772,
+      "question_id": 1232040,
+      "link": "https://stackoverflow.com/questions/1232040/how-do-i-empty-an-array-in-javascript",
+      "title": "How do I empty an array in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "web-applications"
+      ],
+      "owner": {
+        "reputation": 57168,
+        "user_id": 184046,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/3d480969cbace51e179e5e4928e81603?s=128&d=identicon&r=PG",
+        "display_name": "Legend",
+        "link": "https://stackoverflow.com/users/184046/legend"
+      },
+      "is_answered": true,
+      "view_count": 496271,
+      "accepted_answer_id": 5062670,
+      "answer_count": 17,
+      "score": 2198,
+      "locked_date": 1471533961,
+      "last_activity_date": 1541200989,
+      "creation_date": 1298265651,
+      "last_edit_date": 1541200989,
+      "question_id": 5062614,
+      "link": "https://stackoverflow.com/questions/5062614/how-to-decide-when-to-use-node-js",
+      "title": "How to decide when to use Node.js?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "undefined"
+      ],
+      "owner": {
+        "reputation": 23658,
+        "user_id": 328397,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://www.gravatar.com/avatar/9cc3e3bb2ff2ef30810be80ca741de70?s=128&d=identicon&r=PG",
+        "display_name": "Christopher",
+        "link": "https://stackoverflow.com/users/328397/christopher"
+      },
+      "is_answered": true,
+      "view_count": 2095524,
+      "protected_date": 1381880090,
+      "closed_date": 1412949547,
+      "accepted_answer_id": 3390426,
+      "answer_count": 16,
+      "score": 2182,
+      "last_activity_date": 1557352611,
+      "creation_date": 1280771609,
+      "last_edit_date": 1416749360,
+      "question_id": 3390396,
+      "link": "https://stackoverflow.com/questions/3390396/how-to-check-for-undefined-in-javascript",
+      "closed_reason": "duplicate",
+      "title": "How to check for &quot;undefined&quot; in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "drop-down-menu",
+        "jquery-selectors"
+      ],
+      "owner": {
+        "reputation": 10983,
+        "user_id": 170231,
+        "user_type": "unregistered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/0731aaeda6cb3fb3968b0c0c2086595a?s=128&d=identicon&r=PG",
+        "display_name": "haddar",
+        "link": "https://stackoverflow.com/users/170231/haddar"
+      },
+      "is_answered": true,
+      "view_count": 1925755,
+      "protected_date": 1330797349,
+      "accepted_answer_id": 1643247,
+      "answer_count": 31,
+      "score": 2178,
+      "last_activity_date": 1555751478,
+      "creation_date": 1256817729,
+      "last_edit_date": 1520335529,
+      "question_id": 1643227,
+      "link": "https://stackoverflow.com/questions/1643227/get-selected-text-from-a-drop-down-list-select-box-using-jquery",
+      "title": "Get selected text from a drop-down list (select box) using jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "arguments",
+        "command-line-arguments"
+      ],
+      "owner": {
+        "reputation": 12784,
+        "user_id": 245777,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/63720027c28147602b90a651738c627c?s=128&d=identicon&r=PG",
+        "display_name": "milkplus",
+        "link": "https://stackoverflow.com/users/245777/milkplus"
+      },
+      "is_answered": true,
+      "view_count": 1080440,
+      "protected_date": 1545281097,
+      "accepted_answer_id": 4351548,
+      "answer_count": 29,
+      "score": 2176,
+      "last_activity_date": 1558234500,
+      "creation_date": 1291427806,
+      "last_edit_date": 1528949038,
+      "question_id": 4351521,
+      "link": "https://stackoverflow.com/questions/4351521/how-do-i-pass-command-line-arguments-to-a-node-js-program",
+      "title": "How do I pass command line arguments to a Node.js program?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "jquery-selectors",
+        "this"
+      ],
+      "owner": {
+        "reputation": 12591,
+        "user_id": 16974,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://i.stack.imgur.com/KrwlG.jpg?s=128&g=1",
+        "display_name": "Alex",
+        "link": "https://stackoverflow.com/users/16974/alex"
+      },
+      "is_answered": true,
+      "view_count": 1750321,
+      "protected_date": 1276195496,
+      "accepted_answer_id": 306904,
+      "answer_count": 16,
+      "score": 2146,
+      "last_activity_date": 1518170095,
+      "creation_date": 1227210245,
+      "last_edit_date": 1484359065,
+      "question_id": 306583,
+      "link": "https://stackoverflow.com/questions/306583/how-to-get-the-children-of-the-this-selector",
+      "title": "How to get the children of the $(this) selector?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html-input"
+      ],
+      "owner": {
+        "reputation": 53378,
+        "user_id": 104015,
+        "user_type": "registered",
+        "accept_rate": 44,
+        "profile_image": "https://www.gravatar.com/avatar/946c085c383cc406907c2bbf809917c3?s=128&d=identicon&r=PG",
+        "display_name": "omg",
+        "link": "https://stackoverflow.com/users/104015/omg"
+      },
+      "is_answered": true,
+      "view_count": 2037121,
+      "protected_date": 1435670568,
+      "accepted_answer_id": 1414366,
+      "answer_count": 17,
+      "score": 2137,
+      "last_activity_date": 1550843458,
+      "creation_date": 1252732914,
+      "last_edit_date": 1453493994,
+      "question_id": 1414365,
+      "link": "https://stackoverflow.com/questions/1414365/disable-enable-an-input-with-jquery",
+      "title": "Disable/enable an input with jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "javascript-objects"
+      ],
+      "owner": {
+        "reputation": 15130,
+        "user_id": 147,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/254ca3f1a5c9a73c20cbac880b8985a7?s=128&d=identicon&r=PG",
+        "display_name": "Gareth Simpson",
+        "link": "https://stackoverflow.com/users/147/gareth-simpson"
+      },
+      "is_answered": true,
+      "view_count": 1585356,
+      "protected_date": 1365095885,
+      "accepted_answer_id": 6700,
+      "answer_count": 36,
+      "score": 2129,
+      "last_activity_date": 1558277369,
+      "creation_date": 1218138141,
+      "last_edit_date": 1479276811,
+      "question_id": 5223,
+      "link": "https://stackoverflow.com/questions/5223/length-of-a-javascript-object",
+      "title": "Length of a JavaScript object"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 18889,
+        "user_id": 735997,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/71c31702ecc6822af890de6286f08a0c?s=128&d=identicon&r=PG",
+        "display_name": "DiegoP.",
+        "link": "https://stackoverflow.com/users/735997/diegop"
+      },
+      "is_answered": true,
+      "view_count": 2258106,
+      "protected_date": 1345563694,
+      "accepted_answer_id": 6677069,
+      "answer_count": 29,
+      "score": 2118,
+      "last_activity_date": 1561039196,
+      "creation_date": 1310550584,
+      "last_edit_date": 1506428331,
+      "question_id": 6677035,
+      "link": "https://stackoverflow.com/questions/6677035/jquery-scroll-to-element",
+      "title": "jQuery scroll to element"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "url",
+        "url-rewriting",
+        "friendly-url"
+      ],
+      "owner": {
+        "reputation": 45353,
+        "user_id": 41021,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/1b91ea7970ba26630adec64ef683c474?s=128&d=identicon&r=PG",
+        "display_name": "Robinicks",
+        "link": "https://stackoverflow.com/users/41021/robinicks"
+      },
+      "is_answered": true,
+      "view_count": 1216764,
+      "protected_date": 1394654677,
+      "accepted_answer_id": 3354511,
+      "answer_count": 18,
+      "score": 2107,
+      "last_activity_date": 1552815021,
+      "creation_date": 1241520845,
+      "last_edit_date": 1552813516,
+      "question_id": 824349,
+      "link": "https://stackoverflow.com/questions/824349/how-do-i-modify-the-url-without-reloading-the-page",
+      "title": "How do I modify the URL without reloading the page?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "json",
+        "pretty-print"
+      ],
+      "owner": {
+        "reputation": 23806,
+        "user_id": 298406,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://i.stack.imgur.com/Ti5Jd.jpg?s=128&g=1",
+        "display_name": "Mark",
+        "link": "https://stackoverflow.com/users/298406/mark"
+      },
+      "is_answered": true,
+      "view_count": 856657,
+      "protected_date": 1497465664,
+      "accepted_answer_id": 7220510,
+      "answer_count": 23,
+      "score": 2062,
+      "last_activity_date": 1546970715,
+      "creation_date": 1296081233,
+      "last_edit_date": 1390278179,
+      "question_id": 4810841,
+      "link": "https://stackoverflow.com/questions/4810841/how-can-i-pretty-print-json-using-javascript",
+      "title": "How can I pretty-print JSON using JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "date"
+      ],
+      "owner": {
+        "reputation": 13839,
+        "user_id": 96180,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://www.gravatar.com/avatar/2a6e8a3b32c10243af8f867291f31eab?s=128&d=identicon&r=PG",
+        "display_name": "Suresh Chaganti",
+        "link": "https://stackoverflow.com/users/96180/suresh-chaganti"
+      },
+      "is_answered": true,
+      "view_count": 2335787,
+      "protected_date": 1329033273,
+      "accepted_answer_id": 4929629,
+      "answer_count": 45,
+      "score": 2018,
+      "last_activity_date": 1563435675,
+      "creation_date": 1254915542,
+      "last_edit_date": 1532554554,
+      "question_id": 1531093,
+      "link": "https://stackoverflow.com/questions/1531093/how-do-i-get-the-current-date-in-javascript",
+      "title": "How do I get the current date in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "json",
+        "jsonp",
+        "terminology"
+      ],
+      "owner": {
+        "reputation": 137614,
+        "user_id": 48082,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/18bff049e78e8d77a620f8ac4f15b2a0?s=128&d=identicon&r=PG",
+        "display_name": "Cheeso",
+        "link": "https://stackoverflow.com/users/48082/cheeso"
+      },
+      "is_answered": true,
+      "view_count": 445446,
+      "protected_date": 1444035696,
+      "accepted_answer_id": 2067584,
+      "answer_count": 9,
+      "score": 1986,
+      "last_activity_date": 1563575114,
+      "creation_date": 1263502428,
+      "last_edit_date": 1551277618,
+      "question_id": 2067472,
+      "link": "https://stackoverflow.com/questions/2067472/what-is-jsonp-and-why-was-it-created",
+      "title": "What is JSONP, and why was it created?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "dynamic-languages",
+        "prototype-oriented"
+      ],
+      "owner": {
+        "reputation": 37476,
+        "user_id": 58961,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/5be12a5a883043ee47443e93217504b6?s=128&d=identicon&r=PG",
+        "display_name": "John Leidegren",
+        "link": "https://stackoverflow.com/users/58961/john-leidegren"
+      },
+      "is_answered": true,
+      "view_count": 483443,
+      "protected_date": 1373668164,
+      "accepted_answer_id": 572996,
+      "answer_count": 25,
+      "score": 1950,
+      "last_activity_date": 1562074276,
+      "creation_date": 1235219478,
+      "last_edit_date": 1534679552,
+      "question_id": 572897,
+      "link": "https://stackoverflow.com/questions/572897/how-does-javascript-prototype-work",
+      "title": "How does JavaScript .prototype work?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "null",
+        "undefined"
+      ],
+      "owner": {
+        "reputation": 12374,
+        "user_id": 177416,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://i.stack.imgur.com/F6rDx.png?s=128&g=1",
+        "display_name": "Alex",
+        "link": "https://stackoverflow.com/users/177416/alex"
+      },
+      "is_answered": true,
+      "view_count": 1502229,
+      "protected_date": 1522309991,
+      "accepted_answer_id": 5515349,
+      "answer_count": 29,
+      "score": 1944,
+      "last_activity_date": 1562714991,
+      "creation_date": 1301670864,
+      "last_edit_date": 1335564224,
+      "question_id": 5515310,
+      "link": "https://stackoverflow.com/questions/5515310/is-there-a-standard-function-to-check-for-null-undefined-or-blank-variables-in",
+      "title": "Is there a standard function to check for null, undefined, or blank variables in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "sleep"
+      ],
+      "owner": {
+        "reputation": 20953,
+        "user_id": 26004,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/1ef891089f11c306cc49e2e8dedaed88?s=128&d=identicon&r=PG",
+        "display_name": "fmsf",
+        "link": "https://stackoverflow.com/users/26004/fmsf"
+      },
+      "is_answered": true,
+      "view_count": 2244641,
+      "protected_date": 1527087667,
+      "accepted_answer_id": 39914235,
+      "answer_count": 74,
+      "community_owned_date": 1381840839,
+      "score": 1937,
+      "last_activity_date": 1561548432,
+      "creation_date": 1244126470,
+      "last_edit_date": 1521310524,
+      "question_id": 951021,
+      "link": "https://stackoverflow.com/questions/951021/what-is-the-javascript-version-of-sleep",
+      "title": "What is the JavaScript version of sleep()?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "css-selectors",
+        "jquery-selectors"
+      ],
+      "owner": {
+        "reputation": 11705,
+        "user_id": 115873,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://www.gravatar.com/avatar/1570b0af86723a1090c95fb732746f10?s=128&d=identicon&r=PG",
+        "display_name": "Mladen",
+        "link": "https://stackoverflow.com/users/115873/mladen"
+      },
+      "is_answered": true,
+      "view_count": 833668,
+      "protected_date": 1371999372,
+      "accepted_answer_id": 1041352,
+      "answer_count": 11,
+      "score": 1924,
+      "last_activity_date": 1543181217,
+      "creation_date": 1245882538,
+      "last_edit_date": 1525169462,
+      "question_id": 1041344,
+      "link": "https://stackoverflow.com/questions/1041344/how-can-i-select-an-element-with-multiple-classes-in-jquery",
+      "title": "How can I select an element with multiple classes in jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "syntax",
+        "enums"
+      ],
+      "owner": {
+        "reputation": 20868,
+        "user_id": 5309,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/754b8ed66da14fbbae4e5970186a93d8?s=128&d=identicon&r=PG",
+        "display_name": "David Citron",
+        "link": "https://stackoverflow.com/users/5309/david-citron"
+      },
+      "is_answered": true,
+      "view_count": 902499,
+      "protected_date": 1444036742,
+      "closed_date": 1555954790,
+      "accepted_answer_id": 5040502,
+      "answer_count": 45,
+      "score": 1915,
+      "last_activity_date": 1563407900,
+      "creation_date": 1226603346,
+      "last_edit_date": 1545806289,
+      "question_id": 287903,
+      "link": "https://stackoverflow.com/questions/287903/what-is-the-preferred-syntax-for-defining-enums-in-javascript",
+      "closed_reason": "primarily opinion-based",
+      "title": "What is the preferred syntax for defining enums in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "function",
+        "variables",
+        "scope",
+        "var"
+      ],
+      "owner": {
+        "reputation": 24601,
+        "user_id": 60102,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/04a828a8559bb8c4de12c515af6f6b58?s=128&d=identicon&r=PG",
+        "display_name": "lYriCAlsSH",
+        "link": "https://stackoverflow.com/users/60102/lyricalssh"
+      },
+      "is_answered": true,
+      "view_count": 474396,
+      "protected_date": 1393873603,
+      "accepted_answer_id": 500459,
+      "answer_count": 24,
+      "score": 1899,
+      "last_activity_date": 1554457010,
+      "creation_date": 1233476839,
+      "last_edit_date": 1525169707,
+      "question_id": 500431,
+      "link": "https://stackoverflow.com/questions/500431/what-is-the-scope-of-variables-in-javascript",
+      "title": "What is the scope of variables in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angularjs",
+        "data-binding"
+      ],
+      "owner": {
+        "reputation": 11268,
+        "user_id": 168367,
+        "user_type": "registered",
+        "accept_rate": 41,
+        "profile_image": "https://www.gravatar.com/avatar/86e7ab0ada8925248acaf1cdc3380b31?s=128&d=identicon&r=PG",
+        "display_name": "Pashec",
+        "link": "https://stackoverflow.com/users/168367/pashec"
+      },
+      "is_answered": true,
+      "view_count": 339154,
+      "protected_date": 1435223927,
+      "accepted_answer_id": 9693933,
+      "answer_count": 14,
+      "score": 1893,
+      "last_activity_date": 1541422601,
+      "creation_date": 1331633797,
+      "last_edit_date": 1495542893,
+      "question_id": 9682092,
+      "link": "https://stackoverflow.com/questions/9682092/how-does-data-binding-work-in-angularjs",
+      "title": "How does data binding work in AngularJS?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "variables",
+        "null",
+        "undefined"
+      ],
+      "owner": {
+        "reputation": 15881,
+        "user_id": 281488,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/4c25e10a1e79423af0b998a4498ab3cc?s=128&d=identicon&r=PG",
+        "display_name": "sadmicrowave",
+        "link": "https://stackoverflow.com/users/281488/sadmicrowave"
+      },
+      "is_answered": true,
+      "view_count": 2281230,
+      "protected_date": 1382564550,
+      "accepted_answer_id": 2647888,
+      "answer_count": 23,
+      "score": 1882,
+      "last_activity_date": 1559026679,
+      "creation_date": 1271355136,
+      "last_edit_date": 1462511907,
+      "question_id": 2647867,
+      "link": "https://stackoverflow.com/questions/2647867/how-to-determine-if-variable-is-undefined-or-null",
+      "title": "How to determine if variable is &#39;undefined&#39; or &#39;null&#39;?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "layout",
+        "cross-browser"
+      ],
+      "owner": {
+        "reputation": 10349,
+        "user_id": 408393,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/56caa5013ea2d3887dd207bd35e9dbfe?s=128&d=identicon&r=PG",
+        "display_name": "turtledove",
+        "link": "https://stackoverflow.com/users/408393/turtledove"
+      },
+      "is_answered": true,
+      "view_count": 1374138,
+      "protected_date": 1545281083,
+      "accepted_answer_id": 3437825,
+      "answer_count": 17,
+      "score": 1854,
+      "last_activity_date": 1561533569,
+      "creation_date": 1281335338,
+      "last_edit_date": 1490819934,
+      "question_id": 3437786,
+      "link": "https://stackoverflow.com/questions/3437786/get-the-size-of-the-screen-current-web-page-and-browser-window",
+      "title": "Get the size of the screen, current web page and browser window"
+    },
+    {
+      "tags": [
+        "javascript",
+        "string",
+        "conventions"
+      ],
+      "owner": {
+        "reputation": 7191,
+        "user_id": 28150,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/0d9da77bb99bea710cbf711ed08e57d7?s=128&d=identicon&r=PG",
+        "display_name": "aemkei",
+        "link": "https://stackoverflow.com/users/28150/aemkei"
+      },
+      "is_answered": true,
+      "view_count": 569663,
+      "protected_date": 1418713003,
+      "accepted_answer_id": 242833,
+      "answer_count": 42,
+      "community_owned_date": 1385092773,
+      "score": 1853,
+      "last_activity_date": 1562105056,
+      "creation_date": 1225190075,
+      "last_edit_date": 1455001157,
+      "question_id": 242813,
+      "link": "https://stackoverflow.com/questions/242813/when-to-use-double-or-single-quotes-in-javascript",
+      "title": "When to use double or single quotes in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 117848,
+        "user_id": 1965,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/ad348387d020a15171daed0ab492a49b?s=128&d=identicon&r=PG",
+        "display_name": "FlySwat",
+        "link": "https://stackoverflow.com/users/1965/flyswat"
+      },
+      "is_answered": true,
+      "view_count": 942204,
+      "protected_date": 1441720072,
+      "accepted_answer_id": 800010,
+      "answer_count": 33,
+      "score": 1849,
+      "last_activity_date": 1555085564,
+      "creation_date": 1240955471,
+      "last_edit_date": 1461496654,
+      "question_id": 799981,
+      "link": "https://stackoverflow.com/questions/799981/document-ready-equivalent-without-jquery",
+      "title": "$(document).ready equivalent without jQuery"
+    },
+    {
+      "tags": [
+        "javascript"
+      ],
+      "owner": {
+        "reputation": 14866,
+        "user_id": 137100,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/4b25b1e093c50b62cdfb4a84d6d3a21e?s=128&d=identicon&r=PG",
+        "display_name": "Mark F",
+        "link": "https://stackoverflow.com/users/137100/mark-f"
+      },
+      "is_answered": true,
+      "view_count": 2263890,
+      "protected_date": 1377614413,
+      "accepted_answer_id": 4907854,
+      "answer_count": 26,
+      "score": 1841,
+      "last_activity_date": 1562830986,
+      "creation_date": 1296921133,
+      "last_edit_date": 1557256057,
+      "question_id": 4907843,
+      "link": "https://stackoverflow.com/questions/4907843/open-a-url-in-a-new-tab-and-not-a-new-window-using-javascript",
+      "title": "Open a URL in a new tab (and not a new window) using JavaScript"
+    },
+    {
+      "tags": [
+        "javascript",
+        "printf",
+        "string.format"
+      ],
+      "owner": {
+        "reputation": 51025,
+        "user_id": 21574,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://i.stack.imgur.com/i2fcn.jpg?s=128&g=1",
+        "display_name": "Chris S",
+        "link": "https://stackoverflow.com/users/21574/chris-s"
+      },
+      "is_answered": true,
+      "view_count": 1516441,
+      "protected_date": 1391641398,
+      "accepted_answer_id": 610415,
+      "answer_count": 45,
+      "community_owned_date": 1375380860,
+      "score": 1805,
+      "last_activity_date": 1561622711,
+      "creation_date": 1236171182,
+      "last_edit_date": 1533067768,
+      "question_id": 610406,
+      "link": "https://stackoverflow.com/questions/610406/javascript-equivalent-to-printf-string-format",
+      "title": "JavaScript equivalent to printf/String.Format"
+    },
+    {
+      "tags": [
+        "javascript",
+        "loops",
+        "object"
+      ],
+      "owner": {
+        "reputation": 9150,
+        "user_id": 1048252,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://i.stack.imgur.com/Qxx2f.jpg?s=128&g=1",
+        "display_name": "Rafay",
+        "link": "https://stackoverflow.com/users/1048252/rafay"
+      },
+      "is_answered": true,
+      "view_count": 1147189,
+      "protected_date": 1454492265,
+      "answer_count": 26,
+      "score": 1796,
+      "last_activity_date": 1560164118,
+      "creation_date": 1322577026,
+      "last_edit_date": 1552474690,
+      "question_id": 8312459,
+      "link": "https://stackoverflow.com/questions/8312459/iterate-through-object-properties",
+      "title": "Iterate through object properties"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "npm"
+      ],
+      "owner": {
+        "reputation": 10648,
+        "user_id": 480608,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/03b704efdab65c446bb6a1f486f1867f?s=128&d=identicon&r=PG",
+        "display_name": "Raine Revere",
+        "link": "https://stackoverflow.com/users/480608/raine-revere"
+      },
+      "is_answered": true,
+      "view_count": 778904,
+      "protected_date": 1545280922,
+      "accepted_answer_id": 16074029,
+      "answer_count": 32,
+      "score": 1783,
+      "last_activity_date": 1562207729,
+      "creation_date": 1366252744,
+      "last_edit_date": 1556723601,
+      "question_id": 16073603,
+      "link": "https://stackoverflow.com/questions/16073603/how-do-i-update-each-dependency-in-package-json-to-the-latest-version",
+      "title": "How do I update each dependency in package.json to the latest version?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "trim",
+        "slice",
+        "chop"
+      ],
+      "owner": {
+        "reputation": 48938,
+        "user_id": 93966,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/85a93379d2e5776cc8062134f28f389a?s=128&d=identicon&r=PG",
+        "display_name": "Phill Pafford",
+        "link": "https://stackoverflow.com/users/93966/phill-pafford"
+      },
+      "is_answered": true,
+      "view_count": 1533583,
+      "protected_date": 1545281074,
+      "accepted_answer_id": 952945,
+      "answer_count": 21,
+      "score": 1758,
+      "last_activity_date": 1541520011,
+      "creation_date": 1244147513,
+      "last_edit_date": 1510772854,
+      "question_id": 952924,
+      "link": "https://stackoverflow.com/questions/952924/javascript-chop-slice-trim-off-last-character-in-string",
+      "title": "JavaScript chop/slice/trim off last character in string"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax"
+      ],
+      "owner": {
+        "reputation": 9526,
+        "user_id": 47831,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://i.stack.imgur.com/QdiUI.png?s=128&g=1",
+        "display_name": "lukewm",
+        "link": "https://stackoverflow.com/users/47831/lukewm"
+      },
+      "is_answered": true,
+      "view_count": 554274,
+      "protected_date": 1388512469,
+      "accepted_answer_id": 446626,
+      "answer_count": 18,
+      "score": 1749,
+      "last_activity_date": 1561195160,
+      "creation_date": 1232023518,
+      "last_edit_date": 1404394310,
+      "question_id": 446594,
+      "link": "https://stackoverflow.com/questions/446594/abort-ajax-requests-using-jquery",
+      "title": "Abort Ajax requests using jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "date",
+        "date-format",
+        "time-format"
+      ],
+      "owner": {
+        "reputation": 43817,
+        "user_id": 4653,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/a525b89ed2980a2bbc41e1f23dc350cf?s=128&d=identicon&r=PG&f=1",
+        "display_name": "leora",
+        "link": "https://stackoverflow.com/users/4653/leora"
+      },
+      "is_answered": true,
+      "view_count": 3010106,
+      "protected_date": 1466893301,
+      "accepted_answer_id": 3552493,
+      "answer_count": 49,
+      "score": 1743,
+      "last_activity_date": 1559164196,
+      "creation_date": 1282606106,
+      "last_edit_date": 1522823371,
+      "question_id": 3552461,
+      "link": "https://stackoverflow.com/questions/3552461/how-to-format-a-javascript-date",
+      "title": "How to format a JavaScript date"
+    },
+    {
+      "tags": [
+        "javascript",
+        "random",
+        "integer"
+      ],
+      "owner": {
+        "reputation": 9059,
+        "user_id": 133211,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/20e759f88694ef8374754f2d6ef82c64?s=128&d=identicon&r=PG",
+        "display_name": "zacharyliu",
+        "link": "https://stackoverflow.com/users/133211/zacharyliu"
+      },
+      "is_answered": true,
+      "view_count": 1114630,
+      "protected_date": 1382539330,
+      "accepted_answer_id": 1527820,
+      "answer_count": 29,
+      "score": 1742,
+      "last_activity_date": 1560509167,
+      "creation_date": 1254859541,
+      "last_edit_date": 1552311286,
+      "question_id": 1527803,
+      "link": "https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range",
+      "title": "Generating random whole numbers in JavaScript in a specific range?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "url",
+        "path"
+      ],
+      "owner": {
+        "reputation": 49494,
+        "user_id": 44984,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://i.stack.imgur.com/7rqob.jpg?s=128&g=1",
+        "display_name": "venkatachalam",
+        "link": "https://stackoverflow.com/users/44984/venkatachalam"
+      },
+      "is_answered": true,
+      "view_count": 1994243,
+      "protected_date": 1388597249,
+      "accepted_answer_id": 406208,
+      "answer_count": 30,
+      "score": 1709,
+      "last_activity_date": 1556831366,
+      "creation_date": 1230878574,
+      "last_edit_date": 1537297693,
+      "question_id": 406192,
+      "link": "https://stackoverflow.com/questions/406192/get-current-url-with-jquery",
+      "title": "Get current URL with jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays",
+        "loops",
+        "for-loop",
+        "iteration"
+      ],
+      "owner": {
+        "reputation": 24601,
+        "user_id": 60102,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/04a828a8559bb8c4de12c515af6f6b58?s=128&d=identicon&r=PG",
+        "display_name": "lYriCAlsSH",
+        "link": "https://stackoverflow.com/users/60102/lyricalssh"
+      },
+      "is_answered": true,
+      "view_count": 795166,
+      "protected_date": 1368211808,
+      "accepted_answer_id": 500531,
+      "answer_count": 27,
+      "score": 1706,
+      "last_activity_date": 1560844384,
+      "creation_date": 1233481598,
+      "last_edit_date": 1525172323,
+      "question_id": 500504,
+      "link": "https://stackoverflow.com/questions/500504/why-is-using-for-in-with-array-iteration-a-bad-idea",
+      "title": "Why is using &quot;for...in&quot; with array iteration a bad idea?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "npm",
+        "bower"
+      ],
+      "owner": {
+        "reputation": 45395,
+        "user_id": 1624921,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://i.stack.imgur.com/keNmm.jpg?s=128&g=1",
+        "display_name": "Games Brainiac",
+        "link": "https://stackoverflow.com/users/1624921/games-brainiac"
+      },
+      "is_answered": true,
+      "view_count": 306857,
+      "protected_date": 1423917095,
+      "accepted_answer_id": 18652918,
+      "answer_count": 8,
+      "score": 1699,
+      "last_activity_date": 1557596463,
+      "creation_date": 1378399999,
+      "last_edit_date": 1488479615,
+      "question_id": 18641899,
+      "link": "https://stackoverflow.com/questions/18641899/what-is-the-difference-between-bower-and-npm",
+      "title": "What is the difference between Bower and npm?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "events",
+        "unobtrusive-javascript"
+      ],
+      "owner": {
+        "reputation": 63045,
+        "user_id": 27580,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/f198305bbd04f5fd7c49051dd6e77782?s=128&d=identicon&r=PG",
+        "display_name": "Eli",
+        "link": "https://stackoverflow.com/users/27580/eli"
+      },
+      "is_answered": true,
+      "view_count": 757504,
+      "protected_date": 1395655750,
+      "accepted_answer_id": 1207393,
+      "answer_count": 23,
+      "score": 1677,
+      "locked_date": 1529684683,
+      "last_activity_date": 1556182490,
+      "creation_date": 1224026719,
+      "last_edit_date": 1480674460,
+      "question_id": 203198,
+      "link": "https://stackoverflow.com/questions/203198/event-binding-on-dynamically-created-elements",
+      "title": "Event binding on dynamically created elements?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays",
+        "variables"
+      ],
+      "owner": {
+        "reputation": 20567,
+        "user_id": 3362,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/0cf4f188cb71c6a0dd0b28ff081ceb89?s=128&d=identicon&r=PG",
+        "display_name": "Andy McCluggage",
+        "link": "https://stackoverflow.com/users/3362/andy-mccluggage"
+      },
+      "is_answered": true,
+      "view_count": 914990,
+      "protected_date": 1395830832,
+      "closed_date": 1427918901,
+      "accepted_answer_id": 26633883,
+      "answer_count": 23,
+      "score": 1672,
+      "last_activity_date": 1558631136,
+      "creation_date": 1240218179,
+      "question_id": 767486,
+      "link": "https://stackoverflow.com/questions/767486/how-do-you-check-if-a-variable-is-an-array-in-javascript",
+      "closed_reason": "duplicate",
+      "title": "How do you check if a variable is an array in JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "date",
+        "datetime",
+        "object",
+        "compare"
+      ],
+      "owner": {
+        "reputation": 13203,
+        "user_id": 41508,
+        "user_type": "registered",
+        "accept_rate": 33,
+        "profile_image": "https://www.gravatar.com/avatar/154f32db8f5a8b42bf1e108a5f3d3086?s=128&d=identicon&r=PG",
+        "display_name": "Alex",
+        "link": "https://stackoverflow.com/users/41508/alex"
+      },
+      "is_answered": true,
+      "view_count": 1693848,
+      "protected_date": 1444036888,
+      "accepted_answer_id": 493018,
+      "answer_count": 36,
+      "score": 1671,
+      "last_activity_date": 1561704469,
+      "creation_date": 1233256446,
+      "last_edit_date": 1548761872,
+      "question_id": 492994,
+      "link": "https://stackoverflow.com/questions/492994/compare-two-dates-with-javascript",
+      "title": "Compare two dates with JavaScript"
+    },
+    {
+      "tags": [
+        "javascript",
+        "new-operator"
+      ],
+      "owner": {
+        "reputation": 27403,
+        "user_id": 140937,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/0c4bda44f1d02296589625ef8d19db69?s=128&d=identicon&r=PG",
+        "display_name": "Alon Gubkin",
+        "link": "https://stackoverflow.com/users/140937/alon-gubkin"
+      },
+      "is_answered": true,
+      "view_count": 238879,
+      "protected_date": 1389810345,
+      "accepted_answer_id": 3658673,
+      "answer_count": 14,
+      "score": 1650,
+      "last_activity_date": 1562893418,
+      "creation_date": 1256851965,
+      "last_edit_date": 1437831733,
+      "question_id": 1646698,
+      "link": "https://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript",
+      "title": "What is the &#39;new&#39; keyword in JavaScript?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9968
+}

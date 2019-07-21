@@ -1,0 +1,2861 @@
+
+{
+  "items": [
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "redirect"
+      ],
+      "owner": {
+        "reputation": 49494,
+        "user_id": 44984,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://i.stack.imgur.com/7rqob.jpg?s=128&g=1",
+        "display_name": "venkatachalam",
+        "link": "https://stackoverflow.com/users/44984/venkatachalam"
+      },
+      "is_answered": true,
+      "view_count": 5756947,
+      "protected_date": 1447333882,
+      "accepted_answer_id": 506004,
+      "answer_count": 58,
+      "score": 7729,
+      "locked_date": 1522910705,
+      "last_activity_date": 1561992722,
+      "creation_date": 1233579256,
+      "last_edit_date": 1517920814,
+      "question_id": 503093,
+      "link": "https://stackoverflow.com/questions/503093/how-do-i-redirect-to-another-webpage",
+      "title": "How do I redirect to another webpage?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "dom",
+        "visibility"
+      ],
+      "owner": {
+        "reputation": 57518,
+        "user_id": 21709,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/3ea9c684a2db319df788cecc6c98f9cd?s=128&d=identicon&r=PG",
+        "display_name": "Philip Morton",
+        "link": "https://stackoverflow.com/users/21709/philip-morton"
+      },
+      "is_answered": true,
+      "view_count": 2465091,
+      "protected_date": 1334286591,
+      "accepted_answer_id": 178450,
+      "answer_count": 55,
+      "score": 7317,
+      "last_activity_date": 1563446431,
+      "creation_date": 1223384598,
+      "last_edit_date": 1563446431,
+      "question_id": 178325,
+      "link": "https://stackoverflow.com/questions/178325/how-do-i-check-if-an-element-is-hidden-in-jquery",
+      "title": "How do I check if an element is hidden in jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax",
+        "asynchronous",
+        "xmlhttprequest"
+      ],
+      "owner": {
+        "reputation": 580689,
+        "user_id": 218196,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/4P5DY.jpg?s=128&g=1",
+        "display_name": "Felix Kling",
+        "link": "https://stackoverflow.com/users/218196/felix-kling"
+      },
+      "is_answered": true,
+      "view_count": 1264684,
+      "protected_date": 1554698603,
+      "accepted_answer_id": 14220323,
+      "answer_count": 35,
+      "score": 5014,
+      "last_activity_date": 1563443442,
+      "creation_date": 1357664774,
+      "last_edit_date": 1563443442,
+      "question_id": 14220321,
+      "link": "https://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call",
+      "title": "How do I return the response from an asynchronous call?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "angularjs"
+      ],
+      "owner": {
+        "reputation": 302968,
+        "user_id": 215945,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/203qt.png?s=128&g=1",
+        "display_name": "Mark Rajcok",
+        "link": "https://stackoverflow.com/users/215945/mark-rajcok"
+      },
+      "is_answered": true,
+      "view_count": 808115,
+      "protected_date": 1363756301,
+      "closed_date": 1435089511,
+      "accepted_answer_id": 15012542,
+      "answer_count": 15,
+      "score": 4519,
+      "locked_date": 1435298834,
+      "last_activity_date": 1541200959,
+      "creation_date": 1361419796,
+      "last_edit_date": 1541200959,
+      "question_id": 14994391,
+      "link": "https://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background",
+      "closed_reason": "too broad",
+      "title": "&quot;Thinking in AngularJS&quot; if I have a jQuery background?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "dom",
+        "checkbox"
+      ],
+      "owner": {
+        "reputation": 27135,
+        "user_id": 111435,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/3d7de11fb1c0a98dc2aee865c558f7cc?s=128&d=identicon&r=PG",
+        "display_name": "Prasad",
+        "link": "https://stackoverflow.com/users/111435/prasad"
+      },
+      "is_answered": true,
+      "view_count": 3915389,
+      "protected_date": 1369154844,
+      "accepted_answer_id": 903152,
+      "answer_count": 61,
+      "community_owned_date": 1380469505,
+      "score": 4268,
+      "last_activity_date": 1563432625,
+      "creation_date": 1243091799,
+      "last_edit_date": 1562674852,
+      "question_id": 901712,
+      "link": "https://stackoverflow.com/questions/901712/how-to-check-whether-a-checkbox-is-checked-in-jquery",
+      "title": "How to check whether a checkbox is checked in jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "checkbox",
+        "selected",
+        "checked"
+      ],
+      "owner": {
+        "reputation": 24741,
+        "user_id": 18107,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/8401ce7758b1b2040536bcb8e9575d58?s=128&d=identicon&r=PG",
+        "display_name": "tpower",
+        "link": "https://stackoverflow.com/users/18107/tpower"
+      },
+      "is_answered": true,
+      "view_count": 3084305,
+      "protected_date": 1370840703,
+      "accepted_answer_id": 426276,
+      "answer_count": 40,
+      "score": 3899,
+      "last_activity_date": 1546441804,
+      "creation_date": 1231453224,
+      "last_edit_date": 1457720096,
+      "question_id": 426258,
+      "link": "https://stackoverflow.com/questions/426258/setting-checked-for-a-checkbox-with-jquery",
+      "title": "Setting &quot;checked&quot; for a checkbox with jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "javascript-events",
+        "event-handling",
+        "event-propagation"
+      ],
+      "owner": {
+        "reputation": 45698,
+        "user_id": 137467,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/ba549cc90adcc10d22c52c998c1a42c7?s=128&d=identicon&r=PG",
+        "display_name": "RaYell",
+        "link": "https://stackoverflow.com/users/137467/rayell"
+      },
+      "is_answered": true,
+      "view_count": 792608,
+      "protected_date": 1377790438,
+      "accepted_answer_id": 1357151,
+      "answer_count": 13,
+      "score": 2844,
+      "last_activity_date": 1557810585,
+      "creation_date": 1251719911,
+      "last_edit_date": 1490199579,
+      "question_id": 1357118,
+      "link": "https://stackoverflow.com/questions/1357118/event-preventdefault-vs-return-false",
+      "title": "event.preventDefault() vs. return false"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax",
+        "asynchronous",
+        "xmlhttprequest"
+      ],
+      "owner": {
+        "reputation": 32362,
+        "user_id": 2138,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://www.gravatar.com/avatar/30995fcc876f40073628b63ea5cfab59?s=128&d=identicon&r=PG",
+        "display_name": "Sergio del Amo",
+        "link": "https://stackoverflow.com/users/2138/sergio-del-amo"
+      },
+      "is_answered": true,
+      "view_count": 1270116,
+      "protected_date": 1283168476,
+      "answer_count": 33,
+      "score": 2783,
+      "last_activity_date": 1562322717,
+      "creation_date": 1223029337,
+      "last_edit_date": 1551187962,
+      "question_id": 166221,
+      "link": "https://stackoverflow.com/questions/166221/how-can-i-upload-files-asynchronously",
+      "title": "How can I upload files asynchronously?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 33760,
+        "user_id": 302,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://i.stack.imgur.com/zonWW.jpg?s=128&g=1",
+        "display_name": "Jake McGraw",
+        "link": "https://stackoverflow.com/users/302/jake-mcgraw"
+      },
+      "is_answered": true,
+      "view_count": 714926,
+      "protected_date": 1365393315,
+      "accepted_answer_id": 587408,
+      "answer_count": 40,
+      "score": 2588,
+      "last_activity_date": 1563374597,
+      "creation_date": 1219866581,
+      "last_edit_date": 1513423743,
+      "question_id": 31044,
+      "link": "https://stackoverflow.com/questions/31044/is-there-an-exists-function-for-jquery",
+      "title": "Is there an &quot;exists&quot; function for jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "arrays",
+        "insert"
+      ],
+      "owner": {
+        "reputation": 30217,
+        "user_id": 192,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/4466fde5314c4361853e95c1f892e191?s=128&d=identicon&r=PG",
+        "display_name": "tags2k",
+        "link": "https://stackoverflow.com/users/192/tags2k"
+      },
+      "is_answered": true,
+      "view_count": 1573385,
+      "protected_date": 1410722819,
+      "accepted_answer_id": 586189,
+      "answer_count": 15,
+      "score": 2533,
+      "last_activity_date": 1563471486,
+      "creation_date": 1235572170,
+      "last_edit_date": 1549829222,
+      "question_id": 586182,
+      "link": "https://stackoverflow.com/questions/586182/how-to-insert-an-item-into-an-array-at-a-specific-index-javascript",
+      "title": "How to insert an item into an array at a specific index (JavaScript)?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "jquery-selectors",
+        "radio-button"
+      ],
+      "owner": {
+        "reputation": 40169,
+        "user_id": 1782,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/4dfc8f56817006ef21327d5ff19ce04f?s=128&d=identicon&r=PG",
+        "display_name": "juan",
+        "link": "https://stackoverflow.com/users/1782/juan"
+      },
+      "is_answered": true,
+      "view_count": 2024916,
+      "protected_date": 1395775523,
+      "accepted_answer_id": 596369,
+      "answer_count": 34,
+      "score": 2516,
+      "last_activity_date": 1559105949,
+      "creation_date": 1235764407,
+      "last_edit_date": 1502458294,
+      "question_id": 596351,
+      "link": "https://stackoverflow.com/questions/596351/how-can-i-know-which-radio-button-is-selected-via-jquery",
+      "title": "How can I know which radio button is selected via jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "refresh",
+        "reload"
+      ],
+      "owner": {
+        "reputation": 15613,
+        "user_id": 505762,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/2201d8fa37944a6b590cf0c67e1af931?s=128&d=identicon&r=PG",
+        "display_name": "luca",
+        "link": "https://stackoverflow.com/users/505762/luca"
+      },
+      "is_answered": true,
+      "view_count": 2306358,
+      "protected_date": 1399453611,
+      "accepted_answer_id": 5404869,
+      "answer_count": 23,
+      "score": 2285,
+      "last_activity_date": 1558077614,
+      "creation_date": 1300881331,
+      "last_edit_date": 1367954897,
+      "question_id": 5404839,
+      "link": "https://stackoverflow.com/questions/5404839/how-can-i-refresh-a-page-with-jquery",
+      "title": "How can I refresh a page with jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 32362,
+        "user_id": 2138,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://www.gravatar.com/avatar/30995fcc876f40073628b63ea5cfab59?s=128&d=identicon&r=PG",
+        "display_name": "Sergio del Amo",
+        "link": "https://stackoverflow.com/users/2138/sergio-del-amo"
+      },
+      "is_answered": true,
+      "view_count": 1111071,
+      "protected_date": 1372107596,
+      "accepted_answer_id": 153047,
+      "answer_count": 77,
+      "community_owned_date": 1366294701,
+      "score": 2283,
+      "last_activity_date": 1561479837,
+      "creation_date": 1222780632,
+      "last_edit_date": 1477843549,
+      "question_id": 152975,
+      "link": "https://stackoverflow.com/questions/152975/how-do-i-detect-a-click-outside-an-element",
+      "title": "How do I detect a click outside an element?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html-table"
+      ],
+      "owner": {
+        "reputation": 71124,
+        "user_id": 5441,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/0aebcaf10719325c563dea3d1f024958?s=128&d=identicon&r=PG",
+        "display_name": "Darryl Hein",
+        "link": "https://stackoverflow.com/users/5441/darryl-hein"
+      },
+      "is_answered": true,
+      "view_count": 1549836,
+      "protected_date": 1295777235,
+      "accepted_answer_id": 171049,
+      "answer_count": 35,
+      "score": 2268,
+      "last_activity_date": 1557649527,
+      "creation_date": 1223155990,
+      "last_edit_date": 1451504352,
+      "question_id": 171027,
+      "link": "https://stackoverflow.com/questions/171027/add-table-row-in-jquery",
+      "title": "Add table row in jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "dom",
+        "attr",
+        "prop"
+      ],
+      "owner": {
+        "reputation": 115281,
+        "user_id": 561731,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/5ba9dd877c8a4bc5995b2101908ae648?s=128&d=identicon&r=PG",
+        "display_name": "Neal",
+        "link": "https://stackoverflow.com/users/561731/neal"
+      },
+      "is_answered": true,
+      "view_count": 557147,
+      "protected_date": 1325777013,
+      "accepted_answer_id": 5876747,
+      "answer_count": 17,
+      "score": 2208,
+      "last_activity_date": 1560440905,
+      "creation_date": 1304451208,
+      "last_edit_date": 1493143365,
+      "question_id": 5874652,
+      "link": "https://stackoverflow.com/questions/5874652/prop-vs-attr",
+      "title": ".prop() vs .attr()"
+    },
+    {
+      "tags": [
+        "jquery",
+        "cors",
+        "restful-authentication",
+        "same-origin-policy",
+        "flask-restless"
+      ],
+      "owner": {
+        "reputation": 11485,
+        "user_id": 2140160,
+        "user_type": "registered",
+        "accept_rate": 42,
+        "profile_image": "https://www.gravatar.com/avatar/3b786a9c9523698856ae18f1547c73bd?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Mr Jedi",
+        "link": "https://stackoverflow.com/users/2140160/mr-jedi"
+      },
+      "is_answered": true,
+      "view_count": 3763436,
+      "protected_date": 1429286577,
+      "accepted_answer_id": 20035319,
+      "answer_count": 43,
+      "score": 2200,
+      "last_activity_date": 1562160767,
+      "creation_date": 1384716546,
+      "last_edit_date": 1559822377,
+      "question_id": 20035101,
+      "link": "https://stackoverflow.com/questions/20035101/why-does-my-javascript-code-get-a-no-access-control-allow-origin-header-is-pr",
+      "title": "Why does my JavaScript code get a &quot;No &#39;Access-Control-Allow-Origin&#39; header is present on the requested resource&quot; error when Postman does not?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "drop-down-menu",
+        "jquery-selectors"
+      ],
+      "owner": {
+        "reputation": 10983,
+        "user_id": 170231,
+        "user_type": "unregistered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/0731aaeda6cb3fb3968b0c0c2086595a?s=128&d=identicon&r=PG",
+        "display_name": "haddar",
+        "link": "https://stackoverflow.com/users/170231/haddar"
+      },
+      "is_answered": true,
+      "view_count": 1925755,
+      "protected_date": 1330797349,
+      "accepted_answer_id": 1643247,
+      "answer_count": 31,
+      "score": 2178,
+      "last_activity_date": 1555751478,
+      "creation_date": 1256817729,
+      "last_edit_date": 1520335529,
+      "question_id": 1643227,
+      "link": "https://stackoverflow.com/questions/1643227/get-selected-text-from-a-drop-down-list-select-box-using-jquery",
+      "title": "Get selected text from a drop-down list (select box) using jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "jquery-selectors",
+        "this"
+      ],
+      "owner": {
+        "reputation": 12591,
+        "user_id": 16974,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://i.stack.imgur.com/KrwlG.jpg?s=128&g=1",
+        "display_name": "Alex",
+        "link": "https://stackoverflow.com/users/16974/alex"
+      },
+      "is_answered": true,
+      "view_count": 1750321,
+      "protected_date": 1276195496,
+      "accepted_answer_id": 306904,
+      "answer_count": 16,
+      "score": 2146,
+      "last_activity_date": 1518170095,
+      "creation_date": 1227210245,
+      "last_edit_date": 1484359065,
+      "question_id": 306583,
+      "link": "https://stackoverflow.com/questions/306583/how-to-get-the-children-of-the-this-selector",
+      "title": "How to get the children of the $(this) selector?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html-input"
+      ],
+      "owner": {
+        "reputation": 53378,
+        "user_id": 104015,
+        "user_type": "registered",
+        "accept_rate": 44,
+        "profile_image": "https://www.gravatar.com/avatar/946c085c383cc406907c2bbf809917c3?s=128&d=identicon&r=PG",
+        "display_name": "omg",
+        "link": "https://stackoverflow.com/users/104015/omg"
+      },
+      "is_answered": true,
+      "view_count": 2037121,
+      "protected_date": 1435670568,
+      "accepted_answer_id": 1414366,
+      "answer_count": 17,
+      "score": 2137,
+      "last_activity_date": 1550843458,
+      "creation_date": 1252732914,
+      "last_edit_date": 1453493994,
+      "question_id": 1414365,
+      "link": "https://stackoverflow.com/questions/1414365/disable-enable-an-input-with-jquery",
+      "title": "Disable/enable an input with jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 18889,
+        "user_id": 735997,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/71c31702ecc6822af890de6286f08a0c?s=128&d=identicon&r=PG",
+        "display_name": "DiegoP.",
+        "link": "https://stackoverflow.com/users/735997/diegop"
+      },
+      "is_answered": true,
+      "view_count": 2258106,
+      "protected_date": 1345563694,
+      "accepted_answer_id": 6677069,
+      "answer_count": 29,
+      "score": 2118,
+      "last_activity_date": 1561039196,
+      "creation_date": 1310550584,
+      "last_edit_date": 1506428331,
+      "question_id": 6677035,
+      "link": "https://stackoverflow.com/questions/6677035/jquery-scroll-to-element",
+      "title": "jQuery scroll to element"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "css-selectors",
+        "jquery-selectors"
+      ],
+      "owner": {
+        "reputation": 11705,
+        "user_id": 115873,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://www.gravatar.com/avatar/1570b0af86723a1090c95fb732746f10?s=128&d=identicon&r=PG",
+        "display_name": "Mladen",
+        "link": "https://stackoverflow.com/users/115873/mladen"
+      },
+      "is_answered": true,
+      "view_count": 833668,
+      "protected_date": 1371999372,
+      "accepted_answer_id": 1041352,
+      "answer_count": 11,
+      "score": 1924,
+      "last_activity_date": 1543181217,
+      "creation_date": 1245882538,
+      "last_edit_date": 1525169462,
+      "question_id": 1041344,
+      "link": "https://stackoverflow.com/questions/1041344/how-can-i-select-an-element-with-multiple-classes-in-jquery",
+      "title": "How can I select an element with multiple classes in jQuery?"
+    },
+    {
+      "tags": [
+        "jquery",
+        "asp.net",
+        "ajax",
+        "json"
+      ],
+      "owner": {
+        "reputation": 18475,
+        "user_id": 1284,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/ed7dec07c571e2c32e8aa536ad31dca3?s=128&d=identicon&r=PG",
+        "display_name": "Mark Struzinski",
+        "link": "https://stackoverflow.com/users/1284/mark-struzinski"
+      },
+      "is_answered": true,
+      "view_count": 703059,
+      "protected_date": 1316431739,
+      "accepted_answer_id": 2316066,
+      "answer_count": 40,
+      "community_owned_date": 1368599784,
+      "score": 1917,
+      "last_activity_date": 1559334495,
+      "creation_date": 1224103421,
+      "last_edit_date": 1479154445,
+      "question_id": 206384,
+      "link": "https://stackoverflow.com/questions/206384/how-do-i-format-a-microsoft-json-date",
+      "title": "How do I format a Microsoft JSON date?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "variables",
+        "null",
+        "undefined"
+      ],
+      "owner": {
+        "reputation": 15881,
+        "user_id": 281488,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/4c25e10a1e79423af0b998a4498ab3cc?s=128&d=identicon&r=PG",
+        "display_name": "sadmicrowave",
+        "link": "https://stackoverflow.com/users/281488/sadmicrowave"
+      },
+      "is_answered": true,
+      "view_count": 2281230,
+      "protected_date": 1382564550,
+      "accepted_answer_id": 2647888,
+      "answer_count": 23,
+      "score": 1882,
+      "last_activity_date": 1559026679,
+      "creation_date": 1271355136,
+      "last_edit_date": 1462511907,
+      "question_id": 2647867,
+      "link": "https://stackoverflow.com/questions/2647867/how-to-determine-if-variable-is-undefined-or-null",
+      "title": "How to determine if variable is &#39;undefined&#39; or &#39;null&#39;?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "layout",
+        "cross-browser"
+      ],
+      "owner": {
+        "reputation": 10349,
+        "user_id": 408393,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/56caa5013ea2d3887dd207bd35e9dbfe?s=128&d=identicon&r=PG",
+        "display_name": "turtledove",
+        "link": "https://stackoverflow.com/users/408393/turtledove"
+      },
+      "is_answered": true,
+      "view_count": 1374139,
+      "protected_date": 1545281083,
+      "accepted_answer_id": 3437825,
+      "answer_count": 17,
+      "score": 1854,
+      "last_activity_date": 1561533569,
+      "creation_date": 1281335338,
+      "last_edit_date": 1490819934,
+      "question_id": 3437786,
+      "link": "https://stackoverflow.com/questions/3437786/get-the-size-of-the-screen-current-web-page-and-browser-window",
+      "title": "Get the size of the screen, current web page and browser window"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 117848,
+        "user_id": 1965,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/ad348387d020a15171daed0ab492a49b?s=128&d=identicon&r=PG",
+        "display_name": "FlySwat",
+        "link": "https://stackoverflow.com/users/1965/flyswat"
+      },
+      "is_answered": true,
+      "view_count": 942204,
+      "protected_date": 1441720072,
+      "accepted_answer_id": 800010,
+      "answer_count": 33,
+      "score": 1849,
+      "last_activity_date": 1555085564,
+      "creation_date": 1240955471,
+      "last_edit_date": 1461496654,
+      "question_id": 799981,
+      "link": "https://stackoverflow.com/questions/799981/document-ready-equivalent-without-jquery",
+      "title": "$(document).ready equivalent without jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax"
+      ],
+      "owner": {
+        "reputation": 9526,
+        "user_id": 47831,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://i.stack.imgur.com/QdiUI.png?s=128&g=1",
+        "display_name": "lukewm",
+        "link": "https://stackoverflow.com/users/47831/lukewm"
+      },
+      "is_answered": true,
+      "view_count": 554274,
+      "protected_date": 1388512469,
+      "accepted_answer_id": 446626,
+      "answer_count": 18,
+      "score": 1749,
+      "last_activity_date": 1561195160,
+      "creation_date": 1232023518,
+      "last_edit_date": 1404394310,
+      "question_id": 446594,
+      "link": "https://stackoverflow.com/questions/446594/abort-ajax-requests-using-jquery",
+      "title": "Abort Ajax requests using jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "url",
+        "path"
+      ],
+      "owner": {
+        "reputation": 49494,
+        "user_id": 44984,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://i.stack.imgur.com/7rqob.jpg?s=128&g=1",
+        "display_name": "venkatachalam",
+        "link": "https://stackoverflow.com/users/44984/venkatachalam"
+      },
+      "is_answered": true,
+      "view_count": 1994243,
+      "protected_date": 1388597249,
+      "accepted_answer_id": 406208,
+      "answer_count": 30,
+      "score": 1709,
+      "last_activity_date": 1556831366,
+      "creation_date": 1230878574,
+      "last_edit_date": 1537297693,
+      "question_id": 406192,
+      "link": "https://stackoverflow.com/questions/406192/get-current-url-with-jquery",
+      "title": "Get current URL with jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "events",
+        "unobtrusive-javascript"
+      ],
+      "owner": {
+        "reputation": 63045,
+        "user_id": 27580,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/f198305bbd04f5fd7c49051dd6e77782?s=128&d=identicon&r=PG",
+        "display_name": "Eli",
+        "link": "https://stackoverflow.com/users/27580/eli"
+      },
+      "is_answered": true,
+      "view_count": 757504,
+      "protected_date": 1395655750,
+      "accepted_answer_id": 1207393,
+      "answer_count": 23,
+      "score": 1677,
+      "locked_date": 1529684683,
+      "last_activity_date": 1556182490,
+      "creation_date": 1224026719,
+      "last_edit_date": 1480674460,
+      "question_id": 203198,
+      "link": "https://stackoverflow.com/questions/203198/event-binding-on-dynamically-created-elements",
+      "title": "Event binding on dynamically created elements?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html"
+      ],
+      "owner": {
+        "reputation": 12590,
+        "user_id": 134484,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/a7263d0aad8f750b83d52b6a58a44b4b?s=128&d=identicon&r=PG",
+        "display_name": "Mark Richman",
+        "link": "https://stackoverflow.com/users/134484/mark-richman"
+      },
+      "is_answered": true,
+      "view_count": 1013042,
+      "protected_date": 1394958428,
+      "accepted_answer_id": 1279963,
+      "answer_count": 14,
+      "score": 1568,
+      "last_activity_date": 1547859714,
+      "creation_date": 1250280885,
+      "last_edit_date": 1410925522,
+      "question_id": 1279957,
+      "link": "https://stackoverflow.com/questions/1279957/how-to-move-an-element-into-another-element",
+      "title": "How to move an element into another element?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "json",
+        "serialization"
+      ],
+      "owner": {
+        "reputation": 5501,
+        "user_id": 35091,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/c148357506bfb42d0c4db54df626b1c6?s=128&d=identicon&r=PG",
+        "display_name": "Yisroel",
+        "link": "https://stackoverflow.com/users/35091/yisroel"
+      },
+      "is_answered": true,
+      "view_count": 930677,
+      "protected_date": 1401481127,
+      "accepted_answer_id": 1186309,
+      "answer_count": 47,
+      "community_owned_date": 1381072611,
+      "score": 1546,
+      "last_activity_date": 1549353399,
+      "creation_date": 1248615594,
+      "last_edit_date": 1535170639,
+      "question_id": 1184624,
+      "link": "https://stackoverflow.com/questions/1184624/convert-form-data-to-javascript-object-with-jquery",
+      "title": "Convert form data to JavaScript object with jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "mobile",
+        "browser-detection"
+      ],
+      "owner": {
+        "reputation": 15265,
+        "user_id": 54259,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/090069409887536f078fd716b54611c5?s=128&d=identicon&r=PG",
+        "display_name": "superUntitled",
+        "link": "https://stackoverflow.com/users/54259/superuntitled"
+      },
+      "is_answered": true,
+      "view_count": 1394335,
+      "protected_date": 1394632353,
+      "accepted_answer_id": 3540295,
+      "answer_count": 51,
+      "community_owned_date": 1385759658,
+      "score": 1510,
+      "last_activity_date": 1562568484,
+      "creation_date": 1282152142,
+      "last_edit_date": 1556108832,
+      "question_id": 3514784,
+      "link": "https://stackoverflow.com/questions/3514784/what-is-the-best-way-to-detect-a-mobile-device",
+      "title": "What is the best way to detect a mobile device?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "append",
+        "jquery-append"
+      ],
+      "owner": {
+        "reputation": 12992,
+        "user_id": 79980,
+        "user_type": "registered",
+        "accept_rate": 43,
+        "profile_image": "https://www.gravatar.com/avatar/09bbc36d6eb2bfdc5b54cf56f73e88f2?s=128&d=identicon&r=PG",
+        "display_name": "useranon",
+        "link": "https://stackoverflow.com/users/79980/useranon"
+      },
+      "is_answered": true,
+      "view_count": 1631217,
+      "protected_date": 1393890937,
+      "closed_date": 1512600481,
+      "accepted_answer_id": 867981,
+      "answer_count": 24,
+      "score": 1462,
+      "last_activity_date": 1559855732,
+      "creation_date": 1242383424,
+      "last_edit_date": 1453493943,
+      "question_id": 867916,
+      "link": "https://stackoverflow.com/questions/867916/creating-a-div-element-in-jquery",
+      "closed_reason": "duplicate",
+      "title": "Creating a div element in jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "scroll"
+      ],
+      "owner": {
+        "reputation": 25764,
+        "user_id": 64878,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/437d018976627b471adcf13c6b31feb7?s=128&d=identicon&r=PG",
+        "display_name": "KingNestor",
+        "link": "https://stackoverflow.com/users/64878/kingnestor"
+      },
+      "is_answered": true,
+      "view_count": 1518469,
+      "protected_date": 1545281458,
+      "accepted_answer_id": 1145012,
+      "answer_count": 37,
+      "score": 1449,
+      "last_activity_date": 1553605892,
+      "creation_date": 1247853549,
+      "last_edit_date": 1481970070,
+      "question_id": 1144805,
+      "link": "https://stackoverflow.com/questions/1144805/scroll-to-the-top-of-the-page-using-javascript-jquery",
+      "title": "Scroll to the top of the page using JavaScript/jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "file-upload"
+      ],
+      "owner": {
+        "reputation": 7070,
+        "user_id": 518838,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/dd9dddfe9c9d8a86ff231e94c2a26aca?s=128&d=identicon&r=PG",
+        "display_name": "Simbian",
+        "link": "https://stackoverflow.com/users/518838/simbian"
+      },
+      "is_answered": true,
+      "view_count": 936040,
+      "protected_date": 1360593875,
+      "accepted_answer_id": 4459419,
+      "answer_count": 18,
+      "score": 1394,
+      "last_activity_date": 1559948481,
+      "creation_date": 1292493092,
+      "last_edit_date": 1315306165,
+      "question_id": 4459379,
+      "link": "https://stackoverflow.com/questions/4459379/preview-an-image-before-it-is-uploaded",
+      "title": "Preview an image before it is uploaded"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "arrays",
+        "object",
+        "javascript-objects"
+      ],
+      "owner": {
+        "reputation": 7813,
+        "user_id": 614566,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/8ee1643d8422a3af4c8dc625166d373a?s=128&d=identicon&r=PG",
+        "display_name": "thugsb",
+        "link": "https://stackoverflow.com/users/614566/thugsb"
+      },
+      "is_answered": true,
+      "view_count": 1221407,
+      "protected_date": 1477299038,
+      "accepted_answer_id": 35398031,
+      "answer_count": 31,
+      "score": 1343,
+      "last_activity_date": 1563567465,
+      "creation_date": 1315582949,
+      "last_edit_date": 1463481857,
+      "question_id": 7364150,
+      "link": "https://stackoverflow.com/questions/7364150/find-object-by-id-in-an-array-of-javascript-objects",
+      "title": "Find object by id in an array of JavaScript objects"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html"
+      ],
+      "owner": {
+        "reputation": 301369,
+        "user_id": 28804,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://www.gravatar.com/avatar/015c999a9db79ffb3030b3cc207d0be8?s=128&d=identicon&r=PG",
+        "display_name": "mipadi",
+        "link": "https://stackoverflow.com/users/28804/mipadi"
+      },
+      "is_answered": true,
+      "view_count": 511891,
+      "protected_date": 1409851127,
+      "accepted_answer_id": 24070373,
+      "answer_count": 21,
+      "score": 1343,
+      "last_activity_date": 1562667963,
+      "creation_date": 1231784154,
+      "last_edit_date": 1495535498,
+      "question_id": 436411,
+      "link": "https://stackoverflow.com/questions/436411/where-should-i-put-script-tags-in-html-markup",
+      "title": "Where should I put &lt;script&gt; tags in HTML markup?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "arrays",
+        "html-select"
+      ],
+      "owner": {
+        "reputation": 71124,
+        "user_id": 5441,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/0aebcaf10719325c563dea3d1f024958?s=128&d=identicon&r=PG",
+        "display_name": "Darryl Hein",
+        "link": "https://stackoverflow.com/users/5441/darryl-hein"
+      },
+      "is_answered": true,
+      "view_count": 915757,
+      "protected_date": 1401366432,
+      "accepted_answer_id": 171007,
+      "answer_count": 34,
+      "score": 1317,
+      "last_activity_date": 1551772909,
+      "creation_date": 1223153926,
+      "last_edit_date": 1514405122,
+      "question_id": 170986,
+      "link": "https://stackoverflow.com/questions/170986/what-is-the-best-way-to-add-options-to-a-select-from-as-a-js-object-with-jquery",
+      "title": "What is the best way to add options to a select from as a JS object with jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax",
+        "redirect"
+      ],
+      "owner": {
+        "reputation": 9266,
+        "user_id": 2024,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/26ec7774dace7d932579f30fe93ae3d4?s=128&d=identicon&r=PG",
+        "display_name": "Elliot Vargas",
+        "link": "https://stackoverflow.com/users/2024/elliot-vargas"
+      },
+      "is_answered": true,
+      "view_count": 812126,
+      "protected_date": 1410980200,
+      "accepted_answer_id": 484541,
+      "answer_count": 31,
+      "score": 1283,
+      "last_activity_date": 1531431943,
+      "creation_date": 1223933390,
+      "last_edit_date": 1453494105,
+      "question_id": 199099,
+      "link": "https://stackoverflow.com/questions/199099/how-to-manage-a-redirect-request-after-a-jquery-ajax-call",
+      "title": "How to manage a redirect request after a jQuery Ajax call"
+    },
+    {
+      "tags": [
+        "jquery",
+        "jquery-selectors"
+      ],
+      "owner": {
+        "reputation": 24981,
+        "user_id": 207752,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/b8e8bce142e9137b585b3aa712128ca5?s=128&d=identicon&r=PG",
+        "display_name": "fearofawhackplanet",
+        "link": "https://stackoverflow.com/users/207752/fearofawhackplanet"
+      },
+      "is_answered": true,
+      "view_count": 1741475,
+      "accepted_answer_id": 3239600,
+      "answer_count": 19,
+      "score": 1280,
+      "last_activity_date": 1557002752,
+      "creation_date": 1279041110,
+      "last_edit_date": 1494857793,
+      "question_id": 3239598,
+      "link": "https://stackoverflow.com/questions/3239598/how-can-i-get-the-id-of-an-element-using-jquery",
+      "title": "How can I get the ID of an element using jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "hyperlink"
+      ],
+      "owner": {
+        "reputation": 16440,
+        "user_id": 3747,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/f05e3b9aa180fbacdff713e300a7c5f2?s=128&d=identicon&r=PG",
+        "display_name": "Brian Boatright",
+        "link": "https://stackoverflow.com/users/3747/brian-boatright"
+      },
+      "is_answered": true,
+      "view_count": 1338927,
+      "protected_date": 1337338465,
+      "accepted_answer_id": 179717,
+      "answer_count": 11,
+      "score": 1201,
+      "last_activity_date": 1547873066,
+      "creation_date": 1223403453,
+      "last_edit_date": 1453493980,
+      "question_id": 179713,
+      "link": "https://stackoverflow.com/questions/179713/how-to-change-the-href-for-a-hyperlink-using-jquery",
+      "title": "How to change the href for a hyperlink using jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "dom",
+        "dhtml"
+      ],
+      "owner": {
+        "reputation": 22337,
+        "user_id": 4950,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/7c8d3597d1f7f599ef0134ee79c73b98?s=128&d=identicon&r=PG",
+        "display_name": "Rob Stevenson-Leggett",
+        "link": "https://stackoverflow.com/users/4950/rob-stevenson-leggett"
+      },
+      "is_answered": true,
+      "view_count": 851897,
+      "protected_date": 1394227891,
+      "accepted_answer_id": 268520,
+      "answer_count": 13,
+      "score": 1200,
+      "last_activity_date": 1558720053,
+      "creation_date": 1225974391,
+      "last_edit_date": 1453493934,
+      "question_id": 268490,
+      "link": "https://stackoverflow.com/questions/268490/jquery-document-createelement-equivalent",
+      "title": "jQuery document.createElement equivalent?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "drop-down-menu",
+        "jquery-selectors"
+      ],
+      "owner": {
+        "reputation": 393835,
+        "user_id": 16417,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/80ae8ec34e9e3e66c5be50733afaa44e?s=128&d=identicon&r=PG",
+        "display_name": "Paolo Bergantino",
+        "link": "https://stackoverflow.com/users/16417/paolo-bergantino"
+      },
+      "is_answered": true,
+      "view_count": 1045441,
+      "protected_date": 1312769756,
+      "accepted_answer_id": 196687,
+      "answer_count": 21,
+      "score": 1194,
+      "last_activity_date": 1556530410,
+      "creation_date": 1223870794,
+      "last_edit_date": 1388419473,
+      "question_id": 196684,
+      "link": "https://stackoverflow.com/questions/196684/jquery-get-specific-option-tag-text",
+      "title": "jQuery get specific option tag text"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "javascript-events",
+        "unobtrusive-javascript"
+      ],
+      "owner": {
+        "reputation": 14730,
+        "user_id": 197878,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/69e2ccf76b6341f5f58f5d916ce78d57?s=128&d=identicon&r=PG",
+        "display_name": "Vaibhav Jain",
+        "link": "https://stackoverflow.com/users/197878/vaibhav-jain"
+      },
+      "is_answered": true,
+      "view_count": 810136,
+      "protected_date": 1402646356,
+      "accepted_answer_id": 3698214,
+      "answer_count": 15,
+      "score": 1180,
+      "last_activity_date": 1544729969,
+      "creation_date": 1284359092,
+      "last_edit_date": 1460409846,
+      "question_id": 3698200,
+      "link": "https://stackoverflow.com/questions/3698200/window-onload-vs-document-ready",
+      "title": "window.onload vs $(document).ready()"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "cookies"
+      ],
+      "owner": {
+        "reputation": 53378,
+        "user_id": 104015,
+        "user_type": "registered",
+        "accept_rate": 44,
+        "profile_image": "https://www.gravatar.com/avatar/946c085c383cc406907c2bbf809917c3?s=128&d=identicon&r=PG",
+        "display_name": "omg",
+        "link": "https://stackoverflow.com/users/104015/omg"
+      },
+      "is_answered": true,
+      "view_count": 1122568,
+      "protected_date": 1295362168,
+      "accepted_answer_id": 1458728,
+      "answer_count": 13,
+      "score": 1179,
+      "last_activity_date": 1562164774,
+      "creation_date": 1253606990,
+      "last_edit_date": 1516379631,
+      "question_id": 1458724,
+      "link": "https://stackoverflow.com/questions/1458724/how-do-i-set-unset-a-cookie-with-jquery",
+      "title": "How do I set/unset a cookie with jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax",
+        "json",
+        "serialization"
+      ],
+      "owner": {
+        "reputation": 24119,
+        "user_id": 239663,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/87f078ab517b08b3a880d9d72dd8e1d0?s=128&d=identicon&r=PG",
+        "display_name": "Herb Caudill",
+        "link": "https://stackoverflow.com/users/239663/herb-caudill"
+      },
+      "is_answered": true,
+      "view_count": 845987,
+      "protected_date": 1368094070,
+      "closed_date": 1491572101,
+      "accepted_answer_id": 912247,
+      "answer_count": 11,
+      "score": 1176,
+      "last_activity_date": 1562129419,
+      "creation_date": 1223652596,
+      "last_edit_date": 1562129419,
+      "question_id": 191881,
+      "link": "https://stackoverflow.com/questions/191881/serializing-to-json-in-jquery",
+      "closed_reason": "duplicate",
+      "title": "Serializing to JSON in jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 6245,
+        "user_id": 482925,
+        "user_type": "unregistered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/b29d296695df66ea26af212564def5b7?s=128&d=identicon&r=PG",
+        "display_name": "Nick",
+        "link": "https://stackoverflow.com/users/482925/nick"
+      },
+      "is_answered": true,
+      "view_count": 1214642,
+      "protected_date": 1421044177,
+      "closed_date": 1424866688,
+      "accepted_answer_id": 4592511,
+      "answer_count": 8,
+      "score": 1160,
+      "last_activity_date": 1502530467,
+      "creation_date": 1294136111,
+      "last_edit_date": 1378656645,
+      "question_id": 4592493,
+      "link": "https://stackoverflow.com/questions/4592493/check-if-element-exists-in-jquery",
+      "closed_reason": "duplicate",
+      "title": "Check if element exists in jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax",
+        "asynchronous"
+      ],
+      "owner": {
+        "reputation": 10227,
+        "user_id": 2313,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/7508bf0d17a0f27d31a583e52b372295?s=128&d=identicon&r=PG",
+        "display_name": "Artem Tikhomirov",
+        "link": "https://stackoverflow.com/users/2313/artem-tikhomirov"
+      },
+      "is_answered": true,
+      "view_count": 674066,
+      "protected_date": 1398439451,
+      "accepted_answer_id": 133327,
+      "answer_count": 14,
+      "score": 1153,
+      "last_activity_date": 1557728099,
+      "creation_date": 1222349214,
+      "last_edit_date": 1526994262,
+      "question_id": 133310,
+      "link": "https://stackoverflow.com/questions/133310/how-can-i-get-jquery-to-perform-a-synchronous-rather-than-asynchronous-ajax-re",
+      "title": "How can I get jQuery to perform a synchronous, rather than asynchronous, Ajax request?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html"
+      ],
+      "owner": {
+        "reputation": 15276,
+        "user_id": 768392,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/b43bbab9d16d030a8744f17ca9c1da8d?s=128&d=identicon&r=PG",
+        "display_name": "chris",
+        "link": "https://stackoverflow.com/users/768392/chris"
+      },
+      "is_answered": true,
+      "view_count": 1183190,
+      "closed_date": 1479306797,
+      "accepted_answer_id": 9899701,
+      "answer_count": 10,
+      "score": 1144,
+      "last_activity_date": 1549650680,
+      "creation_date": 1332892641,
+      "last_edit_date": 1507903586,
+      "question_id": 9899372,
+      "link": "https://stackoverflow.com/questions/9899372/pure-javascript-equivalent-of-jquerys-ready-how-to-call-a-function-when-t",
+      "closed_reason": "duplicate",
+      "title": "Pure JavaScript equivalent of jQuery&#39;s $.ready() - how to call a function when the page/DOM is ready for it"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "dom",
+        "jquery-selectors"
+      ],
+      "owner": {
+        "reputation": 12771,
+        "user_id": 52256,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/a65e01a757d285d68888a3388d44c33c?s=128&d=identicon&r=PG",
+        "display_name": "T.T.T.",
+        "link": "https://stackoverflow.com/users/52256/t-t-t"
+      },
+      "is_answered": true,
+      "view_count": 1315616,
+      "accepted_answer_id": 1107264,
+      "answer_count": 14,
+      "score": 1097,
+      "last_activity_date": 1560930240,
+      "creation_date": 1247187938,
+      "last_edit_date": 1524905193,
+      "question_id": 1107220,
+      "link": "https://stackoverflow.com/questions/1107220/how-can-i-select-an-element-by-name-with-jquery",
+      "title": "How can I select an element by name with jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "checkbox"
+      ],
+      "owner": {
+        "reputation": 9690,
+        "user_id": 229853,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/fe1b86c46d702cecbc44c1e3effbf09b?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Jake",
+        "link": "https://stackoverflow.com/users/229853/jake"
+      },
+      "is_answered": true,
+      "view_count": 1687757,
+      "protected_date": 1436437347,
+      "accepted_answer_id": 2204275,
+      "answer_count": 21,
+      "score": 1070,
+      "last_activity_date": 1559741890,
+      "creation_date": 1265329400,
+      "last_edit_date": 1520357466,
+      "question_id": 2204250,
+      "link": "https://stackoverflow.com/questions/2204250/check-if-checkbox-is-checked-with-jquery",
+      "title": "Check if checkbox is checked with jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "scroll"
+      ],
+      "owner": {
+        "reputation": 9510,
+        "user_id": 1011,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/ae98ec38ec28f129a33a424e5eba5769?s=128&d=identicon&r=PG",
+        "display_name": "yoavf",
+        "link": "https://stackoverflow.com/users/1011/yoavf"
+      },
+      "is_answered": true,
+      "view_count": 596576,
+      "protected_date": 1444035733,
+      "accepted_answer_id": 488073,
+      "answer_count": 39,
+      "score": 1067,
+      "last_activity_date": 1560266555,
+      "creation_date": 1233136855,
+      "last_edit_date": 1545241559,
+      "question_id": 487073,
+      "link": "https://stackoverflow.com/questions/487073/how-to-check-if-element-is-visible-after-scrolling",
+      "title": "How to Check if element is visible after scrolling?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax",
+        "caching",
+        "mobile-safari"
+      ],
+      "owner": {
+        "reputation": 4539,
+        "user_id": 1684978,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/2cbf3a2349ac6ebf4848c20e2ac6db1b?s=128&d=identicon&r=PG",
+        "display_name": "user1684978",
+        "link": "https://stackoverflow.com/users/1684978/user1684978"
+      },
+      "is_answered": true,
+      "view_count": 137702,
+      "protected_date": 1348419110,
+      "answer_count": 25,
+      "score": 1050,
+      "last_activity_date": 1469723595,
+      "creation_date": 1348121243,
+      "last_edit_date": 1449127779,
+      "question_id": 12506897,
+      "link": "https://stackoverflow.com/questions/12506897/is-safari-on-ios-6-caching-ajax-results",
+      "title": "Is Safari on iOS 6 caching $.ajax results?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "google-chrome-devtools"
+      ],
+      "owner": {
+        "reputation": 33730,
+        "user_id": 89484,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/6cfbd373bb1dd5f26c066c1fc7e68288?s=128&d=identicon&r=PG",
+        "display_name": "Paul Irish",
+        "link": "https://stackoverflow.com/users/89484/paul-irish"
+      },
+      "is_answered": true,
+      "view_count": 443253,
+      "protected_date": 1377617665,
+      "accepted_answer_id": 18365316,
+      "answer_count": 11,
+      "score": 1042,
+      "last_activity_date": 1529919225,
+      "creation_date": 1377110791,
+      "last_edit_date": 1453493972,
+      "question_id": 18365315,
+      "link": "https://stackoverflow.com/questions/18365315/jquerys-jquery-1-10-2-min-map-is-triggering-a-404-not-found",
+      "title": "jQuery&#39;s jquery-1.10.2.min.map is triggering a 404 (Not Found)"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html"
+      ],
+      "owner": {
+        "reputation": 15001,
+        "user_id": 1378388,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.stack.imgur.com/txELp.jpg?s=128&g=1",
+        "display_name": "William Kinaan",
+        "link": "https://stackoverflow.com/users/1378388/william-kinaan"
+      },
+      "is_answered": true,
+      "view_count": 1301456,
+      "accepted_answer_id": 10659117,
+      "answer_count": 28,
+      "score": 1026,
+      "last_activity_date": 1560161609,
+      "creation_date": 1337371914,
+      "last_edit_date": 1484282026,
+      "question_id": 10659097,
+      "link": "https://stackoverflow.com/questions/10659097/jquery-get-selected-option-from-dropdown",
+      "title": "jQuery Get Selected Option From Dropdown"
+    },
+    {
+      "tags": [
+        "jquery",
+        "html-input"
+      ],
+      "owner": {
+        "reputation": 6439,
+        "user_id": 13800,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/8377e98465228eee3935d82014867748?s=128&d=identicon&r=PG",
+        "display_name": "the0ther",
+        "link": "https://stackoverflow.com/users/13800/the0ther"
+      },
+      "is_answered": true,
+      "view_count": 672397,
+      "protected_date": 1288347839,
+      "accepted_answer_id": 210345,
+      "answer_count": 19,
+      "score": 1017,
+      "last_activity_date": 1558925401,
+      "creation_date": 1224170927,
+      "last_edit_date": 1519144947,
+      "question_id": 209029,
+      "link": "https://stackoverflow.com/questions/209029/best-way-to-remove-an-event-handler-in-jquery",
+      "title": "Best way to remove an event handler in jQuery?"
+    },
+    {
+      "tags": [
+        "jquery",
+        "cdn",
+        "google-ajax-libraries"
+      ],
+      "owner": {
+        "reputation": 60792,
+        "user_id": 61027,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/4d5cf9b8d40af8083b1797aa7c5f3de9?s=128&d=identicon&r=PG",
+        "display_name": "Nosredna",
+        "link": "https://stackoverflow.com/users/61027/nosredna"
+      },
+      "is_answered": true,
+      "view_count": 149006,
+      "protected_date": 1380907732,
+      "accepted_answer_id": 1014251,
+      "answer_count": 23,
+      "score": 1004,
+      "last_activity_date": 1562997239,
+      "creation_date": 1245347493,
+      "last_edit_date": 1374623791,
+      "question_id": 1014203,
+      "link": "https://stackoverflow.com/questions/1014203/best-way-to-use-googles-hosted-jquery-but-fall-back-to-my-hosted-library-on-go",
+      "title": "Best way to use Google&#39;s hosted jQuery, but fall back to my hosted library on Google fail"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "option",
+        "html-select"
+      ],
+      "owner": {
+        "reputation": 14064,
+        "user_id": 2755,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/096745c44ff55cde15c5214139ecfc5f?s=128&d=identicon&r=PG",
+        "display_name": "Jay Corbett",
+        "link": "https://stackoverflow.com/users/2755/jay-corbett"
+      },
+      "is_answered": true,
+      "view_count": 997179,
+      "protected_date": 1539335702,
+      "accepted_answer_id": 47829,
+      "answer_count": 23,
+      "score": 983,
+      "last_activity_date": 1563345408,
+      "creation_date": 1220734434,
+      "last_edit_date": 1365853791,
+      "question_id": 47824,
+      "link": "https://stackoverflow.com/questions/47824/how-do-you-remove-all-the-options-of-a-select-box-and-then-add-one-option-and-se",
+      "title": "How do you remove all the options of a select box and then add one option and select it with jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "innerhtml"
+      ],
+      "owner": {
+        "reputation": 13253,
+        "user_id": 111479,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://i.stack.imgur.com/MOwCL.png?s=128&g=1",
+        "display_name": "tonyf",
+        "link": "https://stackoverflow.com/users/111479/tonyf"
+      },
+      "is_answered": true,
+      "view_count": 1390822,
+      "protected_date": 1306318469,
+      "accepted_answer_id": 1309454,
+      "answer_count": 12,
+      "score": 962,
+      "last_activity_date": 1551250955,
+      "creation_date": 1250812296,
+      "last_edit_date": 1473266802,
+      "question_id": 1309452,
+      "link": "https://stackoverflow.com/questions/1309452/how-to-replace-innerhtml-of-a-div-using-jquery",
+      "title": "How to replace innerHTML of a div using jQuery?"
+    },
+    {
+      "tags": [
+        "jquery",
+        "html",
+        "jquery-selectors",
+        "textinput"
+      ],
+      "owner": {
+        "reputation": 11174,
+        "user_id": 246963,
+        "user_type": "registered",
+        "accept_rate": 66,
+        "profile_image": "https://www.gravatar.com/avatar/a32cf2a5eb8f326b14d44eb3bcc979bf?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Bharanikumar",
+        "link": "https://stackoverflow.com/users/246963/bharanikumar"
+      },
+      "is_answered": true,
+      "view_count": 2164029,
+      "protected_date": 1446571126,
+      "accepted_answer_id": 15903284,
+      "answer_count": 11,
+      "score": 942,
+      "last_activity_date": 1546242720,
+      "creation_date": 1288796837,
+      "last_edit_date": 1418496186,
+      "question_id": 4088467,
+      "link": "https://stackoverflow.com/questions/4088467/get-the-value-in-an-input-text-box",
+      "title": "Get the value in an input text box"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "string",
+        "substring",
+        "contains"
+      ],
+      "owner": {
+        "reputation": 4699,
+        "user_id": 420022,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/7fb4da89a11b79c2759b317eceffc3d7?s=128&d=identicon&r=PG",
+        "display_name": "Jordan Garis",
+        "link": "https://stackoverflow.com/users/420022/jordan-garis"
+      },
+      "is_answered": true,
+      "view_count": 1528946,
+      "protected_date": 1480982411,
+      "closed_date": 1500250646,
+      "accepted_answer_id": 3480785,
+      "answer_count": 13,
+      "score": 938,
+      "last_activity_date": 1538489340,
+      "creation_date": 1281734754,
+      "last_edit_date": 1538489340,
+      "question_id": 3480771,
+      "link": "https://stackoverflow.com/questions/3480771/how-do-i-check-if-string-contains-substring",
+      "closed_reason": "duplicate",
+      "title": "How do I check if string contains substring?"
+    },
+    {
+      "tags": [
+        "jquery",
+        "html5",
+        "custom-data-attribute"
+      ],
+      "owner": {
+        "reputation": 7356,
+        "user_id": 279482,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://i.stack.imgur.com/Mei94.jpg?s=128&g=1",
+        "display_name": "Hazem Salama",
+        "link": "https://stackoverflow.com/users/279482/hazem-salama"
+      },
+      "is_answered": true,
+      "view_count": 860386,
+      "protected_date": 1454311568,
+      "accepted_answer_id": 2487751,
+      "answer_count": 11,
+      "score": 936,
+      "last_activity_date": 1537430163,
+      "creation_date": 1269187995,
+      "last_edit_date": 1454590034,
+      "question_id": 2487747,
+      "link": "https://stackoverflow.com/questions/2487747/selecting-element-by-data-attribute",
+      "title": "Selecting element by data attribute"
+    },
+    {
+      "tags": [
+        "jquery",
+        "html",
+        "hide",
+        "styling"
+      ],
+      "owner": {
+        "reputation": 5195,
+        "user_id": 157173,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/62816b4123724fa233262d0263c786d9?s=128&d=identicon&r=PG",
+        "display_name": "Scott Yu - Front-End UX",
+        "link": "https://stackoverflow.com/users/157173/scott-yu-front-end-ux"
+      },
+      "is_answered": true,
+      "view_count": 666500,
+      "protected_date": 1411749234,
+      "accepted_answer_id": 7385673,
+      "answer_count": 36,
+      "score": 921,
+      "last_activity_date": 1562409774,
+      "creation_date": 1252563087,
+      "last_edit_date": 1374219856,
+      "question_id": 1403615,
+      "link": "https://stackoverflow.com/questions/1403615/use-jquery-to-hide-a-div-when-the-user-clicks-outside-of-it",
+      "title": "Use jQuery to hide a DIV when the user clicks outside of it"
+    },
+    {
+      "tags": [
+        "jquery",
+        "jquery-selectors",
+        "custom-data-attribute"
+      ],
+      "owner": {
+        "reputation": 7560,
+        "user_id": 70339,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/eb3e4816edf4ca87d8ad4fd39855cb90?s=128&d=identicon&r=PG",
+        "display_name": "Jannis",
+        "link": "https://stackoverflow.com/users/70339/jannis"
+      },
+      "is_answered": true,
+      "view_count": 1070225,
+      "protected_date": 1382447267,
+      "accepted_answer_id": 4191718,
+      "answer_count": 9,
+      "score": 917,
+      "last_activity_date": 1562364457,
+      "creation_date": 1289884288,
+      "last_edit_date": 1400945892,
+      "question_id": 4191386,
+      "link": "https://stackoverflow.com/questions/4191386/jquery-how-to-find-an-element-based-on-a-data-attribute-value",
+      "title": "jQuery how to find an element based on a data-attribute value?"
+    },
+    {
+      "tags": [
+        "jquery",
+        "events",
+        "javascript-events"
+      ],
+      "owner": {
+        "reputation": 7337,
+        "user_id": 282475,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://i.stack.imgur.com/OZWIJ.jpg?s=128&g=1",
+        "display_name": "shaneburgess",
+        "link": "https://stackoverflow.com/users/282475/shaneburgess"
+      },
+      "is_answered": true,
+      "view_count": 537170,
+      "accepted_answer_id": 2534107,
+      "answer_count": 11,
+      "score": 902,
+      "last_activity_date": 1558421653,
+      "creation_date": 1269802437,
+      "last_edit_date": 1529249860,
+      "question_id": 2534089,
+      "link": "https://stackoverflow.com/questions/2534089/jquery-multiple-events-to-trigger-the-same-function",
+      "title": "jQuery multiple events to trigger the same function"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 5396,
+        "user_id": 1090,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/bdd84258c04310c404b9a88096d7d579?s=128&d=identicon&r=PG",
+        "display_name": "Joda",
+        "link": "https://stackoverflow.com/users/1090/joda"
+      },
+      "is_answered": true,
+      "view_count": 1172949,
+      "protected_date": 1399078325,
+      "accepted_answer_id": 48684,
+      "answer_count": 20,
+      "score": 890,
+      "last_activity_date": 1557897866,
+      "creation_date": 1220774978,
+      "last_edit_date": 1513235061,
+      "question_id": 48239,
+      "link": "https://stackoverflow.com/questions/48239/getting-the-id-of-the-element-that-fired-an-event",
+      "title": "Getting the ID of the element that fired an event"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "css",
+        "jquery-selectors",
+        "pseudo-element"
+      ],
+      "owner": {
+        "reputation": 4495,
+        "user_id": 580527,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/629ec8cce907cb42e0542a62a3e1d8c4?s=128&d=identicon&r=PG",
+        "display_name": "JBradwell",
+        "link": "https://stackoverflow.com/users/580527/jbradwell"
+      },
+      "is_answered": true,
+      "view_count": 564159,
+      "protected_date": 1413070667,
+      "accepted_answer_id": 5734583,
+      "answer_count": 21,
+      "score": 876,
+      "last_activity_date": 1563542487,
+      "creation_date": 1298033590,
+      "last_edit_date": 1480873115,
+      "question_id": 5041494,
+      "link": "https://stackoverflow.com/questions/5041494/selecting-and-manipulating-css-pseudo-elements-such-as-before-and-after-usin",
+      "title": "Selecting and manipulating CSS pseudo-elements such as ::before and ::after using jQuery"
+    },
+    {
+      "tags": [
+        "jquery",
+        "html",
+        "validation",
+        "numeric"
+      ],
+      "owner": {
+        "reputation": 12301,
+        "user_id": 45261,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/80580a16e84d6095d55ca83e0743b90c?s=128&d=identicon&r=PG",
+        "display_name": "Prashant",
+        "link": "https://stackoverflow.com/users/45261/prashant"
+      },
+      "is_answered": true,
+      "view_count": 1440223,
+      "protected_date": 1329325247,
+      "accepted_answer_id": 995193,
+      "answer_count": 64,
+      "community_owned_date": 1326932238,
+      "score": 854,
+      "last_activity_date": 1563470805,
+      "creation_date": 1245057727,
+      "last_edit_date": 1315088025,
+      "question_id": 995183,
+      "link": "https://stackoverflow.com/questions/995183/how-to-allow-only-numeric-0-9-in-html-inputbox-using-jquery",
+      "title": "How to allow only numeric (0-9) in HTML  inputbox using jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax",
+        "submit",
+        "forms"
+      ],
+      "owner": {
+        "reputation": 21149,
+        "user_id": 25645,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://www.gravatar.com/avatar/b02cab91fb3c5604163c116c494de2a5?s=128&d=identicon&r=PG",
+        "display_name": "Nathan H",
+        "link": "https://stackoverflow.com/users/25645/nathan-h"
+      },
+      "is_answered": true,
+      "view_count": 1780664,
+      "protected_date": 1483511893,
+      "accepted_answer_id": 1960245,
+      "answer_count": 17,
+      "score": 853,
+      "last_activity_date": 1556659957,
+      "creation_date": 1261704708,
+      "last_edit_date": 1525092403,
+      "question_id": 1960240,
+      "link": "https://stackoverflow.com/questions/1960240/jquery-ajax-submit-form",
+      "title": "jQuery AJAX submit form"
+    },
+    {
+      "tags": [
+        "jquery",
+        "jquery-selectors",
+        "html-select"
+      ],
+      "owner": {
+        "reputation": 12182,
+        "user_id": 874381,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/f67fdb8cfaeadde9d94ff67e98b29964?s=128&d=identicon&r=PG",
+        "display_name": "w00",
+        "link": "https://stackoverflow.com/users/874381/w00"
+      },
+      "is_answered": true,
+      "view_count": 2000470,
+      "protected_date": 1453721355,
+      "accepted_answer_id": 16979926,
+      "answer_count": 24,
+      "score": 838,
+      "last_activity_date": 1556997912,
+      "creation_date": 1352722577,
+      "last_edit_date": 1467495429,
+      "question_id": 13343566,
+      "link": "https://stackoverflow.com/questions/13343566/set-select-option-selected-by-value",
+      "title": "Set select option &#39;selected&#39;, by value"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "forms",
+        "radio-button"
+      ],
+      "owner": {
+        "reputation": 7644,
+        "user_id": 507323,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/a28e399e881342169332152b67477148?s=128&d=identicon&r=PG",
+        "display_name": "Alexis",
+        "link": "https://stackoverflow.com/users/507323/alexis"
+      },
+      "is_answered": true,
+      "view_count": 1230627,
+      "accepted_answer_id": 5665942,
+      "answer_count": 30,
+      "score": 824,
+      "last_activity_date": 1558422931,
+      "creation_date": 1302796072,
+      "last_edit_date": 1500571776,
+      "question_id": 5665915,
+      "link": "https://stackoverflow.com/questions/5665915/how-to-check-a-radio-button-with-jquery",
+      "title": "How to check a radio button with jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "css"
+      ],
+      "owner": {
+        "reputation": 22586,
+        "user_id": 376947,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/1b61fefdf47fd531f94a86516dba0521?s=128&d=identicon&r=PG",
+        "display_name": "Alex",
+        "link": "https://stackoverflow.com/users/376947/alex"
+      },
+      "is_answered": true,
+      "view_count": 933291,
+      "protected_date": 1387301102,
+      "accepted_answer_id": 4036868,
+      "answer_count": 18,
+      "score": 820,
+      "last_activity_date": 1560864938,
+      "creation_date": 1288207270,
+      "last_edit_date": 1516899726,
+      "question_id": 4036857,
+      "link": "https://stackoverflow.com/questions/4036857/how-can-i-remove-a-style-added-with-css-function",
+      "title": "How can I remove a style added with .css() function?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html-select"
+      ],
+      "owner": {
+        "reputation": 4737,
+        "user_id": 61029,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://i.stack.imgur.com/zaJS4.jpg?s=128&g=1",
+        "display_name": "phairoh",
+        "link": "https://stackoverflow.com/users/61029/phairoh"
+      },
+      "is_answered": true,
+      "view_count": 1223805,
+      "protected_date": 1344170633,
+      "accepted_answer_id": 499413,
+      "answer_count": 16,
+      "score": 789,
+      "last_activity_date": 1537295221,
+      "creation_date": 1233430741,
+      "last_edit_date": 1504890822,
+      "question_id": 499405,
+      "link": "https://stackoverflow.com/questions/499405/change-the-selected-value-of-a-drop-down-list-with-jquery",
+      "title": "Change the selected value of a drop-down list with jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "google-api"
+      ],
+      "owner": {
+        "reputation": 11192,
+        "user_id": 4003,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/6a6e7d806c4445cb14a33e25cdb1163f?s=128&d=identicon&r=PG",
+        "display_name": "Nick Pierpoint",
+        "link": "https://stackoverflow.com/users/4003/nick-pierpoint"
+      },
+      "is_answered": true,
+      "view_count": 982766,
+      "protected_date": 1348314807,
+      "closed_date": 1422641476,
+      "accepted_answer_id": 441429,
+      "answer_count": 12,
+      "score": 778,
+      "last_activity_date": 1545305791,
+      "creation_date": 1231891737,
+      "last_edit_date": 1453494097,
+      "question_id": 441412,
+      "link": "https://stackoverflow.com/questions/441412/is-there-a-link-to-the-latest-jquery-library-on-google-apis",
+      "closed_reason": "duplicate",
+      "title": "Is there a link to the &quot;latest&quot; jQuery library on Google APIs?"
+    },
+    {
+      "tags": [
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 9107,
+        "user_id": 111133,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/c4e98343223e36732cfc28fdda97c800?s=128&d=identicon&r=PG",
+        "display_name": "Ryan",
+        "link": "https://stackoverflow.com/users/111133/ryan"
+      },
+      "is_answered": true,
+      "view_count": 436818,
+      "protected_date": 1405874512,
+      "accepted_answer_id": 2419877,
+      "answer_count": 28,
+      "score": 773,
+      "last_activity_date": 1553526170,
+      "creation_date": 1268248142,
+      "last_edit_date": 1311060896,
+      "question_id": 2419749,
+      "link": "https://stackoverflow.com/questions/2419749/get-selected-elements-outer-html",
+      "title": "Get selected element&#39;s outer HTML"
+    },
+    {
+      "tags": [
+        "jquery",
+        "html",
+        "css",
+        "jquery-ui",
+        "jquery-ui-dialog"
+      ],
+      "owner": {
+        "reputation": 28445,
+        "user_id": 53236,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/bf2af16812228b5a54daeb30c96efaf2?s=128&d=identicon&r=PG",
+        "display_name": "Robert MacLean",
+        "link": "https://stackoverflow.com/users/53236/robert-maclean"
+      },
+      "is_answered": true,
+      "view_count": 393850,
+      "protected_date": 1303277339,
+      "accepted_answer_id": 897393,
+      "answer_count": 23,
+      "score": 761,
+      "last_activity_date": 1555058350,
+      "creation_date": 1242978941,
+      "last_edit_date": 1408437914,
+      "question_id": 896777,
+      "link": "https://stackoverflow.com/questions/896777/how-to-remove-close-button-on-the-jquery-ui-dialog",
+      "title": "How to remove close button on the jQuery UI dialog?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "forms"
+      ],
+      "owner": {
+        "reputation": 6480,
+        "user_id": 185555,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/22283616a59d8d38d789da6e60f9e836?s=128&d=identicon&r=PG",
+        "display_name": "kmunky",
+        "link": "https://stackoverflow.com/users/185555/kmunky"
+      },
+      "is_answered": true,
+      "view_count": 1420892,
+      "accepted_answer_id": 1594992,
+      "answer_count": 20,
+      "score": 757,
+      "last_activity_date": 1562331698,
+      "creation_date": 1256048472,
+      "last_edit_date": 1552317735,
+      "question_id": 1594952,
+      "link": "https://stackoverflow.com/questions/1594952/jquery-disable-enable-submit-button",
+      "title": "jQuery disable/enable submit button"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "iframe",
+        "same-origin-policy"
+      ],
+      "owner": {
+        "reputation": 12140,
+        "user_id": 7407,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/c62db72438b13a2504cd3834b3c5e364?s=128&d=identicon&r=PG",
+        "display_name": "rz.",
+        "link": "https://stackoverflow.com/users/7407/rz"
+      },
+      "is_answered": true,
+      "view_count": 611591,
+      "protected_date": 1319730126,
+      "accepted_answer_id": 364997,
+      "answer_count": 14,
+      "score": 756,
+      "last_activity_date": 1547550388,
+      "creation_date": 1229152834,
+      "last_edit_date": 1473609025,
+      "question_id": 364952,
+      "link": "https://stackoverflow.com/questions/364952/jquery-javascript-accessing-contents-of-an-iframe",
+      "title": "jQuery/JavaScript: accessing contents of an iframe"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "css",
+        "layout"
+      ],
+      "owner": {
+        "reputation": 23310,
+        "user_id": 27294,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://i.stack.imgur.com/I41P3.jpg?s=128&g=1",
+        "display_name": "Craig",
+        "link": "https://stackoverflow.com/users/27294/craig"
+      },
+      "is_answered": true,
+      "view_count": 496024,
+      "protected_date": 1311233540,
+      "accepted_answer_id": 210733,
+      "answer_count": 26,
+      "score": 742,
+      "last_activity_date": 1556731543,
+      "creation_date": 1224202308,
+      "last_edit_date": 1458145746,
+      "question_id": 210717,
+      "link": "https://stackoverflow.com/questions/210717/using-jquery-to-center-a-div-on-the-screen",
+      "title": "Using jQuery to center a DIV on the screen"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "html5"
+      ],
+      "owner": {
+        "reputation": 14272,
+        "user_id": 13370,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://i.stack.imgur.com/zdSpR.jpg?s=128&g=1",
+        "display_name": "Julius A",
+        "link": "https://stackoverflow.com/users/13370/julius-a"
+      },
+      "is_answered": true,
+      "view_count": 1673338,
+      "protected_date": 1403019891,
+      "accepted_answer_id": 469362,
+      "answer_count": 60,
+      "community_owned_date": 1355287648,
+      "score": 738,
+      "last_activity_date": 1563430391,
+      "creation_date": 1232634977,
+      "last_edit_date": 1548518944,
+      "question_id": 469357,
+      "link": "https://stackoverflow.com/questions/469357/html-text-input-allow-only-numeric-input",
+      "title": "HTML text input allow only numeric input"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "dom"
+      ],
+      "owner": {
+        "reputation": 103582,
+        "user_id": 49153,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/833df8cee775eea743cb1172dfcd3809?s=128&d=identicon&r=PG",
+        "display_name": "Click Upvote",
+        "link": "https://stackoverflow.com/users/49153/click-upvote"
+      },
+      "is_answered": true,
+      "view_count": 504298,
+      "protected_date": 1519958937,
+      "accepted_answer_id": 1424991,
+      "answer_count": 13,
+      "score": 733,
+      "last_activity_date": 1554107949,
+      "creation_date": 1252985661,
+      "last_edit_date": 1554107949,
+      "question_id": 1424981,
+      "link": "https://stackoverflow.com/questions/1424981/how-to-remove-all-css-classes-using-jquery-javascript",
+      "title": "How to remove all CSS classes using jQuery/JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "anchor",
+        "fragment-identifier"
+      ],
+      "owner": {
+        "reputation": 57518,
+        "user_id": 21709,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/3ea9c684a2db319df788cecc6c98f9cd?s=128&d=identicon&r=PG",
+        "display_name": "Philip Morton",
+        "link": "https://stackoverflow.com/users/21709/philip-morton"
+      },
+      "is_answered": true,
+      "view_count": 577696,
+      "accepted_answer_id": 298513,
+      "answer_count": 18,
+      "score": 732,
+      "last_activity_date": 1561347540,
+      "creation_date": 1227008102,
+      "last_edit_date": 1561347540,
+      "question_id": 298503,
+      "link": "https://stackoverflow.com/questions/298503/how-can-you-check-for-a-hash-in-a-url-using-javascript",
+      "title": "How can you check for a #hash in a URL using JavaScript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "custom-data-attribute"
+      ],
+      "owner": {
+        "reputation": 4450,
+        "user_id": 121470,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.stack.imgur.com/YmeDR.png?s=128&g=1",
+        "display_name": "Bruce Adams",
+        "link": "https://stackoverflow.com/users/121470/bruce-adams"
+      },
+      "is_answered": true,
+      "view_count": 1303857,
+      "protected_date": 1454311531,
+      "accepted_answer_id": 5309947,
+      "answer_count": 11,
+      "score": 724,
+      "last_activity_date": 1541488016,
+      "creation_date": 1300182270,
+      "last_edit_date": 1540836475,
+      "question_id": 5309926,
+      "link": "https://stackoverflow.com/questions/5309926/how-to-get-the-data-id-attribute",
+      "title": "How to get the data-id attribute?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "asp.net",
+        "ajax",
+        "json"
+      ],
+      "owner": {
+        "reputation": 11156,
+        "user_id": 165107,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/44961d231636fcc4dfa553d6c33d74e5?s=128&d=identicon&r=PG",
+        "display_name": "Pankaj Mishra",
+        "link": "https://stackoverflow.com/users/165107/pankaj-mishra"
+      },
+      "is_answered": true,
+      "view_count": 327414,
+      "accepted_answer_id": 6186905,
+      "answer_count": 16,
+      "score": 722,
+      "last_activity_date": 1539601663,
+      "creation_date": 1306840658,
+      "last_edit_date": 1505891158,
+      "question_id": 6186770,
+      "link": "https://stackoverflow.com/questions/6186770/ajax-request-returns-200-ok-but-an-error-event-is-fired-instead-of-success",
+      "title": "Ajax request returns 200 OK, but an error event is fired instead of success"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "escaping",
+        "html-escape-characters"
+      ],
+      "owner": {
+        "reputation": 14881,
+        "user_id": 64226,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://www.gravatar.com/avatar/17b3b902ae6b76be20307b6f52c3ba90?s=128&d=identicon&r=PG",
+        "display_name": "AJM",
+        "link": "https://stackoverflow.com/users/64226/ajm"
+      },
+      "is_answered": true,
+      "view_count": 615751,
+      "protected_date": 1313407553,
+      "accepted_answer_id": 1219983,
+      "answer_count": 25,
+      "score": 718,
+      "last_activity_date": 1560692851,
+      "creation_date": 1249247309,
+      "last_edit_date": 1554761283,
+      "question_id": 1219860,
+      "link": "https://stackoverflow.com/questions/1219860/html-encoding-lost-when-attribute-read-from-input-field",
+      "title": "HTML-encoding lost when attribute read from input field"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "events",
+        "bind",
+        "keypress"
+      ],
+      "owner": {
+        "reputation": 17209,
+        "user_id": 999,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/949e93aea69788cc3e8ce672a83da762?s=128&d=identicon&r=PG",
+        "display_name": "BlaM",
+        "link": "https://stackoverflow.com/users/999/blam"
+      },
+      "is_answered": true,
+      "view_count": 749929,
+      "protected_date": 1345564771,
+      "accepted_answer_id": 302161,
+      "answer_count": 23,
+      "score": 699,
+      "last_activity_date": 1518981863,
+      "creation_date": 1227106759,
+      "last_edit_date": 1462384555,
+      "question_id": 302122,
+      "link": "https://stackoverflow.com/questions/302122/jquery-event-keypress-which-key-was-pressed",
+      "title": "jQuery Event Keypress: Which key was pressed?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "ajax",
+        "post",
+        "file-upload"
+      ],
+      "owner": {
+        "reputation": 4422,
+        "user_id": 278549,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/263c116245b8bd793960b08deadcaa6e?s=128&d=identicon&r=PG",
+        "display_name": "Willy",
+        "link": "https://stackoverflow.com/users/278549/willy"
+      },
+      "is_answered": true,
+      "view_count": 1257667,
+      "protected_date": 1398554666,
+      "accepted_answer_id": 2320097,
+      "answer_count": 23,
+      "score": 698,
+      "last_activity_date": 1562321371,
+      "creation_date": 1266944304,
+      "last_edit_date": 1562321371,
+      "question_id": 2320069,
+      "link": "https://stackoverflow.com/questions/2320069/jquery-ajax-file-upload",
+      "title": "jQuery Ajax File Upload"
+    },
+    {
+      "tags": [
+        "jquery",
+        "select"
+      ],
+      "owner": {
+        "reputation": 7807,
+        "user_id": 478520,
+        "user_type": "registered",
+        "accept_rate": 54,
+        "profile_image": "https://www.gravatar.com/avatar/0589e17d866ad10d59dab7bd0a332b88?s=128&d=identicon&r=PG",
+        "display_name": "Robin Knight",
+        "link": "https://stackoverflow.com/users/478520/robin-knight"
+      },
+      "is_answered": true,
+      "view_count": 1699318,
+      "protected_date": 1385656551,
+      "accepted_answer_id": 11179421,
+      "answer_count": 14,
+      "score": 693,
+      "last_activity_date": 1555953038,
+      "creation_date": 1340557250,
+      "last_edit_date": 1364282818,
+      "question_id": 11179406,
+      "link": "https://stackoverflow.com/questions/11179406/jquery-get-value-of-select-onchange",
+      "title": "jQuery get value of select onChange"
+    },
+    {
+      "tags": [
+        "jquery",
+        "ajax",
+        "custom-exceptions"
+      ],
+      "owner": {
+        "user_type": "does_not_exist"
+      },
+      "is_answered": true,
+      "view_count": 1348142,
+      "protected_date": 1278979132,
+      "answer_count": 20,
+      "score": 692,
+      "last_activity_date": 1521171222,
+      "creation_date": 1229601978,
+      "last_edit_date": 1482188410,
+      "question_id": 377644,
+      "link": "https://stackoverflow.com/questions/377644/jquery-ajax-error-handling-show-custom-exception-messages",
+      "title": "jQuery Ajax error handling, show custom exception messages"
+    },
+    {
+      "tags": [
+        "jquery",
+        "html",
+        "forms",
+        "form-submit"
+      ],
+      "owner": {
+        "reputation": 10475,
+        "user_id": 95710,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.stack.imgur.com/6rg2j.png?s=128&g=1",
+        "display_name": "DForck42",
+        "link": "https://stackoverflow.com/users/95710/dforck42"
+      },
+      "is_answered": true,
+      "view_count": 508335,
+      "protected_date": 1388789508,
+      "accepted_answer_id": 895231,
+      "answer_count": 28,
+      "score": 687,
+      "last_activity_date": 1560955226,
+      "creation_date": 1242940165,
+      "last_edit_date": 1481970209,
+      "question_id": 895171,
+      "link": "https://stackoverflow.com/questions/895171/prevent-users-from-submitting-a-form-by-hitting-enter",
+      "title": "Prevent users from submitting a form by hitting Enter"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 29240,
+        "user_id": 510314,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/b7f4f8f099c7b9bca5e0afa1cd0ca780?s=128&d=identicon&r=PG",
+        "display_name": "mrtsherman",
+        "link": "https://stackoverflow.com/users/510314/mrtsherman"
+      },
+      "is_answered": true,
+      "view_count": 382157,
+      "protected_date": 1375305769,
+      "accepted_answer_id": 7474386,
+      "answer_count": 18,
+      "score": 685,
+      "last_activity_date": 1558582748,
+      "creation_date": 1316450554,
+      "last_edit_date": 1416411967,
+      "question_id": 7474354,
+      "link": "https://stackoverflow.com/questions/7474354/include-jquery-in-the-javascript-console",
+      "title": "Include jQuery in the JavaScript Console"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "html",
+        "css"
+      ],
+      "owner": {
+        "reputation": 31881,
+        "user_id": 26188,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/64b452e2c24a0409558fbae7921e1c01?s=128&d=identicon&r=PG",
+        "display_name": "mkoryak",
+        "link": "https://stackoverflow.com/users/26188/mkoryak"
+      },
+      "is_answered": true,
+      "view_count": 507571,
+      "protected_date": 1398096880,
+      "accepted_answer_id": 8894528,
+      "answer_count": 30,
+      "score": 678,
+      "last_activity_date": 1537378819,
+      "creation_date": 1271449873,
+      "last_edit_date": 1491942311,
+      "question_id": 2655925,
+      "link": "https://stackoverflow.com/questions/2655925/how-to-apply-important-using-css",
+      "title": "How to apply !important using .css()?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "user_type": "does_not_exist"
+      },
+      "is_answered": true,
+      "view_count": 455635,
+      "protected_date": 1411749143,
+      "accepted_answer_id": 476681,
+      "answer_count": 20,
+      "score": 678,
+      "last_activity_date": 1540720319,
+      "creation_date": 1232832354,
+      "last_edit_date": 1399313083,
+      "question_id": 476679,
+      "link": "https://stackoverflow.com/questions/476679/preloading-images-with-jquery",
+      "title": "Preloading images with jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "javascript-events",
+        "keyboard-events"
+      ],
+      "owner": {
+        "reputation": 8280,
+        "user_id": 111691,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/da795e8118d20700e9c76a911690f1dc?s=128&d=identicon&r=PG",
+        "display_name": "chris",
+        "link": "https://stackoverflow.com/users/111691/chris"
+      },
+      "is_answered": true,
+      "view_count": 754947,
+      "accepted_answer_id": 979686,
+      "answer_count": 16,
+      "score": 676,
+      "last_activity_date": 1557209758,
+      "creation_date": 1244702383,
+      "last_edit_date": 1547729475,
+      "question_id": 979662,
+      "link": "https://stackoverflow.com/questions/979662/how-to-detect-pressing-enter-on-keyboard-using-jquery",
+      "title": "How to detect pressing Enter on keyboard using jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 103582,
+        "user_id": 49153,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/833df8cee775eea743cb1172dfcd3809?s=128&d=identicon&r=PG",
+        "display_name": "Click Upvote",
+        "link": "https://stackoverflow.com/users/49153/click-upvote"
+      },
+      "is_answered": true,
+      "view_count": 1064168,
+      "accepted_answer_id": 2162574,
+      "answer_count": 28,
+      "score": 670,
+      "last_activity_date": 1544561862,
+      "creation_date": 1239460444,
+      "last_edit_date": 1487810599,
+      "question_id": 740195,
+      "link": "https://stackoverflow.com/questions/740195/adding-options-to-a-select-using-jquery",
+      "title": "Adding options to a &lt;select&gt; using jQuery?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "image"
+      ],
+      "owner": {
+        "reputation": 6380,
+        "user_id": 67033,
+        "user_type": "registered",
+        "accept_rate": 33,
+        "profile_image": "https://www.gravatar.com/avatar/b55f1f86e4af384bed761da9046272b2?s=128&d=identicon&r=PG",
+        "display_name": "user67033",
+        "link": "https://stackoverflow.com/users/67033/user67033"
+      },
+      "is_answered": true,
+      "view_count": 1332065,
+      "answer_count": 14,
+      "score": 666,
+      "last_activity_date": 1556450240,
+      "creation_date": 1234812239,
+      "last_edit_date": 1437256237,
+      "question_id": 554273,
+      "link": "https://stackoverflow.com/questions/554273/changing-the-image-source-using-jquery",
+      "title": "Changing the image source using jQuery"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "twitter-bootstrap"
+      ],
+      "owner": {
+        "reputation": 4989,
+        "user_id": 244394,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/cca1e07a34e37b1fb206bed928f1a234?s=128&d=identicon&r=PG",
+        "display_name": "user244394",
+        "link": "https://stackoverflow.com/users/244394/user244394"
+      },
+      "is_answered": true,
+      "view_count": 1421821,
+      "protected_date": 1430892291,
+      "accepted_answer_id": 13183713,
+      "answer_count": 12,
+      "score": 662,
+      "last_activity_date": 1561805029,
+      "creation_date": 1351795938,
+      "last_edit_date": 1541021832,
+      "question_id": 13183630,
+      "link": "https://stackoverflow.com/questions/13183630/how-to-open-a-bootstrap-modal-window-using-jquery",
+      "title": "How to open a Bootstrap modal window using jQuery?"
+    },
+    {
+      "tags": [
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 14064,
+        "user_id": 2755,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/096745c44ff55cde15c5214139ecfc5f?s=128&d=identicon&r=PG",
+        "display_name": "Jay Corbett",
+        "link": "https://stackoverflow.com/users/2755/jay-corbett"
+      },
+      "is_answered": true,
+      "view_count": 891310,
+      "accepted_answer_id": 6068322,
+      "answer_count": 20,
+      "score": 661,
+      "last_activity_date": 1562679400,
+      "creation_date": 1227543499,
+      "last_edit_date": 1495541432,
+      "question_id": 314636,
+      "link": "https://stackoverflow.com/questions/314636/how-do-you-select-a-particular-option-in-a-select-element-in-jquery",
+      "title": "How do you select a particular option in a SELECT element in jQuery?"
+    },
+    {
+      "tags": [
+        "jquery"
+      ],
+      "owner": {
+        "reputation": 13159,
+        "user_id": 115608,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/50347af8e4c65e93c3ec5328295216b1?s=128&d=identicon&r=PG",
+        "display_name": "Mark",
+        "link": "https://stackoverflow.com/users/115608/mark"
+      },
+      "is_answered": true,
+      "view_count": 783822,
+      "closed_date": 1337096042,
+      "accepted_answer_id": 1318091,
+      "answer_count": 9,
+      "score": 649,
+      "last_activity_date": 1403089958,
+      "creation_date": 1251016732,
+      "last_edit_date": 1495542888,
+      "question_id": 1318076,
+      "link": "https://stackoverflow.com/questions/1318076/jquery-hasattr-checking-to-see-if-there-is-an-attribute-on-an-element",
+      "closed_reason": "exact duplicate",
+      "title": "jQuery hasAttr checking to see if there is an attribute on an element"
+    },
+    {
+      "tags": [
+        "jquery",
+        "string"
+      ],
+      "owner": {
+        "reputation": 14113,
+        "user_id": 36036,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/a1ca9107ab1bc184aeff21605d6e3b40?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Aximili",
+        "link": "https://stackoverflow.com/users/36036/aximili"
+      },
+      "is_answered": true,
+      "view_count": 437413,
+      "accepted_answer_id": 303961,
+      "answer_count": 5,
+      "score": 642,
+      "last_activity_date": 1558425427,
+      "creation_date": 1227140638,
+      "last_edit_date": 1391529608,
+      "question_id": 303956,
+      "link": "https://stackoverflow.com/questions/303956/select-a-which-href-ends-with-some-string",
+      "title": "Select &lt;a&gt; which href ends with some string"
+    },
+    {
+      "tags": [
+        "php",
+        "javascript",
+        "jquery",
+        "ajax",
+        "post"
+      ],
+      "owner": {
+        "reputation": 6921,
+        "user_id": 528370,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/03c51d4dacea73644b28b9ece8e84d63?s=128&d=identicon&r=PG",
+        "display_name": "Thew",
+        "link": "https://stackoverflow.com/users/528370/thew"
+      },
+      "is_answered": true,
+      "view_count": 1276224,
+      "protected_date": 1366905207,
+      "accepted_answer_id": 5004276,
+      "answer_count": 12,
+      "score": 636,
+      "last_activity_date": 1562957032,
+      "creation_date": 1297776537,
+      "last_edit_date": 1559641710,
+      "question_id": 5004233,
+      "link": "https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php",
+      "title": "jQuery Ajax POST example with PHP"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 267
+}

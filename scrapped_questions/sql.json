@@ -1,0 +1,2856 @@
+
+{
+  "items": [
+    {
+      "tags": [
+        "sql",
+        "database",
+        "join",
+        "inner-join",
+        "outer-join"
+      ],
+      "owner": {
+        "reputation": 25237,
+        "user_id": 3836,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/2bb1cf0d02755d1ef421ee1eff457609?s=128&d=identicon&r=PG",
+        "display_name": "Chris de Vries",
+        "link": "https://stackoverflow.com/users/3836/chris-de-vries"
+      },
+      "is_answered": true,
+      "view_count": 2236757,
+      "protected_date": 1342907514,
+      "accepted_answer_id": 38578,
+      "answer_count": 24,
+      "score": 4390,
+      "last_activity_date": 1557341642,
+      "creation_date": 1220308566,
+      "last_edit_date": 1550045444,
+      "question_id": 38549,
+      "link": "https://stackoverflow.com/questions/38549/what-is-the-difference-between-inner-join-and-outer-join",
+      "title": "What is the difference between &quot;INNER JOIN&quot; and &quot;OUTER JOIN&quot;?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "select"
+      ],
+      "owner": {
+        "reputation": 18122,
+        "user_id": 150939,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/1c06ad3efe138b82f4768e4937e64832?s=128&d=identicon&r=PG",
+        "display_name": "jamesmhaley",
+        "link": "https://stackoverflow.com/users/150939/jamesmhaley"
+      },
+      "is_answered": true,
+      "view_count": 3901288,
+      "protected_date": 1365670275,
+      "accepted_answer_id": 2334741,
+      "answer_count": 33,
+      "score": 3415,
+      "last_activity_date": 1553868426,
+      "creation_date": 1267108613,
+      "last_edit_date": 1526299669,
+      "question_id": 2334712,
+      "link": "https://stackoverflow.com/questions/2334712/how-do-i-update-from-a-select-in-sql-server",
+      "title": "How do I UPDATE from a SELECT in SQL Server?"
+    },
+    {
+      "tags": [
+        "php",
+        "mysql",
+        "sql",
+        "security",
+        "sql-injection"
+      ],
+      "owner": {
+        "reputation": 13847,
+        "user_id": 428190,
+        "user_type": "registered",
+        "accept_rate": 49,
+        "profile_image": "https://www.gravatar.com/avatar/980fe8340a6d455c77c13ed357851476?s=128&d=identicon&r=PG",
+        "display_name": "Andrew G. Johnson",
+        "link": "https://stackoverflow.com/users/428190/andrew-g-johnson"
+      },
+      "is_answered": true,
+      "view_count": 1604134,
+      "protected_date": 1338976740,
+      "accepted_answer_id": 60496,
+      "answer_count": 28,
+      "community_owned_date": 1352132329,
+      "score": 2776,
+      "locked_date": 1400621423,
+      "last_activity_date": 1563198545,
+      "creation_date": 1221263700,
+      "last_edit_date": 1475309307,
+      "question_id": 60174,
+      "link": "https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php",
+      "title": "How can I prevent SQL injection in PHP?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "sql-server-2005",
+        "sql-server-2000"
+      ],
+      "owner": {
+        "reputation": 13382,
+        "user_id": 7241,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/8446cdb9e7c661734023f7feab3cd071?s=128&d=identicon&r=PG",
+        "display_name": "Mathias",
+        "link": "https://stackoverflow.com/users/7241/mathias"
+      },
+      "is_answered": true,
+      "view_count": 2626529,
+      "protected_date": 1377243891,
+      "accepted_answer_id": 92123,
+      "answer_count": 37,
+      "score": 2553,
+      "last_activity_date": 1562584217,
+      "creation_date": 1221741004,
+      "last_edit_date": 1519443674,
+      "question_id": 92082,
+      "link": "https://stackoverflow.com/questions/92082/add-a-column-with-a-default-value-to-an-existing-table-in-sql-server",
+      "title": "Add a column with a default value to an existing table in SQL Server"
+    },
+    {
+      "tags": [
+        "sql",
+        "database",
+        "performance",
+        "indexing",
+        "database-indexes"
+      ],
+      "owner": {
+        "reputation": 54573,
+        "user_id": 264,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/49ee8012580951780d10ae8b12570e21?s=128&d=identicon&r=PG",
+        "display_name": "Xenph Yan",
+        "link": "https://stackoverflow.com/users/264/xenph-yan"
+      },
+      "is_answered": true,
+      "view_count": 779818,
+      "protected_date": 1310894405,
+      "closed_date": 1540429445,
+      "accepted_answer_id": 1130,
+      "answer_count": 8,
+      "score": 2241,
+      "last_activity_date": 1562744549,
+      "creation_date": 1217844432,
+      "last_edit_date": 1532433557,
+      "question_id": 1108,
+      "link": "https://stackoverflow.com/questions/1108/how-does-database-indexing-work",
+      "closed_reason": "too broad",
+      "title": "How does database indexing work?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "csv",
+        "string-concatenation",
+        "group-concat"
+      ],
+      "owner": {
+        "reputation": 11491,
+        "user_id": 27109,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/4bd7f3bd0511e707347ba1e780279bc4?s=128&d=identicon&r=PG",
+        "display_name": "JohnnyM",
+        "link": "https://stackoverflow.com/users/27109/johnnym"
+      },
+      "is_answered": true,
+      "view_count": 2096299,
+      "protected_date": 1312295534,
+      "accepted_answer_id": 545672,
+      "answer_count": 45,
+      "score": 1734,
+      "last_activity_date": 1556625721,
+      "creation_date": 1223768999,
+      "last_edit_date": 1519072886,
+      "question_id": 194852,
+      "link": "https://stackoverflow.com/questions/194852/how-to-concatenate-text-from-multiple-rows-into-a-single-text-string-in-sql-serv",
+      "title": "How to concatenate text from multiple rows into a single text string in SQL server?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "command-line",
+        "import"
+      ],
+      "owner": {
+        "reputation": 13985,
+        "user_id": 1915046,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://www.gravatar.com/avatar/df457b95f1a2c534b83527af54b0475b?s=128&d=identicon&r=PG",
+        "display_name": "Jaylen",
+        "link": "https://stackoverflow.com/users/1915046/jaylen"
+      },
+      "is_answered": true,
+      "view_count": 2784104,
+      "protected_date": 1426253061,
+      "accepted_answer_id": 17666279,
+      "answer_count": 44,
+      "score": 1698,
+      "last_activity_date": 1563302289,
+      "creation_date": 1373935428,
+      "last_edit_date": 1562770015,
+      "question_id": 17666249,
+      "link": "https://stackoverflow.com/questions/17666249/how-do-i-import-an-sql-file-using-the-command-line-in-mysql",
+      "title": "How do I import an SQL file using the command line in MySQL?"
+    },
+    {
+      "tags": [
+        "sql",
+        "duplicates"
+      ],
+      "owner": {
+        "reputation": 12468,
+        "user_id": 279776,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/9c368b605cfa34be3390a983b6bce441?s=128&d=identicon&r=PG",
+        "display_name": "Alex",
+        "link": "https://stackoverflow.com/users/279776/alex"
+      },
+      "is_answered": true,
+      "view_count": 2479997,
+      "protected_date": 1437555329,
+      "accepted_answer_id": 2594855,
+      "answer_count": 28,
+      "score": 1685,
+      "last_activity_date": 1561480223,
+      "creation_date": 1270664249,
+      "last_edit_date": 1522045034,
+      "question_id": 2594829,
+      "link": "https://stackoverflow.com/questions/2594829/finding-duplicate-values-in-a-sql-table",
+      "title": "Finding duplicate values in a SQL table"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "date",
+        "datetime"
+      ],
+      "owner": {
+        "reputation": 14605,
+        "user_id": 5769,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/db9af07e3524e2fa63530959d9948825?s=128&d=identicon&r=PG",
+        "display_name": "eddiegroves",
+        "link": "https://stackoverflow.com/users/5769/eddiegroves"
+      },
+      "is_answered": true,
+      "view_count": 2545799,
+      "protected_date": 1416433595,
+      "accepted_answer_id": 113055,
+      "answer_count": 43,
+      "score": 1622,
+      "last_activity_date": 1559032487,
+      "creation_date": 1222054293,
+      "last_edit_date": 1507311418,
+      "question_id": 113045,
+      "link": "https://stackoverflow.com/questions/113045/how-to-return-only-the-date-from-a-sql-server-datetime-datatype",
+      "title": "How to return only the Date from a SQL Server DateTime datatype"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "insert"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "rits"
+      },
+      "is_answered": true,
+      "view_count": 2449975,
+      "protected_date": 1508947426,
+      "closed_date": 1377181830,
+      "answer_count": 4,
+      "score": 1559,
+      "last_activity_date": 1546304063,
+      "creation_date": 1232171754,
+      "last_edit_date": 1522044495,
+      "question_id": 452859,
+      "link": "https://stackoverflow.com/questions/452859/inserting-multiple-rows-in-a-single-sql-query",
+      "closed_reason": "duplicate",
+      "title": "Inserting multiple rows in a single SQL query?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "join",
+        "inner-join",
+        "outer-join"
+      ],
+      "owner": {
+        "reputation": 11808,
+        "user_id": 459943,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/1820b3c909a14f78a3b8c5aa46f9759f?s=128&d=identicon&r=PG",
+        "display_name": "Lion King",
+        "link": "https://stackoverflow.com/users/459943/lion-king"
+      },
+      "is_answered": true,
+      "view_count": 1251906,
+      "protected_date": 1526564763,
+      "closed_date": 1432481489,
+      "accepted_answer_id": 6188334,
+      "answer_count": 3,
+      "score": 1500,
+      "last_activity_date": 1552359470,
+      "creation_date": 1303146924,
+      "last_edit_date": 1522045086,
+      "question_id": 5706437,
+      "link": "https://stackoverflow.com/questions/5706437/whats-the-difference-between-inner-join-left-join-right-join-and-full-join",
+      "closed_reason": "duplicate",
+      "title": "What&#39;s the difference between INNER JOIN, LEFT JOIN, RIGHT JOIN and FULL JOIN?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "sql-server-2005",
+        "tsql",
+        "stored-procedures"
+      ],
+      "owner": {
+        "reputation": 8697,
+        "user_id": 42829,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/5132b8e37ef5b21cb72fa7fdb0b234bb?s=128&d=identicon&r=PG",
+        "display_name": "Ferdeen",
+        "link": "https://stackoverflow.com/users/42829/ferdeen"
+      },
+      "is_answered": true,
+      "view_count": 1819425,
+      "protected_date": 1309983793,
+      "answer_count": 27,
+      "score": 1476,
+      "last_activity_date": 1560450416,
+      "creation_date": 1237286726,
+      "last_edit_date": 1522044426,
+      "question_id": 653714,
+      "link": "https://stackoverflow.com/questions/653714/insert-results-of-a-stored-procedure-into-a-temporary-table",
+      "title": "Insert results of a stored procedure into a temporary table"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "if-statement",
+        "case"
+      ],
+      "owner": {
+        "reputation": 12283,
+        "user_id": 6522,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/5d896efd42eab17ca3cbce77a3515988?s=128&d=identicon&r=PG",
+        "display_name": "Eric Labashosky",
+        "link": "https://stackoverflow.com/users/6522/eric-labashosky"
+      },
+      "is_answered": true,
+      "view_count": 3420503,
+      "protected_date": 1415343823,
+      "accepted_answer_id": 63480,
+      "answer_count": 25,
+      "score": 1395,
+      "last_activity_date": 1559577731,
+      "creation_date": 1221489249,
+      "last_edit_date": 1522044559,
+      "question_id": 63447,
+      "link": "https://stackoverflow.com/questions/63447/how-do-i-perform-an-if-then-in-an-sql-select",
+      "title": "How do I perform an IF...THEN in an SQL SELECT?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "naming-conventions"
+      ],
+      "owner": {
+        "reputation": 14499,
+        "user_id": 8741,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/feef9dda8bbe41e9def78c274a37f60c?s=128&d=identicon&r=PG",
+        "display_name": "ProfK",
+        "link": "https://stackoverflow.com/users/8741/profk"
+      },
+      "is_answered": true,
+      "view_count": 358986,
+      "closed_date": 1381350256,
+      "accepted_answer_id": 338433,
+      "answer_count": 41,
+      "community_owned_date": 1292935752,
+      "score": 1340,
+      "last_activity_date": 1528707007,
+      "creation_date": 1228327770,
+      "last_edit_date": 1509855099,
+      "question_id": 338156,
+      "link": "https://stackoverflow.com/questions/338156/table-naming-dilemma-singular-vs-plural-names",
+      "closed_reason": "primarily opinion-based",
+      "title": "Table Naming Dilemma: Singular vs. Plural Names"
+    },
+    {
+      "tags": [
+        "sql",
+        "union",
+        "union-all"
+      ],
+      "owner": {
+        "reputation": 21832,
+        "user_id": 3208,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/8092a4ad249c669a8e833fe49f4b4052?s=128&d=identicon&r=PG",
+        "display_name": "Brian G",
+        "link": "https://stackoverflow.com/users/3208/brian-g"
+      },
+      "is_answered": true,
+      "view_count": 1228616,
+      "protected_date": 1398454989,
+      "accepted_answer_id": 49928,
+      "answer_count": 24,
+      "score": 1292,
+      "last_activity_date": 1546498922,
+      "creation_date": 1220887173,
+      "last_edit_date": 1522047021,
+      "question_id": 49925,
+      "link": "https://stackoverflow.com/questions/49925/what-is-the-difference-between-union-and-union-all",
+      "title": "What is the difference between UNION and UNION ALL?"
+    },
+    {
+      "tags": [
+        "sql",
+        "database",
+        "syntax",
+        "database-agnostic",
+        "ansi-sql-92"
+      ],
+      "owner": {
+        "reputation": 23518,
+        "user_id": 244,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://i.stack.imgur.com/OPy8n.jpg?s=128&g=1",
+        "display_name": "Claude Houle",
+        "link": "https://stackoverflow.com/users/244/claude-houle"
+      },
+      "is_answered": true,
+      "view_count": 2339171,
+      "protected_date": 1405638012,
+      "accepted_answer_id": 25971,
+      "answer_count": 23,
+      "score": 1280,
+      "last_activity_date": 1554350953,
+      "creation_date": 1219668356,
+      "last_edit_date": 1527608713,
+      "question_id": 25969,
+      "link": "https://stackoverflow.com/questions/25969/insert-into-values-select-from",
+      "title": "Insert into ... values ( SELECT ... FROM ... )"
+    },
+    {
+      "tags": [
+        "sql",
+        "mongodb",
+        "mongodb-query",
+        "sql-like"
+      ],
+      "owner": {
+        "reputation": 80362,
+        "user_id": 342235,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/88e5a9eb011a73ab970ddc8cfb05ff85?s=128&d=identicon&r=PG",
+        "display_name": "Freewind",
+        "link": "https://stackoverflow.com/users/342235/freewind"
+      },
+      "is_answered": true,
+      "view_count": 848549,
+      "protected_date": 1418858052,
+      "accepted_answer_id": 3305687,
+      "answer_count": 33,
+      "score": 1263,
+      "last_activity_date": 1552390175,
+      "creation_date": 1279768761,
+      "last_edit_date": 1552387893,
+      "question_id": 3305561,
+      "link": "https://stackoverflow.com/questions/3305561/how-to-query-mongodb-with-like",
+      "title": "How to query MongoDB with &quot;like&quot;?"
+    },
+    {
+      "tags": [
+        "sql",
+        "database",
+        "tree",
+        "relational-database",
+        "hierarchical-data"
+      ],
+      "owner": {
+        "reputation": 8896,
+        "user_id": 470838,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/ef8d0172b0c9f6542b9aaa08f15e4ec9?s=128&d=identicon&r=PG",
+        "display_name": "orangepips",
+        "link": "https://stackoverflow.com/users/470838/orangepips"
+      },
+      "is_answered": true,
+      "view_count": 216132,
+      "protected_date": 1540786040,
+      "answer_count": 7,
+      "community_owned_date": 1289267320,
+      "score": 1233,
+      "last_activity_date": 1555907315,
+      "creation_date": 1288311813,
+      "last_edit_date": 1555907315,
+      "question_id": 4048151,
+      "link": "https://stackoverflow.com/questions/4048151/what-are-the-options-for-storing-hierarchical-data-in-a-relational-database",
+      "title": "What are the options for storing hierarchical data in a relational database?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "sql-server-2005",
+        "sql-update"
+      ],
+      "owner": {
+        "reputation": 8180,
+        "user_id": 99297,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/7f8d2d0094ffe98f841e0b4bec8a5cc5?s=128&d=identicon&r=PG",
+        "display_name": "Ant Swift",
+        "link": "https://stackoverflow.com/users/99297/ant-swift"
+      },
+      "is_answered": true,
+      "view_count": 1467243,
+      "protected_date": 1401294911,
+      "accepted_answer_id": 1293347,
+      "answer_count": 16,
+      "score": 1229,
+      "last_activity_date": 1556039239,
+      "creation_date": 1250595607,
+      "last_edit_date": 1537890986,
+      "question_id": 1293330,
+      "link": "https://stackoverflow.com/questions/1293330/how-can-i-do-an-update-statement-with-join-in-sql",
+      "title": "How can I do an UPDATE statement with JOIN in SQL?"
+    },
+    {
+      "tags": [
+        "sql",
+        "database",
+        "sqlite",
+        "metadata"
+      ],
+      "owner": {
+        "reputation": 24915,
+        "user_id": 974,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/3d7e0433078e5d9b54fb90edf7bd10a3?s=128&d=identicon&r=PG",
+        "display_name": "izb",
+        "link": "https://stackoverflow.com/users/974/izb"
+      },
+      "is_answered": true,
+      "view_count": 934899,
+      "protected_date": 1316302266,
+      "accepted_answer_id": 83195,
+      "answer_count": 17,
+      "score": 1123,
+      "last_activity_date": 1551439175,
+      "creation_date": 1221656393,
+      "last_edit_date": 1551439175,
+      "question_id": 82875,
+      "link": "https://stackoverflow.com/questions/82875/how-to-list-the-tables-in-a-sqlite-database-file-that-was-opened-with-attach",
+      "title": "How to list the tables in a SQLite database file that was opened with ATTACH?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "auto-increment"
+      ],
+      "owner": {
+        "reputation": 6897,
+        "user_id": 3426825,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://i.stack.imgur.com/6DcUx.png?s=128&g=1",
+        "display_name": "some Folk",
+        "link": "https://stackoverflow.com/users/3426825/some-folk"
+      },
+      "is_answered": true,
+      "view_count": 1130444,
+      "protected_date": 1399220597,
+      "accepted_answer_id": 8923132,
+      "answer_count": 23,
+      "score": 1117,
+      "last_activity_date": 1561220191,
+      "creation_date": 1326962269,
+      "last_edit_date": 1522051704,
+      "question_id": 8923114,
+      "link": "https://stackoverflow.com/questions/8923114/how-to-reset-auto-increment-in-mysql",
+      "title": "How to reset AUTO_INCREMENT in MySQL?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sqlite",
+        "postgresql",
+        "group-by",
+        "greatest-n-per-group"
+      ],
+      "owner": {
+        "reputation": 79654,
+        "user_id": 71522,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/f0e286ba0482e57904e89e753a4b36e6?s=128&d=identicon&r=PG",
+        "display_name": "David Wolever",
+        "link": "https://stackoverflow.com/users/71522/david-wolever"
+      },
+      "is_answered": true,
+      "view_count": 876817,
+      "protected_date": 1476956595,
+      "accepted_answer_id": 3800572,
+      "answer_count": 14,
+      "score": 1114,
+      "last_activity_date": 1559142382,
+      "creation_date": 1285550602,
+      "last_edit_date": 1522052331,
+      "question_id": 3800551,
+      "link": "https://stackoverflow.com/questions/3800551/select-first-row-in-each-group-by-group",
+      "title": "Select first row in each GROUP BY group?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "concat",
+        "group-concat"
+      ],
+      "owner": {
+        "reputation": 18733,
+        "user_id": 14966,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/7e039d6aad8ab7ebe721efb30188dc6c?s=128&d=identicon&r=PG",
+        "display_name": "Dean Rather",
+        "link": "https://stackoverflow.com/users/14966/dean-rather"
+      },
+      "is_answered": true,
+      "view_count": 596378,
+      "protected_date": 1314755646,
+      "accepted_answer_id": 276949,
+      "answer_count": 11,
+      "score": 1096,
+      "last_activity_date": 1556270761,
+      "creation_date": 1226284466,
+      "last_edit_date": 1522051988,
+      "question_id": 276927,
+      "link": "https://stackoverflow.com/questions/276927/can-i-concatenate-multiple-mysql-rows-into-one-field",
+      "title": "Can I concatenate multiple MySQL rows into one field?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "sql-server-2008",
+        "inner-join",
+        "sql-delete"
+      ],
+      "owner": {
+        "reputation": 5740,
+        "user_id": 1556907,
+        "user_type": "registered",
+        "accept_rate": 52,
+        "profile_image": "https://www.gravatar.com/avatar/d64a60c8cf3e79e6b0cc98c33abdc29a?s=128&d=identicon&r=PG",
+        "display_name": "nettoon493",
+        "link": "https://stackoverflow.com/users/1556907/nettoon493"
+      },
+      "is_answered": true,
+      "view_count": 1170838,
+      "protected_date": 1433194439,
+      "accepted_answer_id": 16481475,
+      "answer_count": 15,
+      "score": 1091,
+      "last_activity_date": 1544077252,
+      "creation_date": 1368185901,
+      "last_edit_date": 1526403709,
+      "question_id": 16481379,
+      "link": "https://stackoverflow.com/questions/16481379/how-to-delete-using-inner-join-with-sql-server",
+      "title": "How to Delete using INNER JOIN with SQL Server?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "aggregate-functions",
+        "greatest-n-per-group",
+        "groupwise-maximum"
+      ],
+      "owner": {
+        "reputation": 12853,
+        "user_id": 66580,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://i.stack.imgur.com/6ySFl.png?s=128&g=1",
+        "display_name": "Majid Fouladpour",
+        "link": "https://stackoverflow.com/users/66580/majid-fouladpour"
+      },
+      "is_answered": true,
+      "view_count": 986819,
+      "protected_date": 1444036919,
+      "closed_date": 1553041150,
+      "accepted_answer_id": 7745635,
+      "answer_count": 27,
+      "score": 1070,
+      "last_activity_date": 1556259486,
+      "creation_date": 1318448527,
+      "last_edit_date": 1546469069,
+      "question_id": 7745609,
+      "link": "https://stackoverflow.com/questions/7745609/sql-select-only-rows-with-max-value-on-a-column",
+      "closed_reason": "duplicate",
+      "title": "SQL select only rows with max value on a column"
+    },
+    {
+      "tags": [
+        "sql",
+        "oracle"
+      ],
+      "owner": {
+        "reputation": 8027,
+        "user_id": 1287,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/bcbd84f218522df196d8c732d099014c?s=128&d=identicon&r=PG",
+        "display_name": "vitule",
+        "link": "https://stackoverflow.com/users/1287/vitule"
+      },
+      "is_answered": true,
+      "view_count": 2064466,
+      "protected_date": 1292067373,
+      "accepted_answer_id": 205746,
+      "answer_count": 21,
+      "score": 1044,
+      "last_activity_date": 1562686743,
+      "creation_date": 1224093289,
+      "last_edit_date": 1448611031,
+      "question_id": 205736,
+      "link": "https://stackoverflow.com/questions/205736/get-list-of-all-tables-in-oracle",
+      "title": "Get list of all tables in Oracle?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "system-tables"
+      ],
+      "owner": {
+        "reputation": 10301,
+        "user_id": 326821,
+        "user_type": "registered",
+        "accept_rate": 51,
+        "profile_image": "https://www.gravatar.com/avatar/04e06009d1b04f39bc31519821e63479?s=128&d=identicon&r=PG",
+        "display_name": "gruber",
+        "link": "https://stackoverflow.com/users/326821/gruber"
+      },
+      "is_answered": true,
+      "view_count": 1787671,
+      "protected_date": 1493047472,
+      "answer_count": 24,
+      "score": 1017,
+      "last_activity_date": 1558726793,
+      "creation_date": 1296468746,
+      "last_edit_date": 1524664095,
+      "question_id": 4849652,
+      "link": "https://stackoverflow.com/questions/4849652/find-all-tables-containing-column-with-specified-name-ms-sql-server",
+      "title": "Find all tables containing column with specified name - MS SQL Server"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql"
+      ],
+      "owner": {
+        "reputation": 420788,
+        "user_id": 1583,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/Au4eT.png?s=128&g=1",
+        "display_name": "Oded",
+        "link": "https://stackoverflow.com/users/1583/oded"
+      },
+      "is_answered": true,
+      "view_count": 759252,
+      "protected_date": 1446072000,
+      "accepted_answer_id": 42655,
+      "answer_count": 13,
+      "score": 1012,
+      "last_activity_date": 1552481706,
+      "creation_date": 1220477522,
+      "last_edit_date": 1522052083,
+      "question_id": 42648,
+      "link": "https://stackoverflow.com/questions/42648/best-way-to-get-identity-of-inserted-row",
+      "title": "Best way to get identity of inserted row?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "parameters"
+      ],
+      "owner": {
+        "reputation": 46876,
+        "user_id": 1,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/51d623f33f8b83095db84ff35e15dbe8?s=128&d=identicon&r=PG",
+        "display_name": "Jeff Atwood",
+        "link": "https://stackoverflow.com/users/1/jeff-atwood"
+      },
+      "is_answered": true,
+      "view_count": 317452,
+      "protected_date": 1348143424,
+      "accepted_answer_id": 337817,
+      "answer_count": 40,
+      "score": 1002,
+      "last_activity_date": 1562964945,
+      "creation_date": 1228321003,
+      "last_edit_date": 1522062318,
+      "question_id": 337704,
+      "link": "https://stackoverflow.com/questions/337704/parameterize-an-sql-in-clause",
+      "title": "Parameterize an SQL IN clause"
+    },
+    {
+      "tags": [
+        "sql",
+        "oracle",
+        "pagination",
+        "limit"
+      ],
+      "owner": {
+        "reputation": 6211,
+        "user_id": 54320,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/bc12d78962944a9cf1b4e3bd08dc7589?s=128&d=identicon&r=PG",
+        "display_name": "Mathieu Longtin",
+        "link": "https://stackoverflow.com/users/54320/mathieu-longtin"
+      },
+      "is_answered": true,
+      "view_count": 1255101,
+      "protected_date": 1366530079,
+      "accepted_answer_id": 26051830,
+      "answer_count": 14,
+      "score": 929,
+      "last_activity_date": 1552467008,
+      "creation_date": 1232653723,
+      "last_edit_date": 1522057177,
+      "question_id": 470542,
+      "link": "https://stackoverflow.com/questions/470542/how-do-i-limit-the-number-of-rows-returned-by-an-oracle-query-after-ordering",
+      "title": "How do I limit the number of rows returned by an Oracle query after ordering?"
+    },
+    {
+      "tags": [
+        "sql",
+        "group-by"
+      ],
+      "owner": {
+        "reputation": 8677,
+        "user_id": 117700,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/1a350b4a18da2ffab7bde4bc753909bd?s=128&d=identicon&r=PG",
+        "display_name": "l--&#39;&#39;&#39;&#39;&#39;&#39;---------&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;",
+        "link": "https://stackoverflow.com/users/117700/l"
+      },
+      "is_answered": true,
+      "view_count": 889777,
+      "protected_date": 1377532725,
+      "accepted_answer_id": 2421441,
+      "answer_count": 2,
+      "score": 919,
+      "last_activity_date": 1548159713,
+      "creation_date": 1268262683,
+      "last_edit_date": 1522057646,
+      "question_id": 2421388,
+      "link": "https://stackoverflow.com/questions/2421388/using-group-by-on-multiple-columns",
+      "title": "Using group by on multiple columns"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "join",
+        "inner-join"
+      ],
+      "owner": {
+        "reputation": 125574,
+        "user_id": 13627,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/3aa80c54202b85c3c4819a764e20d974?s=128&d=identicon&r=PG",
+        "display_name": "driis",
+        "link": "https://stackoverflow.com/users/13627/driis"
+      },
+      "is_answered": true,
+      "view_count": 550160,
+      "protected_date": 1337098090,
+      "accepted_answer_id": 565640,
+      "answer_count": 6,
+      "score": 894,
+      "last_activity_date": 1562617379,
+      "creation_date": 1235054849,
+      "last_edit_date": 1522779682,
+      "question_id": 565620,
+      "link": "https://stackoverflow.com/questions/565620/difference-between-join-and-inner-join",
+      "title": "Difference between JOIN and INNER JOIN"
+    },
+    {
+      "tags": [
+        "sql",
+        "mysql",
+        "join",
+        "inner-join"
+      ],
+      "owner": {
+        "reputation": 6597,
+        "user_id": 110800,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/65228c7f0e87e7890fe82e68296b805d?s=128&d=identicon&r=PG",
+        "display_name": "JCCyC",
+        "link": "https://stackoverflow.com/users/110800/jccyc"
+      },
+      "is_answered": true,
+      "view_count": 554118,
+      "protected_date": 1444036899,
+      "accepted_answer_id": 1018825,
+      "answer_count": 11,
+      "score": 862,
+      "last_activity_date": 1562689432,
+      "creation_date": 1245428184,
+      "last_edit_date": 1523721530,
+      "question_id": 1018822,
+      "link": "https://stackoverflow.com/questions/1018822/inner-join-on-vs-where-clause",
+      "title": "INNER JOIN ON vs WHERE clause"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "performance",
+        "tsql",
+        "cross-apply"
+      ],
+      "owner": {
+        "reputation": 20080,
+        "user_id": 111934,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/8e43779c997d8ba388efa39e0d105eba?s=128&d=identicon&r=PG",
+        "display_name": "Jeff Meatball Yang",
+        "link": "https://stackoverflow.com/users/111934/jeff-meatball-yang"
+      },
+      "is_answered": true,
+      "view_count": 652265,
+      "accepted_answer_id": 1139231,
+      "answer_count": 13,
+      "score": 856,
+      "last_activity_date": 1551276511,
+      "creation_date": 1247766141,
+      "last_edit_date": 1551276511,
+      "question_id": 1139160,
+      "link": "https://stackoverflow.com/questions/1139160/when-should-i-use-cross-apply-over-inner-join",
+      "title": "When should I use cross apply over inner join?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "select",
+        "join",
+        "sql-update"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "Boerseun"
+      },
+      "is_answered": true,
+      "view_count": 1582352,
+      "protected_date": 1285932695,
+      "answer_count": 22,
+      "score": 853,
+      "last_activity_date": 1556079293,
+      "creation_date": 1224659643,
+      "last_edit_date": 1522057533,
+      "question_id": 224732,
+      "link": "https://stackoverflow.com/questions/224732/sql-update-from-one-table-to-another-based-on-a-id-match",
+      "title": "SQL update from one Table to another based on a ID match"
+    },
+    {
+      "tags": [
+        "sql",
+        "mysql",
+        "group-by",
+        "greatest-n-per-group"
+      ],
+      "owner": {
+        "reputation": 13528,
+        "user_id": 27474,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/91160e88d86db6328f3e81313ae500c6?s=128&d=identicon&r=PG",
+        "display_name": "Vijay Dev",
+        "link": "https://stackoverflow.com/users/27474/vijay-dev"
+      },
+      "is_answered": true,
+      "view_count": 533565,
+      "protected_date": 1333101504,
+      "accepted_answer_id": 1313293,
+      "answer_count": 25,
+      "score": 831,
+      "last_activity_date": 1558676222,
+      "creation_date": 1250874244,
+      "last_edit_date": 1522057839,
+      "question_id": 1313120,
+      "link": "https://stackoverflow.com/questions/1313120/retrieving-the-last-record-in-each-group-mysql",
+      "title": "Retrieving the last record in each group - MySQL"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "single-quotes"
+      ],
+      "owner": {
+        "reputation": 5179,
+        "user_id": 150703,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/d631ff3e8e38cc28e0f3cc8ccb28f0c5?s=128&d=identicon&r=PG",
+        "display_name": "tim_wonil",
+        "link": "https://stackoverflow.com/users/150703/tim-wonil"
+      },
+      "is_answered": true,
+      "view_count": 963708,
+      "accepted_answer_id": 1586588,
+      "answer_count": 10,
+      "score": 825,
+      "last_activity_date": 1561412010,
+      "creation_date": 1255915102,
+      "last_edit_date": 1522058503,
+      "question_id": 1586560,
+      "link": "https://stackoverflow.com/questions/1586560/how-do-i-escape-a-single-quote-in-sql-server",
+      "title": "How do I escape a single quote in SQL Server?"
+    },
+    {
+      "tags": [
+        "sql",
+        "postgresql",
+        "csv",
+        "postgresql-copy"
+      ],
+      "owner": {
+        "reputation": 19420,
+        "user_id": 102181,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/a8bf03194a8ab9e09c26a38ee0404315?s=128&d=identicon&r=PG",
+        "display_name": "Hoff",
+        "link": "https://stackoverflow.com/users/102181/hoff"
+      },
+      "is_answered": true,
+      "view_count": 596438,
+      "accepted_answer_id": 1517692,
+      "answer_count": 17,
+      "score": 811,
+      "last_activity_date": 1554758925,
+      "creation_date": 1254697131,
+      "last_edit_date": 1491764423,
+      "question_id": 1517635,
+      "link": "https://stackoverflow.com/questions/1517635/save-pl-pgsql-output-from-postgresql-to-a-csv-file",
+      "title": "Save PL/pgSQL output from PostgreSQL to a CSV file"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "insert-update",
+        "upsert"
+      ],
+      "owner": {
+        "reputation": 5674,
+        "user_id": 434375,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://www.gravatar.com/avatar/a2ea63a0c64729d16610261e71f488e9?s=128&d=identicon&r=PG",
+        "display_name": "Keshan",
+        "link": "https://stackoverflow.com/users/434375/keshan"
+      },
+      "is_answered": true,
+      "view_count": 737838,
+      "protected_date": 1441103685,
+      "accepted_answer_id": 4205207,
+      "answer_count": 10,
+      "score": 779,
+      "last_activity_date": 1557527440,
+      "creation_date": 1290002932,
+      "last_edit_date": 1557527440,
+      "question_id": 4205181,
+      "link": "https://stackoverflow.com/questions/4205181/insert-into-a-mysql-table-or-update-if-exists",
+      "title": "Insert into a MySQL table or update if exists"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "stored-procedures",
+        "sql-function"
+      ],
+      "owner": {
+        "reputation": 37934,
+        "user_id": 44852,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://i.stack.imgur.com/JbQbc.jpg?s=128&g=1",
+        "display_name": "Tarik",
+        "link": "https://stackoverflow.com/users/44852/tarik"
+      },
+      "is_answered": true,
+      "view_count": 617389,
+      "protected_date": 1328105452,
+      "accepted_answer_id": 1179778,
+      "answer_count": 18,
+      "score": 772,
+      "last_activity_date": 1552473969,
+      "creation_date": 1248464406,
+      "last_edit_date": 1522624622,
+      "question_id": 1179758,
+      "link": "https://stackoverflow.com/questions/1179758/function-vs-stored-procedure-in-sql-server",
+      "title": "Function vs. Stored Procedure in SQL Server"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql"
+      ],
+      "owner": {
+        "reputation": 10612,
+        "user_id": 55102,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/deaf44d9ea52c4112ffb155bf0b86ac3?s=128&d=identicon&r=PG",
+        "display_name": "Bob The Janitor",
+        "link": "https://stackoverflow.com/users/55102/bob-the-janitor"
+      },
+      "is_answered": true,
+      "view_count": 999599,
+      "protected_date": 1421941292,
+      "accepted_answer_id": 723317,
+      "answer_count": 14,
+      "score": 762,
+      "last_activity_date": 1553964902,
+      "creation_date": 1239051375,
+      "last_edit_date": 1522057736,
+      "question_id": 723195,
+      "link": "https://stackoverflow.com/questions/723195/should-i-use-or-for-not-equal-in-t-sql",
+      "title": "Should I use != or &lt;&gt; for not equal in T-SQL?"
+    },
+    {
+      "tags": [
+        "php",
+        "sql",
+        "mysql",
+        "performance",
+        "primary-key"
+      ],
+      "owner": {
+        "reputation": 18971,
+        "user_id": 4418,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://i.stack.imgur.com/sQFX6.jpg?s=128&g=1",
+        "display_name": "warren",
+        "link": "https://stackoverflow.com/users/4418/warren"
+      },
+      "is_answered": true,
+      "view_count": 621022,
+      "protected_date": 1515548627,
+      "accepted_answer_id": 1361368,
+      "answer_count": 9,
+      "score": 757,
+      "last_activity_date": 1558016452,
+      "creation_date": 1251795401,
+      "last_edit_date": 1522184401,
+      "question_id": 1361340,
+      "link": "https://stackoverflow.com/questions/1361340/how-to-insert-if-not-exists-in-mysql",
+      "title": "How to &#39;insert if not exists&#39; in MySQL?"
+    },
+    {
+      "tags": [
+        "sql",
+        "mysql",
+        "subquery",
+        "join"
+      ],
+      "owner": {
+        "reputation": 134284,
+        "user_id": 285587,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://i.stack.imgur.com/uhHvv.jpg?s=128&g=1",
+        "display_name": "Your Common Sense",
+        "link": "https://stackoverflow.com/users/285587/your-common-sense"
+      },
+      "is_answered": true,
+      "view_count": 384484,
+      "accepted_answer_id": 39588846,
+      "answer_count": 18,
+      "score": 742,
+      "last_activity_date": 1556679848,
+      "creation_date": 1270448542,
+      "last_edit_date": 1541268025,
+      "question_id": 2577174,
+      "link": "https://stackoverflow.com/questions/2577174/join-vs-sub-query",
+      "title": "Join vs. sub-query"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "stored-procedures"
+      ],
+      "owner": {
+        "reputation": 4319,
+        "user_id": 815244,
+        "user_type": "registered",
+        "accept_rate": 48,
+        "profile_image": "https://i.stack.imgur.com/frgTL.jpg?s=128&g=1",
+        "display_name": "DharaPPatel",
+        "link": "https://stackoverflow.com/users/815244/dharappatel"
+      },
+      "is_answered": true,
+      "view_count": 1184651,
+      "protected_date": 1523063484,
+      "accepted_answer_id": 14704157,
+      "answer_count": 22,
+      "score": 711,
+      "last_activity_date": 1557413306,
+      "creation_date": 1360056639,
+      "last_edit_date": 1539339574,
+      "question_id": 14704105,
+      "link": "https://stackoverflow.com/questions/14704105/search-text-in-stored-procedure-in-sql-server",
+      "title": "Search text in stored procedure in SQL Server"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "max",
+        "distinct",
+        "greatest-n-per-group"
+      ],
+      "owner": {
+        "reputation": 3934,
+        "user_id": 73810,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/f0146de538a2e082639ef8669209d68f?s=128&d=identicon&r=PG",
+        "display_name": "Kaptah",
+        "link": "https://stackoverflow.com/users/73810/kaptah"
+      },
+      "is_answered": true,
+      "view_count": 1375670,
+      "protected_date": 1311333726,
+      "accepted_answer_id": 612268,
+      "answer_count": 17,
+      "score": 709,
+      "last_activity_date": 1522058322,
+      "creation_date": 1236197666,
+      "last_edit_date": 1522058322,
+      "question_id": 612231,
+      "link": "https://stackoverflow.com/questions/612231/how-can-i-select-rows-with-maxcolumn-value-distinct-by-another-column-in-sql",
+      "title": "How can I SELECT rows with MAX(Column value), DISTINCT by another column in SQL?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "datetime",
+        "datetime2"
+      ],
+      "owner": {
+        "reputation": 4357,
+        "user_id": 158801,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://i.stack.imgur.com/aLr4R.png?s=128&g=1",
+        "display_name": "Mikeon",
+        "link": "https://stackoverflow.com/users/158801/mikeon"
+      },
+      "is_answered": true,
+      "view_count": 443417,
+      "protected_date": 1457639963,
+      "accepted_answer_id": 1884088,
+      "answer_count": 14,
+      "score": 695,
+      "last_activity_date": 1558084570,
+      "creation_date": 1251287110,
+      "last_edit_date": 1490037950,
+      "question_id": 1334143,
+      "link": "https://stackoverflow.com/questions/1334143/datetime2-vs-datetime-in-sql-server",
+      "title": "DateTime2 vs DateTime in SQL Server"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "sql-server-2000"
+      ],
+      "owner": {
+        "reputation": 126410,
+        "user_id": 12597,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/4b534325156758d6592fb624d7b60e22?s=128&d=identicon&r=PG",
+        "display_name": "Ian Boyd",
+        "link": "https://stackoverflow.com/users/12597/ian-boyd"
+      },
+      "is_answered": true,
+      "view_count": 489639,
+      "accepted_answer_id": 2043290,
+      "answer_count": 11,
+      "score": 682,
+      "last_activity_date": 1550091696,
+      "creation_date": 1263228277,
+      "last_edit_date": 1550091696,
+      "question_id": 2043259,
+      "link": "https://stackoverflow.com/questions/2043259/sql-server-how-to-join-to-first-row",
+      "title": "SQL Server: How to Join to first row"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "performance"
+      ],
+      "owner": {
+        "reputation": 12024,
+        "user_id": 131238,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/1c631e1e0c46dc34f3c7b22133ae8531?s=128&d=identicon&r=PG",
+        "display_name": "super9",
+        "link": "https://stackoverflow.com/users/131238/super9"
+      },
+      "is_answered": true,
+      "view_count": 348165,
+      "protected_date": 1395338110,
+      "accepted_answer_id": 1221649,
+      "answer_count": 12,
+      "score": 677,
+      "last_activity_date": 1552957035,
+      "creation_date": 1249294510,
+      "last_edit_date": 1522058900,
+      "question_id": 1221559,
+      "link": "https://stackoverflow.com/questions/1221559/count-vs-count1-sql-server",
+      "title": "Count(*) vs Count(1) - SQL Server"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "database"
+      ],
+      "owner": {
+        "reputation": 6180,
+        "user_id": 534994,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/c10bfa58600b422a1462669b898d3ad7?s=128&d=identicon&r=PG",
+        "display_name": "Michael",
+        "link": "https://stackoverflow.com/users/534994/michael"
+      },
+      "is_answered": true,
+      "view_count": 1312463,
+      "protected_date": 1395125293,
+      "accepted_answer_id": 5951204,
+      "answer_count": 8,
+      "score": 656,
+      "last_activity_date": 1524083412,
+      "creation_date": 1305035611,
+      "last_edit_date": 1442351973,
+      "question_id": 5951157,
+      "link": "https://stackoverflow.com/questions/5951157/if-in-select-statement-choose-output-value-based-on-column-values",
+      "title": "&#39;IF&#39; in &#39;SELECT&#39; statement - choose output value based on column values"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql"
+      ],
+      "owner": {
+        "reputation": 13736,
+        "user_id": 56679,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/433ce421a358d55b9f2982008f645336?s=128&d=identicon&r=PG",
+        "display_name": "chillitom",
+        "link": "https://stackoverflow.com/users/56679/chillitom"
+      },
+      "is_answered": true,
+      "view_count": 548611,
+      "protected_date": 1393064872,
+      "accepted_answer_id": 12956348,
+      "answer_count": 23,
+      "score": 654,
+      "last_activity_date": 1561022876,
+      "creation_date": 1233058679,
+      "last_edit_date": 1416678186,
+      "question_id": 483193,
+      "link": "https://stackoverflow.com/questions/483193/how-can-i-list-all-foreign-keys-referencing-a-given-table-in-sql-server",
+      "title": "How can I list all foreign keys referencing a given table in SQL Server?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server"
+      ],
+      "owner": {
+        "reputation": 3622,
+        "user_id": 539679,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/5be895c8f22353c868cd161bbac44730?s=128&d=identicon&r=PG",
+        "display_name": "tmaster",
+        "link": "https://stackoverflow.com/users/539679/tmaster"
+      },
+      "is_answered": true,
+      "view_count": 1045487,
+      "accepted_answer_id": 7887033,
+      "answer_count": 13,
+      "score": 641,
+      "last_activity_date": 1553589852,
+      "creation_date": 1319533546,
+      "last_edit_date": 1430668803,
+      "question_id": 7887011,
+      "link": "https://stackoverflow.com/questions/7887011/how-to-drop-a-table-if-it-exists-in-sql-server",
+      "title": "How to drop a table if it exists in SQL Server?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "uuɐɯǝʃǝs"
+      },
+      "is_answered": true,
+      "view_count": 670350,
+      "answer_count": 36,
+      "score": 637,
+      "last_activity_date": 1557239152,
+      "creation_date": 1239182128,
+      "last_edit_date": 1522918170,
+      "question_id": 729197,
+      "link": "https://stackoverflow.com/questions/729197/sql-exclude-a-column-using-select-except-columna-from-tablea",
+      "title": "SQL exclude a column using SELECT * [except columnA] FROM tableA?"
+    },
+    {
+      "tags": [
+        "c#",
+        "sql",
+        "entity-framework"
+      ],
+      "owner": {
+        "reputation": 3893,
+        "user_id": 373768,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/7244a48ee00da930c5a22d4cdaab2d4d?s=128&d=identicon&r=PG",
+        "display_name": "Bongo Sharp",
+        "link": "https://stackoverflow.com/users/373768/bongo-sharp"
+      },
+      "is_answered": true,
+      "view_count": 361504,
+      "accepted_answer_id": 5942176,
+      "answer_count": 28,
+      "score": 615,
+      "last_activity_date": 1552302776,
+      "creation_date": 1304961240,
+      "last_edit_date": 1504704770,
+      "question_id": 5940225,
+      "link": "https://stackoverflow.com/questions/5940225/fastest-way-of-inserting-in-entity-framework",
+      "title": "Fastest Way of Inserting in Entity Framework"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "sql-server-2005",
+        "sql-update"
+      ],
+      "owner": {
+        "reputation": 151375,
+        "user_id": 40521,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/8faa5e8a474933dd207c86fb886a7f28?s=128&d=identicon&r=PG",
+        "display_name": "Shyju",
+        "link": "https://stackoverflow.com/users/40521/shyju"
+      },
+      "is_answered": true,
+      "view_count": 822706,
+      "protected_date": 1476207968,
+      "accepted_answer_id": 982947,
+      "answer_count": 9,
+      "score": 607,
+      "last_activity_date": 1536141082,
+      "creation_date": 1244746173,
+      "last_edit_date": 1389147507,
+      "question_id": 982919,
+      "link": "https://stackoverflow.com/questions/982919/sql-update-query-using-joins",
+      "title": "SQL update query using joins"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "sql-server-2008",
+        "tsql"
+      ],
+      "owner": {
+        "reputation": 9642,
+        "user_id": 61156,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/4d41619db953932c92e0eacff01f8263?s=128&d=identicon&r=PG",
+        "display_name": "odiseh",
+        "link": "https://stackoverflow.com/users/61156/odiseh"
+      },
+      "is_answered": true,
+      "view_count": 1473018,
+      "protected_date": 1391875217,
+      "accepted_answer_id": 1054988,
+      "answer_count": 17,
+      "score": 607,
+      "last_activity_date": 1560893006,
+      "creation_date": 1246197950,
+      "last_edit_date": 1495541446,
+      "question_id": 1054984,
+      "link": "https://stackoverflow.com/questions/1054984/how-can-i-get-column-names-from-a-table-in-sql-server",
+      "title": "How can I get column names from a table in SQL Server?"
+    },
+    {
+      "tags": [
+        "sql",
+        "postgresql"
+      ],
+      "owner": {
+        "reputation": 4409,
+        "user_id": 1073252,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/af4c9d4d5de75d90da65ed97bcedba30?s=128&d=identicon&r=PG",
+        "display_name": "flossfan",
+        "link": "https://stackoverflow.com/users/1073252/flossfan"
+      },
+      "is_answered": true,
+      "view_count": 287077,
+      "accepted_answer_id": 10757486,
+      "answer_count": 7,
+      "score": 600,
+      "last_activity_date": 1554279281,
+      "creation_date": 1337960598,
+      "last_edit_date": 1489593807,
+      "question_id": 10757431,
+      "link": "https://stackoverflow.com/questions/10757431/postgres-upgrade-a-user-to-be-a-superuser",
+      "title": "postgres: upgrade a user to be a superuser?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "database",
+        "sql-server-2008",
+        "azure-sql-database"
+      ],
+      "owner": {
+        "reputation": 6360,
+        "user_id": 224636,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/9536e98cdd28bbeb317f93939a331653?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Romil N",
+        "link": "https://stackoverflow.com/users/224636/romil-n"
+      },
+      "is_answered": true,
+      "view_count": 847165,
+      "accepted_answer_id": 21824729,
+      "answer_count": 19,
+      "score": 597,
+      "last_activity_date": 1562130989,
+      "creation_date": 1392627108,
+      "last_edit_date": 1468511280,
+      "question_id": 21824478,
+      "link": "https://stackoverflow.com/questions/21824478/reset-identity-seed-after-deleting-records-in-sql-server",
+      "title": "Reset identity seed after deleting records in SQL Server"
+    },
+    {
+      "tags": [
+        "sql",
+        "join",
+        "where-clause",
+        "on-clause"
+      ],
+      "owner": {
+        "reputation": 33949,
+        "user_id": 1343,
+        "user_type": "registered",
+        "accept_rate": 53,
+        "profile_image": "https://www.gravatar.com/avatar/6757caf55de0413ae0994293e001d465?s=128&d=identicon&r=PG",
+        "display_name": "BCS",
+        "link": "https://stackoverflow.com/users/1343/bcs"
+      },
+      "is_answered": true,
+      "view_count": 593878,
+      "accepted_answer_id": 354094,
+      "answer_count": 17,
+      "score": 595,
+      "last_activity_date": 1556956219,
+      "creation_date": 1228853692,
+      "last_edit_date": 1495535476,
+      "question_id": 354070,
+      "link": "https://stackoverflow.com/questions/354070/sql-join-where-clause-vs-on-clause",
+      "title": "SQL join: where clause vs. on clause"
+    },
+    {
+      "tags": [
+        "sql",
+        "mysql",
+        "unicode",
+        "character-encoding",
+        "collation"
+      ],
+      "owner": {
+        "reputation": 21096,
+        "user_id": 161922,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/16e12e337f6edc3750681492656097ed?s=128&d=identicon&r=PG",
+        "display_name": "Rory",
+        "link": "https://stackoverflow.com/users/161922/rory"
+      },
+      "is_answered": true,
+      "view_count": 551061,
+      "answer_count": 13,
+      "score": 594,
+      "last_activity_date": 1560505758,
+      "creation_date": 1246029740,
+      "last_edit_date": 1440042747,
+      "question_id": 1049728,
+      "link": "https://stackoverflow.com/questions/1049728/how-do-i-see-what-character-set-a-mysql-database-table-column-is",
+      "title": "How do I see what character set a MySQL database / table / column is?"
+    },
+    {
+      "tags": [
+        "sql",
+        "postgresql",
+        "upsert",
+        "sql-merge"
+      ],
+      "owner": {
+        "reputation": 45007,
+        "user_id": 1384652,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/c80131720899ffdffa925c4258633104?s=128&d=identicon&r=PG",
+        "display_name": "Teifion",
+        "link": "https://stackoverflow.com/users/1384652/teifion"
+      },
+      "is_answered": true,
+      "view_count": 382456,
+      "protected_date": 1494183393,
+      "accepted_answer_id": 1109198,
+      "answer_count": 16,
+      "score": 589,
+      "last_activity_date": 1560841822,
+      "creation_date": 1247225929,
+      "last_edit_date": 1488564783,
+      "question_id": 1109061,
+      "link": "https://stackoverflow.com/questions/1109061/insert-on-duplicate-update-in-postgresql",
+      "title": "Insert, on duplicate update in PostgreSQL?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "quotes"
+      ],
+      "owner": {
+        "reputation": 9596,
+        "user_id": 1101095,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/991a0b01bbe52f600bdd801804061f6a?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Nate",
+        "link": "https://stackoverflow.com/users/1101095/nate"
+      },
+      "is_answered": true,
+      "view_count": 169231,
+      "protected_date": 1444035513,
+      "accepted_answer_id": 11321508,
+      "answer_count": 12,
+      "score": 588,
+      "last_activity_date": 1556446459,
+      "creation_date": 1341366816,
+      "last_edit_date": 1556446459,
+      "question_id": 11321491,
+      "link": "https://stackoverflow.com/questions/11321491/when-to-use-single-quotes-double-quotes-and-backticks-in-mysql",
+      "title": "When to use single quotes, double quotes, and backticks in MySQL"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "sql-server-2008",
+        "alter-table"
+      ],
+      "owner": {
+        "reputation": 4077,
+        "user_id": 1303193,
+        "user_type": "registered",
+        "accept_rate": 35,
+        "profile_image": "https://www.gravatar.com/avatar/c9add0b79bfb9bf25550c8b1d53950f7?s=128&d=identicon&r=PG",
+        "display_name": "Serhio g. Lazin",
+        "link": "https://stackoverflow.com/users/1303193/serhio-g-lazin"
+      },
+      "is_answered": true,
+      "view_count": 1022530,
+      "protected_date": 1393455232,
+      "accepted_answer_id": 16296669,
+      "answer_count": 10,
+      "score": 587,
+      "last_activity_date": 1536862251,
+      "creation_date": 1367314488,
+      "last_edit_date": 1516011059,
+      "question_id": 16296622,
+      "link": "https://stackoverflow.com/questions/16296622/rename-column-sql-server-2008",
+      "title": "Rename column SQL Server 2008"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "date",
+        "datetime",
+        "group-by"
+      ],
+      "owner": {
+        "reputation": 6631,
+        "user_id": 2274,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/f18fe189ba44c9592ec230c9fa40ff79?s=128&d=identicon&r=PG",
+        "display_name": "Fernando Barrocal",
+        "link": "https://stackoverflow.com/users/2274/fernando-barrocal"
+      },
+      "is_answered": true,
+      "view_count": 569314,
+      "accepted_answer_id": 508806,
+      "answer_count": 13,
+      "score": 581,
+      "last_activity_date": 1559910620,
+      "creation_date": 1233692959,
+      "last_edit_date": 1432058250,
+      "question_id": 508791,
+      "link": "https://stackoverflow.com/questions/508791/mysql-query-group-by-day-month-year",
+      "title": "MySQL Query GROUP BY day / month / year"
+    },
+    {
+      "tags": [
+        "php",
+        "mysql",
+        "sql",
+        "security",
+        "sql-injection"
+      ],
+      "owner": {
+        "reputation": 34730,
+        "user_id": 95944,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://i.stack.imgur.com/dEHGM.jpg?s=128&g=1",
+        "display_name": "Richard Knop",
+        "link": "https://stackoverflow.com/users/95944/richard-knop"
+      },
+      "is_answered": true,
+      "view_count": 215598,
+      "protected_date": 1444036903,
+      "accepted_answer_id": 5741264,
+      "answer_count": 4,
+      "score": 572,
+      "last_activity_date": 1559641392,
+      "creation_date": 1303372571,
+      "last_edit_date": 1559641392,
+      "question_id": 5741187,
+      "link": "https://stackoverflow.com/questions/5741187/sql-injection-that-gets-around-mysql-real-escape-string",
+      "title": "SQL injection that gets around mysql_real_escape_string()"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "django",
+        "django-models"
+      ],
+      "owner": {
+        "reputation": 15987,
+        "user_id": 326849,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/a7d9c6fbccb7dfb47cd81f17bf0bd5cc?s=128&d=identicon&r=PG",
+        "display_name": "jul",
+        "link": "https://stackoverflow.com/users/326849/jul"
+      },
+      "is_answered": true,
+      "view_count": 591835,
+      "accepted_answer_id": 15501754,
+      "answer_count": 10,
+      "score": 570,
+      "last_activity_date": 1561640803,
+      "creation_date": 1363701838,
+      "last_edit_date": 1561640803,
+      "question_id": 15501673,
+      "link": "https://stackoverflow.com/questions/15501673/how-to-temporarily-disable-a-foreign-key-constraint-in-mysql",
+      "title": "How to temporarily disable a foreign key constraint in MySQL?"
+    },
+    {
+      "tags": [
+        "sql",
+        "mysql",
+        "join",
+        "outer-join",
+        "full-outer-join"
+      ],
+      "owner": {
+        "reputation": 7240,
+        "user_id": 440266,
+        "user_type": "registered",
+        "accept_rate": 99,
+        "profile_image": "https://www.gravatar.com/avatar/9334ecc8e9546620050e8b208f139f37?s=128&d=identicon&r=PG",
+        "display_name": "Spencer",
+        "link": "https://stackoverflow.com/users/440266/spencer"
+      },
+      "is_answered": true,
+      "view_count": 583851,
+      "protected_date": 1409501904,
+      "accepted_answer_id": 4796911,
+      "answer_count": 14,
+      "score": 568,
+      "last_activity_date": 1556307427,
+      "creation_date": 1295976858,
+      "last_edit_date": 1504798004,
+      "question_id": 4796872,
+      "link": "https://stackoverflow.com/questions/4796872/how-to-do-a-full-outer-join-in-mysql",
+      "title": "How to do a FULL OUTER JOIN in MySQL?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-order-by"
+      ],
+      "owner": {
+        "reputation": 6172,
+        "user_id": 122105,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://i.stack.imgur.com/0yuXL.png?s=128&g=1",
+        "display_name": "Se&#241;or Reginold Francis",
+        "link": "https://stackoverflow.com/users/122105/se%c3%b1or-reginold-francis"
+      },
+      "is_answered": true,
+      "view_count": 769986,
+      "accepted_answer_id": 2051176,
+      "answer_count": 5,
+      "score": 567,
+      "last_activity_date": 1536314235,
+      "creation_date": 1263319329,
+      "last_edit_date": 1436283791,
+      "question_id": 2051162,
+      "link": "https://stackoverflow.com/questions/2051162/sql-multiple-column-ordering",
+      "title": "SQL multiple column ordering"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "database",
+        "insert",
+        "upsert"
+      ],
+      "owner": {
+        "reputation": 22154,
+        "user_id": 18907,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/a3a443f340c0985d7cf43188145a1384?s=128&d=identicon&r=PG",
+        "display_name": "Chris Cudmore",
+        "link": "https://stackoverflow.com/users/18907/chris-cudmore"
+      },
+      "is_answered": true,
+      "view_count": 573579,
+      "protected_date": 1553132546,
+      "accepted_answer_id": 108420,
+      "answer_count": 21,
+      "score": 544,
+      "last_activity_date": 1552225549,
+      "creation_date": 1221922847,
+      "last_edit_date": 1397053025,
+      "question_id": 108403,
+      "link": "https://stackoverflow.com/questions/108403/solutions-for-insert-or-update-on-sql-server",
+      "title": "Solutions for INSERT OR UPDATE on SQL Server"
+    },
+    {
+      "tags": [
+        "sql",
+        "oracle",
+        "greatest-n-per-group"
+      ],
+      "owner": {
+        "reputation": 2722,
+        "user_id": 21154,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ad98d5e71b9a8801a2b0aba330dd196e?s=128&d=identicon&r=PG",
+        "display_name": "Umang",
+        "link": "https://stackoverflow.com/users/21154/umang"
+      },
+      "is_answered": true,
+      "view_count": 548148,
+      "protected_date": 1509543982,
+      "accepted_answer_id": 121450,
+      "answer_count": 34,
+      "score": 542,
+      "last_activity_date": 1551863192,
+      "creation_date": 1222180453,
+      "last_edit_date": 1490530680,
+      "question_id": 121387,
+      "link": "https://stackoverflow.com/questions/121387/fetch-the-row-which-has-the-max-value-for-a-column",
+      "title": "Fetch the row which has the Max value for a column"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "case",
+        "case-when"
+      ],
+      "owner": {
+        "reputation": 2770,
+        "user_id": 455195,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/aa2ff5c65c67b5d5a10d7fe969a00f36?s=128&d=identicon&r=PG",
+        "display_name": "Werner",
+        "link": "https://stackoverflow.com/users/455195/werner"
+      },
+      "is_answered": true,
+      "view_count": 2932099,
+      "protected_date": 1486754442,
+      "accepted_answer_id": 5487936,
+      "answer_count": 10,
+      "score": 541,
+      "last_activity_date": 1560591406,
+      "creation_date": 1301496311,
+      "last_edit_date": 1470834765,
+      "question_id": 5487892,
+      "link": "https://stackoverflow.com/questions/5487892/sql-server-case-when-or-then-else-end-the-or-is-not-supported",
+      "title": "SQL Server: CASE WHEN OR THEN ELSE END =&gt; the OR is not supported"
+    },
+    {
+      "tags": [
+        "sql",
+        "database",
+        "join"
+      ],
+      "owner": {
+        "reputation": 9481,
+        "user_id": 54197,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/6428d5774305620320aa6b9203611b80?s=128&d=identicon&r=PG",
+        "display_name": "MrM",
+        "link": "https://stackoverflow.com/users/54197/mrm"
+      },
+      "is_answered": true,
+      "view_count": 359977,
+      "protected_date": 1382108644,
+      "answer_count": 9,
+      "score": 535,
+      "last_activity_date": 1515731583,
+      "creation_date": 1232046451,
+      "last_edit_date": 1237927538,
+      "question_id": 448023,
+      "link": "https://stackoverflow.com/questions/448023/what-is-the-difference-between-left-right-outer-and-inner-joins",
+      "title": "What is the difference between Left, Right, Outer and Inner Joins?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sqlite",
+        "syntax"
+      ],
+      "owner": {
+        "reputation": 104192,
+        "user_id": 48523,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/1c787bc735dbe80ec2f88824e1d10c6c?s=128&d=identicon&r=PG",
+        "display_name": "Andrew",
+        "link": "https://stackoverflow.com/users/48523/andrew"
+      },
+      "is_answered": true,
+      "view_count": 350071,
+      "protected_date": 1389107647,
+      "accepted_answer_id": 5009740,
+      "answer_count": 24,
+      "score": 519,
+      "last_activity_date": 1495517168,
+      "creation_date": 1256241882,
+      "question_id": 1609637,
+      "link": "https://stackoverflow.com/questions/1609637/is-it-possible-to-insert-multiple-rows-at-a-time-in-an-sqlite-database",
+      "title": "Is it possible to insert multiple rows at a time in an SQLite database?"
+    },
+    {
+      "tags": [
+        "sql",
+        "mysql",
+        "database",
+        "mysqldump"
+      ],
+      "owner": {
+        "reputation": 866,
+        "user_id": 5630,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/c3fd93c6894b219905b98ae06e064649?s=128&d=identicon&r=PG",
+        "display_name": "Zac",
+        "link": "https://stackoverflow.com/users/5630/zac"
+      },
+      "is_answered": true,
+      "view_count": 288374,
+      "accepted_answer_id": 425172,
+      "answer_count": 8,
+      "community_owned_date": 1231435817,
+      "score": 510,
+      "last_activity_date": 1547112236,
+      "creation_date": 1231435817,
+      "question_id": 425158,
+      "link": "https://stackoverflow.com/questions/425158/skip-certain-tables-with-mysqldump",
+      "title": "Skip certain tables with mysqldump"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "database"
+      ],
+      "owner": {
+        "reputation": 31703,
+        "user_id": 83,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/a27764e5c0529d03018cba073e612c3a?s=128&d=identicon&r=PG",
+        "display_name": "Zack Peterson",
+        "link": "https://stackoverflow.com/users/83/zack-peterson"
+      },
+      "is_answered": true,
+      "view_count": 775120,
+      "protected_date": 1310055842,
+      "accepted_answer_id": 105798,
+      "answer_count": 17,
+      "score": 508,
+      "last_activity_date": 1560953057,
+      "creation_date": 1221859620,
+      "last_edit_date": 1529225154,
+      "question_id": 105776,
+      "link": "https://stackoverflow.com/questions/105776/how-do-i-restore-a-dump-file-from-mysqldump",
+      "title": "How do I restore a dump file from mysqldump?"
+    },
+    {
+      "tags": [
+        "sql",
+        "algorithm",
+        "recursion",
+        "tree",
+        "hierarchical-data"
+      ],
+      "owner": {
+        "reputation": 266557,
+        "user_id": 18771,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/0ada184c98bf9073d15b2dc815be0170?s=128&d=identicon&r=PG",
+        "display_name": "Tomalak",
+        "link": "https://stackoverflow.com/users/18771/tomalak"
+      },
+      "is_answered": true,
+      "view_count": 104304,
+      "protected_date": 1409043187,
+      "accepted_answer_id": 192462,
+      "answer_count": 14,
+      "score": 499,
+      "last_activity_date": 1530621853,
+      "creation_date": 1223657263,
+      "last_edit_date": 1495541898,
+      "question_id": 192220,
+      "link": "https://stackoverflow.com/questions/192220/what-is-the-most-efficient-elegant-way-to-parse-a-flat-table-into-a-tree",
+      "title": "What is the most efficient/elegant way to parse a flat table into a tree?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sqlite",
+        "upsert"
+      ],
+      "owner": {
+        "reputation": 3569,
+        "user_id": 18749,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/6eac75cc74c34eecd873c34305e1c052?s=128&d=identicon&r=PG",
+        "display_name": "Mike Trader",
+        "link": "https://stackoverflow.com/users/18749/mike-trader"
+      },
+      "is_answered": true,
+      "view_count": 269130,
+      "protected_date": 1553132530,
+      "accepted_answer_id": 4330694,
+      "answer_count": 17,
+      "score": 497,
+      "last_activity_date": 1556009708,
+      "creation_date": 1231292843,
+      "last_edit_date": 1525301183,
+      "question_id": 418898,
+      "link": "https://stackoverflow.com/questions/418898/sqlite-upsert-not-insert-or-replace",
+      "title": "SQLite - UPSERT *not* INSERT or REPLACE"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "line-breaks"
+      ],
+      "owner": {
+        "reputation": 18475,
+        "user_id": 1284,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/ed7dec07c571e2c32e8aa536ad31dca3?s=128&d=identicon&r=PG",
+        "display_name": "Mark Struzinski",
+        "link": "https://stackoverflow.com/users/1284/mark-struzinski"
+      },
+      "is_answered": true,
+      "view_count": 887239,
+      "protected_date": 1477908924,
+      "accepted_answer_id": 31063,
+      "answer_count": 9,
+      "score": 490,
+      "last_activity_date": 1547497969,
+      "creation_date": 1219866781,
+      "last_edit_date": 1373483936,
+      "question_id": 31057,
+      "link": "https://stackoverflow.com/questions/31057/how-to-insert-a-line-break-in-a-sql-server-varchar-nvarchar-string",
+      "title": "How to insert a line break in a SQL Server VARCHAR/NVARCHAR string"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "datetime",
+        "date"
+      ],
+      "owner": {
+        "reputation": 3055,
+        "user_id": 144355,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a1b72e7f826e11589d694993c6619b98?s=128&d=identicon&r=PG",
+        "display_name": "Stephen Perelson",
+        "link": "https://stackoverflow.com/users/144355/stephen-perelson"
+      },
+      "is_answered": true,
+      "view_count": 696781,
+      "protected_date": 1411623433,
+      "accepted_answer_id": 1177529,
+      "answer_count": 23,
+      "score": 488,
+      "last_activity_date": 1560243430,
+      "creation_date": 1248439794,
+      "last_edit_date": 1310453509,
+      "question_id": 1177449,
+      "link": "https://stackoverflow.com/questions/1177449/best-approach-to-remove-time-part-of-datetime-in-sql-server",
+      "title": "Best approach to remove time part of datetime in SQL Server"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "notin"
+      ],
+      "owner": {
+        "reputation": 8460,
+        "user_id": 9825,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/500e9e648f141048942c737fc88f38bd?s=128&d=identicon&r=PG",
+        "display_name": "ilitirit",
+        "link": "https://stackoverflow.com/users/9825/ilitirit"
+      },
+      "is_answered": true,
+      "view_count": 1335653,
+      "protected_date": 1425936743,
+      "accepted_answer_id": 11074428,
+      "answer_count": 10,
+      "score": 486,
+      "last_activity_date": 1538480889,
+      "creation_date": 1223259545,
+      "last_edit_date": 1353581565,
+      "question_id": 173041,
+      "link": "https://stackoverflow.com/questions/173041/not-in-vs-not-exists",
+      "title": "NOT IN vs NOT EXISTS"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "variables"
+      ],
+      "owner": {
+        "reputation": 15446,
+        "user_id": 43792,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/a16dd037524eaabc55fb8ae7a17c668a?s=128&d=identicon&r=PG",
+        "display_name": "triplethreat78",
+        "link": "https://stackoverflow.com/users/43792/triplethreat78"
+      },
+      "is_answered": true,
+      "view_count": 410988,
+      "accepted_answer_id": 1010042,
+      "answer_count": 4,
+      "score": 484,
+      "last_activity_date": 1552982467,
+      "creation_date": 1245279840,
+      "last_edit_date": 1505018084,
+      "question_id": 1009954,
+      "link": "https://stackoverflow.com/questions/1009954/mysql-variable-vs-variable-whats-the-difference",
+      "title": "MySQL: @variable vs. variable. What&#39;s the difference?"
+    },
+    {
+      "tags": [
+        "sql",
+        "random"
+      ],
+      "owner": {
+        "reputation": 8285,
+        "user_id": 473,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/7fbd6be0fb0acd878c35d5c49c485933?s=128&d=identicon&r=PG",
+        "display_name": "sverrejoh",
+        "link": "https://stackoverflow.com/users/473/sverrejoh"
+      },
+      "is_answered": true,
+      "view_count": 401981,
+      "protected_date": 1556774537,
+      "accepted_answer_id": 19419,
+      "answer_count": 28,
+      "score": 483,
+      "last_activity_date": 1530863969,
+      "creation_date": 1219300129,
+      "last_edit_date": 1404739608,
+      "question_id": 19412,
+      "link": "https://stackoverflow.com/questions/19412/how-to-request-a-random-row-in-sql",
+      "title": "How to request a random row in SQL?"
+    },
+    {
+      "tags": [
+        "java",
+        "sql",
+        "datetime",
+        "date",
+        "jdbc"
+      ],
+      "owner": {
+        "reputation": 101460,
+        "user_id": 63051,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/b4b87a82355f286bb410cc1854389226?s=128&d=identicon&r=PG",
+        "display_name": "flybywire",
+        "link": "https://stackoverflow.com/users/63051/flybywire"
+      },
+      "is_answered": true,
+      "view_count": 267091,
+      "accepted_answer_id": 2306051,
+      "answer_count": 5,
+      "score": 479,
+      "last_activity_date": 1472575502,
+      "creation_date": 1266758200,
+      "last_edit_date": 1291744607,
+      "question_id": 2305973,
+      "link": "https://stackoverflow.com/questions/2305973/java-util-date-vs-java-sql-date",
+      "title": "java.util.Date vs java.sql.Date"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "split"
+      ],
+      "owner": {
+        "reputation": 36012,
+        "user_id": 383,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/b3b929eac30b663d37bad00f2061403b?s=128&d=identicon&r=PG",
+        "display_name": "GateKiller",
+        "link": "https://stackoverflow.com/users/383/gatekiller"
+      },
+      "is_answered": true,
+      "view_count": 808845,
+      "protected_date": 1282408702,
+      "accepted_answer_id": 2657,
+      "answer_count": 44,
+      "score": 475,
+      "last_activity_date": 1562931682,
+      "creation_date": 1217960147,
+      "last_edit_date": 1524828713,
+      "question_id": 2647,
+      "link": "https://stackoverflow.com/questions/2647/how-do-i-split-a-string-so-i-can-access-item-x",
+      "title": "How do I split a string so I can access item x?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql"
+      ],
+      "owner": {
+        "reputation": 3627,
+        "user_id": 753983,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/ca7328249a82be501edf1b996ebefb53?s=128&d=identicon&r=PG",
+        "display_name": "Darth Blue Ray",
+        "link": "https://stackoverflow.com/users/753983/darth-blue-ray"
+      },
+      "is_answered": true,
+      "view_count": 325939,
+      "accepted_answer_id": 6175506,
+      "answer_count": 11,
+      "score": 450,
+      "last_activity_date": 1541594161,
+      "creation_date": 1306753614,
+      "last_edit_date": 1358093993,
+      "question_id": 6175473,
+      "link": "https://stackoverflow.com/questions/6175473/mysql-export-schema-without-data",
+      "title": "MySql export schema without data"
+    },
+    {
+      "tags": [
+        "sql",
+        "tsql",
+        "sql-server-2005",
+        "group-by",
+        "greatest-n-per-group"
+      ],
+      "owner": {
+        "reputation": 12988,
+        "user_id": 724689,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/c7dbce8913104abbc6ef49928017a9dc?s=128&d=identicon&r=PG",
+        "display_name": "dpp",
+        "link": "https://stackoverflow.com/users/724689/dpp"
+      },
+      "is_answered": true,
+      "view_count": 501544,
+      "accepted_answer_id": 6841644,
+      "answer_count": 17,
+      "score": 449,
+      "last_activity_date": 1560748698,
+      "creation_date": 1311756076,
+      "last_edit_date": 1513927558,
+      "question_id": 6841605,
+      "link": "https://stackoverflow.com/questions/6841605/get-top-1-row-of-each-group",
+      "title": "Get top 1 row of each group"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "max"
+      ],
+      "owner": {
+        "reputation": 12304,
+        "user_id": 14101,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/59702f7e545942fbdefc405de5764bf3?s=128&d=identicon&r=PG",
+        "display_name": "skb",
+        "link": "https://stackoverflow.com/users/14101/skb"
+      },
+      "is_answered": true,
+      "view_count": 403982,
+      "protected_date": 1390508955,
+      "accepted_answer_id": 124474,
+      "answer_count": 28,
+      "score": 443,
+      "last_activity_date": 1550093331,
+      "creation_date": 1222210323,
+      "last_edit_date": 1309434389,
+      "question_id": 124417,
+      "link": "https://stackoverflow.com/questions/124417/is-there-a-max-function-in-sql-server-that-takes-two-values-like-math-max-in-ne",
+      "title": "Is there a Max function in SQL Server that takes two values like Math.Max in .NET?"
+    },
+    {
+      "tags": [
+        "sql",
+        "select"
+      ],
+      "owner": {
+        "reputation": 3719,
+        "user_id": 1106247,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://i.stack.imgur.com/upOkK.png?s=128&g=1",
+        "display_name": "Mario M",
+        "link": "https://stackoverflow.com/users/1106247/mario-m"
+      },
+      "is_answered": true,
+      "view_count": 1534575,
+      "protected_date": 1520265204,
+      "accepted_answer_id": 14290878,
+      "answer_count": 15,
+      "score": 431,
+      "last_activity_date": 1550240583,
+      "creation_date": 1357971590,
+      "last_edit_date": 1502822104,
+      "question_id": 14290857,
+      "link": "https://stackoverflow.com/questions/14290857/sql-select-where-field-contains-words",
+      "title": "SQL SELECT WHERE field contains words"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql"
+      ],
+      "owner": {
+        "reputation": 37825,
+        "user_id": 383148,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/529a291a6eb6205d850ac47d2c38b24c?s=128&d=identicon&r=PG",
+        "display_name": "Francisc",
+        "link": "https://stackoverflow.com/users/383148/francisc"
+      },
+      "is_answered": true,
+      "view_count": 420639,
+      "protected_date": 1431138958,
+      "accepted_answer_id": 4329447,
+      "answer_count": 24,
+      "score": 429,
+      "last_activity_date": 1557152801,
+      "creation_date": 1291239314,
+      "last_edit_date": 1557152801,
+      "question_id": 4329396,
+      "link": "https://stackoverflow.com/questions/4329396/mysql-select-10-random-rows-from-600k-rows-fast",
+      "title": "MySQL select 10 random rows from 600K rows fast"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "sql",
+        "linq-to-sql",
+        "join"
+      ],
+      "owner": {
+        "reputation": 23509,
+        "user_id": 2975,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/99697456067f614849528136ec3639aa?s=128&d=identicon&r=PG",
+        "display_name": "Glenn Slaven",
+        "link": "https://stackoverflow.com/users/2975/glenn-slaven"
+      },
+      "is_answered": true,
+      "view_count": 548194,
+      "accepted_answer_id": 37332,
+      "answer_count": 18,
+      "score": 425,
+      "last_activity_date": 1550475314,
+      "creation_date": 1220230824,
+      "last_edit_date": 1503311469,
+      "question_id": 37324,
+      "link": "https://stackoverflow.com/questions/37324/what-is-the-syntax-for-an-inner-join-in-linq-to-sql",
+      "title": "What is the syntax for an inner join in LINQ to SQL?"
+    },
+    {
+      "tags": [
+        "sql",
+        "linq-to-sql",
+        "entity-framework",
+        "ado.net",
+        "linq-to-entities"
+      ],
+      "owner": {
+        "reputation": 8531,
+        "user_id": 305955,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/e5e7095052179e2ac8b5c1a951f52e54?s=128&d=identicon&r=PG",
+        "display_name": "BritishDeveloper",
+        "link": "https://stackoverflow.com/users/305955/britishdeveloper"
+      },
+      "is_answered": true,
+      "view_count": 165735,
+      "closed_date": 1550073309,
+      "accepted_answer_id": 2698306,
+      "answer_count": 5,
+      "score": 423,
+      "last_activity_date": 1550073254,
+      "creation_date": 1272022597,
+      "last_edit_date": 1272030520,
+      "question_id": 2698151,
+      "link": "https://stackoverflow.com/questions/2698151/entity-framework-vs-linq-to-sql-vs-ado-net-with-stored-procedures",
+      "closed_reason": "off-topic",
+      "title": "Entity Framework VS LINQ to SQL VS ADO.NET with stored procedures?"
+    },
+    {
+      "tags": [
+        "sql"
+      ],
+      "owner": {
+        "reputation": 2858,
+        "user_id": 2528,
+        "user_type": "registered",
+        "accept_rate": 11,
+        "profile_image": "https://www.gravatar.com/avatar/e1943bb1af6c27226e7f107c43f5408b?s=128&d=identicon&r=PG",
+        "display_name": "Krantz",
+        "link": "https://stackoverflow.com/users/2528/krantz"
+      },
+      "is_answered": true,
+      "view_count": 527817,
+      "protected_date": 1379690415,
+      "answer_count": 20,
+      "score": 422,
+      "last_activity_date": 1506628715,
+      "creation_date": 1219567343,
+      "last_edit_date": 1413853191,
+      "question_id": 24929,
+      "link": "https://stackoverflow.com/questions/24929/difference-between-exists-and-in-in-sql",
+      "title": "Difference between EXISTS and IN in SQL?"
+    },
+    {
+      "tags": [
+        "java",
+        "sql",
+        "datetime",
+        "date"
+      ],
+      "owner": {
+        "reputation": 7934,
+        "user_id": 2504,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/9e24f8116c535ffff582c497511220b0?s=128&d=identicon&r=PG",
+        "display_name": "David Ackerman",
+        "link": "https://stackoverflow.com/users/2504/david-ackerman"
+      },
+      "is_answered": true,
+      "view_count": 572689,
+      "accepted_answer_id": 31238011,
+      "answer_count": 17,
+      "score": 419,
+      "last_activity_date": 1553285651,
+      "creation_date": 1234214178,
+      "last_edit_date": 1471653283,
+      "question_id": 530012,
+      "link": "https://stackoverflow.com/questions/530012/how-to-convert-java-util-date-to-java-sql-date",
+      "title": "How to convert java.util.Date to java.sql.Date?"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "select"
+      ],
+      "owner": {
+        "reputation": 29553,
+        "user_id": 1450077,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/45daf5e1eea889ba1893440d645aa83a?s=128&d=identicon&r=PG",
+        "display_name": "Fluffeh",
+        "link": "https://stackoverflow.com/users/1450077/fluffeh"
+      },
+      "is_answered": true,
+      "view_count": 763891,
+      "protected_date": 1348214001,
+      "accepted_answer_id": 12475851,
+      "answer_count": 6,
+      "community_owned_date": 1359978217,
+      "score": 418,
+      "last_activity_date": 1523566296,
+      "creation_date": 1347966699,
+      "last_edit_date": 1523566296,
+      "question_id": 12475850,
+      "link": "https://stackoverflow.com/questions/12475850/sql-query-return-data-from-multiple-tables",
+      "title": "SQL query return data from multiple tables"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "performance",
+        "pagination"
+      ],
+      "owner": {
+        "reputation": 5554,
+        "user_id": 19331,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/17458e75f191bb53e8a69aeb72a4a189?s=128&d=identicon&r=PG",
+        "display_name": "Panagiotis Korros",
+        "link": "https://stackoverflow.com/users/19331/panagiotis-korros"
+      },
+      "is_answered": true,
+      "view_count": 371336,
+      "accepted_answer_id": 109290,
+      "answer_count": 17,
+      "score": 417,
+      "last_activity_date": 1553709561,
+      "creation_date": 1221941778,
+      "last_edit_date": 1382811620,
+      "question_id": 109232,
+      "link": "https://stackoverflow.com/questions/109232/what-is-the-best-way-to-paginate-results-in-sql-server",
+      "title": "What is the best way to paginate results in SQL Server"
+    },
+    {
+      "tags": [
+        "php",
+        "sql",
+        "laravel",
+        "laravel-4",
+        "laravel-query-builder"
+      ],
+      "owner": {
+        "reputation": 3338,
+        "user_id": 665518,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/85a61bf4c6411ff082c51c5332248dcb?s=128&d=identicon&r=PG",
+        "display_name": "meiryo",
+        "link": "https://stackoverflow.com/users/665518/meiryo"
+      },
+      "is_answered": true,
+      "view_count": 459670,
+      "protected_date": 1415252335,
+      "accepted_answer_id": 18236656,
+      "answer_count": 28,
+      "score": 414,
+      "last_activity_date": 1563273792,
+      "creation_date": 1376495034,
+      "last_edit_date": 1542436721,
+      "question_id": 18236294,
+      "link": "https://stackoverflow.com/questions/18236294/how-do-i-get-the-query-builder-to-output-its-raw-sql-query-as-a-string",
+      "title": "How Do I Get the Query Builder to Output Its Raw SQL Query as a String?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql",
+        "sql-server-2008"
+      ],
+      "owner": {
+        "reputation": 3693,
+        "user_id": 518201,
+        "user_type": "unregistered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/89bb5872d14411ef21b5d5ae760c6bfb?s=128&d=identicon&r=PG",
+        "display_name": "JOE SKEET",
+        "link": "https://stackoverflow.com/users/518201/joe-skeet"
+      },
+      "is_answered": true,
+      "view_count": 739365,
+      "accepted_answer_id": 4434161,
+      "answer_count": 7,
+      "score": 408,
+      "last_activity_date": 1554216191,
+      "creation_date": 1292279406,
+      "last_edit_date": 1409737245,
+      "question_id": 4434118,
+      "link": "https://stackoverflow.com/questions/4434118/select-statement-to-find-duplicates-on-certain-fields",
+      "title": "Select statement to find duplicates on certain fields"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "alter-table",
+        "identity-column"
+      ],
+      "owner": {
+        "reputation": 8059,
+        "user_id": 15691,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/8fb7b10f292a0375c3758199f673cca2?s=128&d=identicon&r=PG",
+        "display_name": "Kirschstein",
+        "link": "https://stackoverflow.com/users/15691/kirschstein"
+      },
+      "is_answered": true,
+      "view_count": 776283,
+      "protected_date": 1498137702,
+      "accepted_answer_id": 1049305,
+      "answer_count": 19,
+      "score": 400,
+      "last_activity_date": 1551219991,
+      "creation_date": 1246023681,
+      "last_edit_date": 1314058531,
+      "question_id": 1049210,
+      "link": "https://stackoverflow.com/questions/1049210/adding-an-identity-to-an-existing-column",
+      "title": "Adding an identity to an existing column"
+    },
+    {
+      "tags": [
+        "mysql",
+        "sql",
+        "duplicates"
+      ],
+      "owner": {
+        "reputation": 10007,
+        "user_id": 463038,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/b372ebf5ed9aa7f8c52004f923f55d44?s=128&d=identicon&r=PG",
+        "display_name": "Highway of Life",
+        "link": "https://stackoverflow.com/users/463038/highway-of-life"
+      },
+      "is_answered": true,
+      "view_count": 428292,
+      "closed_date": 1356181863,
+      "accepted_answer_id": 5016434,
+      "answer_count": 2,
+      "score": 398,
+      "last_activity_date": 1534367375,
+      "creation_date": 1294952318,
+      "last_edit_date": 1522233442,
+      "question_id": 4685173,
+      "link": "https://stackoverflow.com/questions/4685173/delete-all-duplicate-rows-except-for-one-in-mysql",
+      "closed_reason": "exact duplicate",
+      "title": "Delete all Duplicate Rows except for One in MySQL?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server-2008"
+      ],
+      "owner": {
+        "reputation": 10874,
+        "user_id": 569654,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/a571a3bf019dac1837a5a6c7ff86c010?s=128&d=identicon&r=PG",
+        "display_name": "Beginner",
+        "link": "https://stackoverflow.com/users/569654/beginner"
+      },
+      "is_answered": true,
+      "view_count": 836141,
+      "protected_date": 1444742700,
+      "accepted_answer_id": 7063527,
+      "answer_count": 7,
+      "score": 397,
+      "last_activity_date": 1499184376,
+      "creation_date": 1313401049,
+      "last_edit_date": 1386607264,
+      "question_id": 7063501,
+      "link": "https://stackoverflow.com/questions/7063501/how-to-turn-identity-insert-on-and-off-using-sql-server-2008",
+      "title": "How to turn IDENTITY_INSERT on and off using SQL Server 2008?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "tsql"
+      ],
+      "owner": {
+        "reputation": 7309,
+        "user_id": 28098,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/d774a899d468f1230cf492cc1b5805d6?s=128&d=identicon&r=PG",
+        "display_name": "z-boss",
+        "link": "https://stackoverflow.com/users/28098/z-boss"
+      },
+      "is_answered": true,
+      "view_count": 690245,
+      "accepted_answer_id": 2686266,
+      "answer_count": 11,
+      "score": 389,
+      "last_activity_date": 1563407347,
+      "creation_date": 1271881105,
+      "last_edit_date": 1375192282,
+      "question_id": 2686254,
+      "link": "https://stackoverflow.com/questions/2686254/how-to-select-all-records-from-one-table-that-do-not-exist-in-another-table",
+      "title": "How to select all records from one table that do not exist in another table?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 254
+}

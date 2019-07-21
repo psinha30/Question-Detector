@@ -1,0 +1,100 @@
+What is the difference between String and string in C#?
+How do I enumerate an enum in C#?
+Cast int to enum in C#
+Case insensitive &#39;Contains(string)&#39;
+What are the correct version numbers for C#?
+What is the best way to iterate over a dictionary?
+How do I get a consistent byte representation of strings in C# without manually specifying an encoding?
+Deep cloning objects
+Catch multiple exceptions at once?
+Should &#39;using&#39; directives be inside or outside the namespace?
+What is a NullReferenceException, and how do I fix it?
+How do I create an Excel (.XLS and .XLSX) file in C# without installing Microsoft Office?
+How do I calculate someone&#39;s age in C#?
+How do I generate a random int number?
+How do you give a C# Auto-Property a default value?
+Get int value from enum in C#
+Is there a reason for C#&#39;s reuse of the variable in a foreach?
+Proper use of the IDisposable interface
+Hidden Features of C#?
+What do two question marks together mean in C#?
+Calculate relative time in C#
+Try-catch speeding up my code?
+Type Checking: typeof, GetType, or is?
+How do I remedy the &quot;The breakpoint will not currently be hit. No symbols have been loaded for this document.&quot; warning?
+Calling the base constructor in C#
+Why is it important to override GetHashCode when Equals method is overridden?
+What does the [Flags] Enum Attribute mean in C#?
+When to use struct?
+Static readonly vs const
+Why is Dictionary preferred over Hashtable in C#?
+How to loop through all enum values in C#?
+How do I update the GUI from another thread?
+How do you convert a byte array to a hexadecimal string, and vice versa?
+Virtual member call in a constructor
+Why not inherit from List&lt;T&gt;?
+What is the difference between const and readonly?
+\d is less efficient than [0-9]
+Path.Combine for URLs?
+How to Sort a List&lt;T&gt; by a property in the object
+Create Generic method constraining T to an Enum
+JavaScriptSerializer - JSON serialization of enum as string
+Returning IEnumerable&lt;T&gt; vs. IQueryable&lt;T&gt;
+What is the difference between a field and a property?
+How do I use reflection to call a generic method?
+LINQ query on a DataTable
+How to make HTTP POST web request
+Calculate difference between two dates (number of days)?
+LINQ&#39;s Distinct() on a particular property
+Group by in LINQ
+Difference Between Select and SelectMany
+How to escape braces (curly brackets) in a format string in .NET
+How to mark a method as obsolete or deprecated?
+How and when to use ‘async’ and ‘await’
+Multiline String Literal in C#
+Call one constructor from another
+Deserialize JSON into C# dynamic object?
+String representation of an Enum
+Why would you use Expression&lt;Func&lt;T&gt;&gt; rather than Func&lt;T&gt;?
+How can I get the application&#39;s path in a .NET console application?
+Escape curly brace &#39;{&#39; in String.Format
+How to convert UTF-8 byte[] to string?
+Proper use of &#39;yield return&#39;
+Entity Framework 5 Updating a Record
+Creating a byte array from a stream
+decimal vs double! - Which one should I use and when?
+How can I generate random alphanumeric strings?
+What&#39;s the difference between the &#39;ref&#39; and &#39;out&#39; keywords?
+Sending email in .NET through Gmail
+Error - Unable to access the IIS metabase
+Collection was modified; enumeration operation may not execute
+How do I force my .NET application to run as administrator?
+How do you get the index of the current iteration of a foreach loop?
+Get property value from string using reflection in C#
+File Upload ASP.NET MVC 3.0
+How do I turn a C# object into a JSON string in .NET?
+How would you count occurrences of a string (actually a char) within a string?
+Is there a way to check if a file is in use?
+Creating a comma separated list from IList&lt;string&gt; or IEnumerable&lt;string&gt;
+When to use .First and when to use .FirstOrDefault with LINQ?
+How to enable assembly bind failure logging (Fusion) in .NET
+.NET String.Format() to add commas in thousands place for a number
+Most Useful Attributes
+Randomize a List&lt;T&gt;
+How do I use Assert to verify that an exception has been thrown?
+How do I encode and decode a base64 string?
+C# loop - break vs. continue
+How do you sort a dictionary by value?
+What is the yield keyword used for in C#?
+Validation failed for one or more entities. See &#39;EntityValidationErrors&#39; property for more details
+Reading settings from app.config or web.config in .net
+Best way to parse command line arguments in C#?
+Convert a string to an enum in C#
+How do I get the path of the assembly the code is in?
+Random number generator only generating one random number
+Easiest way to split a string on newlines in .NET?
+How do I properly clean up Excel interop objects?
+Best way to repeat a character in C#
+Given a DateTime object, how do I get an ISO 8601 date in string format?
+Distinct() with lambda?
+Does C# have extension properties?

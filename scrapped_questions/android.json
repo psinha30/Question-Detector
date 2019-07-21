@@ -1,0 +1,2843 @@
+{
+  "items": [
+    {
+      "tags": [
+        "android",
+        "android-layout",
+        "user-interface",
+        "dimension",
+        "units-of-measurement"
+      ],
+      "owner": {
+        "reputation": 29989,
+        "user_id": 235885,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/a246044d1113994fba38a67ce0205ed9?s=128&d=identicon&r=PG",
+        "display_name": "capecrawler",
+        "link": "https://stackoverflow.com/users/235885/capecrawler"
+      },
+      "is_answered": true,
+      "view_count": 1172566,
+      "protected_date": 1303421057,
+      "accepted_answer_id": 2025541,
+      "answer_count": 36,
+      "score": 5583,
+      "last_activity_date": 1562336436,
+      "creation_date": 1262921026,
+      "last_edit_date": 1543813695,
+      "question_id": 2025282,
+      "link": "https://stackoverflow.com/questions/2025282/what-is-the-difference-between-px-dip-dp-and-sp",
+      "title": "What is the difference between &quot;px&quot;, &quot;dip&quot;, &quot;dp&quot; and &quot;sp&quot;?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-layout",
+        "android-softkeyboard",
+        "android-input-method",
+        "soft-keyboard"
+      ],
+      "owner": {
+        "reputation": 24358,
+        "user_id": 133858,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://i.stack.imgur.com/KObod.jpg?s=128&g=1",
+        "display_name": "Vidar Vestnes",
+        "link": "https://stackoverflow.com/users/133858/vidar-vestnes"
+      },
+      "is_answered": true,
+      "view_count": 1385543,
+      "protected_date": 1278978688,
+      "accepted_answer_id": 17789187,
+      "answer_count": 94,
+      "community_owned_date": 1382612478,
+      "score": 3523,
+      "last_activity_date": 1563046257,
+      "creation_date": 1247225237,
+      "last_edit_date": 1513900020,
+      "question_id": 1109022,
+      "link": "https://stackoverflow.com/questions/1109022/close-hide-the-android-soft-keyboard",
+      "title": "Close/hide the Android Soft Keyboard"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "usermanager"
+      ],
+      "owner": {
+        "reputation": 48600,
+        "user_id": 542091,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.stack.imgur.com/rQ7vZ.jpg?s=128&g=1",
+        "display_name": "Ovidiu Latcu",
+        "link": "https://stackoverflow.com/users/542091/ovidiu-latcu"
+      },
+      "is_answered": true,
+      "view_count": 296211,
+      "protected_date": 1353543106,
+      "accepted_answer_id": 13375461,
+      "answer_count": 11,
+      "score": 3431,
+      "last_activity_date": 1554270624,
+      "creation_date": 1352882041,
+      "last_edit_date": 1536308514,
+      "question_id": 13375357,
+      "link": "https://stackoverflow.com/questions/13375357/proper-use-cases-for-android-usermanager-isuseragoat",
+      "title": "Proper use cases for Android UserManager.isUserAGoat()?"
+    },
+    {
+      "tags": [
+        "android",
+        "performance",
+        "android-emulator",
+        "genymotion",
+        "qemu"
+      ],
+      "owner": {
+        "reputation": 1731,
+        "user_id": 188383,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/d54b28461a5710dd9fa3339d7a7bface?s=128&d=identicon&r=PG",
+        "display_name": "Andrie",
+        "link": "https://stackoverflow.com/users/188383/andrie"
+      },
+      "is_answered": true,
+      "view_count": 1022600,
+      "protected_date": 1299905270,
+      "closed_date": 1521119757,
+      "answer_count": 77,
+      "community_owned_date": 1334056312,
+      "score": 3308,
+      "last_activity_date": 1558859466,
+      "creation_date": 1255347953,
+      "last_edit_date": 1541081928,
+      "question_id": 1554099,
+      "link": "https://stackoverflow.com/questions/1554099/why-is-the-android-emulator-so-slow-how-can-we-speed-up-the-android-emulator",
+      "closed_reason": "too broad",
+      "title": "Why is the Android emulator so slow? How can we speed up the Android emulator?"
+    },
+    {
+      "tags": [
+        "android",
+        "listview",
+        "android-edittext"
+      ],
+      "owner": {
+        "reputation": 17086,
+        "user_id": 137193,
+        "user_type": "unregistered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/44b2eec7843986a679541bc317a05483?s=128&d=identicon&r=PG",
+        "display_name": "Mark",
+        "link": "https://stackoverflow.com/users/137193/mark"
+      },
+      "is_answered": true,
+      "view_count": 683868,
+      "protected_date": 1369398474,
+      "accepted_answer_id": 1662088,
+      "answer_count": 49,
+      "score": 2692,
+      "last_activity_date": 1557999243,
+      "creation_date": 1255359802,
+      "last_edit_date": 1514195358,
+      "question_id": 1555109,
+      "link": "https://stackoverflow.com/questions/1555109/stop-edittext-from-gaining-focus-at-activity-startup",
+      "title": "Stop EditText from gaining focus at Activity startup"
+    },
+    {
+      "tags": [
+        "android",
+        "uniqueidentifier"
+      ],
+      "owner": {
+        "reputation": 13199,
+        "user_id": 314994,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/b296e978133fef847ce7e17db310e9c1?s=128&d=identicon&r=PG",
+        "display_name": "Tyler",
+        "link": "https://stackoverflow.com/users/314994/tyler"
+      },
+      "is_answered": true,
+      "view_count": 908798,
+      "protected_date": 1296925581,
+      "accepted_answer_id": 2785493,
+      "answer_count": 43,
+      "score": 2569,
+      "last_activity_date": 1560273398,
+      "creation_date": 1273193248,
+      "last_edit_date": 1517275123,
+      "question_id": 2785485,
+      "link": "https://stackoverflow.com/questions/2785485/is-there-a-unique-android-device-id",
+      "title": "Is there a unique Android device ID?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-activity",
+        "application-state"
+      ],
+      "owner": {
+        "reputation": 22594,
+        "user_id": 61,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/af29baa43e6e6f77180e631cea686847?s=128&d=identicon&r=PG",
+        "display_name": "Bernard",
+        "link": "https://stackoverflow.com/users/61/bernard"
+      },
+      "is_answered": true,
+      "view_count": 716187,
+      "protected_date": 1433960048,
+      "accepted_answer_id": 151940,
+      "answer_count": 27,
+      "score": 2452,
+      "last_activity_date": 1559372738,
+      "creation_date": 1222749675,
+      "last_edit_date": 1559110886,
+      "question_id": 151777,
+      "link": "https://stackoverflow.com/questions/151777/how-to-save-an-android-activity-state-using-save-instance-state",
+      "title": "How to save an Android Activity state using save instance state?"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "networkonmainthread",
+        "thread-exceptions"
+      ],
+      "owner": {
+        "reputation": 11866,
+        "user_id": 797593,
+        "user_type": "registered",
+        "accept_rate": 44,
+        "profile_image": "https://www.gravatar.com/avatar/ed2f53c878a1477e24121d5d87d048c8?s=128&d=identicon&r=PG",
+        "display_name": "bejoy george",
+        "link": "https://stackoverflow.com/users/797593/bejoy-george"
+      },
+      "is_answered": true,
+      "view_count": 1113312,
+      "protected_date": 1390933774,
+      "accepted_answer_id": 6343299,
+      "answer_count": 53,
+      "score": 2240,
+      "last_activity_date": 1560142947,
+      "creation_date": 1308052920,
+      "last_edit_date": 1517669374,
+      "question_id": 6343166,
+      "link": "https://stackoverflow.com/questions/6343166/how-do-i-fix-android-os-networkonmainthreadexception",
+      "title": "How do I fix android.os.NetworkOnMainThreadException?"
+    },
+    {
+      "tags": [
+        "android",
+        "python",
+        "jython",
+        "ase",
+        "android-scripting"
+      ],
+      "owner": {
+        "reputation": 371541,
+        "user_id": 9951,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/1449ec95d8c114dbca53136cc8194b61?s=128&d=identicon&r=PG&f=1",
+        "display_name": "e-satis",
+        "link": "https://stackoverflow.com/users/9951/e-satis"
+      },
+      "is_answered": true,
+      "view_count": 572779,
+      "protected_date": 1341892047,
+      "accepted_answer_id": 8189603,
+      "answer_count": 25,
+      "score": 2097,
+      "locked_date": 1554911907,
+      "last_activity_date": 1562522848,
+      "creation_date": 1221830472,
+      "last_edit_date": 1541704154,
+      "question_id": 101754,
+      "link": "https://stackoverflow.com/questions/101754/is-there-a-way-to-run-python-on-android",
+      "title": "Is there a way to run Python on Android?"
+    },
+    {
+      "tags": [
+        "android",
+        "textview"
+      ],
+      "owner": {
+        "reputation": 109202,
+        "user_id": 6068,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/931970b8dc51b72e05e3a12b88612d61?s=128&d=identicon&r=PG",
+        "display_name": "pupeno",
+        "link": "https://stackoverflow.com/users/6068/pupeno"
+      },
+      "is_answered": true,
+      "view_count": 1145162,
+      "protected_date": 1388707081,
+      "accepted_answer_id": 432155,
+      "answer_count": 64,
+      "score": 1871,
+      "last_activity_date": 1559696973,
+      "creation_date": 1231633675,
+      "last_edit_date": 1523025614,
+      "question_id": 432037,
+      "link": "https://stackoverflow.com/questions/432037/how-do-i-center-text-horizontally-and-vertically-in-a-textview",
+      "title": "How do I center text horizontally and vertically in a TextView?"
+    },
+    {
+      "tags": [
+        "android",
+        "image",
+        "listview",
+        "url",
+        "universal-image-loader"
+      ],
+      "owner": {
+        "reputation": 39607,
+        "user_id": 46297,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.stack.imgur.com/BIsfd.jpg?s=128&g=1",
+        "display_name": "lostInTransit",
+        "link": "https://stackoverflow.com/users/46297/lostintransit"
+      },
+      "is_answered": true,
+      "view_count": 531350,
+      "protected_date": 1435002600,
+      "accepted_answer_id": 559781,
+      "answer_count": 38,
+      "score": 1852,
+      "last_activity_date": 1557037077,
+      "creation_date": 1234454340,
+      "last_edit_date": 1493380798,
+      "question_id": 541966,
+      "link": "https://stackoverflow.com/questions/541966/lazy-load-of-images-in-listview",
+      "title": "Lazy load of images in ListView"
+    },
+    {
+      "tags": [
+        "android",
+        "eclipse",
+        "certificate"
+      ],
+      "owner": {
+        "reputation": 52335,
+        "user_id": 128983,
+        "user_type": "registered",
+        "accept_rate": 55,
+        "profile_image": "https://www.gravatar.com/avatar/da7a3c3efd21c067831e68c9c9c55636?s=128&d=identicon&r=PG",
+        "display_name": "hap497",
+        "link": "https://stackoverflow.com/users/128983/hap497"
+      },
+      "is_answered": true,
+      "view_count": 260708,
+      "protected_date": 1312269213,
+      "accepted_answer_id": 2196397,
+      "answer_count": 17,
+      "score": 1843,
+      "last_activity_date": 1489991619,
+      "creation_date": 1265225175,
+      "last_edit_date": 1451377311,
+      "question_id": 2194808,
+      "link": "https://stackoverflow.com/questions/2194808/debug-certificate-expired-error-in-eclipse-android-plugins",
+      "title": "&quot;Debug certificate expired&quot; error in Eclipse Android plugins"
+    },
+    {
+      "tags": [
+        "android",
+        "android-context"
+      ],
+      "owner": {
+        "reputation": 9348,
+        "user_id": 431505,
+        "user_type": "unregistered",
+        "accept_rate": 20,
+        "profile_image": "https://www.gravatar.com/avatar/5aebc13e2e51203df8cee4d88e2091d6?s=128&d=identicon&r=PG",
+        "display_name": "Brigadier",
+        "link": "https://stackoverflow.com/users/431505/brigadier"
+      },
+      "is_answered": true,
+      "view_count": 627440,
+      "protected_date": 1405370101,
+      "accepted_answer_id": 3572553,
+      "answer_count": 28,
+      "score": 1798,
+      "last_activity_date": 1557852686,
+      "creation_date": 1282803120,
+      "last_edit_date": 1541329861,
+      "question_id": 3572463,
+      "link": "https://stackoverflow.com/questions/3572463/what-is-context-on-android",
+      "title": "What is &#39;Context&#39; on Android?"
+    },
+    {
+      "tags": [
+        "android",
+        "layout",
+        "screen",
+        "pixel",
+        "dimensions"
+      ],
+      "owner": {
+        "reputation": 33399,
+        "user_id": 22996,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.stack.imgur.com/14C60.jpg?s=128&g=1",
+        "display_name": "Niko Gamulin",
+        "link": "https://stackoverflow.com/users/22996/niko-gamulin"
+      },
+      "is_answered": true,
+      "view_count": 1106178,
+      "protected_date": 1313014494,
+      "accepted_answer_id": 1016941,
+      "answer_count": 39,
+      "score": 1780,
+      "last_activity_date": 1558549751,
+      "creation_date": 1245399957,
+      "last_edit_date": 1467542582,
+      "question_id": 1016896,
+      "link": "https://stackoverflow.com/questions/1016896/get-screen-dimensions-in-pixels",
+      "title": "Get screen dimensions in pixels"
+    },
+    {
+      "tags": [
+        "android",
+        "android-layout"
+      ],
+      "owner": {
+        "reputation": 9743,
+        "user_id": 617302,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://i.stack.imgur.com/3WPwF.jpg?s=128&g=1",
+        "display_name": "vnshetty",
+        "link": "https://stackoverflow.com/users/617302/vnshetty"
+      },
+      "is_answered": true,
+      "view_count": 266661,
+      "protected_date": 1388709232,
+      "accepted_answer_id": 5761970,
+      "answer_count": 16,
+      "score": 1351,
+      "last_activity_date": 1542184000,
+      "creation_date": 1303529470,
+      "last_edit_date": 1394631302,
+      "question_id": 5761960,
+      "link": "https://stackoverflow.com/questions/5761960/what-is-the-difference-between-match-parent-and-fill-parent",
+      "title": "What is the difference between match_parent and fill_parent?"
+    },
+    {
+      "tags": [
+        "android",
+        "rotation",
+        "android-activity"
+      ],
+      "owner": {
+        "reputation": 17291,
+        "user_id": 764272,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/8e7693a7f654a65d8cb31f6f307c8739?s=128&d=identicon&r=PG",
+        "display_name": "Isaac Waller",
+        "link": "https://stackoverflow.com/users/764272/isaac-waller"
+      },
+      "is_answered": true,
+      "view_count": 368191,
+      "protected_date": 1275990528,
+      "accepted_answer_id": 456918,
+      "answer_count": 31,
+      "score": 1319,
+      "last_activity_date": 1559249254,
+      "creation_date": 1232324909,
+      "last_edit_date": 1415804500,
+      "question_id": 456211,
+      "link": "https://stackoverflow.com/questions/456211/activity-restart-on-rotation-android",
+      "title": "Activity restart on rotation Android"
+    },
+    {
+      "tags": [
+        "android",
+        "android-layout",
+        "android-gravity"
+      ],
+      "owner": {
+        "reputation": 98912,
+        "user_id": 379693,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/2c9f04076de133db434c7d9966ac6f6b?s=128&d=identicon&r=PG",
+        "display_name": "Paresh Mayani",
+        "link": "https://stackoverflow.com/users/379693/paresh-mayani"
+      },
+      "is_answered": true,
+      "view_count": 522009,
+      "protected_date": 1368850037,
+      "accepted_answer_id": 3482757,
+      "answer_count": 20,
+      "score": 1256,
+      "last_activity_date": 1549961864,
+      "creation_date": 1281778082,
+      "last_edit_date": 1549961864,
+      "question_id": 3482742,
+      "link": "https://stackoverflow.com/questions/3482742/what-is-the-difference-between-gravity-and-layout-gravity-in-android",
+      "title": "What is the difference between gravity and layout_gravity in Android?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-intent",
+        "android-activity"
+      ],
+      "owner": {
+        "reputation": 35474,
+        "user_id": 249991,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/d294689e27dc65262f99563079112af9?s=128&d=identicon&r=PG",
+        "display_name": "UMAR",
+        "link": "https://stackoverflow.com/users/249991/umar"
+      },
+      "is_answered": true,
+      "view_count": 841965,
+      "protected_date": 1396741136,
+      "accepted_answer_id": 2091482,
+      "answer_count": 52,
+      "score": 1243,
+      "last_activity_date": 1560143648,
+      "creation_date": 1263881196,
+      "last_edit_date": 1532345885,
+      "question_id": 2091465,
+      "link": "https://stackoverflow.com/questions/2091465/how-do-i-pass-data-between-activities-in-android-application",
+      "title": "How do I pass data between Activities in Android application?"
+    },
+    {
+      "tags": [
+        "android",
+        "url",
+        "android-intent",
+        "android-browser"
+      ],
+      "owner": {
+        "reputation": 10850,
+        "user_id": 164460,
+        "user_type": "registered",
+        "accept_rate": 37,
+        "profile_image": "https://www.gravatar.com/avatar/c3bdb977fed27847e74d0a6c599bc8e8?s=128&d=identicon&r=PG",
+        "display_name": "Arutha",
+        "link": "https://stackoverflow.com/users/164460/arutha"
+      },
+      "is_answered": true,
+      "view_count": 773183,
+      "protected_date": 1332071805,
+      "accepted_answer_id": 2201999,
+      "answer_count": 31,
+      "score": 1232,
+      "last_activity_date": 1554209755,
+      "creation_date": 1265305905,
+      "last_edit_date": 1407824529,
+      "question_id": 2201917,
+      "link": "https://stackoverflow.com/questions/2201917/how-can-i-open-a-url-in-androids-web-browser-from-my-application",
+      "title": "How can I open a URL in Android&#39;s web browser from my application?"
+    },
+    {
+      "tags": [
+        "android",
+        "image",
+        "bitmap",
+        "out-of-memory",
+        "android-bitmap"
+      ],
+      "owner": {
+        "reputation": 8876,
+        "user_id": 393258,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/22ce5539b04cf549036da0d6c5cacb47?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Chrispix",
+        "link": "https://stackoverflow.com/users/393258/chrispix"
+      },
+      "is_answered": true,
+      "view_count": 593767,
+      "protected_date": 1299091858,
+      "accepted_answer_id": 10127787,
+      "answer_count": 43,
+      "community_owned_date": 1364540204,
+      "score": 1216,
+      "last_activity_date": 1561440781,
+      "creation_date": 1232882617,
+      "last_edit_date": 1556605091,
+      "question_id": 477572,
+      "link": "https://stackoverflow.com/questions/477572/strange-out-of-memory-issue-while-loading-an-image-to-a-bitmap-object",
+      "title": "Strange out of memory issue while loading an image to a Bitmap object"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "eclipse",
+        "overriding",
+        "superclass"
+      ],
+      "owner": {
+        "reputation": 6513,
+        "user_id": 190303,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/8eb5110f68d15cce4e0ac76e2a9e246f?s=128&d=identicon&r=PG",
+        "display_name": "Tim H",
+        "link": "https://stackoverflow.com/users/190303/tim-h"
+      },
+      "is_answered": true,
+      "view_count": 248977,
+      "protected_date": 1290179875,
+      "accepted_answer_id": 1678170,
+      "answer_count": 12,
+      "score": 1208,
+      "last_activity_date": 1550410428,
+      "creation_date": 1257391073,
+      "last_edit_date": 1550410428,
+      "question_id": 1678122,
+      "link": "https://stackoverflow.com/questions/1678122/must-override-a-superclass-method-errors-after-importing-a-project-into-eclips",
+      "title": "&#39;Must Override a Superclass Method&#39; Errors after importing a project into Eclipse"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "sdk",
+        "windows-7-x64",
+        "jdk6"
+      ],
+      "owner": {
+        "reputation": 3098,
+        "user_id": 534294,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/7cd7c1d232177cfb78100a41d104c328?s=128&d=identicon&r=PG",
+        "display_name": "Simon",
+        "link": "https://stackoverflow.com/users/534294/simon"
+      },
+      "is_answered": true,
+      "view_count": 434620,
+      "protected_date": 1300649739,
+      "answer_count": 45,
+      "community_owned_date": 1352755859,
+      "score": 1178,
+      "last_activity_date": 1546497010,
+      "creation_date": 1291759934,
+      "last_edit_date": 1531830956,
+      "question_id": 4382178,
+      "link": "https://stackoverflow.com/questions/4382178/android-sdk-installation-doesnt-find-jdk",
+      "title": "Android SDK installation doesn&#39;t find JDK"
+    },
+    {
+      "tags": [
+        "android",
+        "android-resources",
+        "decompiling",
+        "apk"
+      ],
+      "owner": {
+        "reputation": 5968,
+        "user_id": 426041,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/bac9b91329a560987eb681c71c7eeb97?s=128&d=identicon&r=PG",
+        "display_name": "Frank Bozzo",
+        "link": "https://stackoverflow.com/users/426041/frank-bozzo"
+      },
+      "is_answered": true,
+      "view_count": 980017,
+      "protected_date": 1306991895,
+      "accepted_answer_id": 6081365,
+      "answer_count": 21,
+      "score": 1178,
+      "last_activity_date": 1560834682,
+      "creation_date": 1283053213,
+      "last_edit_date": 1396628452,
+      "question_id": 3593420,
+      "link": "https://stackoverflow.com/questions/3593420/is-there-a-way-to-get-the-source-code-from-an-apk-file",
+      "title": "Is there a way to get the source code from an APK file?"
+    },
+    {
+      "tags": [
+        "android",
+        "colors",
+        "hex",
+        "transparency"
+      ],
+      "owner": {
+        "reputation": 7072,
+        "user_id": 1468731,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://www.gravatar.com/avatar/f0f3020e037b5ab5272bbefc9a9a92a6?s=128&d=identicon&r=PG",
+        "display_name": "SweSnow",
+        "link": "https://stackoverflow.com/users/1468731/swesnow"
+      },
+      "is_answered": true,
+      "view_count": 886424,
+      "closed_date": 1466009607,
+      "accepted_answer_id": 17239853,
+      "answer_count": 10,
+      "score": 1168,
+      "last_activity_date": 1542520230,
+      "creation_date": 1365258626,
+      "last_edit_date": 1533914047,
+      "question_id": 15852122,
+      "link": "https://stackoverflow.com/questions/15852122/hex-transparency-in-colors",
+      "closed_reason": "duplicate",
+      "title": "Hex transparency in colors"
+    },
+    {
+      "tags": [
+        "android",
+        "android-emulator",
+        "android-manifest"
+      ],
+      "owner": {
+        "reputation": 5805,
+        "user_id": 565591,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/5e03d50ee8ff81fc4c8a25372f760e74?s=128&d=identicon&r=PG",
+        "display_name": "Fahad Ali Shaikh",
+        "link": "https://stackoverflow.com/users/565591/fahad-ali-shaikh"
+      },
+      "is_answered": true,
+      "view_count": 517389,
+      "protected_date": 1521817506,
+      "answer_count": 27,
+      "score": 1159,
+      "last_activity_date": 1559458971,
+      "creation_date": 1294325015,
+      "last_edit_date": 1411999522,
+      "question_id": 4616095,
+      "link": "https://stackoverflow.com/questions/4616095/how-to-get-the-build-version-number-of-your-android-application",
+      "title": "How to get the build/version number of your Android application?"
+    },
+    {
+      "tags": [
+        "android"
+      ],
+      "owner": {
+        "reputation": 9028,
+        "user_id": 178143,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://i.stack.imgur.com/9rQ1W.jpg?s=128&g=1",
+        "display_name": "Ted",
+        "link": "https://stackoverflow.com/users/178143/ted"
+      },
+      "is_answered": true,
+      "view_count": 267373,
+      "protected_date": 1457956578,
+      "accepted_answer_id": 2034238,
+      "answer_count": 38,
+      "community_owned_date": 1365939105,
+      "score": 1112,
+      "last_activity_date": 1563384090,
+      "creation_date": 1263052786,
+      "last_edit_date": 1485033357,
+      "question_id": 2033914,
+      "link": "https://stackoverflow.com/questions/2033914/is-quitting-an-application-frowned-upon",
+      "title": "Is quitting an application frowned upon?"
+    },
+    {
+      "tags": [
+        "android",
+        "memory-leaks",
+        "dialog"
+      ],
+      "owner": {
+        "reputation": 134754,
+        "user_id": 243782,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://i.stack.imgur.com/gInNr.png?s=128&g=1",
+        "display_name": "Pentium10",
+        "link": "https://stackoverflow.com/users/243782/pentium10"
+      },
+      "is_answered": true,
+      "view_count": 482844,
+      "protected_date": 1392914695,
+      "accepted_answer_id": 2850597,
+      "answer_count": 39,
+      "score": 1078,
+      "last_activity_date": 1555568204,
+      "creation_date": 1274111483,
+      "last_edit_date": 1442507925,
+      "question_id": 2850573,
+      "link": "https://stackoverflow.com/questions/2850573/activity-has-leaked-window-that-was-originally-added",
+      "title": "Activity has leaked window that was originally added"
+    },
+    {
+      "tags": [
+        "android",
+        "listener",
+        "gesture-recognition"
+      ],
+      "owner": {
+        "reputation": 16028,
+        "user_id": 111734,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://i.stack.imgur.com/tgYaQ.jpg?s=128&g=1",
+        "display_name": "gav",
+        "link": "https://stackoverflow.com/users/111734/gav"
+      },
+      "is_answered": true,
+      "view_count": 397947,
+      "protected_date": 1286945962,
+      "accepted_answer_id": 938657,
+      "answer_count": 18,
+      "score": 1066,
+      "last_activity_date": 1510512976,
+      "creation_date": 1243899331,
+      "last_edit_date": 1451292550,
+      "question_id": 937313,
+      "link": "https://stackoverflow.com/questions/937313/fling-gesture-detection-on-grid-layout",
+      "title": "Fling gesture detection on grid layout"
+    },
+    {
+      "tags": [
+        "android",
+        "eclipse",
+        "compiler-errors",
+        "android-resources",
+        "android-sdk-tools"
+      ],
+      "owner": {
+        "reputation": 1804,
+        "user_id": 61996,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://i.stack.imgur.com/mXn8L.jpg?s=128&g=1",
+        "display_name": "Maurizio Pozzobon",
+        "link": "https://stackoverflow.com/users/61996/maurizio-pozzobon"
+      },
+      "is_answered": true,
+      "view_count": 892096,
+      "protected_date": 1290169048,
+      "accepted_answer_id": 886494,
+      "answer_count": 106,
+      "community_owned_date": 1316690563,
+      "score": 1046,
+      "last_activity_date": 1543400661,
+      "creation_date": 1242766940,
+      "last_edit_date": 1466066463,
+      "question_id": 885009,
+      "link": "https://stackoverflow.com/questions/885009/r-cannot-be-resolved-android-error",
+      "title": "R cannot be resolved - Android error"
+    },
+    {
+      "tags": [
+        "android",
+        "android-emulator",
+        "emulation"
+      ],
+      "owner": {
+        "reputation": 7488,
+        "user_id": 377983,
+        "user_type": "registered",
+        "accept_rate": 38,
+        "profile_image": "https://www.gravatar.com/avatar/1bc7aa2eee02b7796a90c3986a37029a?s=128&d=identicon&r=PG",
+        "display_name": "mahdi ",
+        "link": "https://stackoverflow.com/users/377983/mahdi"
+      },
+      "is_answered": true,
+      "view_count": 270634,
+      "protected_date": 1389057988,
+      "closed_date": 1420501314,
+      "accepted_answer_id": 4535315,
+      "answer_count": 23,
+      "score": 1025,
+      "last_activity_date": 1506504515,
+      "creation_date": 1293395559,
+      "last_edit_date": 1474794016,
+      "question_id": 4535298,
+      "link": "https://stackoverflow.com/questions/4535298/how-do-i-rotate-the-android-emulator-display",
+      "closed_reason": "duplicate",
+      "title": "How do I rotate the Android emulator display?"
+    },
+    {
+      "tags": [
+        "android",
+        "date",
+        "time"
+      ],
+      "owner": {
+        "reputation": 5051,
+        "user_id": 650523,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/ae83353ecb65742f922ae798b69bdac0?s=128&d=identicon&r=PG",
+        "display_name": "M7M",
+        "link": "https://stackoverflow.com/users/650523/m7m"
+      },
+      "is_answered": true,
+      "view_count": 1273680,
+      "protected_date": 1374646820,
+      "accepted_answer_id": 5369753,
+      "answer_count": 37,
+      "score": 1005,
+      "last_activity_date": 1560398525,
+      "creation_date": 1300637545,
+      "last_edit_date": 1442509149,
+      "question_id": 5369682,
+      "link": "https://stackoverflow.com/questions/5369682/get-current-time-and-date-on-android",
+      "title": "Get current time and date on Android"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "download",
+        "android-asynctask"
+      ],
+      "owner": {
+        "reputation": 9637,
+        "user_id": 363606,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://www.gravatar.com/avatar/31d54804ab93257c67941155208ea9ba?s=128&d=identicon&r=PG",
+        "display_name": "Tom Leese",
+        "link": "https://stackoverflow.com/users/363606/tom-leese"
+      },
+      "is_answered": true,
+      "view_count": 508163,
+      "protected_date": 1323256392,
+      "accepted_answer_id": 3028660,
+      "answer_count": 12,
+      "score": 1001,
+      "last_activity_date": 1547293475,
+      "creation_date": 1276338176,
+      "last_edit_date": 1417012958,
+      "question_id": 3028306,
+      "link": "https://stackoverflow.com/questions/3028306/download-a-file-with-android-and-showing-the-progress-in-a-progressdialog",
+      "title": "Download a file with Android, and showing the progress in a ProgressDialog"
+    },
+    {
+      "tags": [
+        "android",
+        "gradle",
+        "android-gradle",
+        "gson",
+        "dependency-management"
+      ],
+      "owner": {
+        "reputation": 5490,
+        "user_id": 1214611,
+        "user_type": "registered",
+        "accept_rate": 30,
+        "profile_image": "https://i.stack.imgur.com/JkE5D.png?s=128&g=1",
+        "display_name": "Ozzie",
+        "link": "https://stackoverflow.com/users/1214611/ozzie"
+      },
+      "is_answered": true,
+      "view_count": 711399,
+      "protected_date": 1408431015,
+      "accepted_answer_id": 16628496,
+      "answer_count": 34,
+      "score": 990,
+      "last_activity_date": 1551280103,
+      "creation_date": 1368790919,
+      "last_edit_date": 1551280103,
+      "question_id": 16608135,
+      "link": "https://stackoverflow.com/questions/16608135/android-studio-add-jar-as-library",
+      "title": "Android Studio: Add jar as library?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-dialog"
+      ],
+      "owner": {
+        "reputation": 35474,
+        "user_id": 249991,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/d294689e27dc65262f99563079112af9?s=128&d=identicon&r=PG",
+        "display_name": "UMAR",
+        "link": "https://stackoverflow.com/users/249991/umar"
+      },
+      "is_answered": true,
+      "view_count": 1279790,
+      "protected_date": 1415776167,
+      "answer_count": 32,
+      "community_owned_date": 1264145831,
+      "score": 981,
+      "last_activity_date": 1555757598,
+      "creation_date": 1264145831,
+      "last_edit_date": 1478138216,
+      "question_id": 2115758,
+      "link": "https://stackoverflow.com/questions/2115758/how-do-i-display-an-alert-dialog-on-android",
+      "title": "How do I display an alert dialog on Android?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-studio",
+        "eclipse-project-file"
+      ],
+      "owner": {
+        "reputation": 6536,
+        "user_id": 4769503,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/8edfd37b2da0321d76cc86736423d88b?s=128&d=identicon&r=PG&f=1",
+        "display_name": "delete",
+        "link": "https://stackoverflow.com/users/4769503/delete"
+      },
+      "is_answered": true,
+      "view_count": 403150,
+      "protected_date": 1526786082,
+      "answer_count": 46,
+      "score": 967,
+      "last_activity_date": 1563532669,
+      "creation_date": 1450433813,
+      "last_edit_date": 1563532669,
+      "question_id": 34353220,
+      "link": "https://stackoverflow.com/questions/34353220/how-do-i-select-android-sdk-in-android-studio",
+      "title": "How do I &quot;select Android SDK&quot; in Android Studio?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-fragments",
+        "android-imageview",
+        "findviewbyid"
+      ],
+      "owner": {
+        "reputation": 4777,
+        "user_id": 813057,
+        "user_type": "unregistered",
+        "accept_rate": 0,
+        "profile_image": "https://www.gravatar.com/avatar/e30b781f0306f0b46f32b17733b8398d?s=128&d=identicon&r=PG",
+        "display_name": "simplified.",
+        "link": "https://stackoverflow.com/users/813057/simplified"
+      },
+      "is_answered": true,
+      "view_count": 539609,
+      "protected_date": 1436083589,
+      "answer_count": 33,
+      "score": 943,
+      "last_activity_date": 1560399329,
+      "creation_date": 1309191887,
+      "last_edit_date": 1512121276,
+      "question_id": 6495898,
+      "link": "https://stackoverflow.com/questions/6495898/findviewbyid-in-fragment",
+      "title": "findViewById in Fragment"
+    },
+    {
+      "tags": [
+        "android",
+        "android-sqlite",
+        "android-database"
+      ],
+      "owner": {
+        "reputation": 21148,
+        "user_id": 62596,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/30e39f6f41b98fe5487831e1fe410cdb?s=128&d=identicon&r=PG",
+        "display_name": "Heikki Toivonen",
+        "link": "https://stackoverflow.com/users/62596/heikki-toivonen"
+      },
+      "is_answered": true,
+      "view_count": 230211,
+      "protected_date": 1332612346,
+      "accepted_answer_id": 620086,
+      "answer_count": 16,
+      "score": 935,
+      "last_activity_date": 1538917065,
+      "creation_date": 1233778312,
+      "last_edit_date": 1476548991,
+      "question_id": 513084,
+      "link": "https://stackoverflow.com/questions/513084/ship-an-application-with-a-database",
+      "title": "Ship an application with a database"
+    },
+    {
+      "tags": [
+        "android",
+        "hyperlink",
+        "textview",
+        "clickable"
+      ],
+      "owner": {
+        "reputation": 18238,
+        "user_id": 233202,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/8d7121f623f2c05bf294094bff03e60f?s=128&d=identicon&r=PG",
+        "display_name": "Richard",
+        "link": "https://stackoverflow.com/users/233202/richard"
+      },
+      "is_answered": true,
+      "view_count": 484527,
+      "protected_date": 1407966636,
+      "accepted_answer_id": 2746708,
+      "answer_count": 33,
+      "score": 927,
+      "last_activity_date": 1555038687,
+      "creation_date": 1272505314,
+      "last_edit_date": 1399269047,
+      "question_id": 2734270,
+      "link": "https://stackoverflow.com/questions/2734270/how-do-i-make-links-in-a-textview-clickable",
+      "title": "How do I make links in a TextView clickable?"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "windows",
+        "eclipse",
+        "32bit-64bit"
+      ],
+      "owner": {
+        "reputation": 4737,
+        "user_id": 1522092,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/kbJs2.jpg?s=128&g=1",
+        "display_name": "Ben E.",
+        "link": "https://stackoverflow.com/users/1522092/ben-e"
+      },
+      "is_answered": true,
+      "view_count": 1460077,
+      "protected_date": 1373093374,
+      "accepted_answer_id": 41441870,
+      "answer_count": 40,
+      "score": 917,
+      "last_activity_date": 1554460056,
+      "creation_date": 1342131811,
+      "last_edit_date": 1546458412,
+      "question_id": 11461607,
+      "link": "https://stackoverflow.com/questions/11461607/cant-start-eclipse-java-was-started-but-returned-exit-code-13",
+      "title": "Can&#39;t start Eclipse - Java was started but returned exit code=13"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "android-recyclerview"
+      ],
+      "owner": {
+        "reputation": 10541,
+        "user_id": 2424999,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://i.stack.imgur.com/oNCDG.jpg?s=128&g=1",
+        "display_name": "Tarun Varshney",
+        "link": "https://stackoverflow.com/users/2424999/tarun-varshney"
+      },
+      "is_answered": true,
+      "view_count": 349231,
+      "protected_date": 1522190100,
+      "closed_date": 1562118386,
+      "accepted_answer_id": 24933117,
+      "answer_count": 32,
+      "score": 917,
+      "last_activity_date": 1551683262,
+      "creation_date": 1406025819,
+      "last_edit_date": 1496913240,
+      "question_id": 24885223,
+      "link": "https://stackoverflow.com/questions/24885223/why-doesnt-recyclerview-have-onitemclicklistener",
+      "closed_reason": "primarily opinion-based",
+      "title": "Why doesn&#39;t RecyclerView have onItemClickListener()?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-context"
+      ],
+      "owner": {
+        "reputation": 11958,
+        "user_id": 314407,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/f51c62f73f070ee922c7165b6c026068?s=128&d=identicon&r=PG",
+        "display_name": "Andrea Baccega",
+        "link": "https://stackoverflow.com/users/314407/andrea-baccega"
+      },
+      "is_answered": true,
+      "view_count": 627691,
+      "protected_date": 1393285241,
+      "accepted_answer_id": 5114361,
+      "answer_count": 19,
+      "score": 904,
+      "last_activity_date": 1556991231,
+      "creation_date": 1262639700,
+      "last_edit_date": 1521061387,
+      "question_id": 2002288,
+      "link": "https://stackoverflow.com/questions/2002288/static-way-to-get-context-in-android",
+      "title": "Static way to get &#39;Context&#39; in Android?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-intent",
+        "android-activity",
+        "startactivityforresult"
+      ],
+      "owner": {
+        "reputation": 23023,
+        "user_id": 513413,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://www.gravatar.com/avatar/e0b73975f75df2f25f8b7cc8ce834f0c?s=128&d=identicon&r=PG",
+        "display_name": "Hesam",
+        "link": "https://stackoverflow.com/users/513413/hesam"
+      },
+      "is_answered": true,
+      "view_count": 632759,
+      "protected_date": 1435090658,
+      "accepted_answer_id": 10407371,
+      "answer_count": 9,
+      "score": 903,
+      "last_activity_date": 1556113137,
+      "creation_date": 1335927780,
+      "last_edit_date": 1543484150,
+      "question_id": 10407159,
+      "link": "https://stackoverflow.com/questions/10407159/how-to-manage-startactivityforresult-on-android",
+      "title": "How to manage startActivityForResult on Android?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-layout"
+      ],
+      "owner": {
+        "reputation": 327,
+        "user_id": 70942,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/9f7667844c54af07fbb1a85592137cd4?s=128&d=identicon&r=PG",
+        "display_name": "ant2009",
+        "link": "https://stackoverflow.com/users/70942/ant2009"
+      },
+      "is_answered": true,
+      "view_count": 727192,
+      "protected_date": 1459631937,
+      "accepted_answer_id": 21815015,
+      "answer_count": 44,
+      "score": 902,
+      "last_activity_date": 1556176423,
+      "creation_date": 1392572048,
+      "last_edit_date": 1551279964,
+      "question_id": 21814825,
+      "link": "https://stackoverflow.com/questions/21814825/you-need-to-use-a-theme-appcompat-theme-or-descendant-with-this-activity",
+      "title": "You need to use a Theme.AppCompat theme (or descendant) with this activity"
+    },
+    {
+      "tags": [
+        "android",
+        "dalvik",
+        "android-sdk-1.6"
+      ],
+      "owner": {
+        "reputation": 5052,
+        "user_id": 193850,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/ad92607ba1e4d419d08fed59702ea77a?s=128&d=identicon&r=PG",
+        "display_name": "Michel",
+        "link": "https://stackoverflow.com/users/193850/michel"
+      },
+      "is_answered": true,
+      "view_count": 483596,
+      "protected_date": 1302956634,
+      "accepted_answer_id": 2681165,
+      "answer_count": 71,
+      "community_owned_date": 1326864983,
+      "score": 902,
+      "last_activity_date": 1516188565,
+      "creation_date": 1271832425,
+      "last_edit_date": 1330288672,
+      "question_id": 2680827,
+      "link": "https://stackoverflow.com/questions/2680827/conversion-to-dalvik-format-failed-with-error-1-on-external-jar",
+      "title": "&quot;Conversion to Dalvik format failed with error 1&quot; on external JAR"
+    },
+    {
+      "tags": [
+        "android",
+        "xml",
+        "android-layout",
+        "android-context",
+        "android-tools-namespace"
+      ],
+      "owner": {
+        "reputation": 53948,
+        "user_id": 878126,
+        "user_type": "registered",
+        "accept_rate": 51,
+        "profile_image": "https://i.stack.imgur.com/D5dZW.jpg?s=128&g=1",
+        "display_name": "android developer",
+        "link": "https://stackoverflow.com/users/878126/android-developer"
+      },
+      "is_answered": true,
+      "view_count": 219837,
+      "accepted_answer_id": 11078889,
+      "answer_count": 7,
+      "score": 894,
+      "last_activity_date": 1550488552,
+      "creation_date": 1340004348,
+      "last_edit_date": 1474373062,
+      "question_id": 11078487,
+      "link": "https://stackoverflow.com/questions/11078487/whats-toolscontext-in-android-layout-files",
+      "title": "What&#39;s &quot;tools:context&quot; in Android layout files?"
+    },
+    {
+      "tags": [
+        "android",
+        "debugging",
+        "adb",
+        "wifi"
+      ],
+      "owner": {
+        "reputation": 35621,
+        "user_id": 128967,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/e6ce48656d5e39227a10b37a51754134?s=128&d=identicon&r=PG",
+        "display_name": "Naftuli Kay",
+        "link": "https://stackoverflow.com/users/128967/naftuli-kay"
+      },
+      "is_answered": true,
+      "view_count": 417280,
+      "protected_date": 1446657277,
+      "accepted_answer_id": 10236938,
+      "answer_count": 28,
+      "score": 885,
+      "last_activity_date": 1560927170,
+      "creation_date": 1296786218,
+      "last_edit_date": 1528222815,
+      "question_id": 4893953,
+      "link": "https://stackoverflow.com/questions/4893953/run-install-debug-android-applications-over-wi-fi",
+      "title": "Run/install/debug Android applications over Wi-Fi?"
+    },
+    {
+      "tags": [
+        "android",
+        "ui-thread",
+        "android-toast"
+      ],
+      "owner": {
+        "reputation": 39371,
+        "user_id": 286802,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/700f3ac94a7d463cb5a9cc0318ae77d8?s=128&d=identicon&r=PG",
+        "display_name": "michael",
+        "link": "https://stackoverflow.com/users/286802/michael"
+      },
+      "is_answered": true,
+      "view_count": 682784,
+      "protected_date": 1403304937,
+      "accepted_answer_id": 3875204,
+      "answer_count": 21,
+      "score": 883,
+      "last_activity_date": 1560240812,
+      "creation_date": 1286385506,
+      "last_edit_date": 1530286652,
+      "question_id": 3875184,
+      "link": "https://stackoverflow.com/questions/3875184/cant-create-handler-inside-thread-that-has-not-called-looper-prepare",
+      "title": "Can&#39;t create handler inside thread that has not called Looper.prepare()"
+    },
+    {
+      "tags": [
+        "android",
+        "orientation",
+        "android-manifest"
+      ],
+      "owner": {
+        "reputation": 39607,
+        "user_id": 46297,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.stack.imgur.com/BIsfd.jpg?s=128&g=1",
+        "display_name": "lostInTransit",
+        "link": "https://stackoverflow.com/users/46297/lostintransit"
+      },
+      "is_answered": true,
+      "view_count": 537935,
+      "accepted_answer_id": 582585,
+      "answer_count": 32,
+      "score": 880,
+      "last_activity_date": 1559660065,
+      "creation_date": 1235489365,
+      "last_edit_date": 1536744148,
+      "question_id": 582185,
+      "link": "https://stackoverflow.com/questions/582185/disable-landscape-mode-in-android",
+      "title": "Disable landscape mode in Android?"
+    },
+    {
+      "tags": [
+        "android",
+        "bitmap",
+        "wallpaper",
+        "android-drawable"
+      ],
+      "owner": {
+        "reputation": 7921,
+        "user_id": 283630,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/c451ed182b70e0f3c9f5977df986c162?s=128&d=identicon&r=PG",
+        "display_name": "Rob",
+        "link": "https://stackoverflow.com/users/283630/rob"
+      },
+      "is_answered": true,
+      "view_count": 600622,
+      "protected_date": 1366967146,
+      "accepted_answer_id": 3036187,
+      "answer_count": 17,
+      "score": 879,
+      "last_activity_date": 1563523692,
+      "creation_date": 1276501595,
+      "last_edit_date": 1369740902,
+      "question_id": 3035692,
+      "link": "https://stackoverflow.com/questions/3035692/how-to-convert-a-drawable-to-a-bitmap",
+      "title": "How to convert a Drawable to a Bitmap?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-service"
+      ],
+      "owner": {
+        "reputation": 6727,
+        "user_id": 58164,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/e45b2f874537995a2ec2db5df88f682e?s=128&d=identicon&r=PG",
+        "display_name": "Bee",
+        "link": "https://stackoverflow.com/users/58164/bee"
+      },
+      "is_answered": true,
+      "view_count": 429959,
+      "protected_date": 1494546026,
+      "accepted_answer_id": 608600,
+      "answer_count": 26,
+      "score": 879,
+      "last_activity_date": 1562318468,
+      "creation_date": 1235930949,
+      "last_edit_date": 1557493454,
+      "question_id": 600207,
+      "link": "https://stackoverflow.com/questions/600207/how-to-check-if-a-service-is-running-on-android",
+      "title": "How to check if a service is running on Android?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-activity",
+        "transparent"
+      ],
+      "owner": {
+        "reputation": 35474,
+        "user_id": 249991,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/d294689e27dc65262f99563079112af9?s=128&d=identicon&r=PG",
+        "display_name": "UMAR",
+        "link": "https://stackoverflow.com/users/249991/umar"
+      },
+      "is_answered": true,
+      "view_count": 402120,
+      "protected_date": 1392159774,
+      "accepted_answer_id": 2700683,
+      "answer_count": 19,
+      "score": 858,
+      "last_activity_date": 1543203906,
+      "creation_date": 1265030882,
+      "last_edit_date": 1493418184,
+      "question_id": 2176922,
+      "link": "https://stackoverflow.com/questions/2176922/how-do-i-create-a-transparent-activity-on-android",
+      "title": "How do I create a transparent Activity on Android?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-layout",
+        "titlebar"
+      ],
+      "owner": {
+        "reputation": 110188,
+        "user_id": 114066,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://i.stack.imgur.com/BpRie.jpg?s=128&g=1",
+        "display_name": "Janusz",
+        "link": "https://stackoverflow.com/users/114066/janusz"
+      },
+      "is_answered": true,
+      "view_count": 797614,
+      "protected_date": 1388709209,
+      "accepted_answer_id": 2627952,
+      "answer_count": 35,
+      "score": 846,
+      "last_activity_date": 1554450300,
+      "creation_date": 1270630102,
+      "last_edit_date": 1531398066,
+      "question_id": 2591036,
+      "link": "https://stackoverflow.com/questions/2591036/how-to-hide-the-title-bar-for-an-activity-in-xml-with-existing-custom-theme",
+      "title": "How to hide the title bar for an Activity in XML with existing custom theme"
+    },
+    {
+      "tags": [
+        "android",
+        "multithreading"
+      ],
+      "owner": {
+        "reputation": 5710,
+        "user_id": 275552,
+        "user_type": "registered",
+        "accept_rate": 51,
+        "profile_image": "https://www.gravatar.com/avatar/b9add78747c94f1b1e548083c000656e?s=128&d=identicon&r=PG",
+        "display_name": "herpderp",
+        "link": "https://stackoverflow.com/users/275552/herpderp"
+      },
+      "is_answered": true,
+      "view_count": 497032,
+      "protected_date": 1524306421,
+      "accepted_answer_id": 5162096,
+      "answer_count": 23,
+      "score": 842,
+      "last_activity_date": 1556784303,
+      "creation_date": 1299024451,
+      "last_edit_date": 1512925841,
+      "question_id": 5161951,
+      "link": "https://stackoverflow.com/questions/5161951/android-only-the-original-thread-that-created-a-view-hierarchy-can-touch-its-vi",
+      "title": "Android &quot;Only the original thread that created a view hierarchy can touch its views.&quot;"
+    },
+    {
+      "tags": [
+        "android",
+        "android-recyclerview",
+        "divider"
+      ],
+      "owner": {
+        "reputation": 16911,
+        "user_id": 953682,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://i.stack.imgur.com/sb6Ry.jpg?s=128&g=1",
+        "display_name": "EyesClear",
+        "link": "https://stackoverflow.com/users/953682/eyesclear"
+      },
+      "is_answered": true,
+      "view_count": 519391,
+      "protected_date": 1474723917,
+      "answer_count": 38,
+      "score": 832,
+      "last_activity_date": 1557395016,
+      "creation_date": 1404763279,
+      "last_edit_date": 1471948433,
+      "question_id": 24618829,
+      "link": "https://stackoverflow.com/questions/24618829/how-to-add-dividers-and-spaces-between-items-in-recyclerview",
+      "title": "How to add dividers and spaces between items in RecyclerView?"
+    },
+    {
+      "tags": [
+        "android",
+        "networking",
+        "tcp",
+        "debugging",
+        "adb"
+      ],
+      "owner": {
+        "reputation": 4643,
+        "user_id": 312443,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/4cb9842cd5503ac96e136376e07acd70?s=128&d=identicon&r=PG",
+        "display_name": "JDM",
+        "link": "https://stackoverflow.com/users/312443/jdm"
+      },
+      "is_answered": true,
+      "view_count": 975527,
+      "protected_date": 1429184364,
+      "accepted_answer_id": 2659980,
+      "answer_count": 32,
+      "score": 824,
+      "last_activity_date": 1559849063,
+      "creation_date": 1270779480,
+      "last_edit_date": 1394951358,
+      "question_id": 2604727,
+      "link": "https://stackoverflow.com/questions/2604727/how-can-i-connect-to-android-with-adb-over-tcp",
+      "title": "How can I connect to Android with ADB over TCP?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-intent",
+        "android-activity"
+      ],
+      "owner": {
+        "reputation": 35474,
+        "user_id": 249991,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/d294689e27dc65262f99563079112af9?s=128&d=identicon&r=PG",
+        "display_name": "UMAR",
+        "link": "https://stackoverflow.com/users/249991/umar"
+      },
+      "is_answered": true,
+      "view_count": 575484,
+      "protected_date": 1389117867,
+      "accepted_answer_id": 2236529,
+      "answer_count": 35,
+      "community_owned_date": 1264506721,
+      "score": 813,
+      "last_activity_date": 1562120938,
+      "creation_date": 1264506721,
+      "last_edit_date": 1524243180,
+      "question_id": 2139134,
+      "link": "https://stackoverflow.com/questions/2139134/how-to-send-an-object-from-one-android-activity-to-another-using-intents",
+      "title": "How to send an object from one Android Activity to another using Intents?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-fragments",
+        "android-activity"
+      ],
+      "owner": {
+        "reputation": 28277,
+        "user_id": 618551,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/d10080dd2e025bc26edd602636016409?s=128&d=identicon&r=PG",
+        "display_name": "Spidy",
+        "link": "https://stackoverflow.com/users/618551/spidy"
+      },
+      "is_answered": true,
+      "view_count": 351109,
+      "protected_date": 1447714247,
+      "accepted_answer_id": 6147919,
+      "answer_count": 32,
+      "score": 798,
+      "last_activity_date": 1524031672,
+      "creation_date": 1306470919,
+      "last_edit_date": 1464251639,
+      "question_id": 6147884,
+      "link": "https://stackoverflow.com/questions/6147884/onactivityresult-is-not-being-called-in-fragment",
+      "title": "onActivityResult is not being called in Fragment"
+    },
+    {
+      "tags": [
+        "android",
+        "android-edittext",
+        "keylistener"
+      ],
+      "owner": {
+        "reputation": 3989,
+        "user_id": 781501,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/c9c4772b889e632429d1dc71116b4e1b?s=128&d=identicon&r=PG",
+        "display_name": "Manu",
+        "link": "https://stackoverflow.com/users/781501/manu"
+      },
+      "is_answered": true,
+      "view_count": 249043,
+      "protected_date": 1561546379,
+      "answer_count": 24,
+      "score": 797,
+      "last_activity_date": 1561546325,
+      "creation_date": 1307032362,
+      "last_edit_date": 1442508702,
+      "question_id": 6217378,
+      "link": "https://stackoverflow.com/questions/6217378/place-cursor-at-the-end-of-text-in-edittext",
+      "title": "Place cursor at the end of text in EditText"
+    },
+    {
+      "tags": [
+        "android",
+        "scale",
+        "textview",
+        "word-wrap"
+      ],
+      "owner": {
+        "reputation": 7176,
+        "user_id": 150020,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/1a0dc1240b2df145b8d195b5bb2497e8?s=128&d=identicon&r=PG",
+        "display_name": "Nathan Fig",
+        "link": "https://stackoverflow.com/users/150020/nathan-fig"
+      },
+      "is_answered": true,
+      "view_count": 368637,
+      "protected_date": 1545280937,
+      "accepted_answer_id": 52772600,
+      "answer_count": 33,
+      "score": 789,
+      "last_activity_date": 1542941617,
+      "creation_date": 1297967498,
+      "last_edit_date": 1432004585,
+      "question_id": 5033012,
+      "link": "https://stackoverflow.com/questions/5033012/auto-scale-textview-text-to-fit-within-bounds",
+      "title": "Auto Scale TextView Text to Fit within Bounds"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "memory",
+        "memory-management"
+      ],
+      "owner": {
+        "reputation": 11958,
+        "user_id": 314407,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/f51c62f73f070ee922c7165b6c026068?s=128&d=identicon&r=PG",
+        "display_name": "Andrea Baccega",
+        "link": "https://stackoverflow.com/users/314407/andrea-baccega"
+      },
+      "is_answered": true,
+      "view_count": 293462,
+      "protected_date": 1391214861,
+      "accepted_answer_id": 2299813,
+      "answer_count": 9,
+      "score": 781,
+      "last_activity_date": 1550664997,
+      "creation_date": 1266599555,
+      "last_edit_date": 1414445151,
+      "question_id": 2298208,
+      "link": "https://stackoverflow.com/questions/2298208/how-do-i-discover-memory-usage-of-my-application-in-android",
+      "title": "How do I discover memory usage of my application in Android?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-studio",
+        "android-library"
+      ],
+      "owner": {
+        "reputation": 33427,
+        "user_id": 721079,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/797c7fdac4c3c4836b61e09c2943c09d?s=128&d=identicon&r=PG",
+        "display_name": "Alexander Kulyakhtin",
+        "link": "https://stackoverflow.com/users/721079/alexander-kulyakhtin"
+      },
+      "is_answered": true,
+      "view_count": 603857,
+      "protected_date": 1369344262,
+      "accepted_answer_id": 16639227,
+      "answer_count": 29,
+      "score": 779,
+      "last_activity_date": 1558701630,
+      "creation_date": 1368708925,
+      "last_edit_date": 1558701630,
+      "question_id": 16588064,
+      "link": "https://stackoverflow.com/questions/16588064/how-do-i-add-a-library-project-to-android-studio",
+      "title": "How do I add a library project to Android Studio?"
+    },
+    {
+      "tags": [
+        "android",
+        "textview"
+      ],
+      "owner": {
+        "reputation": 4038,
+        "user_id": 778037,
+        "user_type": "unregistered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/5484a80db4ef7e21e80112767a28eb72?s=128&d=identicon&r=PG",
+        "display_name": "JustMe",
+        "link": "https://stackoverflow.com/users/778037/justme"
+      },
+      "is_answered": true,
+      "view_count": 432392,
+      "protected_date": 1488471066,
+      "accepted_answer_id": 6200841,
+      "answer_count": 24,
+      "score": 776,
+      "last_activity_date": 1552618411,
+      "creation_date": 1306928479,
+      "last_edit_date": 1450074100,
+      "question_id": 6200533,
+      "link": "https://stackoverflow.com/questions/6200533/set-textview-style-bold-or-italic",
+      "title": "Set TextView style (bold or italic)"
+    },
+    {
+      "tags": [
+        "android",
+        "geolocation",
+        "location",
+        "latitude-longitude"
+      ],
+      "owner": {
+        "reputation": 66752,
+        "user_id": 82156,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/5b800d2444930f6f465fb284647b5204?s=128&d=identicon&r=PG",
+        "display_name": "emmby",
+        "link": "https://stackoverflow.com/users/82156/emmby"
+      },
+      "is_answered": true,
+      "view_count": 304566,
+      "protected_date": 1300821313,
+      "accepted_answer_id": 3145655,
+      "answer_count": 26,
+      "score": 772,
+      "last_activity_date": 1557826276,
+      "creation_date": 1277848765,
+      "last_edit_date": 1515735347,
+      "question_id": 3145089,
+      "link": "https://stackoverflow.com/questions/3145089/what-is-the-simplest-and-most-robust-way-to-get-the-users-current-location-on-a",
+      "title": "What is the simplest and most robust way to get the user&#39;s current location on Android?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-studio",
+        "gradle"
+      ],
+      "owner": {
+        "reputation": 5081,
+        "user_id": 1718174,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/7c837560afc6b6104af7ca44e094ef65?s=128&d=identicon&r=PG",
+        "display_name": "Vini.g.fer",
+        "link": "https://stackoverflow.com/users/1718174/vini-g-fer"
+      },
+      "is_answered": true,
+      "view_count": 548032,
+      "protected_date": 1450876437,
+      "accepted_answer_id": 32075678,
+      "answer_count": 24,
+      "score": 766,
+      "last_activity_date": 1547891783,
+      "creation_date": 1439908793,
+      "last_edit_date": 1495540979,
+      "question_id": 32075498,
+      "link": "https://stackoverflow.com/questions/32075498/error-retrieving-parent-for-item-no-resource-found-that-matches-the-given-name",
+      "title": "Error retrieving parent for item: No resource found that matches the given name after upgrading to AppCompat v23"
+    },
+    {
+      "tags": [
+        "android",
+        "pixel",
+        "resolution",
+        "dpi"
+      ],
+      "owner": {
+        "reputation": 4019,
+        "user_id": 504712,
+        "user_type": "registered",
+        "accept_rate": 25,
+        "profile_image": "https://www.gravatar.com/avatar/dd408e0b8d36ad1b2ba2ea43ff05b4d2?s=128&d=identicon&r=PG",
+        "display_name": "Indhu",
+        "link": "https://stackoverflow.com/users/504712/indhu"
+      },
+      "is_answered": true,
+      "view_count": 613731,
+      "protected_date": 1471160206,
+      "answer_count": 33,
+      "score": 759,
+      "last_activity_date": 1555006666,
+      "creation_date": 1294239867,
+      "last_edit_date": 1450804257,
+      "question_id": 4605527,
+      "link": "https://stackoverflow.com/questions/4605527/converting-pixels-to-dp",
+      "title": "Converting pixels to dp"
+    },
+    {
+      "tags": [
+        "android",
+        "user-interface",
+        "android-recyclerview"
+      ],
+      "owner": {
+        "reputation": 6103,
+        "user_id": 885179,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/95308bb0e698f394606fa15c9a797be5?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Pongpat",
+        "link": "https://stackoverflow.com/users/885179/pongpat"
+      },
+      "is_answered": true,
+      "view_count": 360942,
+      "protected_date": 1523782602,
+      "accepted_answer_id": 26245463,
+      "answer_count": 14,
+      "score": 754,
+      "last_activity_date": 1557144386,
+      "creation_date": 1412715330,
+      "last_edit_date": 1522317993,
+      "question_id": 26245139,
+      "link": "https://stackoverflow.com/questions/26245139/how-to-create-recyclerview-with-multiple-view-type",
+      "title": "How to create RecyclerView with multiple view type?"
+    },
+    {
+      "tags": [
+        "android",
+        "build.gradle"
+      ],
+      "owner": {
+        "reputation": 39744,
+        "user_id": 3998402,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/b1deae6b5ee0cdf29e9a4d9f219f547a?s=128&d=identicon&r=PG&f=1",
+        "display_name": "humazed",
+        "link": "https://stackoverflow.com/users/3998402/humazed"
+      },
+      "is_answered": true,
+      "view_count": 339197,
+      "accepted_answer_id": 42374426,
+      "answer_count": 54,
+      "score": 751,
+      "last_activity_date": 1561198565,
+      "creation_date": 1487698502,
+      "last_edit_date": 1561198565,
+      "question_id": 42374151,
+      "link": "https://stackoverflow.com/questions/42374151/all-com-android-support-libraries-must-use-the-exact-same-version-specification",
+      "title": "All com.android.support libraries must use the exact same version specification"
+    },
+    {
+      "tags": [
+        "android",
+        "android-fragments",
+        "android-activity",
+        "architecture"
+      ],
+      "owner": {
+        "reputation": 28354,
+        "user_id": 1561247,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://i.stack.imgur.com/GkZCX.jpg?s=128&g=1",
+        "display_name": "Emil Adz",
+        "link": "https://stackoverflow.com/users/1561247/emil-adz"
+      },
+      "is_answered": true,
+      "view_count": 181979,
+      "protected_date": 1523858133,
+      "answer_count": 14,
+      "score": 744,
+      "last_activity_date": 1560343300,
+      "creation_date": 1385848380,
+      "last_edit_date": 1560343300,
+      "question_id": 20306091,
+      "link": "https://stackoverflow.com/questions/20306091/dilemma-when-to-use-fragments-vs-activities",
+      "title": "Dilemma: when to use Fragments vs Activities:"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "debugging",
+        "kotlin",
+        "crash"
+      ],
+      "owner": {
+        "reputation": 64090,
+        "user_id": 675383,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/6e7a971eb341ffeaa3efca407239bf3b?s=128&d=identicon&r=PG",
+        "display_name": "nhaarman",
+        "link": "https://stackoverflow.com/users/675383/nhaarman"
+      },
+      "is_answered": true,
+      "view_count": 388402,
+      "protected_date": 1399917976,
+      "accepted_answer_id": 23353174,
+      "answer_count": 19,
+      "score": 740,
+      "last_activity_date": 1560344852,
+      "creation_date": 1398729314,
+      "last_edit_date": 1536658870,
+      "question_id": 23353173,
+      "link": "https://stackoverflow.com/questions/23353173/unfortunately-myapp-has-stopped-how-can-i-solve-this",
+      "title": "Unfortunately MyApp has stopped. How can I solve this?"
+    },
+    {
+      "tags": [
+        "android",
+        "multithreading",
+        "android-service",
+        "android-intentservice"
+      ],
+      "owner": {
+        "reputation": 5984,
+        "user_id": 1310478,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/b84b82e11613dfa6ed7f8e1fe84358b4?s=128&d=identicon&r=PG",
+        "display_name": "roiberg",
+        "link": "https://stackoverflow.com/users/1310478/roiberg"
+      },
+      "is_answered": true,
+      "view_count": 277681,
+      "protected_date": 1445115816,
+      "accepted_answer_id": 15772151,
+      "answer_count": 10,
+      "score": 731,
+      "last_activity_date": 1553671294,
+      "creation_date": 1363784426,
+      "last_edit_date": 1441691620,
+      "question_id": 15524280,
+      "link": "https://stackoverflow.com/questions/15524280/service-vs-intentservice",
+      "title": "Service vs IntentService"
+    },
+    {
+      "tags": [
+        "android",
+        "android-layout"
+      ],
+      "owner": {
+        "reputation": 66752,
+        "user_id": 82156,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/5b800d2444930f6f465fb284647b5204?s=128&d=identicon&r=PG",
+        "display_name": "emmby",
+        "link": "https://stackoverflow.com/users/82156/emmby"
+      },
+      "is_answered": true,
+      "view_count": 459088,
+      "protected_date": 1285161551,
+      "accepted_answer_id": 1726352,
+      "answer_count": 20,
+      "score": 723,
+      "last_activity_date": 1554104486,
+      "creation_date": 1254767010,
+      "last_edit_date": 1540897980,
+      "question_id": 1521640,
+      "link": "https://stackoverflow.com/questions/1521640/standard-android-button-with-a-different-color",
+      "title": "Standard Android Button with a different color"
+    },
+    {
+      "tags": [
+        "android",
+        "crash",
+        "stack-trace"
+      ],
+      "owner": {
+        "reputation": 109202,
+        "user_id": 6068,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/931970b8dc51b72e05e3a12b88612d61?s=128&d=identicon&r=PG",
+        "display_name": "pupeno",
+        "link": "https://stackoverflow.com/users/6068/pupeno"
+      },
+      "is_answered": true,
+      "view_count": 298291,
+      "protected_date": 1381668156,
+      "answer_count": 30,
+      "community_owned_date": 1285924412,
+      "score": 719,
+      "last_activity_date": 1539379590,
+      "creation_date": 1235978247,
+      "last_edit_date": 1285924412,
+      "question_id": 601503,
+      "link": "https://stackoverflow.com/questions/601503/how-do-i-obtain-crash-data-from-my-android-application",
+      "title": "How do I obtain crash-data from my Android application?"
+    },
+    {
+      "tags": [
+        "android",
+        "security",
+        "proguard",
+        "reverse-engineering"
+      ],
+      "owner": {
+        "reputation": 3942,
+        "user_id": 619861,
+        "user_type": "registered",
+        "accept_rate": 45,
+        "profile_image": "https://www.gravatar.com/avatar/9f6991f9c0fddfb21abf726499bd26e1?s=128&d=identicon&r=PG",
+        "display_name": "sachin003",
+        "link": "https://stackoverflow.com/users/619861/sachin003"
+      },
+      "is_answered": true,
+      "view_count": 187687,
+      "protected_date": 1427610185,
+      "accepted_answer_id": 13854693,
+      "answer_count": 33,
+      "score": 718,
+      "last_activity_date": 1559108210,
+      "creation_date": 1355380934,
+      "last_edit_date": 1536839567,
+      "question_id": 13854425,
+      "link": "https://stackoverflow.com/questions/13854425/how-to-avoid-reverse-engineering-of-an-apk-file",
+      "title": "How to avoid reverse engineering of an APK file?"
+    },
+    {
+      "tags": [
+        "android",
+        "html",
+        "xml-parsing",
+        "textview"
+      ],
+      "owner": {
+        "reputation": 35474,
+        "user_id": 249991,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/d294689e27dc65262f99563079112af9?s=128&d=identicon&r=PG",
+        "display_name": "UMAR",
+        "link": "https://stackoverflow.com/users/249991/umar"
+      },
+      "is_answered": true,
+      "view_count": 527737,
+      "protected_date": 1471595042,
+      "accepted_answer_id": 2116191,
+      "answer_count": 21,
+      "community_owned_date": 1264151662,
+      "score": 706,
+      "last_activity_date": 1561727085,
+      "creation_date": 1264151662,
+      "last_edit_date": 1504044443,
+      "question_id": 2116162,
+      "link": "https://stackoverflow.com/questions/2116162/how-to-display-html-in-textview",
+      "title": "How to display HTML in TextView?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-fragments",
+        "android-viewpager"
+      ],
+      "owner": {
+        "reputation": 7641,
+        "user_id": 1103561,
+        "user_type": "registered",
+        "accept_rate": 55,
+        "profile_image": "https://www.gravatar.com/avatar/b7a6b058502e79b6ad8d9e29d2f5321c?s=128&d=identicon&r=PG",
+        "display_name": "4ntoine",
+        "link": "https://stackoverflow.com/users/1103561/4ntoine"
+      },
+      "is_answered": true,
+      "view_count": 275588,
+      "accepted_answer_id": 12523627,
+      "answer_count": 23,
+      "score": 706,
+      "last_activity_date": 1562617837,
+      "creation_date": 1333612695,
+      "last_edit_date": 1477853703,
+      "question_id": 10024739,
+      "link": "https://stackoverflow.com/questions/10024739/how-to-determine-when-fragment-becomes-visible-in-viewpager",
+      "title": "How to determine when Fragment becomes visible in ViewPager"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "object",
+        "android-intent",
+        "android-activity"
+      ],
+      "owner": {
+        "reputation": 7396,
+        "user_id": 328518,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://i.stack.imgur.com/He8TF.png?s=128&g=1",
+        "display_name": "kaibuki",
+        "link": "https://stackoverflow.com/users/328518/kaibuki"
+      },
+      "is_answered": true,
+      "view_count": 607513,
+      "protected_date": 1500656536,
+      "accepted_answer_id": 2736612,
+      "answer_count": 31,
+      "score": 701,
+      "last_activity_date": 1538558855,
+      "creation_date": 1272535612,
+      "last_edit_date": 1506705844,
+      "question_id": 2736389,
+      "link": "https://stackoverflow.com/questions/2736389/how-to-pass-an-object-from-one-activity-to-another-on-android",
+      "title": "How to pass an object from one activity to another on Android"
+    },
+    {
+      "tags": [
+        "android",
+        "scroll",
+        "textview"
+      ],
+      "owner": {
+        "reputation": 13571,
+        "user_id": 2355649,
+        "user_type": "registered",
+        "accept_rate": 51,
+        "profile_image": "https://www.gravatar.com/avatar/c4c74fddc6280a68216b1d5bb93d070d?s=128&d=identicon&r=PG",
+        "display_name": "Muhammad Maqsoodur Rehman",
+        "link": "https://stackoverflow.com/users/2355649/muhammad-maqsoodur-rehman"
+      },
+      "is_answered": true,
+      "view_count": 524367,
+      "accepted_answer_id": 3256305,
+      "answer_count": 27,
+      "score": 698,
+      "last_activity_date": 1559116878,
+      "creation_date": 1258465383,
+      "last_edit_date": 1493419290,
+      "question_id": 1748977,
+      "link": "https://stackoverflow.com/questions/1748977/making-textview-scrollable-on-android",
+      "title": "Making TextView scrollable on Android"
+    },
+    {
+      "tags": [
+        "android",
+        "android-intent"
+      ],
+      "owner": {
+        "reputation": 5261,
+        "user_id": 317301,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/76e668edb6b771260d7efcbc4ad1a4e8?s=128&d=identicon&r=PG",
+        "display_name": "poeschlorn",
+        "link": "https://stackoverflow.com/users/317301/poeschlorn"
+      },
+      "is_answered": true,
+      "view_count": 554386,
+      "protected_date": 1434313148,
+      "closed_date": 1382313142,
+      "accepted_answer_id": 3004542,
+      "answer_count": 10,
+      "score": 698,
+      "last_activity_date": 1477713711,
+      "creation_date": 1276075317,
+      "last_edit_date": 1475089320,
+      "question_id": 3004515,
+      "link": "https://stackoverflow.com/questions/3004515/sending-an-intent-to-browser-to-open-specific-url",
+      "closed_reason": "duplicate",
+      "title": "Sending an Intent to browser to open specific URL"
+    },
+    {
+      "tags": [
+        "android",
+        "android-intent"
+      ],
+      "owner": {
+        "reputation": 25194,
+        "user_id": 508377,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/96a2256f25725459fd851a4c0833971f?s=128&d=identicon&r=PG",
+        "display_name": "Adham",
+        "link": "https://stackoverflow.com/users/508377/adham"
+      },
+      "is_answered": true,
+      "view_count": 794193,
+      "protected_date": 1396741129,
+      "accepted_answer_id": 4233898,
+      "answer_count": 17,
+      "score": 695,
+      "last_activity_date": 1556002762,
+      "creation_date": 1290272399,
+      "last_edit_date": 1448192938,
+      "question_id": 4233873,
+      "link": "https://stackoverflow.com/questions/4233873/how-do-i-get-extra-data-from-intent-on-android",
+      "title": "How do I get extra data from intent on Android?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-emulator",
+        "install",
+        "apk"
+      ],
+      "owner": {
+        "reputation": 35022,
+        "user_id": 242769,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/8f1bfe0dcaa3cdc6633e8b80639e541a?s=128&d=identicon&r=PG",
+        "display_name": "aryaxt",
+        "link": "https://stackoverflow.com/users/242769/aryaxt"
+      },
+      "is_answered": true,
+      "view_count": 521298,
+      "protected_date": 1379967661,
+      "accepted_answer_id": 3480235,
+      "answer_count": 30,
+      "score": 695,
+      "last_activity_date": 1533302162,
+      "creation_date": 1281728611,
+      "last_edit_date": 1390045520,
+      "question_id": 3480201,
+      "link": "https://stackoverflow.com/questions/3480201/how-do-you-install-an-apk-file-in-the-android-emulator",
+      "title": "How do you install an APK file in the Android emulator?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-studio",
+        "r.java-file"
+      ],
+      "owner": {
+        "reputation": 3884,
+        "user_id": 1489990,
+        "user_type": "registered",
+        "accept_rate": 46,
+        "profile_image": "https://www.gravatar.com/avatar/36c940d0fb8a8b7ba3b62b49f8264fa7?s=128&d=identicon&r=PG",
+        "display_name": "ez4nick",
+        "link": "https://stackoverflow.com/users/1489990/ez4nick"
+      },
+      "is_answered": true,
+      "view_count": 1057208,
+      "protected_date": 1414301328,
+      "answer_count": 96,
+      "score": 694,
+      "last_activity_date": 1561197701,
+      "creation_date": 1370985481,
+      "last_edit_date": 1541579770,
+      "question_id": 17054000,
+      "link": "https://stackoverflow.com/questions/17054000/cannot-resolve-symbol-r-in-android-studio",
+      "title": "&quot;cannot resolve symbol R&quot; in Android Studio"
+    },
+    {
+      "tags": [
+        "android",
+        "timeout",
+        "install",
+        "apk"
+      ],
+      "owner": {
+        "reputation": 2136,
+        "user_id": 586576,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/3da87edb543be278e9b541db916c1c5f?s=128&d=identicon&r=PG",
+        "display_name": "Arye Rosenstein",
+        "link": "https://stackoverflow.com/users/586576/arye-rosenstein"
+      },
+      "is_answered": true,
+      "view_count": 314279,
+      "protected_date": 1334039025,
+      "accepted_answer_id": 4786299,
+      "answer_count": 8,
+      "community_owned_date": 1387740376,
+      "score": 686,
+      "locked_date": 1478975128,
+      "last_activity_date": 1476253254,
+      "creation_date": 1295807676,
+      "last_edit_date": 1495541898,
+      "question_id": 4775603,
+      "link": "https://stackoverflow.com/questions/4775603/android-error-failed-to-install-apk-on-device-timeout",
+      "title": "Android error: Failed to install *.apk on device *: timeout"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "reverse-engineering",
+        "decompiler",
+        "dex"
+      ],
+      "owner": {
+        "reputation": 49507,
+        "user_id": 15721,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://www.gravatar.com/avatar/4f5c51f41af7b385236610802a5e50b2?s=128&d=identicon&r=PG",
+        "display_name": "Will",
+        "link": "https://stackoverflow.com/users/15721/will"
+      },
+      "is_answered": true,
+      "view_count": 483837,
+      "protected_date": 1368388878,
+      "accepted_answer_id": 4177581,
+      "answer_count": 17,
+      "score": 686,
+      "last_activity_date": 1554259475,
+      "creation_date": 1249767585,
+      "last_edit_date": 1403389111,
+      "question_id": 1249973,
+      "link": "https://stackoverflow.com/questions/1249973/decompiling-dex-into-java-sourcecode",
+      "title": "decompiling DEX into Java sourcecode"
+    },
+    {
+      "tags": [
+        "android",
+        "layout",
+        "draw"
+      ],
+      "owner": {
+        "reputation": 9405,
+        "user_id": 602260,
+        "user_type": "registered",
+        "accept_rate": 40,
+        "profile_image": "https://www.gravatar.com/avatar/e070c8e81f9b0a2034798f770cae6bd6?s=128&d=identicon&r=PG",
+        "display_name": "Androider",
+        "link": "https://stackoverflow.com/users/602260/androider"
+      },
+      "is_answered": true,
+      "view_count": 632700,
+      "answer_count": 31,
+      "score": 685,
+      "locked_date": 1528515520,
+      "last_activity_date": 1550034371,
+      "creation_date": 1298105968,
+      "last_edit_date": 1298107038,
+      "question_id": 5049852,
+      "link": "https://stackoverflow.com/questions/5049852/android-drawing-separator-divider-line-in-layout",
+      "title": "Android Drawing Separator/Divider Line in Layout?"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "handler",
+        "delay"
+      ],
+      "owner": {
+        "reputation": 35022,
+        "user_id": 242769,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/8f1bfe0dcaa3cdc6633e8b80639e541a?s=128&d=identicon&r=PG",
+        "display_name": "aryaxt",
+        "link": "https://stackoverflow.com/users/242769/aryaxt"
+      },
+      "is_answered": true,
+      "view_count": 567285,
+      "protected_date": 1363596365,
+      "accepted_answer_id": 9166354,
+      "answer_count": 31,
+      "score": 683,
+      "last_activity_date": 1560945762,
+      "creation_date": 1276885459,
+      "last_edit_date": 1409815912,
+      "question_id": 3072173,
+      "link": "https://stackoverflow.com/questions/3072173/how-to-call-a-method-after-a-delay-in-android",
+      "title": "How to call a method after a delay in Android"
+    },
+    {
+      "tags": [
+        "android",
+        "android-layout",
+        "textview",
+        "typeface"
+      ],
+      "owner": {
+        "reputation": 37934,
+        "user_id": 44852,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://i.stack.imgur.com/JbQbc.jpg?s=128&g=1",
+        "display_name": "Tarik",
+        "link": "https://stackoverflow.com/users/44852/tarik"
+      },
+      "is_answered": true,
+      "view_count": 728607,
+      "protected_date": 1483794708,
+      "accepted_answer_id": 13329907,
+      "answer_count": 29,
+      "score": 679,
+      "last_activity_date": 1559624730,
+      "creation_date": 1345965557,
+      "last_edit_date": 1470107994,
+      "question_id": 12128331,
+      "link": "https://stackoverflow.com/questions/12128331/how-to-change-fontfamily-of-textview-in-android",
+      "title": "How to change fontFamily of TextView in Android"
+    },
+    {
+      "tags": [
+        "android",
+        "dialog",
+        "android-alertdialog",
+        "android-dialog",
+        "android-dialogfragment"
+      ],
+      "owner": {
+        "reputation": 3469,
+        "user_id": 304881,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/a3353cb594b5c2595d96c946f0be7df4?s=128&d=identicon&r=PG",
+        "display_name": "user304881",
+        "link": "https://stackoverflow.com/users/304881/user304881"
+      },
+      "is_answered": true,
+      "view_count": 240767,
+      "protected_date": 1527156100,
+      "answer_count": 17,
+      "score": 679,
+      "last_activity_date": 1526236451,
+      "creation_date": 1271056709,
+      "last_edit_date": 1479428379,
+      "question_id": 2620444,
+      "link": "https://stackoverflow.com/questions/2620444/how-to-prevent-a-dialog-from-closing-when-a-button-is-clicked",
+      "title": "How to prevent a dialog from closing when a button is clicked"
+    },
+    {
+      "tags": [
+        "android",
+        "geolocation",
+        "gps",
+        "location"
+      ],
+      "owner": {
+        "reputation": 13589,
+        "user_id": 152867,
+        "user_type": "registered",
+        "accept_rate": 49,
+        "profile_image": "https://i.stack.imgur.com/2pvnO.png?s=128&g=1",
+        "display_name": "mudit",
+        "link": "https://stackoverflow.com/users/152867/mudit"
+      },
+      "is_answered": true,
+      "view_count": 828170,
+      "protected_date": 1331461432,
+      "answer_count": 22,
+      "score": 673,
+      "last_activity_date": 1557825940,
+      "creation_date": 1254567546,
+      "last_edit_date": 1468823609,
+      "question_id": 1513485,
+      "link": "https://stackoverflow.com/questions/1513485/how-do-i-get-the-current-gps-location-programmatically-in-android",
+      "title": "How do I get the current GPS location programmatically in Android?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-layout",
+        "textview"
+      ],
+      "owner": {
+        "reputation": 8476,
+        "user_id": 69983,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/dc4c6e61b142744295befb2fbdf0bf72?s=128&d=identicon&r=PG",
+        "display_name": "yamspog",
+        "link": "https://stackoverflow.com/users/69983/yamspog"
+      },
+      "is_answered": true,
+      "view_count": 650670,
+      "accepted_answer_id": 3496310,
+      "answer_count": 17,
+      "score": 669,
+      "last_activity_date": 1550771050,
+      "creation_date": 1281984627,
+      "last_edit_date": 1483317302,
+      "question_id": 3496269,
+      "link": "https://stackoverflow.com/questions/3496269/how-do-i-put-a-border-around-an-android-textview",
+      "title": "How do I put a border around an Android textview?"
+    },
+    {
+      "tags": [
+        "android",
+        "intel",
+        "avd",
+        "haxm"
+      ],
+      "owner": {
+        "reputation": 3454,
+        "user_id": 4140472,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/33835051af11e37bb7db1fcd2d670b48?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Jitesh Gaikwad",
+        "link": "https://stackoverflow.com/users/4140472/jitesh-gaikwad"
+      },
+      "is_answered": true,
+      "view_count": 839830,
+      "protected_date": 1417355763,
+      "answer_count": 19,
+      "score": 669,
+      "last_activity_date": 1551199943,
+      "creation_date": 1413273808,
+      "last_edit_date": 1459429325,
+      "question_id": 26355645,
+      "link": "https://stackoverflow.com/questions/26355645/error-in-launching-avd-with-amd-processor",
+      "title": "Error in launching AVD with AMD processor"
+    },
+    {
+      "tags": [
+        "android",
+        "database",
+        "sqlite"
+      ],
+      "owner": {
+        "reputation": 24358,
+        "user_id": 133858,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://i.stack.imgur.com/KObod.jpg?s=128&g=1",
+        "display_name": "Vidar Vestnes",
+        "link": "https://stackoverflow.com/users/133858/vidar-vestnes"
+      },
+      "is_answered": true,
+      "view_count": 214851,
+      "protected_date": 1391939450,
+      "accepted_answer_id": 3689883,
+      "answer_count": 10,
+      "score": 668,
+      "last_activity_date": 1548996918,
+      "creation_date": 1269270812,
+      "last_edit_date": 1461091539,
+      "question_id": 2493331,
+      "link": "https://stackoverflow.com/questions/2493331/what-are-the-best-practices-for-sqlite-on-android",
+      "title": "What are the best practices for SQLite on Android?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-fragments"
+      ],
+      "owner": {
+        "reputation": 18806,
+        "user_id": 649979,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/bd64db12316a02401e214249afd8fcb2?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Graham Smith",
+        "link": "https://stackoverflow.com/users/649979/graham-smith"
+      },
+      "is_answered": true,
+      "view_count": 284828,
+      "accepted_answer_id": 9245510,
+      "answer_count": 11,
+      "score": 661,
+      "last_activity_date": 1542388897,
+      "creation_date": 1329007331,
+      "last_edit_date": 1461060631,
+      "question_id": 9245408,
+      "link": "https://stackoverflow.com/questions/9245408/best-practice-for-instantiating-a-new-android-fragment",
+      "title": "Best practice for instantiating a new Android Fragment"
+    },
+    {
+      "tags": [
+        "android",
+        "android-resources",
+        "android-6.0-marshmallow",
+        "android-mnc"
+      ],
+      "owner": {
+        "reputation": 29353,
+        "user_id": 2893843,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/JRCBv.jpg?s=128&g=1",
+        "display_name": "araks",
+        "link": "https://stackoverflow.com/users/2893843/araks"
+      },
+      "is_answered": true,
+      "view_count": 253399,
+      "protected_date": 1476343933,
+      "accepted_answer_id": 31590927,
+      "answer_count": 19,
+      "score": 653,
+      "last_activity_date": 1562781095,
+      "creation_date": 1437662648,
+      "last_edit_date": 1518260003,
+      "question_id": 31590714,
+      "link": "https://stackoverflow.com/questions/31590714/getcolorint-id-deprecated-on-android-6-0-marshmallow-api-23",
+      "title": "getColor(int id) deprecated on Android 6.0 Marshmallow (API 23)"
+    },
+    {
+      "tags": [
+        "android",
+        "android-asynctask"
+      ],
+      "owner": {
+        "reputation": 4504,
+        "user_id": 1205914,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/551f025af8f33e91519ab289bbefb970?s=128&d=identicon&r=PG",
+        "display_name": "Fox",
+        "link": "https://stackoverflow.com/users/1205914/fox"
+      },
+      "is_answered": true,
+      "view_count": 897844,
+      "protected_date": 1397896805,
+      "accepted_answer_id": 9671602,
+      "answer_count": 20,
+      "score": 649,
+      "last_activity_date": 1562293462,
+      "creation_date": 1331572179,
+      "last_edit_date": 1548338759,
+      "question_id": 9671546,
+      "link": "https://stackoverflow.com/questions/9671546/asynctask-android-example",
+      "title": "AsyncTask Android example"
+    },
+    {
+      "tags": [
+        "android",
+        "internet-connection",
+        "android-internet"
+      ],
+      "owner": {
+        "reputation": 6013,
+        "user_id": 354742,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/19bdb05f04c14731c9335ff9a0040198?s=128&d=identicon&r=PG",
+        "display_name": "dan",
+        "link": "https://stackoverflow.com/users/354742/dan"
+      },
+      "is_answered": true,
+      "view_count": 506299,
+      "closed_date": 1326160957,
+      "accepted_answer_id": 4239019,
+      "answer_count": 6,
+      "score": 648,
+      "last_activity_date": 1551041418,
+      "creation_date": 1290357305,
+      "last_edit_date": 1551041418,
+      "question_id": 4238921,
+      "link": "https://stackoverflow.com/questions/4238921/detect-whether-there-is-an-internet-connection-available-on-android",
+      "closed_reason": "exact duplicate",
+      "title": "Detect whether there is an Internet connection available on Android"
+    },
+    {
+      "tags": [
+        "android",
+        "android-drawable",
+        "android-resources",
+        "android-5.1.1-lollipop"
+      ],
+      "owner": {
+        "reputation": 3663,
+        "user_id": 3780553,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/6651e39a904d9ce7d4df4d5d8378130e?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Blodhgard",
+        "link": "https://stackoverflow.com/users/3780553/blodhgard"
+      },
+      "is_answered": true,
+      "view_count": 331286,
+      "accepted_answer_id": 29146895,
+      "answer_count": 11,
+      "score": 645,
+      "last_activity_date": 1551502514,
+      "creation_date": 1426277102,
+      "last_edit_date": 1551502514,
+      "question_id": 29041027,
+      "link": "https://stackoverflow.com/questions/29041027/android-getresources-getdrawable-deprecated-api-22",
+      "title": "Android getResources().getDrawable() deprecated API 22"
+    },
+    {
+      "tags": [
+        "android",
+        "android-alertdialog",
+        "android-context",
+        "builder"
+      ],
+      "owner": {
+        "reputation": 3590,
+        "user_id": 554517,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/2a43616ec586451a008de62b44605eb8?s=128&d=identicon&r=PG",
+        "display_name": "gymshoe",
+        "link": "https://stackoverflow.com/users/554517/gymshoe"
+      },
+      "is_answered": true,
+      "view_count": 351050,
+      "protected_date": 1429535521,
+      "answer_count": 23,
+      "score": 639,
+      "last_activity_date": 1546942745,
+      "creation_date": 1303852867,
+      "last_edit_date": 1495535499,
+      "question_id": 5796611,
+      "link": "https://stackoverflow.com/questions/5796611/dialog-throwing-unable-to-add-window-token-null-is-not-for-an-application-wi",
+      "title": "Dialog throwing &quot;Unable to add window — token null is not for an application” with getApplication() as context"
+    },
+    {
+      "tags": [
+        "android",
+        "android-file",
+        "android-7.0-nougat"
+      ],
+      "owner": {
+        "reputation": 4740,
+        "user_id": 4583267,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.stack.imgur.com/pWbGz.png?s=128&g=1",
+        "display_name": "Thomas Vos",
+        "link": "https://stackoverflow.com/users/4583267/thomas-vos"
+      },
+      "is_answered": true,
+      "view_count": 336780,
+      "protected_date": 1560345358,
+      "accepted_answer_id": 38858040,
+      "answer_count": 23,
+      "score": 634,
+      "last_activity_date": 1562835894,
+      "creation_date": 1467712300,
+      "last_edit_date": 1517592767,
+      "question_id": 38200282,
+      "link": "https://stackoverflow.com/questions/38200282/android-os-fileuriexposedexception-file-storage-emulated-0-test-txt-exposed",
+      "title": "android.os.FileUriExposedException: file:///storage/emulated/0/test.txt exposed beyond app through Intent.getData()"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "android-intent",
+        "javamail"
+      ],
+      "owner": {
+        "reputation": 30550,
+        "user_id": 28557,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://i.stack.imgur.com/LLsiO.jpg?s=128&g=1",
+        "display_name": "Vinayak Bevinakatti",
+        "link": "https://stackoverflow.com/users/28557/vinayak-bevinakatti"
+      },
+      "is_answered": true,
+      "view_count": 406069,
+      "protected_date": 1307853355,
+      "accepted_answer_id": 2033124,
+      "answer_count": 22,
+      "score": 631,
+      "last_activity_date": 1550183025,
+      "creation_date": 1262865883,
+      "last_edit_date": 1490199875,
+      "question_id": 2020088,
+      "link": "https://stackoverflow.com/questions/2020088/sending-email-in-android-using-javamail-api-without-using-the-default-built-in-a",
+      "title": "Sending Email in Android using JavaMail API without using the default/built-in app"
+    },
+    {
+      "tags": [
+        "android",
+        "android-layout",
+        "android-widget"
+      ],
+      "owner": {
+        "reputation": 3778,
+        "user_id": 473659,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/748f7f33dd64b76615cb798389aca9f4?s=128&d=identicon&r=PG",
+        "display_name": "Mojiiz",
+        "link": "https://stackoverflow.com/users/473659/mojiiz"
+      },
+      "is_answered": true,
+      "view_count": 323638,
+      "protected_date": 1407703321,
+      "accepted_answer_id": 3996104,
+      "answer_count": 13,
+      "score": 630,
+      "last_activity_date": 1534354973,
+      "creation_date": 1287742258,
+      "last_edit_date": 1325616757,
+      "question_id": 3995825,
+      "link": "https://stackoverflow.com/questions/3995825/what-does-androidlayout-weight-mean",
+      "title": "What does android:layout_weight mean?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 291
+}

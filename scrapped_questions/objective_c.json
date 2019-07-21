@@ -1,0 +1,2810 @@
+
+{
+  "items": [
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "properties",
+        "atomic",
+        "nonatomic"
+      ],
+      "owner": {
+        "reputation": 108190,
+        "user_id": 62076,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/62c90b6f399e6b95554b2da31ca8619a?s=128&d=identicon&r=PG",
+        "display_name": "Alex Wayne",
+        "link": "https://stackoverflow.com/users/62076/alex-wayne"
+      },
+      "is_answered": true,
+      "view_count": 467533,
+      "protected_date": 1370221638,
+      "accepted_answer_id": 589392,
+      "answer_count": 26,
+      "score": 1802,
+      "last_activity_date": 1561968062,
+      "creation_date": 1235615494,
+      "last_edit_date": 1527952485,
+      "question_id": 588866,
+      "link": "https://stackoverflow.com/questions/588866/whats-the-difference-between-the-atomic-and-nonatomic-attributes",
+      "title": "What&#39;s the difference between the atomic and nonatomic attributes?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "uiscrollview",
+        "uitextfield",
+        "uikeyboard"
+      ],
+      "owner": {
+        "reputation": 27750,
+        "user_id": 137067,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/529a6049c4ad4483dbc62add6da06e1a?s=128&d=identicon&r=PG",
+        "display_name": "philfreo",
+        "link": "https://stackoverflow.com/users/137067/philfreo"
+      },
+      "is_answered": true,
+      "view_count": 608401,
+      "protected_date": 1378482406,
+      "accepted_answer_id": 1127025,
+      "answer_count": 92,
+      "community_owned_date": 1354556126,
+      "score": 1649,
+      "last_activity_date": 1562447790,
+      "creation_date": 1247591167,
+      "last_edit_date": 1546600757,
+      "question_id": 1126726,
+      "link": "https://stackoverflow.com/questions/1126726/how-can-i-make-a-uitextfield-move-up-when-the-keyboard-is-present-on-starting",
+      "title": "How can I make a UITextField move up when the keyboard is present - on starting to edit?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "xcode",
+        "automatic-ref-counting",
+        "manual-retain-release"
+      ],
+      "owner": {
+        "reputation": 30886,
+        "user_id": 5619,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/4c5bc935da066bf73113e426f396ba60?s=128&d=identicon&r=PG",
+        "display_name": "casademora",
+        "link": "https://stackoverflow.com/users/5619/casademora"
+      },
+      "is_answered": true,
+      "view_count": 328353,
+      "protected_date": 1343516585,
+      "accepted_answer_id": 6658549,
+      "answer_count": 18,
+      "score": 1321,
+      "last_activity_date": 1525688151,
+      "creation_date": 1310361678,
+      "last_edit_date": 1440494179,
+      "question_id": 6646052,
+      "link": "https://stackoverflow.com/questions/6646052/how-can-i-disable-arc-for-a-single-file-in-a-project",
+      "title": "How can I disable ARC for a single file in a project?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "swift",
+        "model-view-controller",
+        "uiviewcontroller"
+      ],
+      "owner": {
+        "reputation": 24280,
+        "user_id": 634273,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/37d008229a56f1f8cb7a017644f9554d?s=128&d=identicon&r=PG",
+        "display_name": "Matt Price",
+        "link": "https://stackoverflow.com/users/634273/matt-price"
+      },
+      "is_answered": true,
+      "view_count": 430487,
+      "protected_date": 1394319125,
+      "accepted_answer_id": 9736559,
+      "answer_count": 42,
+      "score": 1306,
+      "last_activity_date": 1561381408,
+      "creation_date": 1299415437,
+      "last_edit_date": 1558160216,
+      "question_id": 5210535,
+      "link": "https://stackoverflow.com/questions/5210535/passing-data-between-view-controllers",
+      "title": "Passing Data between View Controllers"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "memory-leaks",
+        "automatic-ref-counting"
+      ],
+      "owner": {
+        "reputation": 16633,
+        "user_id": 78101,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://www.gravatar.com/avatar/a81fa68f79ac4cb460172d536fbe11f1?s=128&d=identicon&r=PG",
+        "display_name": "Eduardo Scoz",
+        "link": "https://stackoverflow.com/users/78101/eduardo-scoz"
+      },
+      "is_answered": true,
+      "view_count": 173124,
+      "protected_date": 1355408921,
+      "accepted_answer_id": 20058585,
+      "answer_count": 19,
+      "score": 1238,
+      "last_activity_date": 1495664312,
+      "creation_date": 1313007804,
+      "last_edit_date": 1438954828,
+      "question_id": 7017281,
+      "link": "https://stackoverflow.com/questions/7017281/performselector-may-cause-a-leak-because-its-selector-is-unknown",
+      "title": "performSelector may cause a leak because its selector is unknown"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "sorting",
+        "cocoa-touch",
+        "nsmutablearray"
+      ],
+      "owner": {
+        "reputation": 25716,
+        "user_id": 6044,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/cab4c965c9516f58107100fff5891e19?s=128&d=identicon&r=PG",
+        "display_name": "rustyshelf",
+        "link": "https://stackoverflow.com/users/6044/rustyshelf"
+      },
+      "is_answered": true,
+      "view_count": 454441,
+      "protected_date": 1506253379,
+      "accepted_answer_id": 805589,
+      "answer_count": 26,
+      "score": 1236,
+      "last_activity_date": 1556111990,
+      "creation_date": 1241071856,
+      "last_edit_date": 1511877452,
+      "question_id": 805547,
+      "link": "https://stackoverflow.com/questions/805547/how-do-i-sort-an-nsmutablearray-with-custom-objects-in-it",
+      "title": "How do I sort an NSMutableArray with custom objects in it?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "string",
+        "substring"
+      ],
+      "owner": {
+        "reputation": 35079,
+        "user_id": 191463,
+        "user_type": "registered",
+        "accept_rate": 70,
+        "profile_image": "https://www.gravatar.com/avatar/f3b9829c592fd7617525afc56118a629?s=128&d=identicon&r=PG",
+        "display_name": "Jonathan.",
+        "link": "https://stackoverflow.com/users/191463/jonathan"
+      },
+      "is_answered": true,
+      "view_count": 537238,
+      "protected_date": 1378895204,
+      "accepted_answer_id": 2754075,
+      "answer_count": 22,
+      "score": 1193,
+      "last_activity_date": 1554221128,
+      "creation_date": 1272814494,
+      "last_edit_date": 1482408667,
+      "question_id": 2753956,
+      "link": "https://stackoverflow.com/questions/2753956/how-do-i-check-if-a-string-contains-another-string-in-objective-c",
+      "title": "How do I check if a string contains another string in Objective-C?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "nsstring",
+        "string-concatenation"
+      ],
+      "owner": {
+        "reputation": 33831,
+        "user_id": 53653,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/7f25eecbc1d0eed895a2809ce83ddf59?s=128&d=identicon&r=PG",
+        "display_name": "typeoneerror",
+        "link": "https://stackoverflow.com/users/53653/typeoneerror"
+      },
+      "is_answered": true,
+      "view_count": 762943,
+      "protected_date": 1415727392,
+      "accepted_answer_id": 510311,
+      "answer_count": 30,
+      "score": 1089,
+      "last_activity_date": 1544070650,
+      "creation_date": 1233728779,
+      "last_edit_date": 1483779790,
+      "question_id": 510269,
+      "link": "https://stackoverflow.com/questions/510269/shortcuts-in-objective-c-to-concatenate-nsstrings",
+      "title": "Shortcuts in Objective-C to concatenate NSStrings"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "enums",
+        "typedef"
+      ],
+      "owner": {
+        "reputation": 8046,
+        "user_id": 82780,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/8319309ae074141890582e3456830cf0?s=128&d=identicon&r=PG",
+        "display_name": "Craig",
+        "link": "https://stackoverflow.com/users/82780/craig"
+      },
+      "is_answered": true,
+      "view_count": 419934,
+      "accepted_answer_id": 707572,
+      "answer_count": 13,
+      "score": 1078,
+      "last_activity_date": 1562249073,
+      "creation_date": 1238623183,
+      "last_edit_date": 1449172592,
+      "question_id": 707512,
+      "link": "https://stackoverflow.com/questions/707512/what-is-a-typedef-enum-in-objective-c",
+      "title": "What is a typedef enum in Objective-C?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa",
+        "constants"
+      ],
+      "owner": {
+        "reputation": 10345,
+        "user_id": 57414,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/485ddc01e0887cf8111d541d37c51cf8?s=128&d=identicon&r=PG",
+        "display_name": "Allyn",
+        "link": "https://stackoverflow.com/users/57414/allyn"
+      },
+      "is_answered": true,
+      "view_count": 410975,
+      "accepted_answer_id": 539191,
+      "answer_count": 14,
+      "score": 993,
+      "last_activity_date": 1548091025,
+      "creation_date": 1234389122,
+      "last_edit_date": 1426278729,
+      "question_id": 538996,
+      "link": "https://stackoverflow.com/questions/538996/constants-in-objective-c",
+      "title": "Constants in Objective-C"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "animation",
+        "autolayout",
+        "ios6"
+      ],
+      "owner": {
+        "reputation": 14702,
+        "user_id": 584485,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/4ed33e15d6a88eb8ad4a84bb65400b52?s=128&d=identicon&r=PG",
+        "display_name": "DBD",
+        "link": "https://stackoverflow.com/users/584485/dbd"
+      },
+      "is_answered": true,
+      "view_count": 264612,
+      "accepted_answer_id": 12664093,
+      "answer_count": 13,
+      "score": 913,
+      "last_activity_date": 1561988071,
+      "creation_date": 1348752186,
+      "last_edit_date": 1556815678,
+      "question_id": 12622424,
+      "link": "https://stackoverflow.com/questions/12622424/how-do-i-animate-constraint-changes",
+      "title": "How do I animate constraint changes?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "swift"
+      ],
+      "owner": {
+        "reputation": 15563,
+        "user_id": 1266242,
+        "user_type": "registered",
+        "accept_rate": 51,
+        "profile_image": "https://www.gravatar.com/avatar/09e3746cf7e47d4b3b15f5d871b91661?s=128&d=identicon&r=PG",
+        "display_name": "David Mulder",
+        "link": "https://stackoverflow.com/users/1266242/david-mulder"
+      },
+      "is_answered": true,
+      "view_count": 265874,
+      "protected_date": 1506253288,
+      "accepted_answer_id": 24005242,
+      "answer_count": 16,
+      "score": 913,
+      "last_activity_date": 1563294941,
+      "creation_date": 1401739542,
+      "last_edit_date": 1477737700,
+      "question_id": 24002369,
+      "link": "https://stackoverflow.com/questions/24002369/how-to-call-objective-c-code-from-swift",
+      "title": "How to call Objective-C code from Swift"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "nsstring",
+        "nsdata"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "anish"
+      },
+      "is_answered": true,
+      "view_count": 422477,
+      "protected_date": 1453539528,
+      "answer_count": 11,
+      "score": 901,
+      "last_activity_date": 1552552230,
+      "creation_date": 1243077638,
+      "last_edit_date": 1487390137,
+      "question_id": 901357,
+      "link": "https://stackoverflow.com/questions/901357/how-do-i-convert-an-nsstring-value-to-nsdata",
+      "title": "How do I convert an NSString value to NSData?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c"
+      ],
+      "owner": {
+        "reputation": 4099,
+        "user_id": 402822,
+        "user_type": "unregistered",
+        "profile_image": "https://www.gravatar.com/avatar/bca2e00845992ed4bf3b4dd3a964b148?s=128&d=identicon&r=PG",
+        "display_name": "John",
+        "link": "https://stackoverflow.com/users/402822/john"
+      },
+      "is_answered": true,
+      "view_count": 428001,
+      "protected_date": 1361811173,
+      "accepted_answer_id": 3339787,
+      "answer_count": 36,
+      "score": 818,
+      "last_activity_date": 1545274025,
+      "creation_date": 1280187011,
+      "last_edit_date": 1438954942,
+      "question_id": 3339722,
+      "link": "https://stackoverflow.com/questions/3339722/how-to-check-ios-version",
+      "title": "How to check iOS version?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "random"
+      ],
+      "owner": {
+        "reputation": 25716,
+        "user_id": 6044,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/cab4c965c9516f58107100fff5891e19?s=128&d=identicon&r=PG",
+        "display_name": "rustyshelf",
+        "link": "https://stackoverflow.com/users/6044/rustyshelf"
+      },
+      "is_answered": true,
+      "view_count": 440977,
+      "protected_date": 1307466789,
+      "accepted_answer_id": 163178,
+      "answer_count": 13,
+      "score": 728,
+      "last_activity_date": 1548441110,
+      "creation_date": 1222922121,
+      "last_edit_date": 1445878348,
+      "question_id": 160890,
+      "link": "https://stackoverflow.com/questions/160890/generating-random-numbers-in-objective-c",
+      "title": "Generating random numbers in Objective-C"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "cocoa",
+        "callback",
+        "delegates"
+      ],
+      "owner": {
+        "reputation": 7359,
+        "user_id": 62009,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/9fea84b67a8385544f48c1504b1e1c43?s=128&d=identicon&r=PG",
+        "display_name": "Andy Jacobs",
+        "link": "https://stackoverflow.com/users/62009/andy-jacobs"
+      },
+      "is_answered": true,
+      "view_count": 339038,
+      "protected_date": 1378338510,
+      "accepted_answer_id": 626946,
+      "answer_count": 19,
+      "score": 726,
+      "last_activity_date": 1522008167,
+      "creation_date": 1236614774,
+      "last_edit_date": 1494609159,
+      "question_id": 626898,
+      "link": "https://stackoverflow.com/questions/626898/how-do-i-create-delegates-in-objective-c",
+      "title": "How do I create delegates in Objective-C?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "grand-central-dispatch",
+        "objective-c-blocks"
+      ],
+      "owner": {
+        "reputation": 3726,
+        "user_id": 501644,
+        "user_type": "unregistered",
+        "accept_rate": 0,
+        "profile_image": "https://www.gravatar.com/avatar/f4be3a7448b540984d41edd5c2914f7f?s=128&d=identicon&r=PG",
+        "display_name": "Egil",
+        "link": "https://stackoverflow.com/users/501644/egil"
+      },
+      "is_answered": true,
+      "view_count": 323299,
+      "answer_count": 18,
+      "score": 718,
+      "last_activity_date": 1556173070,
+      "creation_date": 1289340824,
+      "last_edit_date": 1509945230,
+      "question_id": 4139219,
+      "link": "https://stackoverflow.com/questions/4139219/how-do-you-trigger-a-block-after-a-delay-like-performselectorwithobjectafter",
+      "title": "How do you trigger a block after a delay, like -performSelector:withObject:afterDelay:?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa",
+        "cocoa-touch"
+      ],
+      "owner": {
+        "reputation": 18570,
+        "user_id": 40882,
+        "user_type": "registered",
+        "accept_rate": 59,
+        "profile_image": "https://www.gravatar.com/avatar/53eea24da205bc1e17fe4010f365d842?s=128&d=identicon&r=PG",
+        "display_name": "Coocoo4Cocoa",
+        "link": "https://stackoverflow.com/users/40882/coocoo4cocoa"
+      },
+      "is_answered": true,
+      "view_count": 167340,
+      "protected_date": 1469825232,
+      "accepted_answer_id": 322627,
+      "answer_count": 16,
+      "score": 704,
+      "last_activity_date": 1520520246,
+      "creation_date": 1227745217,
+      "last_edit_date": 1415711474,
+      "question_id": 322597,
+      "link": "https://stackoverflow.com/questions/322597/class-vs-import",
+      "title": "@class vs. #import"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "cocoa-touch",
+        "uitextview",
+        "placeholder"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "user142019"
+      },
+      "is_answered": true,
+      "view_count": 349583,
+      "protected_date": 1360312982,
+      "accepted_answer_id": 1704469,
+      "answer_count": 60,
+      "community_owned_date": 1394556556,
+      "score": 702,
+      "last_activity_date": 1556465777,
+      "creation_date": 1251210382,
+      "last_edit_date": 1540650331,
+      "question_id": 1328638,
+      "link": "https://stackoverflow.com/questions/1328638/placeholder-in-uitextview",
+      "title": "Placeholder in UITextView"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "app-store"
+      ],
+      "owner": {
+        "reputation": 1387,
+        "user_id": 53997,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/e020678198977438b18dd7d4d994593f?s=128&d=identicon&r=PG",
+        "display_name": "matt",
+        "link": "https://stackoverflow.com/users/53997/matt"
+      },
+      "is_answered": true,
+      "view_count": 647598,
+      "protected_date": 1329735838,
+      "accepted_answer_id": 2337601,
+      "answer_count": 22,
+      "community_owned_date": 1231714116,
+      "score": 671,
+      "last_activity_date": 1560846347,
+      "creation_date": 1231714116,
+      "last_edit_date": 1458721376,
+      "question_id": 433907,
+      "link": "https://stackoverflow.com/questions/433907/how-to-link-to-apps-on-the-app-store",
+      "title": "How to link to apps on the app store"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "swift",
+        "uitableview",
+        "ios8"
+      ],
+      "owner": {
+        "reputation": 6062,
+        "user_id": 3570727,
+        "user_type": "registered",
+        "accept_rate": 45,
+        "profile_image": "https://www.gravatar.com/avatar/8e4575a3bc0406c43a79b40ca865525b?s=128&d=identicon&r=PG&f=1",
+        "display_name": "user3570727",
+        "link": "https://stackoverflow.com/users/3570727/user3570727"
+      },
+      "is_answered": true,
+      "view_count": 179212,
+      "accepted_answer_id": 25877725,
+      "answer_count": 43,
+      "score": 655,
+      "last_activity_date": 1550617447,
+      "creation_date": 1410365138,
+      "last_edit_date": 1495735922,
+      "question_id": 25770119,
+      "link": "https://stackoverflow.com/questions/25770119/ios-8-uitableview-separator-inset-0-not-working",
+      "title": "iOS 8 UITableView separator inset 0 not working"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "nsstring"
+      ],
+      "owner": {
+        "reputation": 8871,
+        "user_id": 30099,
+        "user_type": "registered",
+        "accept_rate": 99,
+        "profile_image": "https://www.gravatar.com/avatar/539fef7a0aa086c2299fc06ae5e3e5f3?s=128&d=identicon&r=PG",
+        "display_name": "Jamey McElveen",
+        "link": "https://stackoverflow.com/users/30099/jamey-mcelveen"
+      },
+      "is_answered": true,
+      "view_count": 259987,
+      "protected_date": 1418774669,
+      "accepted_answer_id": 899214,
+      "answer_count": 30,
+      "score": 635,
+      "last_activity_date": 1556165565,
+      "creation_date": 1243015968,
+      "last_edit_date": 1556165565,
+      "question_id": 899209,
+      "link": "https://stackoverflow.com/questions/899209/how-do-i-test-if-a-string-is-empty-in-objective-c",
+      "title": "How do I test if a string is empty in Objective-C?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "ios8",
+        "location",
+        "cllocationmanager"
+      ],
+      "owner": {
+        "reputation": 14082,
+        "user_id": 1527374,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://i.stack.imgur.com/PQJ1K.jpg?s=128&g=1",
+        "display_name": "&#246;zg",
+        "link": "https://stackoverflow.com/users/1527374/%c3%b6zg"
+      },
+      "is_answered": true,
+      "view_count": 268739,
+      "protected_date": 1430230440,
+      "accepted_answer_id": 24063578,
+      "answer_count": 26,
+      "score": 605,
+      "last_activity_date": 1526546594,
+      "creation_date": 1401977526,
+      "last_edit_date": 1508826599,
+      "question_id": 24062509,
+      "link": "https://stackoverflow.com/questions/24062509/location-services-not-working-in-ios-8",
+      "title": "Location Services not working in iOS 8"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "nsnotificationcenter"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "Cathy"
+      },
+      "is_answered": true,
+      "view_count": 376344,
+      "protected_date": 1418774808,
+      "accepted_answer_id": 2191802,
+      "answer_count": 5,
+      "score": 592,
+      "last_activity_date": 1553292477,
+      "creation_date": 1265197667,
+      "last_edit_date": 1467999912,
+      "question_id": 2191594,
+      "link": "https://stackoverflow.com/questions/2191594/send-and-receive-messages-through-nsnotificationcenter-in-objective-c",
+      "title": "Send and receive messages through NSNotificationCenter in Objective-C?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "nsstring",
+        "nsnumber",
+        "primitive-types"
+      ],
+      "owner": {
+        "reputation": 7717,
+        "user_id": 90745,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/2ca2634734b664e73a295516e1c82a7d?s=128&d=identicon&r=PG",
+        "display_name": "Enyra",
+        "link": "https://stackoverflow.com/users/90745/enyra"
+      },
+      "is_answered": true,
+      "view_count": 404120,
+      "protected_date": 1450886349,
+      "accepted_answer_id": 1448875,
+      "answer_count": 18,
+      "score": 563,
+      "last_activity_date": 1518119397,
+      "creation_date": 1253375309,
+      "last_edit_date": 1351804319,
+      "question_id": 1448804,
+      "link": "https://stackoverflow.com/questions/1448804/how-to-convert-an-nsstring-into-an-nsnumber",
+      "title": "How to convert an NSString into an NSNumber"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "cocoa",
+        "cocoa-touch"
+      ],
+      "owner": {
+        "reputation": 9803,
+        "user_id": 8203,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/c49e4bf09aebb6e7ef84ef648ad14954?s=128&d=identicon&r=PG",
+        "display_name": "Martin08",
+        "link": "https://stackoverflow.com/users/8203/martin08"
+      },
+      "is_answered": true,
+      "view_count": 139007,
+      "protected_date": 1385074173,
+      "accepted_answer_id": 473764,
+      "answer_count": 10,
+      "score": 552,
+      "last_activity_date": 1560072615,
+      "creation_date": 1232731364,
+      "last_edit_date": 1472581495,
+      "question_id": 473758,
+      "link": "https://stackoverflow.com/questions/473758/what-does-the-ns-prefix-mean",
+      "title": "What does the NS prefix mean?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "uitableview",
+        "cocoa-touch",
+        "uikit"
+      ],
+      "owner": {
+        "reputation": 9694,
+        "user_id": 351126,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/c076479d62170a7428cc6834d9a4682c?s=128&d=identicon&r=PG",
+        "display_name": "TheLearner",
+        "link": "https://stackoverflow.com/users/351126/thelearner"
+      },
+      "is_answered": true,
+      "view_count": 253370,
+      "protected_date": 1418774901,
+      "accepted_answer_id": 3309737,
+      "answer_count": 17,
+      "score": 550,
+      "last_activity_date": 1523877483,
+      "creation_date": 1279806370,
+      "last_edit_date": 1494553732,
+      "question_id": 3309484,
+      "link": "https://stackoverflow.com/questions/3309484/uitableviewcell-show-delete-button-on-swipe",
+      "title": "UITableViewCell, show delete button on swipe"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa",
+        "cocoa-touch",
+        "synthesize"
+      ],
+      "owner": {
+        "reputation": 4485,
+        "user_id": 117540,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/32d8a9474637ffc0cf559371edad8ae5?s=128&d=identicon&r=PG",
+        "display_name": "nico",
+        "link": "https://stackoverflow.com/users/117540/nico"
+      },
+      "is_answered": true,
+      "view_count": 149488,
+      "accepted_answer_id": 1160545,
+      "answer_count": 8,
+      "score": 548,
+      "last_activity_date": 1495039974,
+      "creation_date": 1248196374,
+      "last_edit_date": 1495039974,
+      "question_id": 1160498,
+      "link": "https://stackoverflow.com/questions/1160498/synthesize-vs-dynamic-what-are-the-differences",
+      "title": "@synthesize vs @dynamic, what are the differences?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c"
+      ],
+      "owner": {
+        "reputation": 25381,
+        "user_id": 95267,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/b7ff00aa80a34e87a3b587c620d85d64?s=128&d=identicon&r=PG",
+        "display_name": "James Skidmore",
+        "link": "https://stackoverflow.com/users/95267/james-skidmore"
+      },
+      "is_answered": true,
+      "view_count": 235502,
+      "protected_date": 1418774724,
+      "accepted_answer_id": 1144664,
+      "answer_count": 6,
+      "score": 540,
+      "last_activity_date": 1473886703,
+      "creation_date": 1247851174,
+      "last_edit_date": 1377022111,
+      "question_id": 1144629,
+      "link": "https://stackoverflow.com/questions/1144629/in-objective-c-how-do-i-test-the-object-type",
+      "title": "In Objective-C, how do I test the object type?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "uibutton",
+        "programmatically-created"
+      ],
+      "owner": {
+        "reputation": 6540,
+        "user_id": 130278,
+        "user_type": "registered",
+        "accept_rate": 53,
+        "profile_image": "https://www.gravatar.com/avatar/735eb7b4dda26bb7aa6b1bfb71593a78?s=128&d=identicon&r=PG",
+        "display_name": "domlao",
+        "link": "https://stackoverflow.com/users/130278/domlao"
+      },
+      "is_answered": true,
+      "view_count": 529874,
+      "protected_date": 1443212145,
+      "accepted_answer_id": 1378787,
+      "answer_count": 34,
+      "score": 538,
+      "last_activity_date": 1560338808,
+      "creation_date": 1252064677,
+      "last_edit_date": 1509944432,
+      "question_id": 1378765,
+      "link": "https://stackoverflow.com/questions/1378765/how-do-i-create-a-basic-uibutton-programmatically",
+      "title": "How do I create a basic UIButton programmatically?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "cocoa-touch",
+        "interface-builder",
+        "automatic-ref-counting"
+      ],
+      "owner": {
+        "reputation": 12028,
+        "user_id": 713558,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/3d0e3d317e4a31129c503a96d5e8cfd1?s=128&d=identicon&r=PG",
+        "display_name": "hypercrypt",
+        "link": "https://stackoverflow.com/users/713558/hypercrypt"
+      },
+      "is_answered": true,
+      "view_count": 114586,
+      "accepted_answer_id": 31395938,
+      "answer_count": 11,
+      "score": 535,
+      "last_activity_date": 1543010396,
+      "creation_date": 1317923795,
+      "last_edit_date": 1440747497,
+      "question_id": 7678469,
+      "link": "https://stackoverflow.com/questions/7678469/should-iboutlets-be-strong-or-weak-under-arc",
+      "title": "Should IBOutlets be strong or weak under ARC?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "swift",
+        "event-handling",
+        "uitextfielddelegate"
+      ],
+      "owner": {
+        "reputation": 10279,
+        "user_id": 312627,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/2a57aa997ab70d2d1288697fc497722d?s=128&d=identicon&r=PG&f=1",
+        "display_name": "karim",
+        "link": "https://stackoverflow.com/users/312627/karim"
+      },
+      "is_answered": true,
+      "view_count": 317391,
+      "accepted_answer_id": 7010676,
+      "answer_count": 19,
+      "score": 531,
+      "last_activity_date": 1553696743,
+      "creation_date": 1312978181,
+      "last_edit_date": 1473225966,
+      "question_id": 7010547,
+      "link": "https://stackoverflow.com/questions/7010547/uitextfield-text-change-event",
+      "title": "UITextField text change event"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "cocoa-touch",
+        "sms"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "Marco"
+      },
+      "is_answered": true,
+      "view_count": 283385,
+      "protected_date": 1288178952,
+      "answer_count": 18,
+      "score": 513,
+      "last_activity_date": 1559887744,
+      "creation_date": 1218707466,
+      "last_edit_date": 1450354135,
+      "question_id": 10848,
+      "link": "https://stackoverflow.com/questions/10848/how-to-programmatically-send-sms-on-the-iphone",
+      "title": "How to programmatically send SMS on the iPhone?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "abstract-class"
+      ],
+      "owner": {
+        "reputation": 6785,
+        "user_id": 105382,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/320bbd722728361d18f13ef32297ecd2?s=128&d=identicon&r=PG",
+        "display_name": "Jonathan Arbogast",
+        "link": "https://stackoverflow.com/users/105382/jonathan-arbogast"
+      },
+      "is_answered": true,
+      "view_count": 158664,
+      "accepted_answer_id": 1034464,
+      "answer_count": 21,
+      "score": 499,
+      "last_activity_date": 1490469664,
+      "creation_date": 1245782545,
+      "last_edit_date": 1477740529,
+      "question_id": 1034373,
+      "link": "https://stackoverflow.com/questions/1034373/creating-an-abstract-class-in-objective-c",
+      "title": "Creating an abstract class in Objective-C"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone"
+      ],
+      "owner": {
+        "reputation": 3022,
+        "user_id": 154203,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/7f76ca888b5cbbb7206380b3542b1c33?s=128&d=identicon&r=PG",
+        "display_name": "phx",
+        "link": "https://stackoverflow.com/users/154203/phx"
+      },
+      "is_answered": true,
+      "view_count": 195418,
+      "protected_date": 1418775363,
+      "accepted_answer_id": 1351090,
+      "answer_count": 34,
+      "score": 476,
+      "last_activity_date": 1526499060,
+      "creation_date": 1251473680,
+      "last_edit_date": 1525186681,
+      "question_id": 1347779,
+      "link": "https://stackoverflow.com/questions/1347779/how-to-navigate-through-textfields-next-done-buttons",
+      "title": "How to navigate through textfields (Next / Done Buttons)"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "cocoa-touch",
+        "uitextfield"
+      ],
+      "owner": {
+        "reputation": 4343,
+        "user_id": 53677,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/c5be41d746a8c3781c8b797ce9692f3a?s=128&d=identicon&r=PG",
+        "display_name": "Domness",
+        "link": "https://stackoverflow.com/users/53677/domness"
+      },
+      "is_answered": true,
+      "view_count": 268467,
+      "protected_date": 1418775258,
+      "accepted_answer_id": 1773257,
+      "answer_count": 44,
+      "score": 461,
+      "last_activity_date": 1560761167,
+      "creation_date": 1231697291,
+      "last_edit_date": 1416851533,
+      "question_id": 433337,
+      "link": "https://stackoverflow.com/questions/433337/set-the-maximum-character-length-of-a-uitextfield",
+      "title": "Set the maximum character length of a UITextField"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "xcode",
+        "xcode4",
+        "nszombie"
+      ],
+      "owner": {
+        "reputation": 22762,
+        "user_id": 238030,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/2ea886ac15cf43b444911e4ac31d4a4a?s=128&d=identicon&r=PG",
+        "display_name": "Chetan",
+        "link": "https://stackoverflow.com/users/238030/chetan"
+      },
+      "is_answered": true,
+      "view_count": 105578,
+      "accepted_answer_id": 4917557,
+      "answer_count": 7,
+      "score": 456,
+      "last_activity_date": 1547736441,
+      "creation_date": 1265180462,
+      "last_edit_date": 1344758818,
+      "question_id": 2190227,
+      "link": "https://stackoverflow.com/questions/2190227/how-do-i-set-up-nszombieenabled-in-xcode-4",
+      "title": "How do I set up NSZombieEnabled in Xcode 4?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "foundation"
+      ],
+      "owner": {
+        "reputation": 19790,
+        "user_id": 268733,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/38e6ba94ef76fd1a1213ab4e212df097?s=128&d=identicon&r=PG",
+        "display_name": "dontWatchMyProfile",
+        "link": "https://stackoverflow.com/users/268733/dontwatchmyprofile"
+      },
+      "is_answered": true,
+      "view_count": 234527,
+      "accepted_answer_id": 2784661,
+      "answer_count": 15,
+      "score": 452,
+      "last_activity_date": 1550076556,
+      "creation_date": 1273181272,
+      "last_edit_date": 1472588248,
+      "question_id": 2784648,
+      "link": "https://stackoverflow.com/questions/2784648/how-to-check-if-an-nsdictionary-or-nsmutabledictionary-contains-a-key",
+      "title": "How to check if an NSDictionary or NSMutableDictionary contains a key?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "uibutton"
+      ],
+      "owner": {
+        "reputation": 4309,
+        "user_id": 249634,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://www.gravatar.com/avatar/f6afa3c116aa3a9e699a881ab09a7906?s=128&d=identicon&r=PG",
+        "display_name": "Madan Mohan",
+        "link": "https://stackoverflow.com/users/249634/madan-mohan"
+      },
+      "is_answered": true,
+      "view_count": 194281,
+      "protected_date": 1412796742,
+      "accepted_answer_id": 2765158,
+      "answer_count": 12,
+      "score": 447,
+      "last_activity_date": 1560867291,
+      "creation_date": 1272974179,
+      "last_edit_date": 1516692722,
+      "question_id": 2765024,
+      "link": "https://stackoverflow.com/questions/2765024/how-to-set-the-title-of-uibutton-as-left-alignment",
+      "title": "How to set the title of UIButton as left alignment?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "nsstring",
+        "string-literals"
+      ],
+      "owner": {
+        "reputation": 28343,
+        "user_id": 77449,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://i.stack.imgur.com/vMM1Z.jpg?s=128&g=1",
+        "display_name": "Ilya Suzdalnitski",
+        "link": "https://stackoverflow.com/users/77449/ilya-suzdalnitski"
+      },
+      "is_answered": true,
+      "view_count": 128876,
+      "accepted_answer_id": 739707,
+      "answer_count": 7,
+      "score": 447,
+      "last_activity_date": 1496853696,
+      "creation_date": 1239435237,
+      "last_edit_date": 1461354959,
+      "question_id": 739682,
+      "link": "https://stackoverflow.com/questions/739682/how-to-add-percent-sign-to-nsstring",
+      "title": "How to add percent sign to NSString"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa",
+        "cocoa-touch",
+        "xcode",
+        "nslog"
+      ],
+      "owner": {
+        "reputation": 23069,
+        "user_id": 100142,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.stack.imgur.com/tqqXC.png?s=128&g=1",
+        "display_name": "rein",
+        "link": "https://stackoverflow.com/users/100142/rein"
+      },
+      "is_answered": true,
+      "view_count": 140369,
+      "accepted_answer_id": 969291,
+      "answer_count": 13,
+      "score": 444,
+      "last_activity_date": 1487010420,
+      "creation_date": 1244540687,
+      "last_edit_date": 1487010420,
+      "question_id": 969130,
+      "link": "https://stackoverflow.com/questions/969130/how-to-print-out-the-method-name-and-line-number-and-conditionally-disable-nslog",
+      "title": "How to print out the method name and line number and conditionally disable NSLog?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "avfoundation"
+      ],
+      "owner": {
+        "reputation": 8842,
+        "user_id": 440168,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://www.gravatar.com/avatar/a5b33ee3aa7798d88427679a16d7ad25?s=128&d=identicon&r=PG",
+        "display_name": "k06a",
+        "link": "https://stackoverflow.com/users/440168/k06a"
+      },
+      "is_answered": true,
+      "view_count": 110931,
+      "protected_date": 1400921826,
+      "closed_date": 1401048112,
+      "answer_count": 0,
+      "score": 440,
+      "locked_date": 1401048119,
+      "last_activity_date": 1400962855,
+      "creation_date": 1400586142,
+      "last_edit_date": 1495540357,
+      "question_id": 23758875,
+      "link": "https://stackoverflow.com/questions/23758875/capture-image-via-capturestillimageasynchronouslyfromconnection-with-no-shutter",
+      "closed_reason": "duplicate",
+      "title": "Capture image via captureStillImageAsynchronouslyFromConnection with no shutter sound"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa",
+        "iteration",
+        "nsarray",
+        "enumeration"
+      ],
+      "owner": {
+        "reputation": 34103,
+        "user_id": 2959,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/1bf77682e06e19438854c1ea3ec5f5fa?s=128&d=identicon&r=PG",
+        "display_name": "Steve McLeod",
+        "link": "https://stackoverflow.com/users/2959/steve-mcleod"
+      },
+      "is_answered": true,
+      "view_count": 327621,
+      "accepted_answer_id": 992913,
+      "answer_count": 8,
+      "score": 439,
+      "last_activity_date": 1549610603,
+      "creation_date": 1244989270,
+      "last_edit_date": 1244997356,
+      "question_id": 992901,
+      "link": "https://stackoverflow.com/questions/992901/how-do-i-iterate-over-an-nsarray",
+      "title": "How do I iterate over an NSArray?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "oop",
+        "methods",
+        "class-method",
+        "instance-methods"
+      ],
+      "owner": {
+        "reputation": 36110,
+        "user_id": 51518,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/eb5a95cb1be342c4089183cd8232a7f2?s=128&d=identicon&r=PG",
+        "display_name": "Devoted",
+        "link": "https://stackoverflow.com/users/51518/devoted"
+      },
+      "is_answered": true,
+      "view_count": 309731,
+      "accepted_answer_id": 1053646,
+      "answer_count": 18,
+      "score": 437,
+      "last_activity_date": 1541658106,
+      "creation_date": 1246135723,
+      "last_edit_date": 1366167010,
+      "question_id": 1053592,
+      "link": "https://stackoverflow.com/questions/1053592/what-is-the-difference-between-class-and-instance-methods",
+      "title": "What is the difference between class and instance methods?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "ios",
+        "objective-c-blocks"
+      ],
+      "owner": {
+        "reputation": 5076,
+        "user_id": 524708,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/d97e051dd0f7dea0093efb600bb35c20?s=128&d=identicon&r=PG",
+        "display_name": "mjisrawi",
+        "link": "https://stackoverflow.com/users/524708/mjisrawi"
+      },
+      "is_answered": true,
+      "view_count": 97335,
+      "protected_date": 1418775631,
+      "accepted_answer_id": 7081005,
+      "answer_count": 8,
+      "score": 427,
+      "last_activity_date": 1562461436,
+      "creation_date": 1313509193,
+      "last_edit_date": 1446540225,
+      "question_id": 7080927,
+      "link": "https://stackoverflow.com/questions/7080927/what-does-the-block-keyword-mean",
+      "title": "What does the &quot;__block&quot; keyword mean?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "import",
+        "ios7"
+      ],
+      "owner": {
+        "reputation": 2328,
+        "user_id": 2800339,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/NhL6V.jpg?s=128&g=1",
+        "display_name": "jamdaddy25",
+        "link": "https://stackoverflow.com/users/2800339/jamdaddy25"
+      },
+      "is_answered": true,
+      "view_count": 121802,
+      "protected_date": 1418775648,
+      "accepted_answer_id": 18947634,
+      "answer_count": 5,
+      "score": 422,
+      "last_activity_date": 1501409696,
+      "creation_date": 1379875665,
+      "last_edit_date": 1501409696,
+      "question_id": 18947516,
+      "link": "https://stackoverflow.com/questions/18947516/import-vs-import-ios-7",
+      "title": "@import vs #import - iOS 7"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "cocoa-touch",
+        "nslocale"
+      ],
+      "owner": {
+        "reputation": 35415,
+        "user_id": 224988,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://i.stack.imgur.com/7XElg.jpg?s=128&g=1",
+        "display_name": "Moshe",
+        "link": "https://stackoverflow.com/users/224988/moshe"
+      },
+      "is_answered": true,
+      "view_count": 221921,
+      "protected_date": 1418775225,
+      "accepted_answer_id": 4221416,
+      "answer_count": 29,
+      "score": 414,
+      "last_activity_date": 1554892267,
+      "creation_date": 1286834288,
+      "last_edit_date": 1482215226,
+      "question_id": 3910244,
+      "link": "https://stackoverflow.com/questions/3910244/getting-current-device-language-in-ios",
+      "title": "Getting current device language in iOS?"
+    },
+    {
+      "tags": [
+        "c",
+        "objective-c",
+        "cocoa",
+        "cocoa-touch"
+      ],
+      "owner": {
+        "reputation": 2989,
+        "user_id": 42523,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/b195da9d009711a5c559fd845fa2d20d?s=128&d=identicon&r=PG",
+        "display_name": "mazniak",
+        "link": "https://stackoverflow.com/users/42523/mazniak"
+      },
+      "is_answered": true,
+      "view_count": 102923,
+      "accepted_answer_id": 550243,
+      "answer_count": 8,
+      "score": 407,
+      "last_activity_date": 1515523251,
+      "creation_date": 1234664910,
+      "question_id": 550195,
+      "link": "https://stackoverflow.com/questions/550195/is-it-possible-to-nslog-c-structs-like-cgrect-or-cgpoint",
+      "title": "Is It Possible to NSLog C Structs (Like CGRect or CGPoint)?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa",
+        "exception-handling"
+      ],
+      "owner": {
+        "reputation": 4830,
+        "user_id": 36182,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/f6d949248e561ad963271c0d6a6545c7?s=128&d=identicon&r=PG",
+        "display_name": "Steph Thirion",
+        "link": "https://stackoverflow.com/users/36182/steph-thirion"
+      },
+      "is_answered": true,
+      "view_count": 130746,
+      "accepted_answer_id": 324301,
+      "answer_count": 13,
+      "score": 407,
+      "last_activity_date": 1527752957,
+      "creation_date": 1227806337,
+      "last_edit_date": 1527752957,
+      "question_id": 324284,
+      "link": "https://stackoverflow.com/questions/324284/throwing-an-exception-in-objective-c-cocoa",
+      "title": "throwing an exception in objective-c/cocoa"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "xcode",
+        "ios6",
+        "static-libraries"
+      ],
+      "owner": {
+        "reputation": 2023,
+        "user_id": 1667961,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/9b6f01e78c17f1f4b033d46ead94eb8d?s=128&d=identicon&r=PG",
+        "display_name": "Dafna Elazazer",
+        "link": "https://stackoverflow.com/users/1667961/dafna-elazazer"
+      },
+      "is_answered": true,
+      "view_count": 160765,
+      "protected_date": 1377687250,
+      "accepted_answer_id": 12402966,
+      "answer_count": 8,
+      "score": 403,
+      "last_activity_date": 1457693383,
+      "creation_date": 1347524138,
+      "last_edit_date": 1361007312,
+      "question_id": 12402092,
+      "link": "https://stackoverflow.com/questions/12402092/file-is-universal-three-slices-but-it-does-not-contain-an-armv7-s-slice-err",
+      "title": "File is universal (three slices), but it does not contain a(n) ARMv7-s slice error for static libraries on iOS, anyway to bypass?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "swift",
+        "ipad",
+        "uinavigationbar"
+      ],
+      "owner": {
+        "reputation": 2400,
+        "user_id": 696449,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/8a8f6c8f0d95042b9e76bfaae9334767?s=128&d=identicon&r=PG",
+        "display_name": "Szymon Kuczur",
+        "link": "https://stackoverflow.com/users/696449/szymon-kuczur"
+      },
+      "is_answered": true,
+      "view_count": 158548,
+      "accepted_answer_id": 19227158,
+      "answer_count": 45,
+      "score": 400,
+      "last_activity_date": 1562835890,
+      "creation_date": 1381154687,
+      "last_edit_date": 1509010262,
+      "question_id": 19226965,
+      "link": "https://stackoverflow.com/questions/19226965/how-to-hide-uinavigationbar-1px-bottom-line",
+      "title": "How to hide UINavigationBar 1px bottom line"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "ios",
+        "c",
+        "floating-point",
+        "floating-accuracy"
+      ],
+      "owner": {
+        "reputation": 18837,
+        "user_id": 472300,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/f0b9c93343813d9bb4edf9bd48e07223?s=128&d=identicon&r=PG",
+        "display_name": "Proud Member",
+        "link": "https://stackoverflow.com/users/472300/proud-member"
+      },
+      "is_answered": true,
+      "view_count": 85257,
+      "protected_date": 1336973970,
+      "accepted_answer_id": 10335601,
+      "answer_count": 10,
+      "score": 380,
+      "last_activity_date": 1552408996,
+      "creation_date": 1335447672,
+      "last_edit_date": 1450354189,
+      "question_id": 10334688,
+      "link": "https://stackoverflow.com/questions/10334688/how-dangerous-is-it-to-compare-floating-point-values",
+      "title": "How dangerous is it to compare floating point values?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c"
+      ],
+      "owner": {
+        "reputation": 3782,
+        "user_id": 814861,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://i.stack.imgur.com/YDsQN.jpg?s=128&g=1",
+        "display_name": "ArtSabintsev",
+        "link": "https://stackoverflow.com/users/814861/artsabintsev"
+      },
+      "is_answered": true,
+      "view_count": 288684,
+      "protected_date": 1418774935,
+      "accepted_answer_id": 7730798,
+      "answer_count": 49,
+      "community_owned_date": 1330036093,
+      "score": 379,
+      "last_activity_date": 1509992978,
+      "creation_date": 1316722911,
+      "last_edit_date": 1435312864,
+      "question_id": 7520971,
+      "link": "https://stackoverflow.com/questions/7520971/applications-are-expected-to-have-a-root-view-controller-at-the-end-of-applicati",
+      "title": "Applications are expected to have a root view controller at the end of application launch"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "import",
+        "include"
+      ],
+      "owner": {
+        "reputation": 9639,
+        "user_id": 7186,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/6dc13683fc2e86fd0645fc33bc14216a?s=128&d=identicon&r=PG",
+        "display_name": "Ryan Guill",
+        "link": "https://stackoverflow.com/users/7186/ryan-guill"
+      },
+      "is_answered": true,
+      "view_count": 125472,
+      "accepted_answer_id": 439691,
+      "answer_count": 9,
+      "score": 377,
+      "last_activity_date": 1466311806,
+      "creation_date": 1231863917,
+      "question_id": 439662,
+      "link": "https://stackoverflow.com/questions/439662/what-is-the-difference-between-import-and-include-in-objective-c",
+      "title": "What is the difference between #import and #include in Objective-C?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa-touch",
+        "sdk"
+      ],
+      "owner": {
+        "reputation": 2777,
+        "user_id": 75377,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/77ee585b53a6e2dde90a498e0c77edee?s=128&d=identicon&r=PG",
+        "display_name": "Seventoes",
+        "link": "https://stackoverflow.com/users/75377/seventoes"
+      },
+      "is_answered": true,
+      "view_count": 200747,
+      "accepted_answer_id": 3705527,
+      "answer_count": 31,
+      "score": 374,
+      "last_activity_date": 1557843937,
+      "creation_date": 1239502769,
+      "last_edit_date": 1438955291,
+      "question_id": 741185,
+      "link": "https://stackoverflow.com/questions/741185/easy-way-to-dismiss-keyboard",
+      "title": "Easy way to dismiss keyboard?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "sorting"
+      ],
+      "owner": {
+        "reputation": 2416,
+        "user_id": 112521,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/040a110acc58f1448b266a2bb7e63126?s=128&d=identicon&r=PG",
+        "display_name": "DotSlashSlash",
+        "link": "https://stackoverflow.com/users/112521/dotslashslash"
+      },
+      "is_answered": true,
+      "view_count": 213106,
+      "accepted_answer_id": 1351193,
+      "answer_count": 7,
+      "score": 373,
+      "last_activity_date": 1531424439,
+      "creation_date": 1251544609,
+      "last_edit_date": 1480506130,
+      "question_id": 1351182,
+      "link": "https://stackoverflow.com/questions/1351182/how-to-sort-a-nsarray-alphabetically",
+      "title": "How to sort a NSArray alphabetically?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa-touch",
+        "cocoa",
+        "nsmutablearray",
+        "nsarray"
+      ],
+      "owner": {
+        "reputation": 2047,
+        "user_id": 127421,
+        "user_type": "registered",
+        "accept_rate": 0,
+        "profile_image": "https://www.gravatar.com/avatar/50ef1c48ff64b33f487c446c7567daab?s=128&d=identicon&r=PG",
+        "display_name": "marcy",
+        "link": "https://stackoverflow.com/users/127421/marcy"
+      },
+      "is_answered": true,
+      "view_count": 189776,
+      "answer_count": 9,
+      "score": 373,
+      "last_activity_date": 1539169354,
+      "creation_date": 1258702977,
+      "last_edit_date": 1367686513,
+      "question_id": 1768937,
+      "link": "https://stackoverflow.com/questions/1768937/how-do-i-convert-nsmutablearray-to-nsarray",
+      "title": "How do I convert NSMutableArray to NSArray?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "objective-c",
+        "keyboard",
+        "uitextview",
+        "iphone-softkeyboard"
+      ],
+      "owner": {
+        "reputation": 9102,
+        "user_id": 67391,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/62413a63fb6b3cdb0a04b40c498ff971?s=128&d=identicon&r=PG",
+        "display_name": "Chilly Zhong",
+        "link": "https://stackoverflow.com/users/67391/chilly-zhong"
+      },
+      "is_answered": true,
+      "view_count": 290749,
+      "accepted_answer_id": 704197,
+      "answer_count": 33,
+      "score": 372,
+      "last_activity_date": 1551090733,
+      "creation_date": 1238550533,
+      "last_edit_date": 1547730324,
+      "question_id": 703754,
+      "link": "https://stackoverflow.com/questions/703754/how-to-dismiss-keyboard-for-uitextview-with-return-key",
+      "title": "How to dismiss keyboard for UITextView with return key?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "compiler-errors",
+        "objective-c-blocks"
+      ],
+      "owner": {
+        "reputation": 3521,
+        "user_id": 575090,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/b4d5b38d8e23d4bea46d9bee0843723b?s=128&d=identicon&r=PG",
+        "display_name": "tommi",
+        "link": "https://stackoverflow.com/users/575090/tommi"
+      },
+      "is_answered": true,
+      "view_count": 136832,
+      "accepted_answer_id": 7962805,
+      "answer_count": 7,
+      "score": 372,
+      "last_activity_date": 1554616706,
+      "creation_date": 1320124616,
+      "last_edit_date": 1450212004,
+      "question_id": 7962721,
+      "link": "https://stackoverflow.com/questions/7962721/assign-a-variable-inside-a-block-to-a-variable-outside-a-block",
+      "title": "Assign a variable inside a Block to a variable outside a Block"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c"
+      ],
+      "owner": {
+        "reputation": 28343,
+        "user_id": 77449,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://i.stack.imgur.com/vMM1Z.jpg?s=128&g=1",
+        "display_name": "Ilya Suzdalnitski",
+        "link": "https://stackoverflow.com/users/77449/ilya-suzdalnitski"
+      },
+      "is_answered": true,
+      "view_count": 208289,
+      "protected_date": 1487663413,
+      "accepted_answer_id": 724966,
+      "answer_count": 32,
+      "score": 366,
+      "last_activity_date": 1556613177,
+      "creation_date": 1239098094,
+      "last_edit_date": 1509944213,
+      "question_id": 724892,
+      "link": "https://stackoverflow.com/questions/724892/uitableview-scroll-to-the-top",
+      "title": "UITableView - scroll to the top"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa-touch",
+        "ios",
+        "uibutton",
+        "font-size"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "syam s"
+      },
+      "is_answered": true,
+      "view_count": 303872,
+      "protected_date": 1418775641,
+      "answer_count": 17,
+      "score": 366,
+      "last_activity_date": 1563339905,
+      "creation_date": 1253703496,
+      "last_edit_date": 1473364316,
+      "question_id": 1465305,
+      "link": "https://stackoverflow.com/questions/1465305/set-uibutton-title-uilabel-font-size-programmatically",
+      "title": "Set UIButton title UILabel font size programmatically"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "ipod-touch"
+      ],
+      "owner": {
+        "reputation": 3430,
+        "user_id": 55580,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://i.stack.imgur.com/V61pe.jpg?s=128&g=1",
+        "display_name": "Rob",
+        "link": "https://stackoverflow.com/users/55580/rob"
+      },
+      "is_answered": true,
+      "view_count": 189490,
+      "protected_date": 1297824325,
+      "accepted_answer_id": 448218,
+      "answer_count": 31,
+      "score": 366,
+      "last_activity_date": 1559082452,
+      "creation_date": 1232048218,
+      "last_edit_date": 1546597137,
+      "question_id": 448162,
+      "link": "https://stackoverflow.com/questions/448162/determine-device-iphone-ipod-touch-with-ios",
+      "title": "Determine device (iPhone, iPod Touch) with iOS"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "core-data"
+      ],
+      "owner": {
+        "reputation": 1828,
+        "user_id": 163924,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/24067f236248e215b102b8add8ff1eb7?s=128&d=identicon&r=PG",
+        "display_name": "Adaromas",
+        "link": "https://stackoverflow.com/users/163924/adaromas"
+      },
+      "is_answered": true,
+      "view_count": 149051,
+      "accepted_answer_id": 1383645,
+      "answer_count": 24,
+      "score": 364,
+      "last_activity_date": 1558604721,
+      "creation_date": 1252164592,
+      "last_edit_date": 1509944467,
+      "question_id": 1383598,
+      "link": "https://stackoverflow.com/questions/1383598/core-data-quickest-way-to-delete-all-instances-of-an-entity",
+      "title": "Core Data: Quickest way to delete all instances of an entity"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "git",
+        "cocoapods"
+      ],
+      "owner": {
+        "reputation": 97259,
+        "user_id": 105570,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/3c9c19ca551799cf691fddaae5056e55?s=128&d=identicon&r=PG",
+        "display_name": "Dan Tao",
+        "link": "https://stackoverflow.com/users/105570/dan-tao"
+      },
+      "is_answered": true,
+      "view_count": 96129,
+      "accepted_answer_id": 9454861,
+      "answer_count": 18,
+      "score": 362,
+      "last_activity_date": 1544225741,
+      "creation_date": 1330193574,
+      "question_id": 9446644,
+      "link": "https://stackoverflow.com/questions/9446644/what-goes-into-your-gitignore-if-youre-using-cocoapods",
+      "title": "What goes into your .gitignore if you&#39;re using CocoaPods?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "xcode",
+        "ipad"
+      ],
+      "owner": {
+        "reputation": 2639,
+        "user_id": 102901,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.stack.imgur.com/hA0w7.jpg?s=128&g=1",
+        "display_name": "Cosmin",
+        "link": "https://stackoverflow.com/users/102901/cosmin"
+      },
+      "is_answered": true,
+      "view_count": 92848,
+      "accepted_answer_id": 32560406,
+      "answer_count": 8,
+      "score": 360,
+      "last_activity_date": 1557386771,
+      "creation_date": 1442217187,
+      "question_id": 32559724,
+      "link": "https://stackoverflow.com/questions/32559724/ipad-multitasking-support-requires-these-orientations",
+      "title": "iPad Multitasking support requires these orientations"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "ios5",
+        "properties",
+        "automatic-ref-counting"
+      ],
+      "owner": {
+        "reputation": 40382,
+        "user_id": 72583,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/16a5eec5eca4550033c0e19dba3b32b8?s=128&d=identicon&r=PG",
+        "display_name": "Jakub Arnold",
+        "link": "https://stackoverflow.com/users/72583/jakub-arnold"
+      },
+      "is_answered": true,
+      "view_count": 189226,
+      "accepted_answer_id": 8928115,
+      "answer_count": 8,
+      "score": 358,
+      "last_activity_date": 1539261415,
+      "creation_date": 1326983265,
+      "last_edit_date": 1459535576,
+      "question_id": 8927727,
+      "link": "https://stackoverflow.com/questions/8927727/objective-c-arc-strong-vs-retain-and-weak-vs-assign",
+      "title": "Objective-C ARC: strong vs retain and weak vs assign"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "graphics",
+        "filtering",
+        "core-image"
+      ],
+      "owner": {
+        "reputation": 1349,
+        "user_id": 2473938,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/80b36eb7be3186823eee0a5e36f2b029?s=128&d=identicon&r=PG",
+        "display_name": "kondratyevdev",
+        "link": "https://stackoverflow.com/users/2473938/kondratyevdev"
+      },
+      "is_answered": true,
+      "view_count": 244961,
+      "accepted_answer_id": 25706250,
+      "answer_count": 24,
+      "score": 355,
+      "last_activity_date": 1562581899,
+      "creation_date": 1370945621,
+      "last_edit_date": 1371111622,
+      "question_id": 17041669,
+      "link": "https://stackoverflow.com/questions/17041669/creating-a-blurring-overlay-view",
+      "title": "Creating a blurring overlay view"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa",
+        "code-completion"
+      ],
+      "owner": {
+        "reputation": 1058,
+        "user_id": 20294,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/bed9b266b2261fdfabab5bcce6e6aa47?s=128&d=identicon&r=PG",
+        "display_name": "Yurii Soldak",
+        "link": "https://stackoverflow.com/users/20294/yurii-soldak"
+      },
+      "is_answered": true,
+      "view_count": 172455,
+      "answer_count": 12,
+      "community_owned_date": 1223238593,
+      "score": 350,
+      "last_activity_date": 1540423939,
+      "creation_date": 1223238593,
+      "last_edit_date": 1457033451,
+      "question_id": 172598,
+      "link": "https://stackoverflow.com/questions/172598/best-way-to-define-private-methods-for-a-class-in-objective-c",
+      "title": "Best way to define private methods for a class in Objective-C"
+    },
+    {
+      "tags": [
+        "iphone",
+        "objective-c",
+        "cocoa",
+        "cocoa-touch",
+        "ios"
+      ],
+      "owner": {
+        "reputation": 3734,
+        "user_id": 21804,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/535a458afd969143ed08a916a805333f?s=128&d=identicon&r=PG",
+        "display_name": "pixel",
+        "link": "https://stackoverflow.com/users/21804/pixel"
+      },
+      "is_answered": true,
+      "view_count": 121497,
+      "closed_date": 1336638526,
+      "accepted_answer_id": 156098,
+      "answer_count": 33,
+      "community_owned_date": 1282904252,
+      "score": 346,
+      "locked_date": 1336644374,
+      "last_activity_date": 1336201311,
+      "creation_date": 1222827222,
+      "last_edit_date": 1322056554,
+      "question_id": 155964,
+      "link": "https://stackoverflow.com/questions/155964/what-are-best-practices-that-you-use-when-writing-objective-c-and-cocoa",
+      "closed_reason": "not constructive",
+      "title": "What are best practices that you use when writing Objective-C and Cocoa?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "objective-c",
+        "ios",
+        "cocoa-touch",
+        "core-graphics"
+      ],
+      "owner": {
+        "reputation": 2657,
+        "user_id": 96455,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/16bbb5898bf208ffef736295fceb7e27?s=128&d=identicon&r=PG",
+        "display_name": "Fraser Speirs",
+        "link": "https://stackoverflow.com/users/96455/fraser-speirs"
+      },
+      "is_answered": true,
+      "view_count": 240428,
+      "protected_date": 1375935152,
+      "accepted_answer_id": 806723,
+      "answer_count": 14,
+      "score": 346,
+      "last_activity_date": 1538557940,
+      "creation_date": 1241078824,
+      "last_edit_date": 1370089061,
+      "question_id": 805872,
+      "link": "https://stackoverflow.com/questions/805872/how-do-i-draw-a-shadow-under-a-uiview",
+      "title": "How do I draw a shadow under a UIView?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "ios",
+        "c",
+        "cocoa-touch",
+        "objective-c-runtime"
+      ],
+      "owner": {
+        "reputation": 22272,
+        "user_id": 103264,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/82e758ccce74a8723ebba3d12c1a59da?s=128&d=identicon&r=PG&f=1",
+        "display_name": "001",
+        "link": "https://stackoverflow.com/users/103264/001"
+      },
+      "is_answered": true,
+      "view_count": 75186,
+      "protected_date": 1418774993,
+      "accepted_answer_id": 10290255,
+      "answer_count": 4,
+      "score": 346,
+      "last_activity_date": 1439810276,
+      "creation_date": 1335224905,
+      "last_edit_date": 1495542379,
+      "question_id": 10289890,
+      "link": "https://stackoverflow.com/questions/10289890/how-to-write-ios-app-purely-in-c",
+      "title": "How to write iOS app purely in C"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa",
+        "nstimer"
+      ],
+      "owner": {
+        "reputation": 2932,
+        "user_id": 158088,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/b1d2bc07a2f5e02463b659224a59c8f8?s=128&d=identicon&r=PG",
+        "display_name": "lab12",
+        "link": "https://stackoverflow.com/users/158088/lab12"
+      },
+      "is_answered": true,
+      "view_count": 506547,
+      "protected_date": 1306335301,
+      "accepted_answer_id": 1449104,
+      "answer_count": 6,
+      "score": 345,
+      "locked_date": 1433269687,
+      "last_activity_date": 1431442954,
+      "creation_date": 1253381137,
+      "last_edit_date": 1383931532,
+      "question_id": 1449035,
+      "link": "https://stackoverflow.com/questions/1449035/how-do-i-use-nstimer",
+      "title": "How do I use NSTimer?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "objective-c",
+        "cocoa-touch",
+        "gesture-recognition",
+        "uigesturerecognizer"
+      ],
+      "owner": {
+        "reputation": 26931,
+        "user_id": 19875,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/dcb55baf9cd5a05c70569122b7184766?s=128&d=identicon&r=PG",
+        "display_name": "Sheehan Alam",
+        "link": "https://stackoverflow.com/users/19875/sheehan-alam"
+      },
+      "is_answered": true,
+      "view_count": 84385,
+      "accepted_answer_id": 3320351,
+      "answer_count": 7,
+      "score": 345,
+      "last_activity_date": 1529010396,
+      "creation_date": 1279898468,
+      "question_id": 3319591,
+      "link": "https://stackoverflow.com/questions/3319591/uilongpressgesturerecognizer-gets-called-twice-when-pressing-down",
+      "title": "UILongPressGestureRecognizer gets called twice when pressing down"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "nsarray"
+      ],
+      "owner": {
+        "reputation": 7359,
+        "user_id": 62009,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/9fea84b67a8385544f48c1504b1e1c43?s=128&d=identicon&r=PG",
+        "display_name": "Andy Jacobs",
+        "link": "https://stackoverflow.com/users/62009/andy-jacobs"
+      },
+      "is_answered": true,
+      "view_count": 136255,
+      "accepted_answer_id": 586483,
+      "answer_count": 18,
+      "score": 342,
+      "last_activity_date": 1531594836,
+      "creation_date": 1235574755,
+      "last_edit_date": 1404152210,
+      "question_id": 586370,
+      "link": "https://stackoverflow.com/questions/586370/how-can-i-reverse-a-nsarray-in-objective-c",
+      "title": "How can I reverse a NSArray in Objective-C?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa",
+        "key-value-coding"
+      ],
+      "owner": {
+        "reputation": 36110,
+        "user_id": 51518,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/eb5a95cb1be342c4089183cd8232a7f2?s=128&d=identicon&r=PG",
+        "display_name": "Devoted",
+        "link": "https://stackoverflow.com/users/51518/devoted"
+      },
+      "is_answered": true,
+      "view_count": 107373,
+      "accepted_answer_id": 1062573,
+      "answer_count": 5,
+      "score": 342,
+      "last_activity_date": 1562228846,
+      "creation_date": 1246346075,
+      "last_edit_date": 1438955217,
+      "question_id": 1062183,
+      "link": "https://stackoverflow.com/questions/1062183/difference-between-objectforkey-and-valueforkey",
+      "title": "Difference between objectForKey and valueForKey?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "uitableview"
+      ],
+      "owner": {
+        "reputation": 5163,
+        "user_id": 1390680,
+        "user_type": "registered",
+        "accept_rate": 48,
+        "profile_image": "https://www.gravatar.com/avatar/c7fd999d8563091f90243d21f8fb9b84?s=128&d=identicon&r=PG",
+        "display_name": "z22",
+        "link": "https://stackoverflow.com/users/1390680/z22"
+      },
+      "is_answered": true,
+      "view_count": 141180,
+      "closed_date": 1465519116,
+      "accepted_answer_id": 14520593,
+      "answer_count": 10,
+      "score": 340,
+      "last_activity_date": 1544549219,
+      "creation_date": 1359110710,
+      "last_edit_date": 1451986015,
+      "question_id": 14520185,
+      "link": "https://stackoverflow.com/questions/14520185/how-to-remove-empty-cells-in-uitableview",
+      "closed_reason": "duplicate",
+      "title": "How to remove empty cells in UITableView?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "xcode",
+        "macos",
+        "cocoa"
+      ],
+      "owner": {
+        "reputation": 9564,
+        "user_id": 23113,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://i.stack.imgur.com/chMQH.png?s=128&g=1",
+        "display_name": "schwa",
+        "link": "https://stackoverflow.com/users/23113/schwa"
+      },
+      "is_answered": true,
+      "view_count": 238044,
+      "answer_count": 89,
+      "community_owned_date": 1231342017,
+      "score": 338,
+      "locked_date": 1317821874,
+      "last_activity_date": 1336324984,
+      "creation_date": 1222622797,
+      "last_edit_date": 1336324984,
+      "question_id": 146297,
+      "link": "https://stackoverflow.com/questions/146297/hidden-features-of-xcode",
+      "title": "Hidden Features of Xcode"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "nsstring",
+        "warnings",
+        "constants"
+      ],
+      "owner": {
+        "reputation": 14277,
+        "user_id": 700663,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/7c7672678c3e0413ccf50327d46dd4f0?s=128&d=identicon&r=PG",
+        "display_name": "user4951",
+        "link": "https://stackoverflow.com/users/700663/user4951"
+      },
+      "is_answered": true,
+      "view_count": 53554,
+      "accepted_answer_id": 6830983,
+      "answer_count": 3,
+      "score": 338,
+      "last_activity_date": 1504119653,
+      "creation_date": 1311677052,
+      "last_edit_date": 1423001560,
+      "question_id": 6828831,
+      "link": "https://stackoverflow.com/questions/6828831/sending-const-nsstring-to-parameter-of-type-nsstring-discards-qualifier",
+      "title": "&quot;sending &#39;const NSString *&#39; to parameter of type &#39;NSString *&#39; discards qualifiers&quot; warning"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa-touch"
+      ],
+      "owner": {
+        "reputation": 14707,
+        "user_id": 1987,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/027b49fc4d8d87c52ab36080d632426e?s=128&d=identicon&r=PG",
+        "display_name": "Ronnie Liew",
+        "link": "https://stackoverflow.com/users/1987/ronnie-liew"
+      },
+      "is_answered": true,
+      "view_count": 327236,
+      "answer_count": 17,
+      "score": 337,
+      "last_activity_date": 1555646599,
+      "creation_date": 1223517519,
+      "last_edit_date": 1438955177,
+      "question_id": 185652,
+      "link": "https://stackoverflow.com/questions/185652/how-to-scale-a-uiimageview-proportionally",
+      "title": "How to scale a UIImageView proportionally?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "types",
+        "nsinteger"
+      ],
+      "owner": {
+        "reputation": 6160,
+        "user_id": 155513,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/fcffd35fc9871689702d85aeb86dacb6?s=128&d=identicon&r=PG",
+        "display_name": "Shizam",
+        "link": "https://stackoverflow.com/users/155513/shizam"
+      },
+      "is_answered": true,
+      "view_count": 125622,
+      "protected_date": 1418775239,
+      "accepted_answer_id": 4445199,
+      "answer_count": 8,
+      "score": 337,
+      "last_activity_date": 1484646261,
+      "creation_date": 1292367836,
+      "last_edit_date": 1401216053,
+      "question_id": 4445173,
+      "link": "https://stackoverflow.com/questions/4445173/when-to-use-nsinteger-vs-int",
+      "title": "When to use NSInteger vs. int"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "singleton",
+        "grand-central-dispatch"
+      ],
+      "owner": {
+        "reputation": 2687,
+        "user_id": 398230,
+        "user_type": "registered",
+        "accept_rate": 47,
+        "profile_image": "https://www.gravatar.com/avatar/286aad049402973eec17404e3ac1b758?s=128&d=identicon&r=PG",
+        "display_name": "Ryan",
+        "link": "https://stackoverflow.com/users/398230/ryan"
+      },
+      "is_answered": true,
+      "view_count": 90988,
+      "protected_date": 1418775032,
+      "accepted_answer_id": 5720147,
+      "answer_count": 9,
+      "score": 337,
+      "last_activity_date": 1561551601,
+      "creation_date": 1303232831,
+      "last_edit_date": 1561551601,
+      "question_id": 5720029,
+      "link": "https://stackoverflow.com/questions/5720029/create-singleton-using-gcds-dispatch-once-in-objective-c",
+      "title": "Create singleton using GCD&#39;s dispatch_once in Objective-C"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "oop"
+      ],
+      "owner": {
+        "reputation": 18206,
+        "user_id": 23973,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/8931135dbb69de98fcd5214461a28d57?s=128&d=identicon&r=PG",
+        "display_name": "willc2",
+        "link": "https://stackoverflow.com/users/23973/willc2"
+      },
+      "is_answered": true,
+      "view_count": 96803,
+      "accepted_answer_id": 719882,
+      "answer_count": 8,
+      "score": 336,
+      "last_activity_date": 1521750940,
+      "creation_date": 1238973966,
+      "last_edit_date": 1399114578,
+      "question_id": 719877,
+      "link": "https://stackoverflow.com/questions/719877/use-of-alloc-init-instead-of-new",
+      "title": "Use of alloc init instead of new"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "design-patterns",
+        "singleton",
+        "object-initializers"
+      ],
+      "owner": {
+        "reputation": 9564,
+        "user_id": 23113,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://i.stack.imgur.com/chMQH.png?s=128&g=1",
+        "display_name": "schwa",
+        "link": "https://stackoverflow.com/users/23113/schwa"
+      },
+      "is_answered": true,
+      "view_count": 182280,
+      "closed_date": 1363258212,
+      "accepted_answer_id": 343191,
+      "answer_count": 26,
+      "score": 334,
+      "locked_date": 1363895577,
+      "last_activity_date": 1363035270,
+      "creation_date": 1222573133,
+      "last_edit_date": 1353690589,
+      "question_id": 145154,
+      "link": "https://stackoverflow.com/questions/145154/what-should-my-objective-c-singleton-look-like",
+      "closed_reason": "not constructive",
+      "title": "What should my Objective-C singleton look like?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "swift",
+        "iphone",
+        "nsurlsession"
+      ],
+      "owner": {
+        "reputation": 2630,
+        "user_id": 2932812,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/707a11274c3595b459fae772017aac5f?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Dicky Tsang",
+        "link": "https://stackoverflow.com/users/2932812/dicky-tsang"
+      },
+      "is_answered": true,
+      "view_count": 330456,
+      "protected_date": 1453047703,
+      "accepted_answer_id": 31738382,
+      "answer_count": 17,
+      "score": 331,
+      "last_activity_date": 1559058545,
+      "creation_date": 1401801152,
+      "last_edit_date": 1559056906,
+      "question_id": 24016142,
+      "link": "https://stackoverflow.com/questions/24016142/how-to-make-an-http-request-in-swift",
+      "title": "How to make an HTTP request in Swift?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "swift",
+        "nsstring",
+        "nsurl"
+      ],
+      "owner": {
+        "reputation": 1807,
+        "user_id": 850350,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/53d2ea470504241104229e8bbc2a4485?s=128&d=identicon&r=PG",
+        "display_name": "Ali",
+        "link": "https://stackoverflow.com/users/850350/ali"
+      },
+      "is_answered": true,
+      "view_count": 205713,
+      "accepted_answer_id": 8082747,
+      "answer_count": 7,
+      "score": 330,
+      "last_activity_date": 1553681254,
+      "creation_date": 1320942051,
+      "last_edit_date": 1458034801,
+      "question_id": 8082719,
+      "link": "https://stackoverflow.com/questions/8082719/convert-an-nsurl-to-an-nsstring",
+      "title": "Convert an NSURL to an NSString"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa",
+        "unit-testing",
+        "xcode"
+      ],
+      "owner": {
+        "reputation": 2541,
+        "user_id": 2339,
+        "user_type": "registered",
+        "accept_rate": 43,
+        "profile_image": "https://www.gravatar.com/avatar/09ed9cce0fba4e50b7f1a9acc1ed13f7?s=128&d=identicon&r=PG",
+        "display_name": "Kim",
+        "link": "https://stackoverflow.com/users/2339/kim"
+      },
+      "is_answered": true,
+      "view_count": 71415,
+      "accepted_answer_id": 33236,
+      "answer_count": 17,
+      "score": 329,
+      "last_activity_date": 1551826009,
+      "creation_date": 1219952490,
+      "last_edit_date": 1540168543,
+      "question_id": 33207,
+      "link": "https://stackoverflow.com/questions/33207/what-is-the-best-way-to-unit-test-objective-c-code",
+      "title": "What is the best way to unit test Objective-C code?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa-touch",
+        "first-responder"
+      ],
+      "owner": {
+        "reputation": 3950,
+        "user_id": 148208,
+        "user_type": "registered",
+        "accept_rate": 74,
+        "profile_image": "https://www.gravatar.com/avatar/aa0490fa29da8a5d40dd219d9f13dccb?s=128&d=identicon&r=PG",
+        "display_name": "Justin Kredible",
+        "link": "https://stackoverflow.com/users/148208/justin-kredible"
+      },
+      "is_answered": true,
+      "view_count": 150488,
+      "accepted_answer_id": 1823360,
+      "answer_count": 27,
+      "score": 328,
+      "last_activity_date": 1558081644,
+      "creation_date": 1259627474,
+      "last_edit_date": 1389565617,
+      "question_id": 1823317,
+      "link": "https://stackoverflow.com/questions/1823317/get-the-current-first-responder-without-using-a-private-api",
+      "title": "Get the current first responder without using a private API"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "json",
+        "string"
+      ],
+      "owner": {
+        "reputation": 1991,
+        "user_id": 639424,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://i.stack.imgur.com/iHdUQ.png?s=128&g=1",
+        "display_name": "ChandraSekhar",
+        "link": "https://stackoverflow.com/users/639424/chandrasekhar"
+      },
+      "is_answered": true,
+      "view_count": 272556,
+      "protected_date": 1441826922,
+      "accepted_answer_id": 20262259,
+      "answer_count": 13,
+      "score": 327,
+      "last_activity_date": 1554616767,
+      "creation_date": 1308211625,
+      "last_edit_date": 1449838695,
+      "question_id": 6368867,
+      "link": "https://stackoverflow.com/questions/6368867/generate-json-string-from-nsdictionary-in-ios",
+      "title": "Generate JSON string from NSDictionary in iOS"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "xcode",
+        "autolayout"
+      ],
+      "owner": {
+        "reputation": 3028,
+        "user_id": 1025041,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/e9f3c2a912b472d855aac40b1a7228b4?s=128&d=identicon&r=PG",
+        "display_name": "chris838",
+        "link": "https://stackoverflow.com/users/1025041/chris838"
+      },
+      "is_answered": true,
+      "view_count": 91466,
+      "protected_date": 1412504451,
+      "accepted_answer_id": 25768875,
+      "answer_count": 7,
+      "score": 327,
+      "last_activity_date": 1555641849,
+      "creation_date": 1410355691,
+      "last_edit_date": 1410367993,
+      "question_id": 25766747,
+      "link": "https://stackoverflow.com/questions/25766747/emulating-aspect-fit-behaviour-using-autolayout-constraints-in-xcode-6",
+      "title": "Emulating aspect-fit behaviour using AutoLayout constraints in Xcode 6"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "cocoa",
+        "cocoa-touch"
+      ],
+      "owner": {
+        "reputation": 22948,
+        "user_id": 2288585,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/10227e415d1c4e4e1cc719c6ccd70934?s=128&d=identicon&r=PG",
+        "display_name": "PlagueHammer",
+        "link": "https://stackoverflow.com/users/2288585/plaguehammer"
+      },
+      "is_answered": true,
+      "view_count": 133621,
+      "accepted_answer_id": 388002,
+      "answer_count": 10,
+      "score": 327,
+      "last_activity_date": 1421514699,
+      "creation_date": 1229997394,
+      "last_edit_date": 1317374713,
+      "question_id": 387959,
+      "link": "https://stackoverflow.com/questions/387959/nsstring-property-copy-or-retain",
+      "title": "NSString property: copy or retain?"
+    },
+    {
+      "tags": [
+        "iphone",
+        "objective-c",
+        "ios",
+        "xcode4.3",
+        "cocoapods"
+      ],
+      "owner": {
+        "reputation": 4834,
+        "user_id": 772481,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://i.stack.imgur.com/Thkmt.jpg?s=128&g=1",
+        "display_name": "angelokh",
+        "link": "https://stackoverflow.com/users/772481/angelokh"
+      },
+      "is_answered": true,
+      "view_count": 152696,
+      "protected_date": 1402044688,
+      "accepted_answer_id": 9988853,
+      "answer_count": 41,
+      "score": 322,
+      "last_activity_date": 1539325065,
+      "creation_date": 1332707943,
+      "last_edit_date": 1357131451,
+      "question_id": 9863836,
+      "link": "https://stackoverflow.com/questions/9863836/library-not-found-for-lpods",
+      "title": "library not found for -lPods"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "deprecated",
+        "ios7"
+      ],
+      "owner": {
+        "reputation": 8459,
+        "user_id": 1026573,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/429c92458c5b4ce8e3528a2fcd2e9103?s=128&d=identicon&r=PG",
+        "display_name": "James Kuang",
+        "link": "https://stackoverflow.com/users/1026573/james-kuang"
+      },
+      "is_answered": true,
+      "view_count": 173019,
+      "protected_date": 1416562603,
+      "accepted_answer_id": 18897897,
+      "answer_count": 20,
+      "score": 319,
+      "last_activity_date": 1556008891,
+      "creation_date": 1379602030,
+      "question_id": 18897896,
+      "link": "https://stackoverflow.com/questions/18897896/replacement-for-deprecated-sizewithfont-in-ios-7",
+      "title": "Replacement for deprecated sizeWithFont: in iOS 7?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "uitableview"
+      ],
+      "owner": {
+        "reputation": 1599,
+        "user_id": 1684516,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/53e3061815155881be1f95babd24a3f9?s=128&d=identicon&r=PG",
+        "display_name": "Nick Scottman",
+        "link": "https://stackoverflow.com/users/1684516/nick-scottman"
+      },
+      "is_answered": true,
+      "view_count": 175797,
+      "protected_date": 1418775782,
+      "accepted_answer_id": 12737966,
+      "answer_count": 21,
+      "score": 317,
+      "last_activity_date": 1562419896,
+      "creation_date": 1349396533,
+      "last_edit_date": 1501963783,
+      "question_id": 12737860,
+      "link": "https://stackoverflow.com/questions/12737860/assertion-failure-in-dequeuereusablecellwithidentifierforindexpath",
+      "title": "Assertion failure in dequeueReusableCellWithIdentifier:forIndexPath:"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "uinavigationcontroller",
+        "uigesturerecognizer",
+        "ios7"
+      ],
+      "owner": {
+        "reputation": 8987,
+        "user_id": 829155,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/5e87d91ba9cbb10dfb80c710c03a31fe?s=128&d=identicon&r=PG",
+        "display_name": "ArtFeel",
+        "link": "https://stackoverflow.com/users/829155/artfeel"
+      },
+      "is_answered": true,
+      "view_count": 131332,
+      "protected_date": 1423323441,
+      "accepted_answer_id": 17213640,
+      "answer_count": 16,
+      "score": 317,
+      "last_activity_date": 1552549899,
+      "creation_date": 1371718905,
+      "last_edit_date": 1454440290,
+      "question_id": 17209468,
+      "link": "https://stackoverflow.com/questions/17209468/how-to-disable-back-swipe-gesture-in-uinavigationcontroller-on-ios-7",
+      "title": "How to disable back swipe gesture in UINavigationController on iOS 7"
+    },
+    {
+      "tags": [
+        "c++",
+        "objective-c",
+        "c",
+        "gcc"
+      ],
+      "owner": {
+        "reputation": 50782,
+        "user_id": 165495,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://graph.facebook.com/219001761/picture?type=large",
+        "display_name": "Casebash",
+        "link": "https://stackoverflow.com/users/165495/casebash"
+      },
+      "is_answered": true,
+      "view_count": 115643,
+      "accepted_answer_id": 2053078,
+      "answer_count": 5,
+      "score": 317,
+      "last_activity_date": 1553353193,
+      "creation_date": 1263336184,
+      "last_edit_date": 1551672416,
+      "question_id": 2053029,
+      "link": "https://stackoverflow.com/questions/2053029/how-exactly-does-attribute-constructor-work",
+      "title": "How exactly does __attribute__((constructor)) work?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "automatic-ref-counting",
+        "objective-c-blocks"
+      ],
+      "owner": {
+        "reputation": 4804,
+        "user_id": 440237,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/9f3c59b80a8829fb0dd3f80b5f3c98f4?s=128&d=identicon&r=PG",
+        "display_name": "gurghet",
+        "link": "https://stackoverflow.com/users/440237/gurghet"
+      },
+      "is_answered": true,
+      "view_count": 111082,
+      "protected_date": 1391045505,
+      "accepted_answer_id": 13033829,
+      "answer_count": 8,
+      "score": 315,
+      "last_activity_date": 1490532635,
+      "creation_date": 1287075334,
+      "last_edit_date": 1451048461,
+      "question_id": 3935574,
+      "link": "https://stackoverflow.com/questions/3935574/can-i-use-objective-c-blocks-as-properties",
+      "title": "Can I use Objective-C blocks as properties?"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "categories",
+        "xcode6"
+      ],
+      "owner": {
+        "reputation": 2020,
+        "user_id": 1216094,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://i.stack.imgur.com/PTA3I.jpg?s=128&g=1",
+        "display_name": "Yalamandarao",
+        "link": "https://stackoverflow.com/users/1216094/yalamandarao"
+      },
+      "is_answered": true,
+      "view_count": 81010,
+      "accepted_answer_id": 25054512,
+      "answer_count": 8,
+      "score": 314,
+      "last_activity_date": 1507715246,
+      "creation_date": 1403256313,
+      "last_edit_date": 1489525125,
+      "question_id": 24324021,
+      "link": "https://stackoverflow.com/questions/24324021/how-do-i-create-a-category-in-xcode-6-or-higher",
+      "title": "How do I create a category in Xcode 6 or higher?"
+    },
+    {
+      "tags": [
+        "objective-c",
+        "ios",
+        "uiview",
+        "frame",
+        "bounds"
+      ],
+      "owner": {
+        "reputation": 25739,
+        "user_id": 231684,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://i.stack.imgur.com/kMeEs.jpg?s=128&g=1",
+        "display_name": "Lorenzo B",
+        "link": "https://stackoverflow.com/users/231684/lorenzo-b"
+      },
+      "is_answered": true,
+      "view_count": 207598,
+      "accepted_answer_id": 11282765,
+      "answer_count": 6,
+      "score": 314,
+      "last_activity_date": 1488025024,
+      "creation_date": 1300528645,
+      "last_edit_date": 1375248471,
+      "question_id": 5361369,
+      "link": "https://stackoverflow.com/questions/5361369/uiview-frame-bounds-and-center",
+      "title": "UIView frame, bounds and center"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "swift"
+      ],
+      "owner": {
+        "reputation": 2333,
+        "user_id": 1028028,
+        "user_type": "registered",
+        "accept_rate": 55,
+        "profile_image": "https://www.gravatar.com/avatar/3a12a0f372f3a05abd36113da76f4895?s=128&d=identicon&r=PG",
+        "display_name": "user1028028",
+        "link": "https://stackoverflow.com/users/1028028/user1028028"
+      },
+      "is_answered": true,
+      "view_count": 145103,
+      "accepted_answer_id": 26252377,
+      "answer_count": 13,
+      "score": 312,
+      "last_activity_date": 1558373460,
+      "creation_date": 1412756415,
+      "last_edit_date": 1546502432,
+      "question_id": 26252233,
+      "link": "https://stackoverflow.com/questions/26252233/global-constants-file-in-swift",
+      "title": "Global constants file in Swift"
+    },
+    {
+      "tags": [
+        "ios",
+        "objective-c",
+        "iphone",
+        "navigation",
+        "uinavigationcontroller"
+      ],
+      "owner": {
+        "reputation": 9102,
+        "user_id": 67391,
+        "user_type": "registered",
+        "accept_rate": 95,
+        "profile_image": "https://www.gravatar.com/avatar/62413a63fb6b3cdb0a04b40c498ff971?s=128&d=identicon&r=PG",
+        "display_name": "Chilly Zhong",
+        "link": "https://stackoverflow.com/users/67391/chilly-zhong"
+      },
+      "is_answered": true,
+      "view_count": 171728,
+      "protected_date": 1399727314,
+      "accepted_answer_id": 791938,
+      "answer_count": 13,
+      "score": 309,
+      "last_activity_date": 1559297511,
+      "creation_date": 1236248123,
+      "last_edit_date": 1557416754,
+      "question_id": 614212,
+      "link": "https://stackoverflow.com/questions/614212/how-to-hide-back-button-on-navigation-bar-on-iphone",
+      "title": "How to hide &#39;Back&#39; button on navigation bar on iPhone?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 261
+}

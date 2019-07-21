@@ -1,0 +1,100 @@
+Why is processing a sorted array faster than processing an unsorted array?
+Why is subtracting these two times (in 1927) giving a strange result?
+Is Java &quot;pass-by-reference&quot; or &quot;pass-by-value&quot;?
+Avoiding != null statements
+How do I read / convert an InputStream into a String in Java?
+Differences between HashMap and Hashtable?
+Why don&#39;t Java&#39;s +=, -=, *=, /= compound assignment operators require casting?
+Proper use cases for Android UserManager.isUserAGoat()?
+Create ArrayList from array
+How do I generate random integers within a specific range in Java?
+Why is char[] preferred over String for passwords?
+Iterate through a HashMap
+How do I efficiently iterate over each entry in a Java Map?
+Creating a memory leak with Java
+What is the difference between public, protected, package-private and private in Java?
+When to use LinkedList over ArrayList in Java?
+How do I convert a String to an int in Java?
+What is a serialVersionUID and why should I use it?
+Why is printing &quot;B&quot; dramatically slower than printing &quot;#&quot;?
+Initialization of an ArrayList in one line
+How do I fix android.os.NetworkOnMainThreadException?
+Does a finally block always get executed in Java?
+How can I create an executable JAR with dependencies using Maven?
+How do I determine whether an array contains a particular value in Java?
+How do I call one constructor from another in Java?
+&quot;implements Runnable&quot; vs &quot;extends Thread&quot; in Java
+What is reflection and why is it useful?
+What&#39;s the difference between @Component, @Repository &amp; @Service annotations in Spring?
+How do I declare and initialize an array in Java?
+How to use java.net.URLConnection to fire and handle HTTP requests
+How do you assert that a certain exception is thrown in JUnit 4 tests?
+How to get an enum value from a string value in Java?
+What&#39;s the simplest way to print a Java array?
+Why does this code using random strings print &quot;hello world&quot;?
+How do I break out of nested loops in Java?
+Java inner class and static nested class
+How to generate a random alpha-numeric string?
+How to avoid Java code in JSP files?
+What is a JavaBean exactly?
+Comparing Java enum members: == or equals()?
+Sort a Map&lt;Key, Value&gt; by values
+How to fix java.lang.UnsupportedClassVersionError: Unsupported major.minor version
+Does Java support default parameter values?
+How to split a string in Java
+Difference between StringBuilder and StringBuffer
+Why use getters and setters/accessors?
+How does the Java &#39;for each&#39; loop work?
+How can I convert a stack trace to a string?
+How do I create a Java string from the contents of a file?
+Fastest way to determine if an integer&#39;s square root is an integer
+Why does Java have transient fields?
+Why is executing Java code in comments with certain Unicode characters allowed?
+How do I create a file and write to it in Java?
+What exactly is Apache Camel?
+How can I concatenate two arrays in Java?
+Is null check needed before calling instanceof?
+&#39;Must Override a Superclass Method&#39; Errors after importing a project into Eclipse
+What does &quot;Could not find or load main class&quot; mean?
+Android SDK installation doesn&#39;t find JDK
+How to round a number to n decimal places in Java
+Iterating through a Collection, avoiding ConcurrentModificationException when removing objects in a loop
+Difference between wait() and sleep()
+How do servlets work? Instantiation, sessions, shared variables and multithreading
+Convert ArrayList&lt;String&gt; to String[] array
+Sort ArrayList of custom Objects by property
+How can I initialise a static Map?
+What are the possible values of the Hibernate hbm2ddl.auto configuration and what do they do
+How to create a generic array in Java?
+Download a file with Android, and showing the progress in a ProgressDialog
+How to add local jar files to a Maven project?
+Why can&#39;t I use switch statement on a String?
+How can I generate an MD5 hash?
+Get current stack trace in Java
+How to parse JSON in Java
+Including all the jars in a directory within the Java classpath
+How can I pad an integer with zeros on the left?
+Converting &#39;ArrayList&lt;String&gt; to &#39;String[]&#39; in Java
+What does &#39;synchronized&#39; mean?
+How to directly initialize a HashMap (in a literal way)?
+Can&#39;t start Eclipse - Java was started but returned exit code=13
+Why doesn&#39;t RecyclerView have onItemClickListener()?
+Getting the Current Working Directory in Java
+Difference between HashMap, LinkedHashMap and TreeMap
+Failed to load the JNI shared Library (JDK)
+Converting array to list in Java
+Static Classes In Java
+Reading a plain text file in Java
+:: (double colon) operator in Java 8
+What is the difference between canonical name, simple name and class name in Java Class?
+Which @NotNull Java annotation should I use?
+StringBuilder vs String concatenation in toString() in Java
+What are the -Xms and -Xmx parameters when starting JVM?
+Java 8 List&lt;V&gt; into Map&lt;K, V&gt;
+Java: when to use static methods
+A &#39;for&#39; loop to iterate over an enum in Java
+When and how should I use a ThreadLocal variable?
+Java string to date conversion
+How to make mock to void methods with Mockito
+What is the difference between JDK and JRE?
+How do I write a correct micro-benchmark in Java?
